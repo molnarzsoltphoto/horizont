@@ -3,7 +3,7 @@ name: Hírek frissítése és közzététele
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7,37 * * * *'
 
 concurrency:
   group: horizont-pages
