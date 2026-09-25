@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-25T08:15:31.520111+00:00",
+  "updated": "2026-09-25T08:30:42.289258+00:00",
   "articles": [
+    {
+      "category": "Külpolitika",
+      "title": "Újabb diplomáciai közeledés jöhet Irán és az Egyesült Államok között",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS20xTGF4cHU4ZmlUZzZLZWp0d0pRSV95dFRqYUZoUU1nYkZyUnVBSklIOGkwNXRrUTV4Z1RoMW9OUG1nZE5iTFd0SXV4endTQmVCTE5ReHk2UFZham56MXM3MTUxWGJ3cWEwTFJzVGFHSTV6VjU5dVRtQW1JeUQ0NGU3X0JFMEtmYWpBaHp1eEQxcGc3RHFPWXZfaGtpeVJsalQzZmhSTUlQaVpl?oc=5",
+      "source": "mfor.hu",
+      "published": "2026-09-25T08:22:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Kapitány István: 1,7 százalékos növekedésben van a magyar gazdaság",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMU9hNEk3dC1sMTMwRENrNlVLMjlYb3BaSHAxYlhxYXU4cF94RXY5Znp5QktrcDNVNFNZOU5RVkNtbGlHeVlyUEFHNUpMb2dXdHI2b21LSy11TlM5S1EyMWh2cFFnQ09MNDZ1SzJpZHFPVEtrY1UwcE45Nk4ybTJSS2tfam1GR09ES0dSTUFMQV9pa1VwU3liMjdaUHBwY2tDWThYcw?oc=5",
+      "source": "Ugytudjuk.hu",
+      "published": "2026-09-25T08:20:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A NASA vezetője szerint Kína kizárhatta volna az USA-t a Hold legértékesebb területeiről, ha ők érnek oda előbb",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOG1JN1BGN2xjSldFVkk3WXZ5YUpNT0pjSThyN1lRUEptc195VEZMRzZoUTF6ZXVVZ3RZelZhYjJxLXR5djc0TG5EaDc1Y3kyMEp5NDZQcHVOYThUaHhobkFMQ2QycmF0R2ZkSERac1lmcjAxT1BaMG9vVG1yaWtrbGVYUVRNSVZKV2REanlZTkZtWkhNUnM4dnpFYTNodndTR2NjOFh5V0ZZRzVBTS1uaHk3elh1TEpERGdwRkFJaFNQdmZVaW04QmhRaEt4QXJtSnc3NlhhRF83dmoycXhVcw?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-09-25T08:18:04+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Csillagászat",
       "title": "A NASA vezetője szerint Kína kizárhatta volna az USA-t a Hold legértékesebb területeiről, ha ők érnek oda előbb",
@@ -16,6 +43,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3RobXlnNDFrSEVGbTdrTFpRWHRwWnl2Zlo2R2tIY3c4emg4elpVLTNsanhfNDNEejM5X2J5SXA1cm1ITVJGVVpnNEp4UDdXbnZWQWQtM0x0X2dlR2U3SW1yZFlNMC1jSnFhYnJCX2t2STJLVnd4dHR6M09DMkxxdkpXQ0JCaUY5RHZz?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-25T08:03:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Maximálják a külföldi diákok arányát az olasz iskolákban",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQandQTzRQTlI0bmFMejZNY3gxVjJzTk5laEROakVpbE03Z05BZ181aHpRTDBlckd2V0tEdGxrSmlhanRxSDRlZ3hqLVJHdG5JS19BV3gxWkh4WDNFSG93bUlYUDBuSzVvajhjbTJKNzNmSmpTQW05b05Da2VKQWZKSUltdVVJalNKZkpLU2VhMUE1d0txZmxLc3drY0w?oc=5",
+      "source": "mfor.hu",
+      "published": "2026-09-25T08:02:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2212,42 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYVBUZmFoUTJ2U18wQ1NZSjZTakxoZTFOSzhfeFpLMjdETXFvVm1RMFV1NGt6ZzZzUEROdGRVN05MeUJiR3VhUzNvcWNIVlc2MEdRZGswT2dDdVNFRHRiZjl5VzVFX2l0WE14ZmVmNkR6S0IzeHFpZDJxOGpFMjlfTDFlWXdGcHdqYi1HOEhKSmlJa3RSSi1uRlBfblJxVGNOalEtUC1mYVRVcnpZemhVX2ZVMFEwbTg3c0R3UGo1RWFwS1plb21FRjBCOUJmVTVPVmdya1R6WnB6aWo5eGfSAd4BQVVfeXFMTmFQVGZhaFEydlNfMENTWUo2U2pMaGUxTks4X3haSzI3RE1xb1ZtUTBVdTRremc2c1BETnRkVTdOTHlCYkd1YVMzb3FjSFZXNjBHUWRrME9nQ3VTRUR0YmY5eVc1RV9pdFhNeGZlZjZEektCM3hxaWQycThqRTI5X0wxZVl3RnB3amItRzhISkppSWt0UkotbkZQX25ScVRjTmpRLVAtZmFUVXJ6WXpoVV9mVTBRMG04N3NEd1BqNUVhcEtaZW9tRUYwQjlCZlU1T1ZncmtUelpwemlqOXhn?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-21T19:57:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "NASA: 2010-ben furcsa változás indult be az Északi-sarkon",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTE3MFJhdGVaVnVoa1p6bUw0UFlSQ3dDdXh2aTBINGVJNldvRGU1N3BZSmYzejNXdjJyeFNWVkFSY3dHU1h1WkxyOEhFcHpNLXV4MFlLc0hueWNLQmVBaDBzZzNSNEZnenZOMmlrUVBXTHNsdHNENnlBM1Jfemd3YmNubTVXdGRBdlViUHFEYVpUZjBLd0tiOA?oc=5",
-      "source": "Hirnavigator",
-      "published": "2026-09-21T19:48:49+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "NASA: 2010-ben furcsa változás indul be az északi-sarkon",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0JsYkpKM09rU19DblowZUdZZ1Z2a2U5OU50SWw3TDd0SXlYTW9OY0dqUERtdGFLby05dHFFNTRvOHNKNnRpVlE3NTR0OWpCUVlhRGY1ZFd2YjI1a0tlS095MXZ1dFQzMXdVckFjRHByOW9WV0xldDdKMmFVbUFOQXJUWHdTQ1A0UXZFaWNsTnU4UkZWRmZN?oc=5",
-      "source": "Hirnavigator",
-      "published": "2026-09-21T19:33:26+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: nem támogatják a legfőbbügyész-jelöltet, nyomoznak az M6-os ügyében",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUVhUEZYMldsYmNUdFExZEFiUWwwMU9qTHRkcl84ek9GTVVXMGRKMFNvZ3FGMlJFaFBBWnl1Z0V2OFZGd3gyQ0UwZ3Bjb1hLZi1LLUtTU3lCR1Q2RlNhaHctMHdsdmhiT2N0TGk4VHdaTzFlaEtKUjlmRGpIV2tVWS1tcEE4VG16NENINElpdTFpYlU0OFo2ZlVkSlR1RHhrbld0Z2ZLNlI5dDB0Tk5Wb1VXTUlzQjhGMS1kWktROC1lUy1KSGppVkFR0gHPAUFVX3lxTE05ZlkwcHBKWXdyRktQLXh1NURHb2p0ZjNESDQxSzBtSmdWUG4yLXNla29PV25PbmUyMHJCSk9DQXdpVTV0SGxGa2Rkb09HZDdfUk1wWWZJNnh6NDB2V2FaVTBQbHduV2RxSUY4Rm41WTRINGJmMzNwMG1JS09YOWNNTmEtaVY1aFc2U2pENGZRd1VvTXN1SE9lUUJmaVJhemRRX1BFcmZCaFUyd3o1S1FiYXFPVHlSa3BDRUloYms2aGdEekMtUDJFd2JpWW5FZw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-21T19:33:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA 5 krátert ütött a Marson, majd valami egészen meglepőt találtak",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGFDYlFOYUEyaWRrYUJqaXFpa2VweVZ0Nkx4dlFidEhYUktRY0ZvZjNQSGFTQVkwZmNKSDQ2ajViN2JlVUxlQ0F0V3Jmb2NLb0h6eVA1Y3AzdmR5YkxSc1Z2WkhmVnAtSTdvSEVidVVXNmJTUVhmTjdwS01qY20wTjhHd3JpVU4zSzdnR2V4M2VZVVdWeVEzSlpTaFRDZGRDNEtUNUdqYVF0Zw?oc=5",
-      "source": "Hirnavigator",
-      "published": "2026-09-21T19:31:59+00:00",
       "summary": "",
       "image": null
     }
