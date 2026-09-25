@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T10:30:49.820845+00:00",
+  "updated": "2026-09-25T10:45:32.315602+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Újabb fejlesztés segíti az autósokat az M7-es autópálya mellett",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY25QMUE0bm0wMk4za05PUW0xczJQM00yNDU3b2RtMmdQUG15NXRKYnNXM3pncGk4a0pGNFJLZ2JUR0VMY195WmpMUk80YVB1SWJNTDZHWEt3eXU1d0FPVmdlaklIOFo1cTNDYnd4X2VhWUkxUHlxUEVXbGFmd05CQXM1bXpJZW1EYWxNSHd4UnhwV3k3TFVld2dn?oc=5",
+      "source": "FEOL",
+      "published": "2026-09-25T10:17:54+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Ráž: Nem drágulnak jövőre az autópálya-matricák",
@@ -808,6 +817,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0hvLVlHWlE2dVZtRTN0Nld3c0oyenQwT0dYUmJPZ2l4QXNKX3Z1RDhyQXFjYUZRRzVINHZ2RmZqWUdrZV9tV1pWUUtWX2YxcWpBN29FZ2V0eWxkV1RjWWtfc2pkS0NQQlJ3U2RpYlJkT2NuTVEtVFFBeU11RlVpMU90WVJfUmxVWGJOUVlXRWNJdDJ1LXQydjA4M2VSNUdXYXhTcDNpTWJjMHM?oc=5",
       "source": "Világgazdaság",
       "published": "2026-09-24T06:03:06+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Halálos vonatbaleset történt Hajdú-Biharban, egy személy életét vesztette",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ1pZRWhNdGQ2Y0VZSVlZX0tvcDdoN0ZuWEJDeGxIN2lRUXR3SGlsLTBBNXZsM2RRYXNMcDVpbl95a2JuNDFSdWJuZzFjaHcwVVAxUGJfanNpbm4zYnpaZlRMOGNoM0RuNXVRc0hLVk8tU3VjaTZZR0lKR1VFRURhV2hmRlM2RUo3RmtYTGhXVlhYQXJlR2ZMRFBR?oc=5",
+      "source": "HAON",
+      "published": "2026-09-24T05:44:46+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGdiclBmX0FDOXQ5aHdXX3J3ZFphYVlIZkVNQ0hjejZVQUlBLWJBdW1KUFNDNkMtSkR4M2d1UlBvVHIxbXNtTEoxcGpjSFUwT0lEQXZhNXR5UE1IQTM4eXZITERZMkxlY2tsd1NFcXNsbUlUdVBBWTRZZV9MeHVPRU9nekQwYjNZbnVadEZLZldFUUZITkhZZ3R4SkQ0ekkyanBHS3RDMEZ4d0dnSi1TX3VDenhKNjNKVHZYTg?oc=5",
       "source": "Eurosport",
       "published": "2026-09-21T23:56:45+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Nürnberg Ice Tigers - Adler Mannheim Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDNHVjEyeE8xbDNMRFlRQ0tQRjhNXzhqeE4wdmRPMTMtVW9CM3JUcjVtTEphaUY3Y3BPeHRCb3RHTE1FRVAyRzRneExpcmpuUDF1TDNELW1QSVozR0FnQTN6SURWbWdwajVfV18xZlh6RUZQcnJ5UWRxX0J1d3Q0M1pLcXdneTF5QmZ3Sk5pNW5xQVdnOG9ibjJ6cm5PLXY2TlNic2hxX3NtNFAtN3M4TUE2cE1mbUxvb0E?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-21T22:03:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Nürnberg Ice Tigers - Adler Mannheim Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUlKSXBuRjJLbDA4OXl6NGtxbXd1alRGNlpHYmlWSDZvRHdTaFBFMU5NV1NGVjkzQjFMNDR2TlhVQmpEckFFZ1AtczY2SFdHa1U5cG4xTTI1Z0xRUUlNTGxCZVFKalBldTROOEhVWFJObWdTd0k3WmNpZUhOS21BMkVGSTU2NDlPOGhQLWxfeHoxYmNsd1JQMWlBWGFDUGJZa3J5aWVOSXZ6bUhsVUNqMDRBZjkzZ09acW51YTFFd0FaQQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-21T21:38:30+00:00",
       "summary": "",
       "image": null
     }
