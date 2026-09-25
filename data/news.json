@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T18:45:30.001992+00:00",
+  "updated": "2026-09-25T19:15:30.485425+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Itt az ősz első teliholdja",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTEdmU09hQmhUSXpzbUh6SmtGZDRJRFdHR2pZeUpCS3I3Nm5oenZxNlFpc0hVeW9EVDRDQ0tMMk1LaDJLY3VFX211aFFXSnB5VWI0YUFnR0RPWUNZMEJmaw?oc=5",
+      "source": "androgeek.hu",
+      "published": "2026-09-25T18:40:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Kihirdették a pekingi és 13 más nagykövet visszarendelését",
@@ -241,6 +250,15 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNay1PaE5zX09RaElRNGhUWDV6WTVDeVZqc2RvU09VU0doV1NQN0lvQzkwVVQ1WC1hb2Qxem50dDNId0hRdnBfNVZVZTV1dlgzQzZCbXpkWUlEZFlidVlYZEZrbF9DYkpycC1hcUNaMTBzYlQtd2dnZFFrdXhDNjRaLVpabmJFZw?oc=5",
       "source": "Helló Magyar",
       "published": "2026-09-25T08:44:17+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "New high-speed rail section to link Xiong'an, Shangqiu",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMTUdleWQxTFMxeUhJeUU4a3AycVNDa0JnT2xDMHZjZUh4b3BldWJ5QmZvUnU3UDNsT1VXVnlwNktBZE9kdi1YMWVlVlVvY0hibWRyallaMlluRXJHSnJycDFxS0xnREpzcHpFSndHU2lPYWxxVmF0TlVNbURKQQ?oc=5",
+      "source": "China Daily",
+      "published": "2026-09-25T08:41:53+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTExFU3I5U3ZNZDFYbkk1SXo3TzlPckhrYlJhdmpmUzJCM0ZacXNsZV9IQllWMHd3Y19Icy1abk9BdzVqNTd1Y2doM3RjbkZpNXBYOWFqY0JPYndMeFNCcWtPWUZReXptX2x1SHAzRzRDWE45NXQ4LWVMbTVEbWc?oc=5",
       "source": "fresnoland.org",
       "published": "2026-09-22T13:53:33+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Milliárdos korrupció miatt kérte Seszták mentelmi jogának felfüggesztését a Legfőbb Ügyészség, Hankót is öt és tíz év közötti tételekkel gyanúsítanák meg",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUdfamo5MnRPTm5fbkxBQmhqZTh3M1BDZU9fQi15Q2VydnVqZ3BwQjlhYWZnSkRPZGwxUnhTOFJ6M3JUT0ZqamJYMEpzdkdYc0pDUlJOajk1TkdxTVpieVpPMEc2SUtVUFFxZUVLN1U2SXRaSGlHYmFMQWpySFNuM21va1pNcV9Ta2NHdXlSMjA4bkhaZzBZQTdSLUp5c1E0RGc0dzYwcmVPX0ZRWGZDWF9RZW5vZFdTYXltMFBEMzF5TmYxdE1lUS1xUTh6d1J3cE5ZM1ZLYVc1MEdGT29mMXFialp4R2Z1?oc=5",
-      "source": "444",
-      "published": "2026-09-22T13:51:56+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "GKI: Olyan a magyar gazdaság, mint egy autó, amelyből fogy az üzemanyag, friss jogsis a sofőr, és morognak az utasok",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5faElkdDN2YXJmX3hUQjUwNkI4a19DZHNIbnBOcWVCdUY4S0xuaEs0eFpSVmN0U0o0UHJueGN3MUtHSkt0WHh2T1ZtOEVkbExwd29sVzBZLTltdzQxZ0l6cmlmOXF6Tm5qaHpYVWlEMXB0Z3Ztb0E?oc=5",
-      "source": "hvg.hu",
-      "published": "2026-09-22T13:51:23+00:00",
       "summary": "",
       "image": null
     }
