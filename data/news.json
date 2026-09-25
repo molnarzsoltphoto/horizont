@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T15:30:43.550757+00:00",
+  "updated": "2026-09-25T15:31:31.625137+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -61,6 +61,15 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcDVmQU9wQXZnM0k0ZE5oOHBTZHJ0cWxvaU43aEw4REVFVkkyQjFBa1Z6dW5iZzB6UEJRSzYxQ1pNWklyRlFIY21UZjRxYmFjaFo0OWdhZTFobHZYQmgxb1V3Ujl4anQ0d1IyUTByeW80VGxPb2dydjJ4STRRU0t4TS1nb0pYT3U3b3JpdHFqd2hhMF83LTJtcE9SNktOQXBISl9MOEdOdlNqdFdxZDNmWGY5V3pGOTlBZFZSeHV5MV9vUHpUMXRETNIBzgFBVV95cUxOSTdISURTWUxBVXJ1dXVqdFV1Vk9GeWNWQkJoc1BBdXhMMU1PWktxRFRqajBJQTlVajVENm5rdkMtdkNud2NiRm8wQlBLMEYtMm1LeVhrQjhEMmpmTUtfZU1WUi1oRnZJRFlNa25rWnY2SzZsQkxmUGJRWmlxbGdFNmdtQ0VBbnpJMVdKWGFxWFlMakNCVVozS2NQUFY5RHVjNElIZ0l6MVM3R1E4TEhCVkdjMl9YQ3BRcG9SdUh5dWFId0pha2NobHhGWmE3QQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-25T11:42:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A NASA újraindította a következő generációs hiperszonikus repülőgépek fejlesztésére irányuló projektjét.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEhlMlZSZ2hteU14a2R6a0VKejhuYjdxSGhuX3dTbjlKVE93dnA3ck56d294ZFBJZnJOSzVFT1l1b2p0RThTRnVxd1g5dGY1M1ZVOHlTRUIwY0tCanBlSjJRZHlZMmRELS13MFZoZXZDOTR1QUpWZzJWMU1SaGVZazlTbFpsX09oQXlRSTNPSU1yWnc?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-09-25T11:40:48+00:00",
       "summary": "",
       "image": null
     },
@@ -2237,15 +2246,6 @@
       "category": "Belpolitika",
       "title": "Tisza-kormány: megalakult a Médiatanács, nem támogatja Baka András legfőbb ügyészi jelöltjét a Tisza-frakció",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbjVCaFZzY1VqVGl2Y3J2RHYwZ1dVM1BILVpOUEI3SlNmSWMwTzhpUGF4NWY5TlYxY0V1MnhfUlR3LVJxbXZFWTJ4bEZ2a0xFUUUwTXVGOXk1YWZ5TTVPS29NV2JoQkFXNFgtNGdOcjFoalBGbE5nRXFEOTVJZm82d3U2RGU2cnRuT180bjVKN2RYSUtzZDBodXlCRE01YTF6Q3ZNallyQ3RxejRMd0k0ZDJ2N2I5aWsya05yeEtFSk52Y0xPZ05MYWw2UHJtdmExSWdoTVE4VFZZMnhBV0VhTDRUNElOOFMtMFNGedIB8gFBVV95cUxPajFFYUE0NkJyR0NRSzlKTE0zYkU2SVpaeEZFekQzcnJxS09QdTV5dWJOaFhMbUNqSlJzcE1wZm1WNmFSVE1tVkY3U0Q5R3B6M1RoMHgyWm50SUJEeV9NdkQtQ3hLMG5ZN1NRM2hrLTdiMU9USHZxd2FNVnZmZ2JEM0FRM01LRER4bXF5Wjhqc3RtbWFvcF90U2VaeTRvM3AtMV8tQlNHaFJET3RFSnoyZHQzZk53MlVMS3YzNEFYLWhFY0pYazFRRlZXQmd2Z2xiX0s0MHVZUHZkN05obktxN05oTU1OWXFMOXZrY1hab3VfZw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-22T09:32:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: megalakult a Médiatanács, nem támogatja Baka András legfőbb ügyészi jelöltjét a Tisza-frakció",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeHJFOWFKa1Q4cmNIOGlibUJtcWRNbWdxWGFMWTdrMG9WZk9aT1hQcUVYX2V0c3hSQkpIa0dKRFc0TDlCUFFDVzJrck5jUHN6VEpWMU8weE5kZXREOGF2MzcwaGJiRFRvSTcxMEs4SVhCeHZEN3E5U2kzVGF3cm52RkR2VklDZ1h0TzZTYjlyQS1lOFRfR1FNOWJRaVRDTEdtMDJNX0l5X0wxTEo1Qlp2T1ZpS0EwMzJQbnVMSDlablZDclY1ZDcxN0RWaGRIVzlZc25wX3RsWHktUzhjcFBudF9SdVU2dFho0gHyAUFVX3lxTE9qMUVhQTQ2QnJHQ1FLOUpMTTNiRTZJWlp4RkV6RDNycnFLT1B1NXl1Yk5oWExtQ2pKUnNwTXBmbVY2YVJUTW1WRjdTRDlHcHozVGgweDJabnRJQkR5X012RC1DeEswblk3U1EzaGstN2IxT1RIdnF3YU1WdmZnYkQzQVEzTUtERHhtcXlaOGpzdG1tYW9wX3RTZVp5NG8zcC0xXy1CU0doUkRPdEVKejJkdDNmTncyVUxLdjM0QVgtaEVjSlhrMVFGVldCZ3ZnbGJfSzQwdVlQdmQ3TmhuS3E3TmhNTU5ZcUw5dmtjWFpvdV9n?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-22T09:32:00+00:00",
       "summary": "",
