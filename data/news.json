@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T04:15:32.292417+00:00",
+  "updated": "2026-09-25T04:30:41.302494+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -538,6 +538,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEE4MHFMbEszN1BtZ0x1V3FFeUR4SzhVdU5rNFAwYWt3YmR5c3VvVUtSMXhRN2RacnVMYkxuOG94bUE4T0h1ZWhmWVB1am9wR0g4azItYndtMm95d0xtVWpNWjhyN1lRa1hqRnNsZnJLX0twYUlscExFVG9Ld0N0NE1aeEotM2xRcHNFT2x2WGV5WHlVbW1jcnNWeExzdjhjQzJN?oc=5",
       "source": "Új Szó",
       "published": "2026-09-24T07:01:55+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "G7: 2028-ig fékezi a magyar gazdaságot az alacsonyabb inflációs cél, de hosszú távon megéri",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFAwNXpIS0hNWU1COXpiTGNBQ1NzQTVBM2dCS2tLMkJ5bkU3SlJXdVN3VmY5UHBFV1BCTnlxUGZ5cjBxVzd3ME1pSUJKdmVWZzNzcVhlMC1ld0VNMzVuNEMtOUZCelU5bUlIWENUelpoajBLM09CazROOXNYZTdsYUtjMTk0RTJJb0hWRzR3?oc=5",
+      "source": "Telex",
+      "published": "2026-09-24T06:33:06+00:00",
       "summary": "",
       "image": null
     },
@@ -1946,6 +1955,15 @@
       "image": null
     },
     {
+      "category": "Nemzetközi vasút",
+      "title": "Major section of California’s $231B High-Speed Rail could shrink to tiny track ending at remote orchard",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2NCeXprQkVmS3ZFNmhodXhfT0I0eXJ6cld3amVTa09HbnQxRWsyd2FaekZxSTZQTE9BSjkwN2N6UWFpblNvX2l3clN1VFdrUTQ2RTF2bFNjVWVrd005ZHEwZ3NlQ0kwWmdXQnJURnVZQlBfMzJjMTRIbmVoajQwM1h1ZHA?oc=5",
+      "source": "AOL.com",
+      "published": "2026-09-21T20:58:18+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Ukrajna keményen odaszólt a Tisza-kormánynak",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2EtN3ZWUDJwSlV2RnBUTC0wdzJOVEpOcS1CRlU5aV9iREJ5MEhYSi1KazBnQkU3TkxxUTFzYTdtYkZfWklFRmFWMlZKSllVbkFKckhlU2NLX0laTk9hMGdQOXlPTUtjbXcyYmhDaGVhR1lfNGNTLTJQTGxIdVVLV1lRdERndl9yd1VSMmZUTEhIaDBMeWhISmFHR1nSAZwBQVVfeXFMUFdhLTd2VlAycEpVdkZwVEwtMHcyTlRKTnEtQkZVOWlfYkRCeTBIWEotSmswZ0JFN05McVExc2E3bWJGX1pJRUZhVjJWSkpZVW5BSnJIZVNjS19JWk5PYTBnUDl5T01LY213MmJoQ2hlYUdZXzRjUy0yUExsSHVVS1dZUXREZ3ZfcndVUjJmVExISGgwTHloSEphR0dZ?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTm5hWXdrRHliMGFmblhaWkpCNE1aQ3BPN2NrSUJULWVJdTVGVlY1MXJqZzV3ejR6N2N1RXFzcGgyaFZSd0VjUjlTdDBrRjIxNFhzWGtUSDIzV3VENzZCa3prTS1XYTl0ZThuaWM3dWdwM2luOVQyQVZBZXZlN2NEQ20zSkZGRjhpblJ0NDVKa19ic0FFcDNvOE5nZ3NRemtaRnhtUV9NYVNONkY2MjhzT1N0cGdYQdIBtgFBVV95cUxPTm5hWXdrRHliMGFmblhaWkpCNE1aQ3BPN2NrSUJULWVJdTVGVlY1MXJqZzV3ejR6N2N1RXFzcGgyaFZSd0VjUjlTdDBrRjIxNFhzWGtUSDIzV3VENzZCa3prTS1XYTl0ZThuaWM3dWdwM2luOVQyQVZBZXZlN2NEQ20zSkZGRjhpblJ0NDVKa19ic0FFcDNvOE5nZ3NRemtaRnhtUV9NYVNONkY2MjhzT1N0cGdYQQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-21T12:56:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Az Autómentes Hétvégén már láthatták, mostantól utazhatnak is vele: forgalomba állt a 42. CAF-villamos",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRjFkU05TVklhZHZKOGVGS1E3MlBSWVJ6QVJSR1I5b1ZNNjhHZXpoR3JfQUxtbEMtcXdkay0tVFNGVU93b25FRWJORExfbUs0QzZmYUN1MXJDZWhRNjRmZ1gzdWFDYTRhbHRZMkVtVGVpZ0xoeGFWM1dibXdYQzZ0bVliQXNMUWFMT254MVBuTTh5aVpiNFJJVVpFQ3VzR240bW43Y3FqSW4zcXg1aUNvdi16NmR5T2dHMktTblhPXzN2Y3RDMkNLQ3pUSHJCMkJZ?oc=5",
-      "source": "BKK.hu",
-      "published": "2026-09-21T12:24:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Először fogott csillagfényt a NASA 4,3 milliárd dolláros új űrtávcsöve",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2lOdEZ4c0tIdnJBdGhTYUVYclJfQ1g1MFk1eGV6WDJRalUzbTVyeEM4TWtiSUVEaXZOckJKTXRjS0dTVkQtMk9NazZEM25PLXl3YV9LLU5zNjNPU25UR1lCY3hPVktINVRvX2llYTJleG5SclZrSnRJbUxsbUhEalU4bzNZNVZvbEdndW9fcVJKNE5Sc2JqVnluZ01PVG5fa2U4d2p5d1VtNjR2VmR1TUtn?oc=5",
-      "source": "PCWPlus.hu",
-      "published": "2026-09-21T12:18:01+00:00",
       "summary": "",
       "image": null
     }
