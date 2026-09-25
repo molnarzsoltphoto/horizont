@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T13:00:56.067338+00:00",
+  "updated": "2026-09-25T13:15:30.471975+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -61,6 +61,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUVPVmVMdTNZSjA4WnE0N0JtbXB5c3M3bjVQSEhSdGdWSE9tSkF5UEkwSHhHU3FBSTZGTDJUdkVITmpJYjB4eUZrblAzNzB1WVM4TG1wZjByWTZBX0tnVkZicjdXVmhucnFPR3ZLUTRXSDhta2VvX25JQURtYmQ3QThPcTBZeGc?oc=5",
       "source": "MÁV-csoport |",
       "published": "2026-09-25T10:42:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Zelenszkij nagy bejelentést tett a háború lezárásáról",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYUlqVWxERk1Edi1PUHU0T3F5OEgzRWxDZjNtaGRlLVd4dTdrWkVab0xQQ2xBVGlUUkFQSFZVblZlVF9lRlk3RURaU0QxSV9FR2dodkV0QVBTZzNqUGc2Y2NQLWdjeExvRnJnOTM0aERzNGdhNFJZdmpUc1dOeTQ2ZnJKcktQX2JiWmh1WjhteEJlNHFkdGxaVA?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-09-25T10:40:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1739,6 +1748,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Hatalmas fejlesztéseket ígért meg Vitézy Dávid: ezeket építené meg 2030-ig",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUG52cEN6NGJRQ0NfSkFjZ0FDekV5SE15a3owNjFtUXoyMkhScHkwdVZKbi1vTVpFVFQxeHdzNTlhdS1kWWM3VE1pdzBldlFJQ0t1SjBqQ09wR0VONWljN2ZVS1Z2YmRuRUE2TGh4TEx6MVcyakhBVmg3R2pLWmdYdDJZVktQRmtwbThzaFB1QTMxUW9tVW02V3pONjZRQXRGUHpOTzBTX2ZZNDdudkVF?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-09-22T17:38:24+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Csak a kormány kevés ahhoz, hogy a magyar gazdaság újra a növekedés útjára lépjen",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0RuRm1RM2p6Yk55a2kxbkI5RkxobGRpZEtvSnE4TlJYVE1CdFVjRnZraVptNFVzd25jMnp5b3VqWE9vZkcxMUk1RjVqRkM1cmFwS0FubUZ2SjA4QmZhUFAwaFpoNEFmUEp0QnU0SnRuSW9NMklpZU0wS0lHdGREYWFlOFNINXZ5V25BNFRHRV9vLWpsVUJoV2EyM2JRNV9fUkFaakg4bTlyQUlRMXZCV2M2VTQxQ1FS?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNU191Mnc2MG5UWG1ickNQbHo4LVNNR1hyVzNkR1BiWGY2OHVvd25LWUlhYzktRkw5WVFNekt2TWpjdFRrUzhBSXlvVWppY1Vndm9uLXFZT1Y4Y0hnSExLNi02d1pCdHhIRGFOS1lUckNWdEs2UFE5RU5jMnRaS3BpUll4aTRvaWJoZlFDOEMyWmR0bnRGbWhrUExENGVuR3BWb3BxdWFTckhMRWx5M3Z0MGJmejRMRi04eFJ4eEhHSl9pY18talhTZnRmU2tiakNBM1FoZ3VjRkNMdzg5aWJjT2UtMU94ZGlfNFZmdWJHWDIxeFJyTkFfVHZDcGFlaU9rODQtT1Nwcy05b3RVS2c?oc=5",
       "source": "facebook.com",
       "published": "2026-09-22T05:23:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Az autópálya koncesszió azért is jogszerűtlen, mert valójában nem egy koncessziós szerződés volt, hanem egy teljes iparág privatizációja: 35 évre előre megszüntették a közbeszerzéseket az autópályák területén, megszűnt a verseny, a pénz átkerült Mész",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYmtuNTg0c3ZOenVDVEpLcExoVzQ4YUhXUnBNWTVwcWZfbUtTS2N1Tjc3ZEpqdmVfeVBNUm9FR2NmOXpmdmNrLVNNalUzdTVoeDVwbGluYlEyWndiVzExWExYcWJaQ2hvZk9FZUdPaVlSMEVSWEdNT2t4N0hvVGFFZnhOQnpzZWtKOVd2NFh0d1lxQXBUS3ZXdHhKRlFKOC0xV250UXZ0bnU4MkViNzltWlNqWDJiNFNlUjBvMENMVWRmMVhuTUtXTy0td3NuUHN1U2FuUEZsRVFnT1FPdzE0a2h3RHQ3Mld6b0h2MkNWUWd3b3dFWVd0dDVEMExFaVJ0dWhjT1JsclNLODBEa3Mw?oc=5",
-      "source": "facebook.com",
-      "published": "2026-09-22T05:20:18+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Kozmikus cápa és Rák-köd: ezek lettek az év asztrofotói",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjJNZHp6QmhkOUNRdlZDMmliXzJqSFpBaUJxN2FmRFhHOWp2blBhcUMzVTZEbTJWMTU5U2lKZ2lwS2U5emFrNW5aVzhPMndIallYczZmd3lQTldKM2c4clpIZTN1TEMyUDV0THM0MDQwMDRoRGx6aVNHamtRNi1jalZ1Y3E?oc=5",
-      "source": "ng.24.hu",
-      "published": "2026-09-22T05:18:19+00:00",
       "summary": "",
       "image": null
     }
