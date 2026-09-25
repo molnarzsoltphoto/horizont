@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T12:15:31.663119+00:00",
+  "updated": "2026-09-25T12:30:43.845624+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Bejelentést tett a magyar kormány: fordulat állt be a magyar-ukrán viszonyban",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3RPblU2LWZ4SXJsMktvMWZLLUFvRUtEX2FhdmF0UUhXMWt2ekR1bUs4Wjlpd2xDVE44azJKeWRDeHhkZzUxVzVKcmdSVUZYMGxQdHZxbWY3Yl9kbWhPSFlnNHlUMnNjLVFNdzJGak9WbkRnTk1CeS0yMjQ0OFFrQTdPWmd5VEcwVGRfX05nWWVzTHgteDFDZTlHMlowUFlnQkZ5Mk14VUtzVmZ3UWhFekdHMEFOOEVpVUpxN3FUaC1BZ9IBxwFBVV95cUxNakxjN09IN1VZdDdJaFFPc2ZwalpmWVdxZEhUZ2JLcDR2YlhkUEpReWVYNmxMNlNOejc5LVJQbDJwMDBuRE5SOUV1TldUdWtZTk9VcGVEeDI2QkQ5UmxvT3I5SGhKQ3RqemNONWNNS3I1M1F0NFFHWUxTMFI3OWlHWDVQd0trN3M2NGtzc3NxTk1hV3JqMGIzamliZ0R3bDVMekdaQi1hX2FjOEMxX1AxcENJQi03S0NDVExTZ1V2SEZkRXVZTTFF?oc=5",
+      "source": "portfolio.hu",
+      "published": "2026-09-25T12:10:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Döntött a közgyűlés: továbbra is a MÁV üzemelteti a szegedi buszokat, és a Somogyi-könyvtár új igazgatóját is megválasztották – Szegedi hírek",
@@ -133,6 +142,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQandQTzRQTlI0bmFMejZNY3gxVjJzTk5laEROakVpbE03Z05BZ181aHpRTDBlckd2V0tEdGxrSmlhanRxSDRlZ3hqLVJHdG5JS19BV3gxWkh4WDNFSG93bUlYUDBuSzVvajhjbTJKNzNmSmpTQW05b05Da2VKQWZKSUltdVVJalNKZkpLU2VhMUE1d0txZmxLc3drY0w?oc=5",
       "source": "mfor.hu",
       "published": "2026-09-25T08:02:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Pogátsa Zoltán: A magyar államadósság kevesebb, mint hisszük, mégis kétszer annyiba kerül",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2l0enVtelFNb1FnX1BRdEtILVhrZ1I5SFd1bDN0U3h5VzNNYmdyc3hrVnRHVmc2YnpfNWhVVm5wSG1YQ2RVMVNLR0Y3bFZYMS1udGQ1dlIxNlFKTllNNzNQLWtVTUcxcGFjSGNhelQwazRkY0J5MHJYdUtLZVBFMWJPRk9RamFBLXRtWmx3RHF2WkJvQnVJbkdUbll5SkJIYTBGU3pmaGt3WjRkRXNuMWxXSXFPWTliQmVHR3Rhbjd1bl9zN3hvOGRR?oc=5",
+      "source": "Economx",
+      "published": "2026-09-25T07:55:00+00:00",
       "summary": "",
       "image": null
     },
@@ -430,6 +448,15 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0akZxRDFCYlRFdjNsWVZVVXhZNkd3WnhqMXE0Y1RGTkRnWmVsX0w1Q0l1UE1xRzI4ZkRVUThvckRFQ01IZWJiR0U3U3ZFbmM4VVlsYURfZjVqUQ?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-24T15:55:11+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Megnövelt kapacitással készül a MÁV-csoport a Börzsöny Ringre",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcG9sOEtLUEtpWVhPZ2tWNGlVVm12eGhMOXpNR3V4czFwX05sVTcxRzh0VjNQWmRucjZnaDNPNEVqM095RklacjJtOHJ0ZEZUOWZlWmlLWkJQcWpvalYzbVRCXzVwX0ZrYVRCcTFiTE42aUQyY0RCV1dTWGJ6X0taSERJbE9RNnc1MXE0YmtVejRuRWNVVmpiYmNEbTc5UVlz?oc=5",
+      "source": "IPOLYINFO",
+      "published": "2026-09-24T15:48:01+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMGtZdnlwZFJ3TXBJVEoxdHRDU2ZRb3ZZa0IxZmNVYm5vV1RJZ3hsaXNuTkd0akdXb2MwWjE5cUMwRlZ4SHdEd1RsMnF4TVFWRVdJdHNlLVJWeEp6R09ia0RiWEpYblRFSTNlR3FNdjRUMTU3SVdabXh1bmxhQ3d2X29JMHRrZDNpN1YtSEplcEpWamZqT181MGIzS0tWTUpkbUpYWkoxWHZjLXBiaGRZamZ0SEFWaTZwV1o3bWFYeTQzNTU4V3AxWTlFdnAtNXBfZ05nTzRFSzRpLTlfeGxtRVd2ajQ0WDh3cUJ4WGpVT3lpanEyOUZwZnJfZFFOZ9IBgwJBVV95cUxNcmxrci00dUhsRDBvYkhiOG80bWp6OGR3dVFjd0l4U1VJVE1XR1A5SjNCblhadzEya0hlbTJqWFJmMzBVcmFwZzJhM3IzS2ZRMy1nXzV1X3RlZkl1dVMwR3RncUVhU1FmQjdKNEdaVFRkUzgtQk0xblQwd3VEaDF4QkEyN0JxMzUxU3RRWnhidlRQMHI1R0FseVhYTHJfRHVMVnM4d09fVDFGSW9FVHcwVklKamxpYUpINUZ6SmRhSVpfOFJ6SndZdWo3UXNWSW9RMzR6UEJtSkxIOV9tV29mUGVaM0lNVWZiOWhpam9EZzdVTUJxMnRmN2ZjVlNvUG9YdEdr?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-22T04:15:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Los Angeles Kings - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0F0Y0JGblNOX3VwTm9TMmFYX09QejliVG95cW81QVUxTWZWbFFxOHRWZlhoeGdoRGVZSkpGcU9mekFFd3d2ai1aa3M4a1JXVmFkalpvOE5MT2kzYlVfb0FkQThkbjZWVXNpQzE3OTFxR2U2alREYXlwZlFMUXNYaFZrdGpFcGtCSEdyR3g5aDFNblpienF2WTM2QlozMThCZmhsM2dLcEZMYm1jSllpejZ0WQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-22T03:35:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Calgary Flames - Vancouver Canucks Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVg5WnBzX1haVmVNUFBFMXRLeWNSaFpTdGdIYzFfNzBvQkcwZnhIeWJsZWJ4TVlDYXBZRG1kVW5CdzBfNmtQOGNwRWxMcFc1Y1BTblBjNVJfS2RQN2ZraU1Xd3pYR1FJeHIwZTU0NTRPaFlKS25vQVAxRkd2em40cGcweVlTYnlRV3B3bFlCbEhoLThWdjV5UWp3ZmNsWkhOeUhIR3dFRFV1ZjR5S3hpNGN0RnA1UQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-22T02:30:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Facing cash crisis, High-Speed Rail wants early access to billions promised by state",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRd0hWNEVJV3BaVDlxOUhnV3FWdGI5VXI0SHlsSVcyY2puLVU0X3NjRFY1Q2NPSEQyYk9SWFVhNFNmZ21XRER6b19Zclhab3RHdmJITUZsZllGeTlPTm9MZ2hyb3ppX2xOMEpXakFjWXgwbkdvZjhMbHJ6MWR1Z1nSAX9BVV95cUxQbHZid2hwYk55elRBMF9EcHpJU2ozZ3FFY2I0Y20xWGRpOVZSSmNkRlBQUkRYTlp0RGhwdHZTTENsNTF0bnRQS3BEUl8xM0tRaEJERzVsaDFqM2hGSnYxR1JyajhDM3IwVGdKaUxRc19Kb1pxSGxTRU95VE80WU40?oc=5",
-      "source": "Fresno Bee",
-      "published": "2026-09-22T01:08:35+00:00",
       "summary": "",
       "image": null
     }
