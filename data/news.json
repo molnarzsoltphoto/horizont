@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:45:33.573928+00:00",
+  "updated": "2026-09-25T08:00:49.469175+00:00",
   "articles": [
     {
       "category": "Külpolitika",
@@ -124,6 +124,15 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXhYc25vUXhhLTRLUWVHM3F5emNKZm1Ua1o2bDZCWEFSaEJpX0tjeWc2c0VFeUI4Qnc4dlpwdWgxZHVLWmFodG9CWC1Uc2t4UW1aYy1OWWdkX2xvRHUxQXBheWtNY3NrTy03eWZGRk5sSEQ3Sm10RmFmNjN1a3hrOWVuUDNWbGZLUFFfaUd4MVBUUlREY2h1aE1vVnAxdTNwX3pfNDdEYVlvTUltc2FkdjEwWTJiaEJoMVBrRzRIRV9ySkhE?oc=5",
       "source": "Eurosport",
       "published": "2026-09-24T23:29:12+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Straubing Tigers - ERC Ingolstadt Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGNHajFmV05xbTlna0N1WVdCQ25YWm1Vc1VBbFJZVmdJUHFDNjRTVjhOLTFxTzhOTXZfWUhMRTFjRE92ZGJXV2lza0tFRnkwVmJ0VVZzRlo3NWpSRENQOWhUc3JOQW5rN3NQeU1Jc1JwZm5rQjNTMG1xclJpa21yeEY1RUNVdlFWNEFqYUZWX1QzT2hPeHJLUUVwWXFTY1lSS09PSFpseDZiSDViU2RmWjVZRnBfWEVCa1pkUA?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-24T23:24:05+00:00",
       "summary": "",
       "image": null
     },
@@ -284,6 +293,15 @@
       "category": "Belpolitika",
       "title": "Tisza-kormány: a pápánál járt Magyar Péter, a bírósági eljárások gyorsításáról egyeztetett a kormány",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTk10WkozejZmT3cwUnFHdlBSMDQ1OTNBY3NfSzVFeWVHRHB3bFluOTNXRktRODE0S0NSd3N5TDc0S0RGNjJoMW1ickdnUVJNRnp2aDBlLWNmdzFEcHVuaWdKOE00ZDhrRE5lVzBsemdvd0hlN1pNM2lzdkd2QTZHUThVZ2pVZ3BfYnRPQTJ5dHlndlU3dkswNzFjcG5fbGd3SXo0SXNMZjBNcjV3bC01all0bTJoOXR0bWhxTWJ6T2h4cUYxWkNJRG96dUVVT28yWnFIOU13MVlGYW9ManExdEZB0gHnAUFVX3lxTFA5N2pZZjNyeUZDNFJDTVg4S3YtemJDNjFSeVV1OVhnNW1FS1c3bUhiNVY0WW1TdmdBaVlSRnJWZUgwWElxd1pXb2NHZHNpNklneklYdkl3d0p4WVE0QUYyTXVXcUpRZGFpQ3AtZS1CTnZGLW1UcEVNQ3FoekRrdFpYVmFRRlFpaVBpdV9JWWVLQXhRcWFXQllKY0Roa0VmQ3poXzFiSlpNcGprc0ZqMm5kMXFuby1KS2VUUlBFV2l6QlB4YlIzZkhyOTdSb2ZpVVZVMkE0c0pLVXppcEZGNl93akJDaU5iZw?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-24T15:42:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: a pápánál járt Magyar Péter, a bírósági eljárások gyorsításáról egyeztetett a kormány",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTk10WkozejZmT3cwUnFHdlBSMDQ1OTNBY3NfSzVFeWVHRHB3bFluOTNXRktRODE0S0NSd3N5TDc0S0RGNjJoMW1ickdnUVJNRnp2aDBlLWNmdzFEcHVuaWdKOE00ZDhrRE5lVzBsemdvd0hlN1pNM2lzdkd2QTZHUThVZ2pVZ3BfYnRPQTJ5dHlndlU3dkswNzFjcG5fbGd3SXo0SXNMZjBNcjV3bC01all0bTJoOXR0bWhxTWJ6T2h4cUYxWkNJRG96dUVVT28yWnFIOU13MVlGYW9ManExdEZB?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-24T15:42:00+00:00",
       "summary": "",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDRRd0w3M2RNdW9VUnNicUt0SkVOQVBNYXFLWEdwLTJaQkNmbFNJSy1lT3U0YzV6S2pCUU5weHJob0NWZ3pwZlhsZk54RmVHZGJJSVQ1ZWxXYk1ReVhvN21Bdmp6Z29XSDR1REp5VVppRkI3WWFud1RVUEp0Mjg3dU5Ddk9MZ0xaQzVXN2Zyd2dwdTFvcjgwdnJLdw?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-21T18:33:36+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Élet a Marson? Meglepő dolog bukkant fel a NASA egyik képén",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWdScjlWWDBVSmxmSVl0NlVtUnVKaGxfSDFPYzl0S3dscWVFSjNpZERKT3dPWmplS3ZnTWNqWHVMcmw1NWY4VWpUZXZkei15UDFtZDh0SmN3bTdZZndGeXpUS2t5ZXlSc2lrTFd2QnJQYWV5VDVWdkJEbEE3X29pTGN0YnJCbkwtVnhLbEwyQ2c?oc=5",
-      "source": "ORIGO",
-      "published": "2026-09-21T18:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Major section of California’s $231B High-Speed Rail could shrink to tiny track ending at remote orchard",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHVjNmpYQUdLQ19vSVJZbWh0MHlSUnRFX0FKRmpYYkpmbUlIVC03T3pQM0p4dGNnV2xCOFh2VE5PX0NhdU5XQk9qZi15ejdkc0dUWlc3ZWdhZjlQZ0NKUEw4UzhIMnlnQXRJRExqcHFhc2VLdlBoQjJicDMwN253T2hnWElnR0xrUUIxMUpfQzRCUWZCRkdjSFdUd2pmRWRHTlBVRmVHRVlFUQ?oc=5",
-      "source": "New York Post",
-      "published": "2026-09-21T18:23:00+00:00",
       "summary": "",
       "image": null
     }
