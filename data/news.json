@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T18:15:29.173640+00:00",
+  "updated": "2026-09-25T18:30:45.794178+00:00",
   "articles": [
     {
       "category": "Külpolitika",
@@ -34,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbG0wVDBXVzFEUXZWV1FlLUY0S3hJZXhYWlhWajF0WENVblk2NTVNRnM1YmRqMzdxWFNCS2E4T2dnQTdvRV83cVZkUzRyclB5QV8ySzNwRzBEV1ZxendHSkYxellDVVFGdTM3Y0pNcGRDODVPUmpHTzk5ODA1bFE5VldDYk1hOHhmWmZHd1drdGVPZGlab2JobnF4enM3bzdYT3R0MmhHT08zU3MwXzV1RGsxZm41ay1yVmNEaGJYYkVTLVk?oc=5",
       "source": "Magyar Hang",
       "published": "2026-09-25T15:45:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tanács Zoltán bejelentette, büntetőfeljelentést tesz a kormány a félkész ingatlan-nyilvántartási rendszer miatt",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNTAxWnlTUmlyUEtaYVZZVTV0QVBWOTNRcVVnU0VuWUhPSkVidEZ6NmtfZXJpQXl1ZUZoWDdIRG5vLXcxYkFhLUppc0JTRXJxY1NaNzltTGtWX1UtVkktcU5UMm1ZTExndGR5M3pDUlpkNFJreElBV1REM3FqY0hzTXFlaU1ya1FySmNjdFY0bFZPRkFRWTQ2Tmw2QW9SVnowaWNkLU5QUFl2SVRhckRHUUliTmFramR3S3pTV3Rhd2tIYy1qZkdjYmNGRlFmeEh5QVIwWkhFRjJKT19WUHlBbHNZYVJvNldwTGpLXzhvalc4QdIB9wFBVV95cUxNdXI5MjZCb1ZrbElOZTVCR2FvVnVQcEJ1WEp3Q21RVmEycnpGZU1uUHBOZ3lsZnk5Zm1YS1p0dTdYTEVLMklpN01aSDQwc1lsN3RVQTlkbWMyUk5RUzhMZVg2UDdxcTdhX1NzT2lWRVpkV0d0R2l5SUJVbU9UWkVKdVBQTUdJcjFIZUs1WmdnN0hqWk91bmdPZDEzZDhoQ0ZhUEhndGt1dXozU2NJdTNjVDRBc0VwZFJtMzJpY0tRSnlydlZ5T1FNa0k1a1BOa1d3ZDluWEVleDVCSkJ5SVozckJhUGd6enpyNzZLNXB6LTlERTNqYktz?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-25T15:03:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2190,6 +2199,15 @@
     },
     {
       "category": "Külpolitika",
+      "title": "Belföld - Kijev nem érti Budapestet, Magyar Péteréknek nincs világos Ukrajna-politikájuk",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGhQclRxRFpfOXhrS0U3aURYR3lwZXNMRnd6anVRcHJOREVldVlzVTlNMi0tODgwTkprcl9WcE4zMHlURTQ1VEpySUJpN3VUZDMxbmxkdVdtNHRWekpUOWNHUjRKZGNLRUlxNGIyTTF6LWFSbXRSV0NjSHRXeTBuWk9lQm9ibktuVUVGRmlDNlpXcTJDZkZhQ0lVeWNYRG9jZVJBWGpoaDFkZlZkanZPS0lkbndSMnhmT3BsamQwcVppUHNU?oc=5",
+      "source": "Index.hu",
+      "published": "2026-09-22T14:04:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
       "title": "A közösségi média lett a külpolitika csatatere",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVltSDE2YWxYSmJuVkNKUkhOOVJnMDVFQU9OaVZaWkFaZUFNVlo4Q2NVdWIzS1BWQjVBbHBwVmthdlJFTW9WbHVXZ3pWNVZVbGdFZTdoek1zVU9RUk1HSjJnUURLZ2w2cTBGMzJBdGlveUFVbHpzOWNORmdrLUNZUjNKckU1NVFIS2xpc0xYMVJqUkk?oc=5",
       "source": "HírTv",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHBkTHZXMGo3MmpZdHdhV05JZEk1ZnRIdzROdmRQc2RrY2w5OHA1MVotWHowTmhHaFd3T1JyVWxRMFpPcER3WDJlN1ZmODFPbWJXWFRlVUdSSE84M2JHYU81QWZZOGVyaWNGaWJONGEycWNSODRGMDFDRzg3SEpqMlZieXZyd0NVNjdYRldDWndVNkZPQ29YVm1wYXgyZW5rYW5ScQ?oc=5",
       "source": "Világgazdaság",
       "published": "2026-09-22T13:34:32+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Újabb forgalmi változásokra kell számítani a Mester utcában",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkhwT1RrVVpvUzlWM0w4NnRYZnpaYUxQd0w0Z29KdnlZRGctdG91MWZOZ2ZBT0pOQ0lma2JxOUJBUFF2YTU2c2wya0NGQXBSX1E3YTU4TFVvd3ZjclBqRGRPVFNzRUpzOW9VVUdZdzBVd3BDdnpPMGZOSlQ5S0t5S1VLT0FsVWlCdm9FbVBTREJtb1F2cTNaTHFlWQ?oc=5",
-      "source": "BKK.hu",
-      "published": "2026-09-22T13:24:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Jöhet a fordulat, amire a fél világ várt: Amerika bejelentést tett Iránnal kapcsolatban",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGZKT3c1dUdQYXFaRUU2TWtHQkhDdTQ2WmdyNHkyYnZ3cmJnck5RM0Z4ZnZWazVuRnlZdm9WUjZMeDJZMUpNSm5tUk5uMGhYclh5SHZYSlE4S1phWTBxLXRuVmdPc09zaWM4NWRmajhWd2tNVHREd3o0V1lSMFhFbzRVSldHbTJiamkwNlFIaEpUOVhlaWdOR243SXlsSnZVQUd4cDdYd05IQ0h6eTJxSlppOElnUG5KRHhPdS1fWERmRlEtSl8yM29oTksybGNRdlRF0gHTAUFVX3lxTE9EZkpPdzV1R1BhcVpFRTZNa0dCSEN1NDZaZ3I0eTJidndyYmdyTlEzRnhmdlZrNW5GeVl2b1ZSNkx4MlkxSk1Kbm1STm4waFhyWHlIdlhKUThLWmFZMHEtdG5WZ09zT3NpYzg1ZGZqOFZ3a01UdER3ejRXWVIwWEVvNFVKV0dtMmJqaTA2UUhoSlQ5WGVpZ05HbjdJeWxKdlVBR3hwN1h3TkhDSHp5MnFKWmk4SWdQbkpEeE91LV9YRGZGUS1KXzIzb2hOSzJsY1F2VEU?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-22T13:24:00+00:00",
       "summary": "",
       "image": null
     }
