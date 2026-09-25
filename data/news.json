@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T08:00:49.469175+00:00",
+  "updated": "2026-09-25T08:15:31.520111+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "A NASA vezetője szerint Kína kizárhatta volna az USA-t a Hold legértékesebb területeiről, ha ők érnek oda előbb",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTWhEU29HS1Y3S1J3aUk4YUZqNng0TjVGMVRDdkd6ZFJST3NsQ0JXdGk0dlpvTVJndnhjQlZjclVyT2lrbllBVXJ3YmllcmtaWEhram9NaTNSUkRNQk50V3FFcGVzWWtDa19fWGlEek5lSHo0MFVHaUxzS1lQb0hOcFpET2hCdUpVNmFuWHF0cVgyN2pyRDl5WnFnMUhMQU1nbVJYc1JsSnVCeHFYLW1lN3NXM3pMbjRsS3d5d0ctVFE4eUJ1MDhUTVFTX2R5WjhVbDg1Sg?oc=5",
+      "source": "Qubit",
+      "published": "2026-09-25T08:06:36+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Az Anthropic üzeni a 32%-s GDP-növekedést: szupergazdaggá teheti Amerikát az AI, de komoly ára lehet ennek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3RobXlnNDFrSEVGbTdrTFpRWHRwWnl2Zlo2R2tIY3c4emg4elpVLTNsanhfNDNEejM5X2J5SXA1cm1ITVJGVVpnNEp4UDdXbnZWQWQtM0x0X2dlR2U3SW1yZFlNMC1jSnFhYnJCX2t2STJLVnd4dHR6M09DMkxxdkpXQ0JCaUY5RHZz?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-09-25T08:03:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Peking egyértelmű üzenetet küldött Donald Trumpnak",
@@ -709,6 +727,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0hvLVlHWlE2dVZtRTN0Nld3c0oyenQwT0dYUmJPZ2l4QXNKX3Z1RDhyQXFjYUZRRzVINHZ2RmZqWUdrZV9tV1pWUUtWX2YxcWpBN29FZ2V0eWxkV1RjWWtfc2pkS0NQQlJ3U2RpYlJkT2NuTVEtVFFBeU11RlVpMU90WVJfUmxVWGJOUVlXRWNJdDJ1LXQydjA4M2VSNUdXYXhTcDNpTWJjMHM?oc=5",
       "source": "Világgazdaság",
       "published": "2026-09-24T06:03:06+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "HÉV-fejlesztés, metróhosszabbítás – Vitézy Dávid szerint ezekre költheti az uniós pénzt a kormány",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90MF93c21NcGRRNC1PbVNpS3RteWNPa2N4MFdIRG9obmVJd2FrYnpMM3RWRUlEcTRDU21ZR3lFVjR1NVJMVDhyc1A1aG5IZ0NfeGNXSGZNSGxobVU4Vng3ck11VHk1VDg5REVhQVAxRHNxV2NkYVE?oc=5",
+      "source": "atv.hu",
+      "published": "2026-09-24T05:37:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGFDYlFOYUEyaWRrYUJqaXFpa2VweVZ0Nkx4dlFidEhYUktRY0ZvZjNQSGFTQVkwZmNKSDQ2ajViN2JlVUxlQ0F0V3Jmb2NLb0h6eVA1Y3AzdmR5YkxSc1Z2WkhmVnAtSTdvSEVidVVXNmJTUVhmTjdwS01qY20wTjhHd3JpVU4zSzdnR2V4M2VZVVdWeVEzSlpTaFRDZGRDNEtUNUdqYVF0Zw?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-21T19:31:59+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "NASA: 2010-ben furcsa változás indult be az Északi-sarkon",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3N0UUtKMzFLNzRKZHhJd0YzNXFyekN1NE5oM2RQUGJMZHhTSGZjZUxkeURBVm1RalhlYVR0VzdVWHpJTzBGcDhxSm1qRi1rbm03WkZLbDBya1pnVkRaYjRqQ3BRS0RhaVR4T29uOUFfNGQxREhSVk4taFBGMTRwdS1OZFk5RkgzWUxaQ3JBbVJ0cFFhVVFGMWljTGY0MEhuN0RHTlV3QVFCZ9IBrwFBVV95cUxPUkNmc0RaeVhDUGNhRkZZWDdVMDRqUjNTZmNOTk5XcjVWN3ducG0zanJNeDB5TTFJRHc0bVZlSURVdGF1eFRZem5BZG1rVEJGVGNySnpxVl9PXzdabnM0MG1FbDViV2pXM2ZTSFgxcWZLYWpuNm9ybnl4eVVpN1pEVmhfemxWaUhVUWRNLXFOREs0eGlRMkZ0UFVsZnVPcE9XMUFMUVI5Y0Yxb2pYb0ow?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-21T19:25:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Soha nem láttak még ilyet: a Nasa lefényképezte a Mars felszínén lévő \"lábnyomot\"",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVdXNVNrLXJBMTBWZXhIM1J4SHdjcEhSRFdOQ0RiWTl3bXM1QzBRU1otX2JULVNOTWlkd3VRT3JBb3hxSGM3QnVwdzZFQlJ2UWNBZEhxd1djalFScTZsUmVmNENFSGFIZjh6V0k0eWNSTmZSMjhVWmcyLUg2RzZjVS1vWXhQN3ZPZ3ZpdHdxWWkxZVZrRlZJVUFn?oc=5",
-      "source": "Hírstart",
-      "published": "2026-09-21T18:41:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Élet a Marson? Meglepő dolog bukkant fel a NASA egyik képén",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDRRd0w3M2RNdW9VUnNicUt0SkVOQVBNYXFLWEdwLTJaQkNmbFNJSy1lT3U0YzV6S2pCUU5weHJob0NWZ3pwZlhsZk54RmVHZGJJSVQ1ZWxXYk1ReVhvN21Bdmp6Z29XSDR1REp5VVppRkI3WWFud1RVUEp0Mjg3dU5Ddk9MZ0xaQzVXN2Zyd2dwdTFvcjgwdnJLdw?oc=5",
-      "source": "Hirnavigator",
-      "published": "2026-09-21T18:33:36+00:00",
       "summary": "",
       "image": null
     }
