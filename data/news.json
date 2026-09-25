@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:45:31.807516+00:00",
+  "updated": "2026-09-25T18:00:54.397176+00:00",
   "articles": [
     {
       "category": "Nemzetközi vasút",
@@ -268,6 +268,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQandQTzRQTlI0bmFMejZNY3gxVjJzTk5laEROakVpbE03Z05BZ181aHpRTDBlckd2V0tEdGxrSmlhanRxSDRlZ3hqLVJHdG5JS19BV3gxWkh4WDNFSG93bUlYUDBuSzVvajhjbTJKNzNmSmpTQW05b05Da2VKQWZKSUltdVVJalNKZkpLU2VhMUE1d0txZmxLc3drY0w?oc=5",
       "source": "mfor.hu",
       "published": "2026-09-25T08:02:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Kísérletek, előadások és csillagászat – Kecskeméten is vár a Kutatók Éjszakája",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFFCLXIyR3RXZkRhLTFueVlXcGp4UVRkQjRjTWhxZEM2Vl9aRllnMDAwdHZwalRkMTk4d2RxaXJSQTdwNklMVkdWODE3a2pIVHdKZURBa0ZlWXlpcmVLclNoSlBkS0ZJWFpPdVhvTkNEdWh2ckVSaHZ5TGZMcjFkSnB5SjRpQmRXS2p0eDlpU1hBanVjeEhiMzZNSTItV2NLN3VESg?oc=5",
+      "source": "KecsUP",
+      "published": "2026-09-25T08:00:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2237,15 +2246,6 @@
       "category": "Gazdaság",
       "title": "Új előrejelzést tett közzé az MNB: hiába a nemzetközi kockázatok, mérsékelt marad az idei infláció",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUjY2RHUyaG8yMjBCTGcyQVR2X1pNSzEzR2kxZUJDLThHWVRMbmlvNUpnUlBtZlJIYnBPeWM4ek1aUmZLV0hqN28yTTFLaEFLZzdlaHcxY0dMZWZERklKR1JXano4LUdjZEdVYlF1c3B4TW5LMlk0T2owU2p6ZnVaT1FnREk1QjU3alV3aG1haFRUM01XWWVoWW5fVjZvRHV3WkNCMV8tYngxYjNCMVN3U0xpRkk1bnVUZ0MteF9YdUUyMjgyWG9oekxOQTRkdGVoM3dlSmVYU1ItcnFzcU5B0gHkAUFVX3lxTE5lUm9zbnJUNF9YWGdIbEd2OFRPNjZIN1NQcEV3SmtuOUI4cGlCajlwdHFVMkNXZjRkQ1I2RmdYbHlFV2JKU1JtTldqY0UzZHI0TVZucmZ2U29ZRjlZWk5aN21UUjhick13WnRJdlNfclRSaXJoQU12RHlsYUp1bmRZSG5Banh2TkR4SUwwX1dWd1l1Wk95M1dsSlQtbDhqa1lVdnB0Z2FYX1JWSXZ5NzJ4U0k3MEpveGV4ZmRUZWtVQ2tRNU5Kc0FFZmNDU3dqNXpTekVraFpGalBqZkhOVXozTGR4aQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-22T13:23:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Új előrejelzést tett közzé az MNB: hiába a nemzetközi kockázatok, mérsékelt marad az idei infláció",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZVJvc25yVDRfWFhnSGxHdjhUTzY2SDdTUHBFd0prbjlCOHBpQmo5cHRxVTJDV2Y0ZENSNkZnWGx5RVdiSlNSbU5XamNFM2RyNE1WbnJmdlNvWUY5WVpOWjdtVFI4YnJNd1p0SXZTX3JUUmlyaEFNdkR5bGFKdW5kWUhuQWp4dk5EeElMMF9XVndZdVpPeTNXbEpULWw4amtZVXZwdGdhWF9SVkl2eTcyeFNJNzBKb3hleGZkVGVrVUNrUTVOSnNBRWZjQ1N3ajV6U3pFa2haRmpQamZITlV6M0xkeGnSAeQBQVVfeXFMTmVSb3NuclQ0X1hYZ0hsR3Y4VE82Nkg3U1BwRXdKa245QjhwaUJqOXB0cVUyQ1dmNGRDUjZGZ1hseUVXYkpTUm1OV2pjRTNkcjRNVm5yZnZTb1lGOVlaTlo3bVRSOGJyTXdadEl2U19yVFJpcmhBTXZEeWxhSnVuZFlIbkFqeHZORHhJTDBfV1Z3WXVaT3kzV2xKVC1sOGprWVV2cHRnYVhfUlZJdnk3MnhTSTcwSm94ZXhmZFRla1VDa1E1TkpzQUVmY0NTd2o1elN6RWtoWkZqUGpmSE5VejNMZHhp?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-22T13:23:00+00:00",
       "summary": "",
