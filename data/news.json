@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-26T19:00:48.421163+00:00",
+  "updated": "2026-09-26T19:15:27.559173+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "2028 végéig a MÁV marad Szegeden, addig újra megpályáztatják a helyi közszolgáltatási feladatot",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOekNfYXdoMjYtWHZsdlJnTHlFakZSWmFVSDZ2Z1lRaEV5WGwzdDBtXzR5aktFRGJCaHJlU0taTFNyLXpKX2hmd3ROS254dzFkOUFxWTUxeWx1WUxJMU13aVZfVzAzQWdSU2FuT3Njb1I2SktFV2ZkZ0dBbTE5Tk0wRFdnOWZzTEd3YkVQOW9OY3Z5ZGpLMnM4bXl2ZUpRT3AtbERIUEhGSlZveVFwRmxLM1Y4blYwTDhWNlJ3ZndlQjItNUZHTXlqNUt3?oc=5",
+      "source": "Magyarbusz [Info]",
+      "published": "2026-09-26T19:05:44+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Vezércikk Café - Brüsszelben vonakodnak fizetni",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcE5XZ2lKYkpGZm5YdExRZ0tUems0bE1lZ21Kc3d0cnY3LVRTVGxCMVdqcVExUHAyb1A4TV9VNk9PSFpYNzhVbE5kcDE0ZVNJallpMFhaN0tJc2VMczI0amppQVdzT1NLTllFdlJPSHk5S1FadDhnaTJ3RGtvaWVCWlh3MEZna2tRX05jcUJ5NkNLb3MtYTdISGtMVTNEZWtVN09DcFJjRkVSQjBtUVlkQ0dWVQ?oc=5",
+      "source": "HírTv",
+      "published": "2026-09-26T19:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Csillagászat",
       "title": "A Hubble űrteleszkóp teljesítette a kétszázezredik Föld körüli útját",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUhGblFlbmZ3dmJ0VGNIYTVnZmVOYW5yd19RcTFSNnlsSWFXZk9Gc29PaUJhMVgwZzNGdDhsMmp5QXpwVmZaZFJkZUVFWERabzA3NTVjUko3Mm1TTVlfQmo4cHhMZFg0b2FLbWE5TmhJVnBmRXlTWE82Um1ua0gxa2FlR1BTRE1wQjQ3UnJ6SWhCWnNMb3NmcmE3M1BmRHdIRExDZVlmUGdGLWJCVUxmTWtjR3c?oc=5",
       "source": "trademagazin.hu",
       "published": "2026-09-23T12:17:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: apad a Tisza a Medián szerint, Magyar Péter átírná a mentelmi szabályokat",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3prM0FzNDIyNmxSVVVxZS12a3RfN1AxeW1UU25qeWF5Qk80M2lSQnpXNTVEUEZyek12eVdfbnlhTUR6dGFGRWJvV1BWMFNBQ3Q5eG90Q0VnaFRTUkJvUE1pNmM2WlpKUTEwVGlQYlQ1T0VPeWNYb0VwQVhlWkVja3FITjVTaFJ3b1VOUHpfME1hQ3NZbmNNa2piVVZhU2tCYm9WS1U5SXYzMkw4eHFXMEpRY1R3WWI2VVFTbk15ZXVfTzBzNEdrYUlZNjh5ZDJEMFHSAdcBQVVfeXFMTTM5cWlLWDN4c3JVSXV2ZXZWTTBnRjMwcW91c0xPR250bllGMTlENFVMVnZfNGQ3T3VDSnhCV1JVNXc2ZnNoVVctWWVKRTIyODhldHdzZkZrT2dJbFNub3Q1bENfT3Y2MXpGMkFJZmxvMTVLWkF3S1ZyUlNHYkROLXJ0UThSOU0zaVJUNU5iVmpLS0s3MzdDUnBnb2k4STRZYndLeGVDa2JHUWJoNVdjTm1RcTVvZkRkS0RPT2c2UEpwTm15eVhObWE1WnFYeklRM3FYQnZUcDQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-23T12:14:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "The OECD has slightly raised its forecast for global GDP growth this year",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclBXUXBqbS1JN2dGNjNMSkNFRjFaZFpveUtpelJzbGdFT2pWYVJxTTkwc2lVcUh4dlE2Mk5BWG5LWjRTSmFzSXV1SnF6MFNON0FzVWd0b3lRSzFYNW5uNkllRWpmdldhSktKMDc4VVZfaTItb0VJODNrU3N2QkMtZEhkUGFfODc3RlFWSnpaOFhTRWZBRXg5bWhIc1F5Z0FhUlBoY0w0RHdhU2JkWmpOV0FpSXA?oc=5",
-      "source": "trademagazin.hu",
-      "published": "2026-09-23T11:51:44+00:00",
       "summary": "",
       "image": null
     }
