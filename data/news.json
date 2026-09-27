@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:15:28.751160+00:00",
+  "updated": "2026-09-27T20:21:50.698229+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -7,6 +7,15 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnBteERSUElJektEMy1aWExBcFRlblZhdGsyRWFfNU1yajhUVWZ0VjNiVzF0WEpQeS1ISm1IcWYzUU9OVEF4TjhqRjhHWlZnUS03V281QzFZSmNCOHVJdjhqeElyM3UwaEc0aktPUHUwd1hMM2xIUnllb3BqcC1xNTZuUDJQQnIzQkxXSEZaY05NcGJSOHRnXw?oc=5",
       "source": "fmc.hu",
       "published": "2026-09-27T19:27:35+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "New York Rangers - Anaheim Ducks Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeW1QbkV4eXRLRkFVR04ycVQ1Vk90WjNsTlZTOHdJdHJqeVlkTGFMZm9UbnNRb2lUS3FTVmdUdTk4RDZqUmVSbktmX0VCMW1aM0hKRG9ncTZPTk44S3RfSEZwdlc2Rzhza3hlclFPbW8wR01vb2lwNWtVanBUUVJSQTgyOTF5TWNNcUZSQnNwMUcwSnpIdlJ0aVRoQzV2NExXbG0zUUI0X2FpNVBF?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T17:54:21+00:00",
       "summary": "",
       "image": null
     },
@@ -25,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWJlRTEwcUtaNDhoQzlqU2E3TENvdy1DbmdsUEt1aVg0VF9QSmRRLVBnQV9feHFGSHZSbG1yVFZGZTY2S0thTzZVSnRacFM3Ul91dEhLODlfUzFycWNSOEt0MTdxVVZmcTMwZHJZQ0hXWFkzc2o4VU5WN0FBVjE1bW1Mci02TTlhaU1TTUxQZ2ZIMEtrQzExMzFZUHhkeTBMQS1ZcExJdUkxcVk?oc=5",
       "source": "Economx",
       "published": "2026-09-27T17:31:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Philadelphia Flyers - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEZGRy1ZSU04U3RxV3MzTGc5b0xaN25EYURFMlJ1SG1DeFNvclE2eXNxOWpjUWZ2LWNjV2hiOGl0NHlZUzNZNjJFV3NWM0FVX3p1VUxXQkVKTlZ1bVdiOXhLYWFTdGhYV3J6RDBfbnlKM1YteF8zbWItNTRvQVJYM0Zpby1GdFV3UlczYXAyWWJKV2Y1M3J2X0I0N19kZWVJME5ITGllQmVsSG4zTnhF?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T17:26:10+00:00",
       "summary": "",
       "image": null
     },
@@ -52,6 +70,24 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkVlMmEtNUtuTU45eUVRX0xIcXdDR2ZJWmo1YlBGUVRvMjdORkRLbVJIUVU0X1ZmZUd0YVM5bWxaN2poUFB5dC15T1UwZXZaVFdySFF6b2N5cUVQR2hjcXc5T1F6Zk12RldjNnhTWUJDdjBfUjhORk5qaDlBSlpCVUdnR2RJa3lZcE5uY0xRTkxxUGRrOHJqMFVaNEtfbVplTkNoVFQwb2doYUhKS0E?oc=5",
       "source": "eurosport.hu",
       "published": "2026-09-27T16:56:39+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Philadelphia Flyers - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0RMclhrc0FSNE0teFpaSFk1dy1wUS1teTJvMkpMUWJLQnVaZHVJNlZqM21vdi14YUdNQ0o1YlFvb0hySGpDYnhBT2NMTk1XRFpINkZvczVYR1Z2NGQtY09HbFlSbFZEbjVoa0Y3MVZaRXZ0N3RxRGRDcGdseEs0ZGJsandlT3VsNVpINGJmTTJ5RTB4RGp2NjZITVNpUnRxVnZKR3BySQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T16:36:18+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Vancouver Canucks - Minnesota Wild Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamMxV0ZSLWxnU0VGNXE3MWk1SjBsTVJUYmw4WnMtbXlKRnJBYmxIZ21vSWEwckU1Z0hBd05DLU9oN0pLVEhXMmFjcFpYRWN5czJ5NlRlbkYxQWJ3Z2JabnJvbnRKWFV4U2lQZUZXZTdOSlgxTUJRZzNmalZxWVNYYkdzLTRPbnB0aXVPMFNhVGoyckp2Z0dTNTVMakZQaFVRR25oMXdUdw?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T16:31:33+00:00",
       "summary": "",
       "image": null
     },
@@ -101,11 +137,47 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Utah Mammoth - Minnesota Wild Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUw0OEF5LWFYVjdQeVBuSFFiRjJCaEZwNFlxQXhneHpGS2xsSVBUaHoyZEE3VXZVLTRiMm9DeGM2WGpRdHRGSFBQUTU1NEIyNHlaMkxxMkNmZG5MaUtUQnlhU2hBNllRWkFaeUJzaEpLc2Z3WENVT3RVVFJRZDNpRGJkcTdSdnlfYTFKUVU3OTRBYUV3U091YjAzR2NLdUJ6?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T15:24:43+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Orbán Anita egy világlapnak nyilatkozva jelentette be, hogy milyen együttműködést szeretne Amerikával",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHcWhhV1Zoa2gzd29TYkJMMTh1UUY3SnJ1XzItS19NLTViLWNWN2N4ekZWa2d5SnNxZ3licW55T2FSc1poRm9JYzBMVTVIOFRwOS10Ykc4V1BiWDNmSVUtVlRybXpSeE54?oc=5",
       "source": "atv.hu",
       "published": "2026-09-27T15:17:51+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Pittsburgh Penguins - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdm9veGZtN19GVmxjaXNIV1pSUXBZYjZEYUFNYWpKcG4wODBBc3cwTW5leTFkc19mTHpjYXZnQl9nRXdqLVhDcjEwTVZsZ0dzRzlXS3YxdEh3N0FyZkRIb2dDRDB1WHZKQldLOVV5QWdzOWpXdGl3aW10ZzVjY2tTZW0yTzdoWXRrMld2UFBEeFdpMlZWTWFpU24tLWZyalhXZFhrZzhZY3RKYkdXUWdZ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T15:13:56+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Pittsburgh Penguins - Utah Mammoth vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDNtR1JjU3p5cklGZGlDRFIyOVBPQ281cDNqcmdUNTNubzBtZ1V3MDZWYUJjZ3ZOQ042R1ZEYTBNVWY2QXRybjVacW81WXBHSmpSX1QtOHd2QUExV1JkbldOODlOclRfelBwbFE2WHJ3Vlc5V3VUQUdCdDAzVTBZZHZqX1NfaURaRUowLTJBeGxrNzFtUlRKdXFnYzBjMGFyQlRjNVN2SG5LQWZBNzFIdFJB?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T15:12:49+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Edmonton Oilers - Calgary Flames vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUVMUDg5SnBaX0g1TTVfRFBnM0hYNUZpRy1EWTJYcDlZRWo2N3pWQndqSXROd2hIaU9NaXktVTVYeVhqUWdsWGFvUUpqMklsNTRHUFYyLWI1cnIxWlZlejRJWXp2U1lWaWdzdzBTTWRNbk1xVUlBVlVvc05qUjd5TUNXRUhvNHRCR0o2bnFVQUJwZERmemVEalFpQ3ZrVUhQeXBwaV8yQlduaVdySklv?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T15:11:27+00:00",
       "summary": "",
       "image": null
     },
@@ -282,10 +354,28 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Tampa Bay Lightning - Washington Capitals Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMnlycVNHYUNyMlBOZDBHVk56ZGMzektELS00SW1JVktndGgzR0taUnl6eU04LWhLRnVHSGtwbWFqYnIyeHJ3M2lkRm5HQ1VDdkQxX1ZMVU5EZmRRckxIalp4MDBNUG14YWVkVHpGcXh3YTVNekkyMVBEUWhwQ3JhTWlBSl9GRmNQbTFqakdpZ2hYYlg1NC1tb1ZPWEM3cUo4S09ORDdMMWV4dkpuUXR5WVdYZmN6azFI?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T12:02:29+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Chicago Blackhawks - St. Louis Blues vonatkozó mérkőzések: Élő Jégkorong Frissítések",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEtBcE5leU5Nb2M4WE1IbHoydUh1NUFyOGdvVVFJbkVySS1rNnV1YnRNTXl1SVdfWkQ3Mzk0eThFeTBZY2k5QkdLRkJCWnBlOTZSemhHX1pDNWkwQ0NRb0xpa3ktYTdQOGtHRFBobUNBZ2hUMDRmZzJQeU5mTmFUUkNveXNWMEdqS1hCdkFRckhBTk9pRjFNclNmTHp6amhLbFNZMTFLcWNLa1Bqd3FkakN6VGw?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T12:02:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Boston Bruins - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUhSTEtJc1lMVDM2bEZvSE4yZl9FNzdRSHZCZWVOeXFHUmdGcU9TX3Q3Sk9vQkRoNHByQWNzWG9hM0R4WjRiTzJ4ZGZGbW1CaW1iQ2kwLWs0R2hFdmdOb2pxejNYZ2JJQkc5WnJIcGNHUjF2M1ZlMFlGZzJQdVZ0cXBFNEczTk1BbUJweUtWbUd5M1A1RUxuUnUxaGIwVk15MDhNVVlyWQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T12:02:01+00:00",
       "summary": "",
       "image": null
     },
@@ -313,6 +403,15 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVZrWjFoSmJJYWtPbkpRNEpJV2pUZkk4MEh0V095U2drVGt2Ym9GVkJtcUdFcVB2SjJYaklad3RUdHR5SVRVNUVIMXpSdEtod202bVg4NHdwNjdsaVdEY01oZHVkSGthc2M2RkxmM0dKOG5xT2RuRVZBanFIUVhycFdQZ0FsYVlxb0NRUXVCRkpybmRWVTIyTWRFVTlyUUFrb2tfdEFkaHZoRnBGMEFQTlFMZUdmT3M?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T11:55:52+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Edmonton Oilers - Seattle Kraken Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzlnM1I3ZHl4amUwMWZDWnJqT21yNi1Sc0FBTjdZNjhJdTQ4R2NBZ0QxNHJsMXRTYXlWc3JiRlFtcVQ1elpiU3M3aHhXMlJ4R19YSkhUQXdJRktmUTN4SlA5QjJoTHBSUWZWaWE3QXVGZkFGMkp4Y2l2REVkU1VaenY2a0ViZjQ4bkQ4c2wtLVd3LTQwVEJfVW9DUWVzSzFSR1l0N1MtZ19kYklQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T11:54:30+00:00",
       "summary": "",
       "image": null
     },
@@ -376,6 +475,15 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDlUTDRPbHVxaUlzRHJPcjM5Y0NBWTA1Y1FpRWs0azloWjNLaFZ0TXBKdWFnMlZ1aWhQNjEzTGNtSVpENkZvU292bEh1QkdBZXJXQzJJVkE4UzMxclY3YzZORWZ4X0RGWDJWOTVQTm1QQnZBLWpKMUdCcVA4djl4LU1WNm9RYnBidUplT19qZmFpZzZ4QlJQb1JFMF9RdHdKdVN5eTVnem4tUWlac05KSm53?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T11:47:56+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Edmonton Oilers - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHhIazNSMEY0WTRpS2pOYzhXNno1RHY5TlBrZVJwXzNlc1JlSHhNLUpQaUNDNUVFVmt0S09EV0pYR3NXMjVwYlhtY194VDk3VWMtM1UtbG4tVVBBcDlTMVNZbFpibm8wV1lJUk5WTzV2amZUeEV1d0Q5c1hzYm1YaDdhd21pTjlidEYyYk9xWTJtb25kT1AzaFUzZkk0UHNrV2pQeHo3YkhzQQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T11:39:22+00:00",
       "summary": "",
       "image": null
     },
@@ -453,6 +561,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Edmonton Oilers - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTdzd2xaZkhFb2RheFg2MVBNenBHZm9YUnllMTZFUi1qLVBGQWRCRnVndXRiZ3NOcmFGR3A5U3RsdDlQTWd6djM3LVBFcE5Db2ZyZmdYSnJzUW9XSmI5LVFiSlhIb0ZCYlJEc281OFJjMUhXRnllOV9aT05iM0tGNkpWMTNGcGZQRUFjSThxTW4waXNuVFlLUUNqVEdnWjVtdlE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T11:08:15+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Dallas Stars - Colorado Avalanche vonatkozó mérkőzések: Élő Jégkorong Frissítések",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTllEcDBfeGVSX0FlYXE1YmJuLXZZUHp0ZWVUeFJzOExYUjdUeWRpVzFRZ3plQUdmek1Qd09NVERwRWJUT2JfcEJ2QWc2cnFwNDVGZDV3U3JNV1p2RnMxMlNXWGszMUVVckVJcGNySUhSUld1NFJDMnhTcnpUNGpzc0t4eHRlcE1NV2tLaXAtWlZzNVAzaG9Ud3NUTWh3ZXMtZXpyVkt5NHdWZ2w1MFNhcw?oc=5",
       "source": "Eurosport",
@@ -516,10 +633,28 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Philadelphia Flyers - Seattle Kraken vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ2lqSmhHc19pWlRBenp2MUNIQ1hveVRPRlpka09DUzRuVVhTb2l3LXV3T1NvbFdJQ0VNZnJ0WF9pRXN1MURMLUN6NktOZHMzWkxRaVJoOENualNWSy1VTmVJdHZmNFRtS2dyVFRxRU9DWEZ4Y3BhVXdNUG4zQUZLUTVYbmI5bnowbEZVNlM5WGRqdUd5Y3Q5Um5MUGhndHN0YmV5U3ZheXVSby0tMzFzak1BbVc?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T10:39:43+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Nashville Predators - Vegas Golden Knights vonatkozó mérkőzések: Élő Jégkorong Frissítések",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0FjVmQ0SXlXTVZvSDBaaWE1WmtpZU9OdVlxUGM0Rk4tQ0V2NmpiQ25vMXZDNW1HYnFlSG5CY3oyMHVLY0RiM0h6TEdNZ1RsWGtaMGs1X2QwRUo5dFVjQjlMSVFaaS1SQW1CaGVQRzR0Ym1PNTFXWHZtV2tET0Ewc3lwSDlqWl9xMVNYeWpuTm1jeWZNY1RXV2RyMXROc21nODRob243ZDcyVTZnajhTeXlzMnZLVEFEMEI1LQ?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T10:38:58+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Minnesota Wild - Vegas Golden Knights Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGNOZ3UtVjJ4U1lvMUNiekRsQWhCT0tKZV9EMEVvQnVKU2RoaUlIOEs3WTVFcGFsWkh4NXdVWmk0TXhTVmlRWC1OblJJYkJWOXpRclVPOXpPWnJTYXZsQmhyQ2x1VWJKTkFUVlJfdi1wT2R0cjRlYVdTSGU5S1ZOS0lpWXFBeXpuamdDUFl5a1FXR2JMdTlQZXhoMXduUFpvX3dYRVZnLWc2TmM?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T10:38:33+00:00",
       "summary": "",
       "image": null
     },
@@ -556,6 +691,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHZrazhfNGIyaC1TTXcxOENNcW56a21ZTzZqcHpsTXRPWWxxazcyLTlMSkJ1ZjJlMmRYOVJNamgyTFR0NGxJdFhobUFqSURZZi1hNHpYSXJ0Rkh3c2oyeWZHS0Q0bEFhWUhIN0RMZ3hFRmR6S1d0cWdIMkpBRnFpOEZwRzhYNWQ5ajJyQTRVUGs1RnBWMlBFRjh3anRGQzllOU5EOHQ1d0tVbVpnSmc?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T10:29:12+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "New Jersey Devils - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXJNbFpPQUtOZWhac3l2RFpPaGJjRmc2dXNIX0NEZlo5cDd1WlpHZ1lCSlpOd2ZIVngxOE5fNUdpMURydmNMSW5Cckg5eE1aUWJjVHBQUVFyajYxMy1jVjJNVEFObkp3WnJXMmFVbGt0MXN2VFNkVzhwMVlBSVBLc1JSV3VRSTBzc21ydmd5LUdLWk02RDlTSVc3dEptWjh1UXV5bA?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T10:28:04+00:00",
       "summary": "",
       "image": null
     },
@@ -637,6 +781,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW9hSXZ2UXctdEg5Q2lrTUcybUI0ajZqZmVWOE1WbFdwdlRpV2x4U2pDU3lWN0ZtSXJGa3A5TkJ3ZnBzcWVfTHJSLWN1Z2ZiS09jV1FiZS12Vlp1U3BIZnBNck1oOU93NnpIV2h4QTNjWjRrNndNSm82OF9zNERyMVYtYU1pbzREWDhWUndHWnFiMkx0blo2LWtqMDBHMHB3OGdoZVRGMkp3Y1VfMjVJSA?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T10:17:32+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Vegas Golden Knights - Anaheim Ducks Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOak1mM0UxcEhHcmhhRHF4Z3A3Uk9WcWtSWFlRMkVKTllaRjFUNFo1ZlJTTWZoSWVNdkcxNUtaSnlsQjAydmt0Qy14clVIcE82M3Y1QjMyMlFIT2JvVnlWUzlsNExQeXlhYzEzc1BvUnZpamRmb2I1QjhIWXRabEdzcVZuekNfQ05GQXp4alBqM3IxLTNBcFozR1JES1hTVzB6T19jd2UyRmFRcWdEaTh3Ym1B?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T10:17:08+00:00",
       "summary": "",
       "image": null
     },
@@ -745,6 +898,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0lnNWthQXV3R2NPcEpzWnpEeGpWbEIzYUVqVE1ZVTJCMFdlVVkwUEluZ0kxR0M3R3UtRWR4dzJraXB2NmxOVUtZX21uNUhvRDdYYXdXdmVwTW5FQ0lKT240X3RFLVpBUmpDcmk5Z1dUbFNmQjUyck90RzR1ajlEUU9Cd0R3OXA2OFJrQ0c2QW5EYzlPLVg5TXpCUE14My1qREZRRnpBV3BjX0U?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T09:47:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Buffalo Sabres - Minnesota Wild Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnhzY281T3RrcG12eHNsaURwaEFJRk90aXJRdDNEZzIzakNSSnZJMlBFQklhdW5jbzFxeVI4SDFIRFU0V2dnbDdrcGJLQTBiT3RtZXk1ejlMX0NQLTZXTExydXVHQ3lOTlRhTUlZb0d2Q2lmZGRrc0hqb2tmUDYwN2d0dVRQMlNKQ09ZMUxaQ21FSURkVXdpaWd4bDRLMmR5THRJa0tsd3NrODQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T09:47:18+00:00",
       "summary": "",
       "image": null
     },
@@ -2086,168 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40am1RRFdWcmRGRXZVY1ZOTV80SGp6TzRSRV9FXzlDX1BDOEgyY2dEbGRtOUVtamRNOFZ1aWxOLTVBTUI1eVhrVU43M0hiRklLZVlTM2tYV1pmYzRRaXp5dg?oc=5",
       "source": "ORIGO",
       "published": "2026-09-25T05:03:34+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Mindenki Mészáros Lőrincre és az MKIF-re figyelt, pedig van egy sokkal durvább autópálya-koncesszió Magyarországon: 460 millió forintot fizet érte kilométerenként az állam",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazhuS3kxeHFyOHM3LUtBdmQtVmJVMFZXbnFTQ3AwQjNHSDloVDhGWEdlcHZoM0RYbWt2VDVWN29MMXdSZXJtLW1SWERiQ25QQ2ZVWG96OWVZZVFCZjVPalllRzhBNXNtOUhNYnU1NXk5WTd4eFhpRWpYSzloQjNTWl8yUUh3VnNtaGhSWHJFVWFsblhlZkx2dDBzQjZhTXNvY2JfMHVFNUpiYkFsTTk4?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-09-25T03:50:52+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Idén ősszel a csillagok közé repít Budapest legnagyobb csillagvizsgálója",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGxwLWlsNFVWc19tV1BoOFJTbnE3NXlzcUh6Zm1iQ2RoNk91a2dGQktTcDc3NmFUYktqUk9Wa0EzR2FrNmUxbmtZWDNoU1cyUTJ1eEJHb004X0VzUThFVGVvX0FYZHM3c2hwaWlDa181T2hIem4wTnJiSU5UVzkxb3hjVUZnRTVYV2JFeUQ0MDE3R3ppcUJQUFQxMGczazhVM2wzbl8waXpfckdSMlZoNHluQQ?oc=5",
-      "source": "FUNZINE",
-      "published": "2026-09-25T03:21:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Colorado Avalanche - Winnipeg Jets Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQS01Y3VXcE9JeGZURnIwR3JQbkhIeUFaTUdhaW41eDFUUzFJWnBhWVBzM2s2N0tpUjEwSFU4YTMwSTl0aXhKQVVjNGZjQllvSjBwbk40ZEJTaVljVDlwZEFXYzlHMU5fVVRBd3d4aG96eEJ2bEtaTnZvVG91eUVsX1ZSNzVNWldZZGw3NmdTLWxMWDlTejBRRG5Db1F5cVZGMS1UZjh4bDJWcDJLNzBnbmtUSHg1UQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-25T03:03:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Anyázás és fenyegetések között épült le a magyar gazdaság egyik legfontosabb állami szerve",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVpmY2NmRmV0Wm04ckVDMXIzVk4wdHNlRENZb1dRN3Vka0ktYnlYV0p1LXB0em5YRTJxZ0ZmMjN5U3NMMUxaV0xkdThFaHg5R1NoRFNDV2dTSlBITmlJX0dia2hPdHFsNW5CNHY2T19XZlVNcWFuTGFpaEdodmlfemxrM2pSc1E?oc=5",
-      "source": "Telex",
-      "published": "2026-09-25T02:55:17+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Troubled Brightline Train That Promised High-Speed Rail Will File for Bankruptcy After Multiple Deaths: Reports",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWV3V2JGNE94d3p2bEd1WjlOY3hPYVotMWhzX2V2dUV3SEFPLUowZnlZbFZDYmlLVU5tbnpFbnQ0SnJsaDdZMlk0VWhINk5EMm9kVjFkcXNkb1VOcWwwUVR1Ukhsb3RMSFVLQ1huYk5lOTZ2VGdBOGw3VnY3LTQ0VVRPaTJsZmV3MERxNlhoSi1URU8xd1BRU2l3bkdVMjJrZHBnYUVZVkFBM04xcE1UMA?oc=5",
-      "source": "People.com",
-      "published": "2026-09-25T01:50:48+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Troubled Brightline Train That Promised High-Speed Rail Will File for Bankruptcy After Multiple Deaths: Reports",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONk52QXBIcnBFSHlKX2ZITFd5VEZ3cU5GdHhHaDZKc0o0VmJDc0RzYjlpSUgyUl80VXp1dnRCVkxVTm5CMVNTcnBzeVBHckRBSXNsQ1VGYmNmMzd0VlJaRHRHNjc0RC01Vlh0UkdiczE0X3BEVnVmRmN0aEJSTUJfeEZOMjBlR3h3WHRRUXJ6dFJRUQ?oc=5",
-      "source": "uk.finance.yahoo.com",
-      "published": "2026-09-25T01:50:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Troubled Brightline Train That Promised High-Speed Rail Will File for Bankruptcy After Multiple Deaths: Reports",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVldYT1REVGhqMGVPOWpHaWkzNElSYTZNUjFCVmUyRHdiS24za3NyWWhwTHRLdDZ6WEozSDd1LVJIczZMZ3B5SlhJR3NlYms5VmFjeVRsVTJyNFl1MjlxZjl1dzhkOE0xc2tfQkhydWptcXlFWFJ2QmhNTkNUNTktU2l4S0E3bXJ4OWpJ?oc=5",
-      "source": "AOL.com",
-      "published": "2026-09-25T01:50:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Troubled Brightline Train That Promised High-Speed Rail Will File for Bankruptcy After Multiple Deaths: Reports",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2tqR0xGM3Q4S1lZM1hUUVpLdUh3Zk5BZTNnU1pLT1NxVGtXUFR6bk43R3d3MFZhWHJhUFo4RkFNeXA3anVEMWxKbTZPaTVDejJLdG9aX3hKWjdBbTJaTTZGUlg3Ym1FWnNBangxQm0yZS1VUHlLLXcwV1ZYUHoycHpyRnViY2FXSlBCcnF3Sjk0VEY5eFBjU3dIOUl0TmpYRDd3?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-09-25T01:50:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Gazdasági hírek összefoglalója szeptember 24-én.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQZUxXWkxwQ3dxeHlRWnZmd3U5TmVLTGQxelgtNlFINFRYalBHWkpqWHlCd3ZpNVBCQUJSU3hLUnMtMDY3d1RqZFk5a0RBQi1SYm16cWdMaWVGVU5TbXpkZ0pxUmZMcURnSDVRbFpiQQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-25T01:47:30+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Először észleltek rádiójeleket egy exoplanétáról",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjE4cF9CRTNiaWhFUGNQT2lKbWlEbF9TbkozdU1mc3NFcmNVWkhveXlmUGVZQ3Q4NjJ2V3dKUGxlbkR0TGVrbWduaTNaQ2VYekI2aEUyMkVMb2Q4Y0V1LVBBRFNFczllOTdYNHdEX2JzLUxick91REZJWmlRNmRXeGtpRVNld3hVYkItX1VoZ0Q2QlB1bFRaUGs4YlQ0UQ?oc=5",
-      "source": "Notebookcheck Magyarország",
-      "published": "2026-09-25T01:03:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "State law cited in push to keep planned downtown Merced high-speed rail station",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHh5V2VXaktmZFQ5V2hMQnhDcnR4b3d4MU16T0tCTDRzUzF6a01ENEJRRWw2NFZoVFNtVjloTHZHRGk0Z0N6ZkVmcURiMlJuNGNrNjVXdU0yaC1laHpXNUNyWkJtZ09vbDY0Ykp3X25fa2VldGNEcWRqcGRWbEtZbE90NnFLdXZ3el9EQ2ZlaVltZm9mQWROaDhCSThFdkxRM2xxT0xER2t5dHc?oc=5",
-      "source": "kmph.com",
-      "published": "2026-09-25T00:01:43+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Adler Mannheim - Krefeld Pinguine Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckppdUVDT2lUODRaSU8xVnJtN3ZVYkZNY3dCME96YXAxMEV1clozMWZqVzJCS2JPMkJVN0w0aDVKX19EbUJ5NmstS2o0aXJpOUExQ3dlMFU3OTdpdUNFcEFFQUFBb2VicGFURlJELUk0M29NM25rZGczQTE5dzM0emE0dDNSQkZPbTRkUlVPMVY4MXNaLUppS1RIS2xLSjByRDFLLWVwQ3N2ZlRUN0xxVmlUMThyZFMwTFRUTg?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:57:28+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Kölner Haie - Eisbären Berlin vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlcycjFrcDluY2F6RUlESHVCVk9ZN1k4clkzd09qRFJlQlh6VDdRdzVWV2NaUXh3LWtNQWFKSXlQenRMSy15MGxYU0lFTDZ1STBtLUVNMlR4elZXdGhWcklVMDE2MUk2dXZmbWE3c2V2RkNaLXlRUHk2d2Q3VHVOT3RaLVQweWVaQVNLN0tlU2h4Vl9QZzh1dFBxZlRCNGdhamJ6a3hQekhRcDhzSzJNTy15UGI5TmVna01hQg?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:46:27+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Löwen Frankfurt - Nürnberg Ice Tigers Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVXhYc25vUXhhLTRLUWVHM3F5emNKZm1Ua1o2bDZCWEFSaEJpX0tjeWc2c0VFeUI4Qnc4dlpwdWgxZHVLWmFodG9CWC1Uc2t4UW1aYy1OWWdkX2xvRHUxQXBheWtNY3NrTy03eWZGRk5sSEQ3Sm10RmFmNjN1a3hrOWVuUDNWbGZLUFFfaUd4MVBUUlREY2h1aE1vVnAxdTNwX3pfNDdEYVlvTUltc2FkdjEwWTJiaEJoMVBrRzRIRV9ySkhE?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:29:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Straubing Tigers - ERC Ingolstadt Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGNHajFmV05xbTlna0N1WVdCQ25YWm1Vc1VBbFJZVmdJUHFDNjRTVjhOLTFxTzhOTXZfWUhMRTFjRE92ZGJXV2lza0tFRnkwVmJ0VVZzRlo3NWpSRENQOWhUc3JOQW5rN3NQeU1Jc1JwZm5rQjNTMG1xclJpa21yeEY1RUNVdlFWNEFqYUZWX1QzT2hPeHJLUUVwWXFTY1lSS09PSFpseDZiSDViU2RmWjVZRnBfWEVCa1pkUA?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:24:05+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Grizzlys Wolfsburg - Schwenninger Wild Wings vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSTBublRCcjQzWnFmLUFkcElyNWRHN2w3Y1ZtQ3BaWVhNZ3VtaWI1SkhXaXBvbXNYb2N0S2FQMkp3WkpJX0Y2eHpCVnV5d3UtU3Y4bU5Kb1gtTWRtNFp2WWs4T2w1am5PQ0ZCcTluMldLcUZuWXdnNmIyNFVsd3hHVnZtYnloVUI5bU1hcXktSTFwWEV5UzdFa1RMb19HdElRaWhpVzZ6Z0s0c3RENEFSS2FCN3RuQURCZ2RhQzZHNWpIYnpkc25ybXpDa0lyZw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:10:56+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Straubing Tigers - ERC Ingolstadt Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSE1ObjR1azJUZjVuVkZVeVJFQWQ1aGZCT21tQzQzeUFHMjBuOTlMUXZmbVloakJ1cm5ZQ0l3T3M4ZElnQ0ZHMFE3aVE5ZXJkYVdTMVZOWXlNSkNRMW0wMUlZWXpUQ2w1OVRIbWUzQU40WlRJOUhJT1pxcDhtYy1TaUUzXzJFbkc4c29nTElWajYxYlozMjlIbk1oZHVXcnMzS2dkNkQ5TWRHdGFNNHQxTHdITVo?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:10:33+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "{{esemény}} Táblázat: Jégkorong Eredmények, eredmények és mérkőzések",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEhjS1dna1pSWW9ZajhsQ2wyYXdfMllhSGNhNDdVM0JTdG5TWUhYYVpETjF4cTVReHRYRFE4TlRyRFNNMEd4aHJDMFNiRnNRSER4NUJBVkZtOXpzYUJGR2hjVDBqVDM1SWgxUnFJdHc4RlhkWVRXUzVDVjQ3TXJhQ0FkU3JYWmdfam83ZkJsRGczX1o0b3JQbnFPNEMzYjVOb29zODBoaHd0REVzZnE2MktCRUZtd3lvanNGaQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-24T23:10:25+00:00",
       "summary": "",
       "image": null
     }
