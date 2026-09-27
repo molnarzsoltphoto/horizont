@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T14:15:32.708164+00:00",
+  "updated": "2026-09-27T14:30:41.060696+00:00",
   "articles": [
     {
       "category": "Belpolitika",
@@ -637,6 +637,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzB1T1JwZG1fNHNfbURIbEJRNlhJN00wbmNmSnc2cW9BVjVwMGtBeE1aQWtuZmt4VVU5aDRjU2NLSkwyZkpXemxJYktrRkllODF0dFZhRzR1aUxOdmZLWUpNZU44ZmVzUV94Z0JSWkFuX2w0bkZnSzJPX29DVDZhWk1aUER0ZDBMUTFiQUlya0dIdm03VHB5b0ppajg?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-26T08:31:40+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Baleset az M1-es autópályán, több kilométeres a torlódás",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ0FQMklmZnFLMHUyMVh3WFBuS21aYzQxV0pRUkFIdXpvM0R1WmpRd1VYdmNVWXVKYjcxWmh4ckIzSERSTVZKM1hLdmlYcWt3TmdLeTFSY3ZCOWNuY3JTRFUyTHA4dXJBNFpDYU11NVA5NE05SjRtNHE1T3dTZ0stcmgtYzZEZ05ZR2pGT0x0aU5iUXM?oc=5",
+      "source": "24.hu",
+      "published": "2026-09-26T08:28:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWcxU0xJblNtSmlyRVVGdFFUYUhHOUtGMldsV2tQOFVVa2FWLVBCdnczTGhCR3pEdEpvb1lZT2VkRmNma2Y0bm9RM0Flc1B3MjY0dXFNaHhPWGNUdFV3dUdNMlFoRlItb1pBNXZPb3J2OEtUQWlPZVZ0VHdsem8xTjc1a0EwUW5hdktndHJrVDFxOWhpMWpLeTBvZw?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-24T06:39:02+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "G7: 2028-ig fékezi a magyar gazdaságot az alacsonyabb inflációs cél, de hosszú távon megéri",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFAwNXpIS0hNWU1COXpiTGNBQ1NzQTVBM2dCS2tLMkJ5bkU3SlJXdVN3VmY5UHBFV1BCTnlxUGZ5cjBxVzd3ME1pSUJKdmVWZzNzcVhlMC1ld0VNMzVuNEMtOUZCelU5bUlIWENUelpoajBLM09CazROOXNYZTdsYUtjMTk0RTJJb0hWRzR3?oc=5",
-      "source": "Telex",
-      "published": "2026-09-24T06:33:06+00:00",
       "summary": "",
       "image": null
     }
