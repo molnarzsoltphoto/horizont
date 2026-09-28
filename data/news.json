@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T11:45:32.166028+00:00",
+  "updated": "2026-09-28T12:01:06.241786+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: Seszták Miklós őrizetben, új jelöltet keres Baka András",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGlVaDJzT012NW9jOEg5SVFUSHM1UjZiODkzRGM2RUcyWGJxeVNtTUdyRG9MSXBUaU9UalJyVzBsX1pQQzJ4SC1HQ3NYQmcyNEVHMjZNOXZ2RmVOejBVUjlBV2U0S2xodEJLZG81bVRZTTlldmQ4ZWpwajZsMmhUcG1aRm1lc1BST2FSQXVCQTcxT3ozeW8xT3hiU3BrOVRMR0UyeVdxMy15cGN5ZV9sQ2ZjNWw1NFpReWc?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-28T11:31:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Most kiderül, honnan szerezne pénzt a kormány a magasabb költségvetési hiányra",
@@ -1812,6 +1821,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Florida Panthers - Seattle Kraken Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkpHZDRSTnhkcFB3TnNUQ1RCS1VXOVFXVDU3U0Jhb0ZuaDhlWjRxZzI0MGNlS2FfTF9sYkNHdWF2TW5ZdmFHVU1Ta3J3TmpjRHpDTDVsdVE3Q2duZUV6S0dhV212cUs5QWZ0cnNnYTJFMlY2VDQ4RjdtdzRCMTZWMGw5VHJ0LUxtRG5wMjA2ZmNFRGVFQ0ZEZEhZZnB1eUlXU3lVaVdn?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T11:42:24+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Edmonton Oilers - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHhIazNSMEY0WTRpS2pOYzhXNno1RHY5TlBrZVJwXzNlc1JlSHhNLUpQaUNDNUVFVmt0S09EV0pYR3NXMjVwYlhtY194VDk3VWMtM1UtbG4tVVBBcDlTMVNZbFpibm8wV1lJUk5WTzV2amZUeEV1d0Q5c1hzYm1YaDdhd21pTjlidEYyYk9xWTJtb25kT1AzaFUzZkk0UHNrV2pQeHo3YkhzQQ?oc=5",
       "source": "Eurosport",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFRDUmV0VnE0bGRNaXV3Qy1EZ1NScGtKYjJLdUZSX3hPNzFlZktRZnN5bDRYOUFvTTdRS0owcnNBS19MUWdVUXZlS21UekZiM3NrWC0wYTlmcW9XVDBUZ3AxX2RDekpKUEFqcDFzTHhuY0dEOWJIc0JoYWtjei1aaUtZZk80d0ZKeU5WckpQSkxMVjJjbS16MkZSck53R2cxenRuOWJRX3VLQUN1ZVVjR21n?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T10:16:43+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "New York Rangers - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMmRUSHFxS0FrTGhXVXRsNm40Y2FnMEFzZkFwVTRlX21GcUJCOHlVVUpWQTFERDhYdVVqRmlNN2t1UWtEUjRfSmxhakw0V3ZYaUZ0LWctNENtRnl1b3VnbGRSeUdyaUlaZ21ka0xvUFFJNVFCSzRGRU54V2NmT1VJRzBseTUyMkRVQVdNVWpxbXFYQmw5MTYxVTdTcXY3c3JLZmtxcDZYTnhNdmM?oc=5",
-      "source": "eurosport.hu",
-      "published": "2026-09-27T10:16:26+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Vancouver Canucks - Edmonton Oilers vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1MzOVFKTmpEN2pVejdfSF9FaW5Ra2hzd0xNTHJrWHlyYWhOU2gyY2lZSFp3ZVhubTZ5ODlzcnE0N0ZzUXl1bXVqZXJsbHcxa09XUFZBU2lnME5STW1VS0JnWDNCVnhuLW1fLVpCZEVVdVNYX0R5Yms2b3pnZWNKQWFxcl9kSEwyMUx3WTEzaUVST1lQUG10OUtPZ0h3SlVudEJhcUdPblN2MUtpYm1QODFMaw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T10:16:18+00:00",
       "summary": "",
       "image": null
     }
