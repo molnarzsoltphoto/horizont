@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T08:15:36.126676+00:00",
+  "updated": "2026-09-28T08:30:44.937138+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "A Samsung és az Intel nélkül Szingapúr félvezetőipara még mindig a GDP 6%-át teszi ki. Miért?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUhHZUJ2NVp3cGhMdkFPcy1KYzJ0cnlUdVQxM1FiVnJXV3dPRk5FNmFLcnRoZVZ0V1NpeV95cFJoN19ZRVlJVlhNZEttZ0dHUm1qOW1UUlFPZTh5ZHRYTUUzZmxsNVQ0cnZtdmRCdTZQdEdLRVNRSWFfcGp0SWd6cjlrekRLY2FmOFprQXRGaFpRbGVjZUFVeUJCVQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-09-28T08:19:18+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Megvan az új államfő Szerbiában, ezzel már rekordot is döntött",
@@ -61,6 +70,24 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWowU3ZtNzJHeFU2UGpPX0FYSy1LX1laUzlwOEVvZGtYS0JIWXVpR1FzQ0d4RXBtY2pHLV9MS0R4aGlobGRvSVEzb3dVOXBwNjJZYnhWUWRIOVFVdzNaNUxfalFDMDdPNW45blF6aXcxcVJha3JTN0N1YlgzUTlGQy1YeG11dnRTMG5uc29vUWNLRGFqQzhobHBkakZHX0RRSmNoeGNpa1k3QzFta1E?oc=5",
       "source": "Mfor.hu",
       "published": "2026-09-28T06:41:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Történelmi lépésre készül Elon Musk cége: a Föld megkerülését célozzák a gigantikus rakétával",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQmw2cXUydW5HMFc1YV9QWTZaTjdGSGsyV2JLLTF5Nmh4ODQ3dXRvempBOFZ5dkt1a2xqNEpkS2d0eXR2NGpDdjJOYlNUbEVaZXowNzluak95d1VTRWVUNUlXVTc2MkczOHdQclRTSlBXQ3JKREhITVpVaVFiU2NQTUdwSnRNQmJZSHVCS2RvQmdSZXJyQTItWHVGcEpVMnFmVFdHTGlLQ3VjSElVTVBqTXNNUkxpb2pzVmFpc1R0cW1OOFRKdEtnSFExd09vajdrc1BSVWZVU1FVUVXSAdsBQVVfeXFMUEJsNnF1MnVuRzBXNWFfUFk2Wk43RkhrMldiSy0xeTZoeDg0N3V0b3pqQThWeXZLdWtsajRKZEtndHl0djRqQ3YyTmJTVGxFWmV6MDc5bmpPeXdVU0VlVDVJV1U3NjJHMzh3UHJUU0pQV0NySkRISE1aVWlRYlNjUE1HcEp0TUJiWUh1Qktkb0JnUmVyckEyLVh1RnBKVTJxZlRXR0xpS0N1Y0hJVU1Qak1zTVJMaW9qc1ZhaXNUdHFtTjhUSnRLZ0hRMXdPb2o3a3NQUlVmVVNRVVFV?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-28T06:35:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Vezércikk Café - Brüsszelben vonakodnak fizetni",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcE5XZ2lKYkpGZm5YdExRZ0tUems0bE1lZ21Kc3d0cnY3LVRTVGxCMVdqcVExUHAyb1A4TV9VNk9PSFpYNzhVbE5kcDE0ZVNJallpMFhaN0tJc2VMczI0amppQVdzT1NLTllFdlJPSHk5S1FadDhnaTJ3RGtvaWVCWlh3MEZna2tRX05jcUJ5NkNLb3MtYTdISGtMVTNEZWtVN09DcFJjRkVSQjBtUVlkQ0dWVQ?oc=5",
+      "source": "HírTv",
+      "published": "2026-09-28T06:31:54+00:00",
       "summary": "",
       "image": null
     },
@@ -241,6 +268,15 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRk1tOTNRRU94M05xbHp6bHN5WUY5X2FVdm1KTEFIdXVsOEd0Qi1kNnBGc2d3Uk81a1FhN3dGMTNMbmNyMnJNanRTMWlpQnZrak9EYnE3djc5SzRxYXl6bHlSSUVaUERNeHN6aHdHZkhRNHl1bmhaaGFTeVE1aVlpeEhqY1JvdjM0eXJsQmNzWTZDV1dMdTc4NGFIX3ZmZHpVV1g0WEp4ZGpxZmhrdldUTUhtXy0?oc=5",
       "source": "Eurosport",
       "published": "2026-09-28T03:48:29+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Seattle Kraken - Buffalo Sabres Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUpTdzd6OW1fQ1FtMVR1YUdWV2dzM1ZmWFd3SldfYmlzU0hVZGtxR2ctNi1xVFdDMkVjc05fVVRQWmRpQkV0eGNQSDVMRG1UMU12TEFRd0NfM2JKaEt5MkJYODlTU0lCWUE4WmF2TUpZaGJKTS1KQ3dLV3lpWjJzSFgyNTEwNnhQYjdlSmN1VDVnanRGTjRSck0yM1ZFNFZkUHZN?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-28T03:19:17+00:00",
       "summary": "",
       "image": null
     },
@@ -2212,42 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGRIVXd4WWFybFQycERwT1pueTdVallFYnBkSzlSU1AwSGZHX1FCRjlRVnIxdk1NVnAxTTM0bHU5STdxdUZkWlhaZE1YMmZQMnhma2NGdFlabE9OTHNfemY2RGRFeGJLQUZVYWpJMkM3eW5uQklCdmQzUmplSGk1RXE0aGNMYlBPd25rWms1a0pfeEcwRGJwZVRpNm4yRUFpRHpOYXBCUnlVazF5cjV0V2pR?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T00:04:05+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Krefeld Pinguine - Schwenninger Wild Wings Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDFQWkJodG5xTl9GeWcya0ZNLXhzMEhXYWhvVUdkWDVDcFBIVUxTWDBMVC1jbmtZMUlBcVNKeVdfY2pidzQta1htbEtVWXhIR2g3WnNzalRyaXJJWDlCUUtxcGRKZV9WT2RQbzE2OXFuai1WeDFSNXlDemkyRFdQWDhUVHc4ejZiVXNaRWR0X0duUzYzN2Q5Ni11MkgyUDMzMTFfaF9wanFqTm93S1VWdU1rX0Itd21UdkJuY3dqWXQ?oc=5",
-      "source": "eurosport.hu",
-      "published": "2026-09-27T00:02:24+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Ez a háború kitörése óta először történt meg: zárt ajtók mögött csapott össze az orosz és a német külügyminiszter",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU3ZoSUw2Qks2cmU0ZHl0NDdud25vS3JrRDNQMFBKaWp0VkVnRHhyZ2taNU42Qy1LUDd4bE1OM3Zfbk5SQVhIZy00T3ZDeTB1RDRhaVlyb2I4bS1DSzYxcHI1RWhEMUF2OU15akVJX2ZWZldYV0pIQzV4VkVsek9ZV0ItZm5wUnRZSmotdnI2MkZTbFhTQkRDQlp1SmpQUkYxdGVseTExd3Y5WHBnVjhyMTVHVFZ2N0pLcEZ6UzFrdFVhWjdjVV9DLURpcV9WZkRhQUI0a3V1dmdlYmZBVHVlekFCYVlsc2VubHZrU0tEMlJDQWc1akRxcmZB0gH6AUFVX3lxTE1TdmhJTDZCSzZyZTRkeXQ0N253bm9LcmtEM1AwUEppanRWRWdEeHJna1o1TjZDLUtQN3hsTU4zdl9uTlJBWEhnLTRPdkN5MHVENGFpWXJvYjhtLUNLNjFwcjVFaEQxQXY5TXlqRUlfZlZmV1hXSkhDNXhWRWx6T1lXQi1mbnBSdFlKai12cjYyRlNsWFNCRENCWnVKalBSRjF0ZWx5MTF3djlYcGdWOHIxNUdUVnY3SktwRnpTMWt0VWFaN2NVX0MtRGlxX1ZmRGFBQjRrdXV2Z2ViZkFUdWV6QUJhWWxzZW5sdmtTS0QyUkNBZzVqRHFyZkE?oc=5",
-      "source": "Pénzcentrum",
-      "published": "2026-09-26T20:35:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Troll - A színlelt újságolvasás nyomában",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVFtaVRQNEdGMFQwX3p5TXFwMXpGQ2lBY01hQTU5cm83T0pMWHdCcE1uSFRjbFlsUDhuUzhsUDY5WXR5NUpzT2N2RmJGZ0RVY1BhTlE4WXBaY2hoRjlvTW5ydXIwOEFLODlwYVdvdXZuTDdpOXNwWVhnOXliYVU4N3pfNFdLamM?oc=5",
-      "source": "HírTv",
-      "published": "2026-09-26T20:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "2028 végéig a MÁV marad Szegeden, addig újra megpályáztatják a helyi közszolgáltatási feladatot",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOekNfYXdoMjYtWHZsdlJnTHlFakZSWmFVSDZ2Z1lRaEV5WGwzdDBtXzR5aktFRGJCaHJlU0taTFNyLXpKX2hmd3ROS254dzFkOUFxWTUxeWx1WUxJMU13aVZfVzAzQWdSU2FuT3Njb1I2SktFV2ZkZ0dBbTE5Tk0wRFdnOWZzTEd3YkVQOW9OY3Z5ZGpLMnM4bXl2ZUpRT3AtbERIUEhGSlZveVFwRmxLM1Y4blYwTDhWNlJ3ZndlQjItNUZHTXlqNUt3?oc=5",
-      "source": "Magyarbusz [Info]",
-      "published": "2026-09-26T19:05:44+00:00",
       "summary": "",
       "image": null
     }
