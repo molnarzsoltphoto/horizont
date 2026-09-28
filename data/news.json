@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-28T00:30:40.553197+00:00",
+  "updated": "2026-09-28T00:45:31.953921+00:00",
   "articles": [
+    {
+      "category": "Jégkorong",
+      "title": "Seattle Kraken - Edmonton Oilers Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2FlR3B3NjNPei1UbV9HUWlybGx1OW9hNmRzd3E0WjBIdGhjU0h1dDBmbVBUS09xcmVlQ0gtSk5WSVFTS1pmcUpYUFpTNGFGNk5ONl9pUkhBRFFwNjZzUG5YVnJESUJJLUU0OXN1amlGcmxaLVA5dGxhOExJNG5RTjZZVVZVXzVJVEloOElaYmJiWENoZlhJQi0tVGhmcGEzQlhvWA?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T23:05:12+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Nashville Predators - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTRIaVJBTllRbDZRM0FvN0hSR3ZLTnpBQTBrN3pQVU5yc3pGR1NMSm9hLV9CRXFGc3lhbEdhc2hNeFBnbER2a21EdTVXQlNJRmVKVGlEbVU4dDFpX3Q0X3hPYmR1VWJ5cHBUZHhqZGxqQlBtSVRWNUg2cTJvaExPUkNrZFJ0eWMydERvVFFwMVVDc0ExQ0MtWEhON01sUzhJNlhSSXRfMA?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T22:29:07+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Dallas Stars - Pittsburgh Penguins vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODBrMkktVjJRRE5ScERPYjNHYkZaVUlTeHdlcXc1b2NGTXA4NTVwRlhuZ0F3UEdzZF9fTFZLdVE3aUk4QmVGQVVQNHdOUUY4SVExOXo2M1k5VEd2ZjFFLThROU5ialhzSVFIWEZPb0RYMlE0TnJ4NjREbVRQLWctellhZVdNakxlcFRhVVljWDZlQUFXWGpSQXdQX1pSZVdMcmVqaU11cVFGS1VkbHhENjhB?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T21:59:42+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Seattle Kraken - Vancouver Canucks Összefoglaló: Jégkorong gólok & Összefoglalók",
@@ -25,6 +52,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV095aHdldHpZcGo0UVA3WHhvUmlmYS1JRjNrc3Jsem1qMkx4a0p6bUNubFZLZXFRR1V6TTJNNGtXRkItTEU5OHdYaHRXUktJTzM2Tkp3VllfdjZodWNmR0c4OFkzckYzZC1NenV0ODMtaUNMSnhsNkNnWHB2NnpscTYyd1Q0NVdPZTJUcnJDRjhxcmxaRTAzZ2JncEo1b1UzRlNnc2phSHlhT3pLVXI2Ng?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T21:35:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Winnipeg Jets - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTBDOWRYSzBPZGtzZ29ieW00YzBPZ1JDQUd4eE91czlwdEFjNnRnZ0lQUnJWOXFtSEZELTZ3S0JkazQ0a3ZFcWZSLUxVekcxa1lJU2FFZG1hT0trS3JnTFgxYmE4TU1UaGxCM1E0a2dCcDFwc04tcVBwZHFBdElzYkt5VTkzb3Z3UGtIbXNkbEZHTHJXbzdrMUozcThtVkE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T21:33:04+00:00",
       "summary": "",
       "image": null
     },
@@ -394,6 +430,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXB0TTFlakswS2wybHhIcXkxVG00Yzg1MXpvb19aSTR5NnU4bkFJVklBeUM1N3VpYTR3VnByUEFMSG81MERic1h0VGJGNkl4eXFmQWxJbDREMmtmYVk2RHRkWlBTeEs1U2J6Z1ZKMTlFSkthcDFhTE5WVW85S1c3aVhObnZSMlVoRTItWmc4VWEyTklrcEZxWFgtZHpmSmpHa1RELXdmU1lEbDRtb2dGaVMwX2RhMS00ZWc?oc=5",
       "source": "IndexBox",
       "published": "2026-09-27T15:36:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Philadelphia Flyers - Anaheim Ducks Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHoyaS0wbEcyUE9PV0FkbEROcVNfSkxtX0s5TmM5N1N4QzJEY2ZVMXExdWJrZHNOSjQxaFQ3MERzdFZXajJrYXVtMFRBdEYwbllhZTkwMnJJVm9hSHFwREVhQ24yU2lkVzlBZ3NZUmFKanRqaFlIYU1JdzFDY0ZoblZGN2cwcEtqNWxsc2taVW1ETXpnREZrOUZoUUJGVTFvb1hkVldMVU5vSldfQnVsXw?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T15:32:52+00:00",
       "summary": "",
       "image": null
     },
@@ -790,6 +835,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnVMOVo5Rk1MS3AtYlpLRFlnTy1DaUo2UFZtSzQydmMzNVMxbk83VElZeHhrdTVXRG1zNHZMM0hVZUpoMjhHbnlkaGRVVmtNaGY5UWlMQTNmaHNFX2NYUVFOUWJYOGpEenF6ZWFxb0JOS0xMOWRwSnFWWm9PWWVIVDRZbzhRNjUwaGNIY0dva194anpmZVNneWRuNy1hVkpCc2cwSVNn?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T11:51:24+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Buffalo Sabres - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDJYMy0wQ2g2Y2NDNWFfdzNFRjFtQUllWVo1Q1huTVpIeGlGMGgzdjlCeEgyckhxcGl6bXVWTlhUZHd0U0tPSlNYNFVFVXJtXzFRZzZmZENPdG9QU1htRUpucmtDMUxEQ09kWUg5VG16c1hNOGtrZDBERG56cXkzTG93cnhjZXk5WG0wNGtSMTZkSjNQYVlmcTh1d3ZEaFkz?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T11:49:50+00:00",
       "summary": "",
       "image": null
     },
@@ -2027,6 +2081,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: mentőöv jöhet Budapestnek, fordulat állt be a magyar-ukrán viszonyba",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY243OUhBWHVFRzBMVTN5RENDUFRzTS12YUgxdFZBY29WVEsySkc5WFlpRU9idjhUeEltNTA3ckd0WlBnVllSdlpVbDJJZDlxV010ME5RTjJQaG1lT0t3N2ZMY044WllTc3Yzb3NibXNBMmJrNXZhT2J3bXhDeXhhRERTbzd3UDVXOWxIZWY0WVNUNjl3dUdpS1ZSNm9UNGxBY2dPQnNHUkJNS2xLNzR1VzFjUDUtRE1DdWl0QV96bFZ4YUVoWlBaN012UdIB0AFBVV95cUxPVGhHN2xyT05mcHIxNE9lNFRGNXZQb3NkbUE2WWVnWW05UkdhbG5iaTlEVGcwSGlzN3BVMDgyR0g1NkxndWR0eFBaV3NmakJvSnhzWG82dTZORlk0ZlEzT3hvZE5HY2JrS2YyRVU2cWZXckRTdFJlZVk0V1ZhRE9sanNiVm9fZEpPT1ZhNS1WZ1pBOGdrSkVhMURaZTV2NmJyM0RvVkZ5TEVTNmlwbnlsZHNGRG43TG53R3ZaMUx0ZXVUVG9NQW1PU090aHBtd1NN?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-25T20:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Csillagászat",
       "title": "Életre kelt a NASA új űrteleszkópjának 300 megapixeles kamerája",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMWk4Vkh1Q3NZLVdkdU5PTThzeXZWb01tcWVQVEdoTTdETldJQmJxUEx0bXRTQWRYa2N1SV9qSUZSdWxCTHBsUGhaYzZSVG1hVE80U2J1QmdGQlNuaXF3?oc=5",
@@ -2185,69 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR1RQVjUyZ0JhOVBTa0xKRmYwazUwQk4xYXkwTkNDclN0VFBkRFBOdWtCTnFCc19rN3BXYmZZTUVYeVlhOUFmajBlazUzOGpUSFZDSEt4b3NLMXZyd0FKbmtVMF9USlhiYTc3cUl1dHFWbURzaWUyVG5XN1ZPY25RakxkcDVqTnk5ZnZhVHU0a09Ya290MS1LME9IWXBYMW9Hc2p1YjVnelZ6dTFwenhSNGJnTHYtOHlOTDdlWWJGOHFxekNIUkRqUGItLXRaeXdLUHJ4Z2RfRUY4OWVwdDVOVEU0UTZrbkJYdXdybi1QOWFxNkVo?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-25T16:29:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Kína közelebb került a Jupiter-misszióhoz a StarNAV-koncepciójának megvalósításával",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUVva0dtS2xMWmxxdmhhMnppZ255SGltNVRTZ19ZUGVpUnlROEUzd3QxVHBxX3FFZXZRbURaWm42aG8wZGdqTEpfQkpBdTVBNGdPMFdIMzBrQnZGSTYtUjRQeWZwR1NqbzRXeWdjdVpiVHRCV0MyRXVoLVRFazRYdWxkSDdQUXI4ZTU4MlRqb0l4eUVYaVRHX3AxVGdOaWZtV1ZLQlQ0a2o3ZE0?oc=5",
-      "source": "Spacejunkie.hu",
-      "published": "2026-09-25T16:17:32+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "A HÉV-felújításhoz szükséges közlekedési fejlesztésekről kért államtitkári egyeztetést a Szentendrei járás három polgármestere",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNanppLXU2Vl9ZS1dUQ1BsVWpaQjVzTy1zdlhKdmxESVhnWEhvMjR2RXhzSjEteVlKOFR0WFZ5LUhBQ1BWMDZtSW9kcXBhdVA3OU82NmVjMkNXOEJIc2hlb1B2VUt6ZGtLUENMS3M5Mlk5bDRaUFhsZ3E0d1p4bTY1ME5veWJEYkxjWGIzam1HUE1LZnR1dFFLSTNMUmdRcG9ORnB1WVV3X0RIYnJHREdsYkJpVHo5ZzNLazNvNXU2MW5mbVBDZkItRTF4MlZDLUtheG42b0VnRkNnbmV0LXBTSGNlZw?oc=5",
-      "source": "Szentendre Város Hivatalos honlapja",
-      "published": "2026-09-25T16:15:46+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Magyar Péter: A gyártás, az export, a GDP mind fontosak, de egyik sem lehet fontosabb az embernél",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbG0wVDBXVzFEUXZWV1FlLUY0S3hJZXhYWlhWajF0WENVblk2NTVNRnM1YmRqMzdxWFNCS2E4T2dnQTdvRV83cVZkUzRyclB5QV8ySzNwRzBEV1ZxendHSkYxellDVVFGdTM3Y0pNcGRDODVPUmpHTzk5ODA1bFE5VldDYk1hOHhmWmZHd1drdGVPZGlab2JobnF4enM3bzdYT3R0MmhHT08zU3MwXzV1RGsxZm41ay1yVmNEaGJYYkVTLVk?oc=5",
-      "source": "Magyar Hang",
-      "published": "2026-09-25T15:45:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Ruszin-Szendi Romulusz: „Ha megmondanám, következményei lennének” – komoly üzletekről is tárgyalhatott Budapesten a német védelmi miniszter",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUHU4eDF3MjR0WGZ1VXVMdUtUZDhZVFYycWRPLUtfMk9fQl9ZZ3dzaVpQZmptWmVmLWs4STVIVFhKNmZhT0huYWNEOUk4dGpRamdtRzV4a3hJdDlfcWp4Z1czbl9GRGF2NFpyd3BxZmdDX3NEMkVSUWVSMlFXMkZ4RzI4T0JDdTJTRnB2LWIxSlFnREd3bF9Cbng3VnpSUEZUVU8wODBKYlBQSEVGaXdEWkhwZFV6N2lJTG5mUm1QNlJQd21DVjg3TzJFSk8tWm5EbEJDUnBZOHVfdG56Tm1PQXQ2UzFMOHdabVI5Rm1xQ2t2anpka2FRS293Szl5Y3ZiSUU5Yw?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-09-25T15:37:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tanács Zoltán bejelentette, büntetőfeljelentést tesz a kormány a félkész ingatlan-nyilvántartási rendszer miatt",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNTAxWnlTUmlyUEtaYVZZVTV0QVBWOTNRcVVnU0VuWUhPSkVidEZ6NmtfZXJpQXl1ZUZoWDdIRG5vLXcxYkFhLUppc0JTRXJxY1NaNzltTGtWX1UtVkktcU5UMm1ZTExndGR5M3pDUlpkNFJreElBV1REM3FqY0hzTXFlaU1ya1FySmNjdFY0bFZPRkFRWTQ2Tmw2QW9SVnowaWNkLU5QUFl2SVRhckRHUUliTmFramR3S3pTV3Rhd2tIYy1qZkdjYmNGRlFmeEh5QVIwWkhFRjJKT19WUHlBbHNZYVJvNldwTGpLXzhvalc4QdIB9wFBVV95cUxNdXI5MjZCb1ZrbElOZTVCR2FvVnVQcEJ1WEp3Q21RVmEycnpGZU1uUHBOZ3lsZnk5Zm1YS1p0dTdYTEVLMklpN01aSDQwc1lsN3RVQTlkbWMyUk5RUzhMZVg2UDdxcTdhX1NzT2lWRVpkV0d0R2l5SUJVbU9UWkVKdVBQTUdJcjFIZUs1WmdnN0hqWk91bmdPZDEzZDhoQ0ZhUEhndGt1dXozU2NJdTNjVDRBc0VwZFJtMzJpY0tRSnlydlZ5T1FNa0k1a1BOa1d3ZDluWEVleDVCSkJ5SVozckJhUGd6enpyNzZLNXB6LTlERTNqYktz?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-25T15:03:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Nagy lépés a gyalogosbarát Budapest felé",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUNmTVJUSHZORmo3eW83bHdDUUIxRklEQXc3NFR4MHZ1N2lmdkZ5WHlXODdMSE5BN2o3VVJHMVpOdmF6MElqYnN1TXl4UTdIMHRpVGRRdkNNWEVJZFhFYm01ZWNMaXlybUZLdjZFQ3pBTUFBSVlqYm93bkwyT1hQcUNn?oc=5",
-      "source": "BKK",
-      "published": "2026-09-25T14:35:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Közoktatás: Semmi nem utal arra, hogy az új kormány megszüntetné az iskolaőrséget az ORFK szerint",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1rblVLakZyczc4eXlMYXVNZ1lXNmJEdDgxYzQxdlN4Q2s4bHRnM0xPRjRWM2JmZUlhZFlOam5LU3kxOFZ1ZC1aeERoT1B6Vm82Z2IzbXo1LUxwSzE0ODlsSmIzWjRxdUtQUnkzM0JOTi1rUXJZWWtJYUE2c2M2YUV6WVRMVTNLVUg3OXA4U3ZlaTY0bkE?oc=5",
-      "source": "| eduline.hu",
-      "published": "2026-09-25T14:32:00+00:00",
       "summary": "",
       "image": null
     }
