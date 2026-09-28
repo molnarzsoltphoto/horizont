@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:00:58.088291+00:00",
+  "updated": "2026-09-28T17:15:33.416567+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -52,6 +52,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaV9IMTB6bWFGS0tMZmtnbmZWV0NadFdjUV9KYTNrM1VFM2JYZXV4YmJWUVJzMEVPNzR4LW1JMTlwQmVLUmxrRU11SDlHX1VfYVlCckFfTmoySHVKb0Z6Szh5bXdiYW4xLVhiYXh1aktrWU54endnaEk3WGF1LTdkNG9yRDZvRVdfaGRMeFlFRlRVR241dHA0LUhacmc?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-28T15:53:13+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "NB III: Újpest FC II-Szolnoki MÁV FC 2-1",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFQ2lJZG15ODVOeGNNVWk0Vmg5LUZLbzkzV2ZUdEhNY24yN0FKNHlFaFJfVGt3eXNUdmxITU1pcENINEhfZGlmUU5pR3VRalFBVnJNMUF5M2otci1IZV9tYmRtVWlrbDdvWGJ2bml3ZXl3UnI3QXNV?oc=5",
+      "source": "Újpest FC",
+      "published": "2026-09-28T15:52:32+00:00",
       "summary": "",
       "image": null
     },
@@ -411,6 +420,15 @@
       "title": "China opens four high-speed rail lines, expanding national network-Xinhua",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVdPUE9EdktKZ2VITlpnMnFDaUNNVkFZX3lETnNxYlMwN292TUp3RXZCMzlydDNZajE0WGo2X1VKd2xPMnQ5WWJtWUJXSmpOLUR4WHQ0QVFINW41NUdubmU4MU9IRHVmb3NVZXhPTnk2dktaWGZkWVZXY24zQkxXTQ?oc=5",
       "source": "新华网",
+      "published": "2026-09-28T08:01:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "China opens four high-speed rail lines, expanding national network",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zMFdEQ0trS3psaWlJd3Z4RHR4LVgyMGpmanJlNGd5SGpOX2xhSHJRdU5Sa1EyU1BlTUlSek9reVFIYlp2UFkyQU9tQVJVSjV4MWlGenE2Y2t4b1F4UGs1dHVmbm0xUzlhOUkyQWdwTE9tcWxDcTZuazZwVE0?oc=5",
+      "source": "Xinhua",
       "published": "2026-09-28T08:01:21+00:00",
       "summary": "",
       "image": null
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFZSZUw2blZmd2ZPM0FHLTNvSHB0T2MwZlRvb19sT3QyNjNVNUhtbko1MGd4SDc5Qk44RHo5ZThUN3VVRGZybGNZNl9IZW1GckRENFRZOFJMYkQ4NDFFaF9uOUZmYTBSRWpvbDBoYUh5N196SENYWFZfMktfaWd2UEhNSkplVE9QZUtPLWV0MFNleTVHYUdLUFdvNEgzaVBYWWpCNnJRNEVrRmVJOWRKVGRpeU4tSExibWpB?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T11:27:47+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Dallas Stars - St. Louis Blues vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamdGeVJZS1pBTk1VQWxsdWpIWG1ER2laMzhlZTZtSV95eG8zWmlJY1ItRVVNQko0Q1R5cGs3dm1JdkNaYU5qMWxOVzM4TG9GNzNYZzQza184WGFzRC1zY3dTdW8tTGJKSVVDcjg5OGlieDVPYW9kclIwWThBenZJTHpyVTNKdVg3d2E4bDZqR0RJNHdmZG11S1FWWi1zeFE4MklUVGR0Ry13ZWZF?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T11:21:27+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "A párt külpolitikai lenyomata Lao Cai határvidékén.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94aHBRMzAtYVV3X2ZVM0tSSXRoaWFrQUpSQzg4U3dwa1Vac2V6Z0lXejNZNGVyMTluLUszdnZqcjdtYlZDazg1bkkyNUFzU1ZlRjk5dUJzNlVvOXZLUG5oX1pMejlJa2ZVWHlEcVBwdTlfVnUwZnc?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-27T11:14:53+00:00",
       "summary": "",
       "image": null
     }
