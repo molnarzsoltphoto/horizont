@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T02:30:44.065707+00:00",
+  "updated": "2026-09-28T02:45:31.497158+00:00",
   "articles": [
+    {
+      "category": "Külpolitika",
+      "title": "Mi vár ránk, mit kéne tenni?",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMF9UUkxXNnZfWXdjOG51ZnplRFd4WlNXTmUyTFZvUXRzVVJlNk0yS0NSOGRodnpaOC1JdkhMVUxJRjlDR0hDOGx0VnZBcjdoYWFZa0RkQUFUQQ?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-09-28T00:55:21+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Seattle Kraken - Edmonton Oilers Összefoglaló: Jégkorong gólok & Összefoglalók",
@@ -502,6 +511,15 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTAyczR0NjNxMTZEWjIyRWVjU0Z5ZDRRSjNDbTF6YlZSTnFsbHZvZjFPczhkelpKQXFPR1c3OHpXS0RuWG5zMEp4bTI2R3JXd3Z3T29ab2ZOcHlVX1l6aXZBRjFRRG5FRGxLOTFaTmU3M29DU0t5aERtTDFaYzVzc0thNHlTRHpUZTQ3RGpFV3dORnNqTUxISXlpSjM1LVJfUkdvR0taS3VlZXNaMjg2R2E4VTBMZw?oc=5",
       "source": "eurosport.hu",
       "published": "2026-09-27T15:42:07+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Új részleteket közölt Hegedűs Zsolt a kormány várólista-csökkentési programjáról",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1lPZ29FRnhmNUh3cWJJRnprQUVNZjNveEotOW9mNUN3dlBzeGtNd3JQcHFrenVrUW5YSUJBUWloWkxqYXU3SGE5YnV5NXpfalJTUDU4Yks5OXNNbjNXTnhJcEZsVjNTMmEwNzlOYUFxa0tmdTB3WE5udHVOTHRaVE80V2pCaEYxZkFRQzF3b0RBSlIyRXJ4MnFrLWk2YUU2R1FIMndzS3VhV0F4UC0tRUxPd1ZfZE9LTFdPRzFrbHRkUThUZS1jZEx3Sl9mbnM?oc=5",
+      "source": "Telex",
+      "published": "2026-09-27T15:37:57+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqTEdmU09hQmhUSXpzbUh6SmtGZDRJRFdHR2pZeUpCS3I3Nm5oenZxNlFpc0hVeW9EVDRDQ0tMMk1LaDJLY3VFX211aFFXSnB5VWI0YUFnR0RPWUNZMEJmaw?oc=5",
       "source": "androgeek.hu",
       "published": "2026-09-25T18:40:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Átgázolt az Acélbikákon, tízig meg sem állt a Gyergyói Hoki Klub",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlVCYnNlV2h1ZGloNTBtRXRyVmw5N24zWTlHRWp2X01fUnlIamNXdnI0UkN0WWc1STNVODNZbXFkWW1BbjZFaW13S084Zm9zaFVJcTVkeVBoY3FlNUdpWnltTDRyS0premhBTVNaeG9VOEd3el9iMlV1ekt0TGUtbnRoejBpSElPTGFqblFkZEwxWEpmRkl5MkFIcUNFNzF5NGNV?oc=5",
-      "source": "Székely Sport",
-      "published": "2026-09-25T18:26:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "14 nagykövet felmentése a Magyar Közlönyben: Kinevezések és változások a magyar diplomáciában",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDlQWEt4MWlEOG9YbzRUUGh4b0EzR3gyQUtwdk1hcHpEVUdLcTBqT1VIeldGdUFxQkpPT1p4X1NGOHNMaHRhbWNUb3c3djZKWktBUGw4UERDRzFuTFl1MFAxOEN6andWV0NYS1dBS2U2ZjlwQVZMVnRBc1U1YW96WnJnRXRwUkw0YzE0X05DVW0yb0lvMnlVaFhqUjN2UkZuTWk3WTlpdmd4ZENHR1pPb3F0MA?oc=5",
-      "source": "maikurir",
-      "published": "2026-09-25T18:22:03+00:00",
       "summary": "",
       "image": null
     }
