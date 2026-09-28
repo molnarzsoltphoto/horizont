@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-28T18:45:33.798563+00:00",
+  "updated": "2026-09-28T19:00:54.374002+00:00",
   "articles": [
+    {
+      "category": "Nemzetközi vasút",
+      "title": "High Speed Rail Plan One Year On: Industry Says Money Is not the Problem",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxDbFd3ZUVsc3BzakVVT2t2S0hHY0tWMlZna1U1bEUwNXBmR3cyVzRxMEZBWnBGdkVKWHFuRVBPN0RZOGhkZkc0Y3NVb3YxZHQtSjRvTVR2WXNrUExSZnd3Y2p0UG1xZDR5THZ3Wm9RSkkzek5LeDhiSHVGQ1FucWNWaVlGcUgyMHNidzNZTDlmS2FCNE9Pd1NYSlBKeFo3OHpn?oc=5",
+      "source": "IndexBox",
+      "published": "2026-09-28T18:41:52+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Volánbusz-ügy: 3 milliárd forintnyi vagyonelemet biztosítottak a hatóságok",
@@ -52,6 +61,15 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkVvSVZUMXZKeG9XcFFIUWQ4bTh0OHFlalZIYlgtSWpwc1RHRTkyR3RtWjdDRU9GQzJjbnN5SEZlX3dPekkwLWNMUkt0NWlvWFZGOFQ3NzdJa2J1NWxKSGZZRjZPUDlveU9SdktjWW15VWtMM185OVJkVUxxMnF1LXpKVjdMR01zMENud25NV3dBM0Y3X2JvMXYxYjZWSzBo?oc=5",
       "source": "mfor.hu",
       "published": "2026-09-28T17:44:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Kivenné a kormány a közszolgálati egyetem kezéből a tanárok továbbképzését, az iskolák saját kurzusokat indíthatnak",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0RfcXBpSzQxY1dKLTZURjhqaVZWVF9TSlBrWFlaRkdZVHdsa2tuVWlBd2tmeVBsUFZZa3o4cUpJNi1TMGhoRW9GdC1Ub1V5bW1abkFxWEhxZWJ0TE1MWFEwY296aHdlaDR0WFBxc2J0QjIwcWtSUm9YanRtcW1OeThRQm5zam56cG1xQ2dNWEpMTGc1V3JQOG9qNGZscmhHQVpBemM2UEthbk5Ub2R1U2NWblFqaU83Z3BPOHpkNGUycnM4czhz?oc=5",
+      "source": "Telex",
+      "published": "2026-09-28T17:33:17+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdS03WXpuYTAwWkZBT0thVW00T2tGRTFrUEhzMTNTQ1BfcjNqOXppaTBmNFJ0emxid0FNNVBRbkw1NnZaYmVQZlo0THJIV2NrTlpjaXlUZkpqQ1NhYU9XaWxMNzdDYjc0YW5UVDU5a3hfbUMzSUxYNm9kLXY3aURHZHRWVHRTTWFXcGwtMGxvTjJIdGYwazJOOEdCTUo1bDdZb1pTcXlHN2VJTThvbzNV?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T11:53:39+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Toronto Maple Leafs - Buffalo Sabres vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEZWUzMza1A4T2xVZXRpb2hxU0EwOS1OdFFWZVBxNWk3eTZzOHRlakxNWTFkdnJ0bnhqZTFDNW5XbVVYTHpKeVVyZzNQd3RoSTI2SFNGNWx3WFZIaTVXWnh2Y0s1bnhLaE5XVEJ2dFJJMjlHTTV6ZHFrd01IaG80ZVBfNmR2M0xRQzhHNVdLdGFkenZmSFNsVjFLbXY5SFVXUklqajJHd0FJTk93ZG5ycnBBbXY?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T11:52:53+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Detroit Red Wings - Winnipeg Jets Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2lJMlJKZkNaWjBvay1JY3N5TlQzTEJjQ0NZWWJTNzRBb1ZibW9mT2I4RThkZXZ1ZWdfdWxPangxbm5raGhQM2o0Ty0tMU4tb1F4Yjl0dHVUaEUwOEM3NVVvR2k1eDBmTzZSZ1JFXzZ4WFh3bFAzbER4MDAwZjRFNzJLa0NROHFvenk4X0VQTV92Y0JVWTg0M3oyNEFTZV9PTVpTNl93?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T11:52:36+00:00",
       "summary": "",
       "image": null
     }
