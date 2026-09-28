@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T04:30:40.008041+00:00",
+  "updated": "2026-09-28T04:45:31.039123+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -34,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMF9UUkxXNnZfWXdjOG51ZnplRFd4WlNXTmUyTFZvUXRzVVJlNk0yS0NSOGRodnpaOC1JdkhMVUxJRjlDR0hDOGx0VnZBcjdoYWFZa0RkQUFUQQ?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-28T00:55:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Minnesota Wild - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEdaZG1Va1ZMNVpQYzh3MFlNOTN3RTRtWnlvcXo2WDBxWnJtNnMtdnkwdm1rUThvdElZbHYtazdwMjJrNkxKb3p2S0pPQ0hpYkdJU3FSenN3OVBaQjJaalNQeFNkcVNMYUFSRjkybUFISkp3THBkdGRWUzI5M2lQM2xhR1IwSWYtNjVTbnFIR0dVaDM2d2JOQ0xKbk5lZnVwelJIelFCVUo?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-27T23:08:40+00:00",
       "summary": "",
       "image": null
     },
@@ -502,6 +511,15 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0RMclhrc0FSNE0teFpaSFk1dy1wUS1teTJvMkpMUWJLQnVaZHVJNlZqM21vdi14YUdNQ0o1YlFvb0hySGpDYnhBT2NMTk1XRFpINkZvczVYR1Z2NGQtY09HbFlSbFZEbjVoa0Y3MVZaRXZ0N3RxRGRDcGdseEs0ZGJsandlT3VsNVpINGJmTTJ5RTB4RGp2NjZITVNpUnRxVnZKR3BySQ?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T16:36:18+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "2021-ben döntött úgy az előző kormány, hogy az autópályák üzemeltetését és fejlesztését inkább egy magáncégre bízza, vagyis kiadja koncesszióba. A közbeszerzést egy európai szinten is meglepő nagyságrendű koncesszióra írták ki. A győztes kizárólagos",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSDdZY1hnRnRnVDVHVHZDT3N0M1JGR1dYNmJxRWUzdWlDNE4xT1V6ejExN2Fya2o4aXA5TnBNTXVpeF8xTVZVblBhR2FVMmpvRGp1dlBkUlVRSzlFR0ZiczhrZ3ZUNUxrOW9PY25RRHBQWGtnZVIyeWdrcnJyVC1TTmJ3dmpFSmJWRGtFeVVydXBnS0l1cUtGN2tzQmRlVHNCT2FXZHR0V1N0a01ZcENHYXlJUWVCWTN0Q1dyOHNTWlotTDgyVnZ1M3F0MGtSb01MZXdzYko5V281c0xHakhKYjFNYnQxOTJnd09VcU1JYkNzc1EwUHhJZWJ3UVF6dHk4d2VLNHdQZFJmOUh4SnhWaTZ6cF9zNkVPME9yUzh1dTI1VVowVThqTTJrME5WbnM?oc=5",
+      "source": "facebook.com",
+      "published": "2026-09-27T16:35:33+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd3l6UUUyTkprcUc5YkNOdkpZUkFYLVFZV3A0RlF2b3dhck1PVDB2d2t2dU95OU5OYWg4bU1vbGNDUExrckF5NFRZNzExbWdUS01kLVVRbFRjUEVZLTY1a25hajlIVHBlSS1Dc2N3WjNvREJHNU00T051eGU0bVphQWFnOVI2QlcxWllXS3RMemFtTmdvbTlnc3JlZ1VkQmU3YkdmYVVUN3J1SlNQSXo4SUlIaDB1elN0VHdKYQ?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-26T03:42:51+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Egymásba fúródó égitestekről posztolt fotót a NASA, de az egész csak egy égi átverés",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pay1VVkQwTDZoYXdzZ3c4TWJVUERpSEYxOHV2VEJ5Z1dpRk90WVNta3V2QVVvWWtjN2xQakpWMWdUSkxPQXR2bzZvdVp3Y1owNDZZdW84N09RQVlNblc2QzZOaUY4VDBQZFRNUUNoekZBRTMtRWs4?oc=5",
-      "source": "Player.hu",
-      "published": "2026-09-26T03:03:19+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Vegas Golden Knights - San Jose Sharks Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlpFLVJBYS1HaF9OX0oxZzE4V1FtRXRVU3hOb3h1RTNodXI1OWk5Tm40UXdIdUVzeXYyN3JBYmw2c3U0OHRpZnIyVExyZzRFTFd6RlF6Uk9kYTF4RXktOF81LWpZZEN4dS11aDk4VjhrWTlRM2JMOTFoams1UFdrel80aWVseUxjajdoN3d6OXdOODFhMk5sM3ViU1gtTjNTQzZtZWhhV1ctU2N2OU1xbjRzcw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-26T02:42:45+00:00",
       "summary": "",
       "image": null
     }
