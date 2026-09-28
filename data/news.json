@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:01:02.532855+00:00",
+  "updated": "2026-09-28T16:15:33.947535+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -61,6 +61,15 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWkNpNHJWWFJXUFpFZ0p4a1loOGJ2TExFUEVmYlR3a3RGX3dtTDlGMWxKMFZoSkduRnpOVjRncTFYRkQxMlo2TDg1bjkwTW9fOG9EZERxUW1FVlNBaWFUWno2ODJabldkM09GNG00WUNodVZpN2JUZUM5NkRTUm1abS0zZlFkYWVXcUE?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-28T15:03:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Itthon: Kisiklottak egy veszélyes anyagot szállító vonat kocsijai Rákoson",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0JXOVhKRFdmaU5nRFBMSmQ1ZkFUVVZzcHE2MzBRSUUwS0cwMTRmMEtGbjRnbm1qak9xbEF6N1hWd2lnSHpFZ3NkZEdxMEZjcl9SbHY5cW5zaUxLNG1wTjBXMGp1V0VVUG1QaU9oOV84M2RlT19maVViTkVVanFvVDhxUEd0QQ?oc=5",
+      "source": "hvg.hu",
+      "published": "2026-09-28T14:58:24+00:00",
       "summary": "",
       "image": null
     },
@@ -673,6 +682,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm5GeDE5bjZKSkhzOUZIZ3FOZFEySzNfZUFsMklwTkdRLXozaG9oNkNKZWlHWmFSNjhmVllxUG1vaHE1ZjZnN2dUZUxfcXVyN3REMjhCSTN3RlFEeUdHZzFMR21td2Vyb3JNOHE1dlRKdlMzbmNNYlJCaFZ2YzlfcG9qY3l4VzVBb3MyaXpJNVFBNUMwVUhpTlNCbWplUmZnb2lXZ1NWbjFDSnM?oc=5",
       "source": "Eurosport",
       "published": "2026-09-28T04:24:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Seattle Kraken - Buffalo Sabres vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3BBNkNsYWQxZDBZTEQxT081WkRzR0dFakZxRWNlQUpjRnc4SlJCa25JdWI3eTFzb3FpUE1iT1Q0U0FCdklLdXVidHBPY2F2bW9vX28yUzRFR05XVmpGcnNTVXRzaDIxYmdrRkw2SzAyQ2Q3TU9LSjdBYVdyYnd2X1hubXd3cWNQUUlrMUJSdDNaNlJIaXBrcDhobWxhTHpQUFZ2X3ZfRHctSGRub3c?oc=5",
+      "source": "Eurosport",
+      "published": "2026-09-28T04:21:17+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUtNS3g4OTNicy1tcHFrWDV2S1pPYnNjWUdueEd1TEhhRFd2NGNWcFp1bEtoT1BvVmtOcDJTRnN4TzVjenpOSjNtVEhsQ2dNZ2RiVFQwR3hIaW5TMWxndDJYWTJTY2pNTHRuc201enVSeWhrV2lQSkhnNGQySUh0RFliZVhBRW1LQ2lMOXJsazhOaFNzRWE4TXlfNnFSbzJ5a0FDR3h3?oc=5",
       "source": "eurosport.hu",
       "published": "2026-09-27T10:47:33+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Colorado Avalanche - Toronto Maple Leafs vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVS01SnBLUlJjS0NGUVhvWUgwN1ZVOTZrSzlPbEs1ZURUdGxSVHBnRjJtUHNPdnI2QUk4bUlrQVlDRkJLZEF0Wlg0VVJsY3NVbnZKSnhsbHRDMWhPODRIczRKbkhMZC1XYlFzbll4NXVFZGtsWm1OWURTdVh1NzJUM3E1YXpmMDYxVXd5TnFGT3VGQnlCdUlaWlhKRTBrdktMVmNvV1lfNG4xTDlIRU8tSkFVTnlLZlBDSVE?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T10:44:49+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Ottawa Senators - Nashville Predators vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDlEUUN3djFka1Y1ZHlXYmllWXZtYk9BQ3puLXZXZlhlTUdqODBCcnB2dV9QVU1hbDEyMktaeERMUDZHTE1FQmF5dnVYWGlNaTRCUUlZd1djX1pnM2JSdmFac0R5cHNrWmtYcVBvbWZNMzJUZy1PakNqLVo0OWxQck04OFlqbVdCNHBiLWZGQ2lsQXJiVlE0czl4Y19mMDNZTHlRM3pMTDloYTIxTzlwdHhMU3R6Zw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T10:44:05+00:00",
       "summary": "",
       "image": null
     }
