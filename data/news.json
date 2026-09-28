@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T06:15:33.147928+00:00",
+  "updated": "2026-09-28T06:30:45.365731+00:00",
   "articles": [
     {
       "category": "Belpolitika",
@@ -25,6 +25,15 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFlIQmN0cmdJRlZUUEMtT3RmS05UajJ4bElEUW1KQmNEdF9maEhiVXl3N2JTZVdmREhlM05uUVNkYW5Qbnc5cFV3SUZsNGMxeWFyUlZMRGk3TU5vbjlEQ3BITUV0eHpJamhWcXlYTmFFdzB6cGVaVHFwZDBXek5tQ01DVVZJNTQ0TTByWFNiT3F4ZHdOeE5oeHlR?oc=5",
       "source": "Dehir",
       "published": "2026-09-28T05:23:42+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: megépül az M49-es új szakasza, újabb korrupciós ügyekben indulhatnak eljárások",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFpCRmk2a1V0SHZVUWtDZnhPZTI4aGxrRHFlLVRrWlhRUVl2aEdrbHQ4S3U4MmdHMlNHMDREX2ZGdFFPczFhTnFUc2E4bHRwSGtUcHdheVVJanBOYmZYb2NMQ2k1ZHcwSW5DUVlEeGMyOUZVNjNCakQwZXNILVNKTWoyWHhheS1pUjJEN1Zpakg0S0JtcUI4aXNXTTdsd3M2V0xxVnlZb053NXZhY1pzZnhJNTJBNUx4WmZvX19Obm1jZnZqMU9JU3BWVzJYU0dLM2MyNWtnSzhZNUtrVkHSAd4BQVVfeXFMTnBaQkZpNmtVdEh2VVFrQ2Z4T2UyOGhsa0RxZS1Ua1pYUVFZdmhHa2x0OEt1ODJnRzJTRzA0RF9mRnRRT3MxYU5xVHNhOGx0cEhrVHB3YXlVSWpwTmJmWG9jTENpNWR3MEluQ1FZRHhjMjlGVTYzQmpEMGVzSC1TSk1qMlh4YXktaVIyRDdWaWpINEtCbXFCOGlzV003bHdzNldMcVZ5WW9OdzV2YWNac2Z4STUyQTVMeFpmb19fTm5tY2Z2ajFPSVNwVlcyWFNHSzNjMjVrZ0s4WTVLa1ZB?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-28T05:15:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2009,6 +2018,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: elkészült a belügyi ágazattal kapcsolatos törvénycsomag, zajlik a csatlakozás az Európai Ügyészséghez",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcHVjLTA1T2tKQ28tZmVPVWRzWlZ3MS1FWkhOLWhTV3czdWxCZlRQdlh0T01td0kzcDFiUXJZaUEyZkxmQlpSMHZPOFc0YW9FZTh4VWEzYnRrOEhKNU1WZGVHZ3RBUUxBMUNMQks2Nm44TmxXUksyMXlkX3NaVHVoVGN4SDlnWHBEYXVKZEZ4a3M1SkpPOUtvb1AtTmpuYVRuREpQV3FkTjlUVTFmVnJ1eGI1TlVWZ3lvLVFnb05HMDBNTEFNZWV5b2ZtTlEzbGFSM3pfZkJYQi1PWDl2a24xZHFtN1Q2cDhkUnFPSkxESWk2cHVMbWpr0gH8AUFVX3lxTE5aN3RpTXhlc0I3M2hncHZQZjZaSUdlRk5tSGQtM2lCR0Fvb3ppLUVYejdSd2JpU1Q0NGdXOUx6ZnRkbXFpZ3FjRngzX2duUmNkcGk2RkdodTB2S1F1YjdIT19wcU43bDA3YktVSURUc0g0OEF6RnZ1Z21MUzJLSURNT3BDNmFDWFhHU3A0NzczMC13cnVIMjRtTGprOFBtMWlPQlh1ZWItWkhLNW90dGZsbzZtMW9WMkEyN2xDTjZ2S25DYVB1UlFtQXRyeGdKTFJJcUFkX2FvY0FjYjJCRkh3eWo4N1JmOXJQcVdBMGN0dHlqV25JbUdtVU9GeA?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-26T16:13:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Csillagászat",
       "title": "A NASA és a Boeing új részleteket oszt meg a Starliner fejlesztéséről",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUJwc1lpendJMDYzb2ZoaXJzN2l3SWRXZzVuMEd0UElUQUVEREQyUGdObzFKRU1VY3hrT2ZidnJZQ00wV2ZScEFHUTJnYWYwX3p5Y0U3WWJPU0dxZ05IUTBWX1BPNjJscnViN0JZMEZFd05JQnlzNmZpWUg5MWhuOUo0eUNxS21VUXpvNHdkM3ByNHJ6dUVfUUFB0gGaAUFVX3lxTFBtQnBzWWl6d0kwNjNvZmhpcnM3aXdJZFdnNW4wR3RQSVRBRURERDJQZ05vMUpFTVVjeGtPZmJ2cllDTTBXZlJwQUdRMmdhZjBfenljRTdZYk9TR3FnTkhRMFZfUE82MmxydWI3QlkwRkV3TklCeXM2ZmlZSDkxaG45SjR5Q3FLbVVRem80d2QzcHI0cnp1RV9RQUE?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnJwWDNpOGNkTVEtcTFya0pMeTBGQmJvdVNZd1drbk13amJwbFhRYkVPcGh2SkhLLS11SzB4Wmh5S2tZZ2JDZnlUeGpoa0hTOEtVYjl2YTgwOFdLQlRNRzkwXzdKbDZTdnNpd1N6aXFHLWJoTG1sUXpFLUc0aExFWXQ1UVZCdGRjLTBXNFpUQWExeVR4aWtnNDc1RHNkNElPZzdyWTlSVzhRUQ?oc=5",
       "source": "informat.ro",
       "published": "2026-09-26T09:06:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "FRISSÍTVE/Pénzügyminisztérium: az első nyolc hónapban nominálisan 31 százalékkal csökkent a költségvetési hiány, a GDP 2,89 százalékát tette ki - AGERPRES",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT0NqNTF0YTZCcEtyVmlZaWJ5a2I1bEZsVWlIQWlwOEh3cS0zcFUydzdoU09Qc1l6UWhQdy1UQzBTN3FmUDR1cDN4TUU5VzFXVEd2RTl1RHhnc1pueGIwTUdVdExOUTkxT1ZWdUI3d3IwMEgtTkc1bG9hMjFOeU1NRXJFWlVFQXBuLUh2LVV3TmdXbEhnX0pvRU9QcDd5R2JRLWJZQ3RQZGE3V3ItRUtuc0pIemljakZXaEEtX1Z0SUVlZDRWZ29LdndsR0ViUFN6a3FvX2hfdmxHeG04c1dOWA?oc=5",
-      "source": "agerpres.ro",
-      "published": "2026-09-26T08:51:26+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Szolnoki MÁV FC U17",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFhxb2FCLUxxbUlWOVNLS0FOSERyNFRqbmJ3RFhIMENMbFd5TkZ6YkhCeGRLN3ZuX0VtV3VVdlZnNFEwUWlWU2hLMkpfeE04U3RSWHFQNThxcVJTS1hYNTgwTnpKb0FWRE5UZVVmVWlrS0RUcDNDY0tMS1hzempHWA?oc=5",
-      "source": "Transfermarkt",
-      "published": "2026-09-26T08:51:22+00:00",
       "summary": "",
       "image": null
     }
