@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T04:15:39.137908+00:00",
+  "updated": "2026-09-29T04:30:44.484141+00:00",
   "articles": [
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Critics dub it \"anti-transparency.\" A California High-Speed Rail watchdog report reveals otherwise.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTZ6czBGQzhDVktBQVY0QkNCRGFOYkY2cF9ZZUhrXzJYSURZTmVud01zeHVUeDlxUDVnWFNOV29JWXNLejFFZ2dFOUhQWmZUblAyNWo2b2oyQVF3NjQ3QllSeU5UbDl2blZMQXF1VlQ3anZCSTRMdnBScWtlZ1dCVC01WFFqM195UjNnVzJ1czI4S21Vc21wSVdRdUxOVkk2TXl0REp4aktDcTV5UU1ST3AzdHB2M05TbjRfalU1cE8ycU5ZX1Q0ekFjVm9MZFFITFA4?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-29T03:37:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Belesimul az európai fősodorba a magyar külpolitika",
@@ -70,6 +79,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY21fRHE0VmF4OWdUa0FWbU1LS2pqcWw4bGc0RG5JVHE5bmZCNE85TFQzbEZBNjh0cHVMU1hzSWxSU2NFbURIcXlSRlZicmQ4UVEtMzY4ODNwRmdDQXJjVHZCQ2V3bUhjOTE3aWhvZVBuZ1BjX1YwZlVWZEI2OHlSN0U1MUs0YkVPSUVUVUlyWFU0VW5nWW4tZHBGaTdsRVFpZ3ZxbDk5WWM1R1p1bFlXZXh2YmtYRjc2?oc=5",
       "source": "South China Morning Post",
       "published": "2026-09-28T23:30:08+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "BKK Info: mai forgalmi változások Budapesten",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenlXNG9YMEY5bTVGeW5MVDZJRFZJeUNVazdVZHdsclMtZnVjdzlSSXBpZ2FZZFRqLW9hak1nZFdmclVmbTI0Z2V4MUhkU0g5WDllVEUxSnhNM1hjdnZqV0w0R0hhTEpFLUw3SzRMVjZRQkotbTlxYVJzNlBkZXEyakJBaHdqZ0U?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-09-28T22:32:13+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzhxc0hmQkpHR3A2TXNhUUNGckNMZndtQUV5SlJkc0s2ZkdUOC1SOFM2Z0dUdnBfSl9rU3BmTnM0eHZMXzhtbTVqNTVBTHFhV0NjN1hMY1NGejZyWC00aXRkeFdpMnBrd3RGTndBdmh4ZGxvLURFSGVTTVEtZldYazgzR0prX3JRZmNUVVYwVHJKdWNtUEk5RFdEWldZLWFIWS1VQUxXSzIyZUFMLVE?oc=5",
       "source": "Index.hu",
       "published": "2026-09-27T14:34:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Seattle Kraken - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmlwbmVzNGNldkdyaGZTVGNyTEtqU1ZvXzUwbUJyYlU3TDFPWG9PbzFCVjFFV2dKRlFjNkdzaHVadVZSM0VKaUJZZVRYNk5aeWw1RnNOY195bEd3QWs0anhBX1Y0dGFydHNPOTJ1Q0w5SHVsa1ZLNmNMSWI2UV9nWlRja0JKel90SS1hcGZsM3BadGNUb1NYakRRRjUySzVH?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T14:23:04+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: jöhet a szigorúbb vagyonadó, készül az új Nemzeti alaptanterv",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmREZmNnR2VFOGhPc1g0dGtkdmxhTU9xb01OYkJWWUZ1LXRMSTZXR2JabWRldzlHbmRnWmQxOVUxUFN2UTNFRWxZVnJobmxzM0U3MGhqNHpLRHRBT0gwRTlCVU80ZGxGa2I0dDFyS0prRmVSQnhFTTFpUDNDbmpCZ1VqNzlfclhnaE1zQVVoWWFJSDZYLXotSzBEcndzRWlRd2VQSkMtcm5FWjVGN3Bxd2JCdDVJU1A1N0lmVW0ybTR3UdIBxwFBVV95cUxQYTVmd1FaaVdxSUktbVVsd3ZGZWhOVGlYdzJRS3J1cUp6cEZrNE5ZTTFvNmNSRnVZQnhROUF0WHpmS05KZkN2N1E1UTNRNHo1NWVVY3NDbGxSVUpSZWpLYVZoY0MxVklESEVuQ2dVeURDdHQ2bHc2ZHZ5d252Sjg1TXF4WTJqc0NJMC1FaFB3Smo1SnRZSW9peElsanQ1b0hCbkU0YURaMi10V2VVS1liQ0hSWDA3VHNHT2pTcjBjM2hTeVc0eGZV?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-27T14:09:00+00:00",
       "summary": "",
       "image": null
     }
