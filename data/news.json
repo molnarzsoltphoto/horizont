@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-29T10:15:30.987090+00:00",
+  "updated": "2026-09-29T10:30:43.520925+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Gazdaság: Továbbra is titkosak az Orbán-kormány által kistafírozott magántőkealapok",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDl2LXZ2ZVRjdmlaMEpEbU5RUXhxQnIzTUJoRmNKMUh4aTlrcGl3dHZ6cmMtdDBiM3ZBUmhTZjIxMlVhX0hKakVuTk1udG9RU0NBTHFtZ1RBOGM1ZmYzQ2RrWTU5SEh0eGRSSjdXT1R2LVJnX3pzTHJIU2JiTlJCV0RDNnBPczRPcG1ZZndmSFhkdjB2Skw4?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-09-29T10:24:59+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Októbertől Kassára is átjárnak a MÁV-os Vectronok",
@@ -47,11 +56,29 @@
       "image": null
     },
     {
+      "category": "Gazdaság",
+      "title": "Három éves csúcson az infláció a mediterrán országban, az egész eurózóna megérezheti a hatásait",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3lQanMySFBDVmc3TzRlWG42X0pnX3Z3RnAyTHQycGpIX3JiSkhLZnpaZGx2VTloOXp3eTVCQnlRM0RJVlJvcjRIM2d0TjZ0Y2gyNlRfU0k5X3JLM29jTUE3bjVaNXhhNERfOUNMYmNidG1DOVk5NU03bU5yR3JDdjZjMC1fNVlRakZ1R0pqcGNmMUUwN3p2N2hyNHdTa282Wlp6RFBBYWJjMEtzTXZkc3h5YVJkLTFxeVUyejQxRmdZTkI4WlNxejlaNk1FbUhXemZqNTIwbG1iMGsyeHBSMGJn0gHiAUFVX3lxTE1veVBqczJIUENWZzdPNGVYbjZfSmdfdndGcDJMdDJwakhfcmJKSEtmelpkbHZVOWg5end5NUJCeVEzRElWUm9yNEgzZ3RONnRjaDI2VF9TSTlfckszb2NNQTduNVo1eGE0RF85Q0xiY2J0bUM5WTk1TTdtTnJHckN2NmMwLV81WVFqRnVHSmpwY2YxRTA3enY3aHI0d1NrbzZaWnpEUEFhYmMwS3NNdmRzeHlhUmQtMXF5VTJ6NDFGZ1lOQjhaU3F6OVo2TUVtSFd6Zmo1MjBsbWIwazJ4cFIwYmc?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-29T08:32:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "A brit kormány megerősíti: ingyenes marad a belépés az állami múzeumokba",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1VQLVRzYkhxSllWaEdxMzFOZ0NYUFVFQW1mRDBTMHZ0czNVRVVidUNxWlU3MDZVNWg2MDVQR1N3MkNLM1NLQU1NeV8zUzBhZ2VXTHJpQ3FoVGQ0YXdfcVdyZVl1aWFtZS1NdDdRaUlCQ0t5RGQyY0JRVzZWQjQtVURid2VvRVFkckMzWUJXRG9GbFJWWjR6WDZPRDJKTjNkWGVva21MYm1NZw?oc=5",
       "source": "Euronews",
       "published": "2026-09-29T07:55:55+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Orbitális pályára állt a világ legnagyobb űrhajója",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1lrWnRzYVJScVp6RUsxZ2F1NDBRTVhhcVBCTkpRdjBkTlhkN0FzbER3MGZwNTl1a1ZWOGRwTlZJQTkxZTFTWTBCb3h2WmNVYXZnQk00eWFuVGhrSkdodmJvdTdfdDlwZFVBSzJnRlpQQlRmUGVKUlBzSFVqX0RMZG54UkxBblhwT2MxUk9lb3VmNjZtQ3lLVXJ4dw?oc=5",
+      "source": "Infostart",
+      "published": "2026-09-29T07:50:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkVlMmEtNUtuTU45eUVRX0xIcXdDR2ZJWmo1YlBGUVRvMjdORkRLbVJIUVU0X1ZmZUd0YVM5bWxaN2poUFB5dC15T1UwZXZaVFdySFF6b2N5cUVQR2hjcXc5T1F6Zk12RldjNnhTWUJDdjBfUjhORk5qaDlBSlpCVUdnR2RJa3lZcE5uY0xRTkxxUGRrOHJqMFVaNEtfbVplTkNoVFQwb2doYUhKS0E?oc=5",
       "source": "eurosport.hu",
       "published": "2026-09-27T16:56:39+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Philadelphia Flyers - Utah Mammoth Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0RMclhrc0FSNE0teFpaSFk1dy1wUS1teTJvMkpMUWJLQnVaZHVJNlZqM21vdi14YUdNQ0o1YlFvb0hySGpDYnhBT2NMTk1XRFpINkZvczVYR1Z2NGQtY09HbFlSbFZEbjVoa0Y3MVZaRXZ0N3RxRGRDcGdseEs0ZGJsandlT3VsNVpINGJmTTJ5RTB4RGp2NjZITVNpUnRxVnZKR3BySQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T16:36:18+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "2021-ben döntött úgy az előző kormány, hogy az autópályák üzemeltetését és fejlesztését inkább egy magáncégre bízza, vagyis kiadja koncesszióba. A közbeszerzést egy európai szinten is meglepő nagyságrendű koncesszióra írták ki. A győztes kizárólagos",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSDdZY1hnRnRnVDVHVHZDT3N0M1JGR1dYNmJxRWUzdWlDNE4xT1V6ejExN2Fya2o4aXA5TnBNTXVpeF8xTVZVblBhR2FVMmpvRGp1dlBkUlVRSzlFR0ZiczhrZ3ZUNUxrOW9PY25RRHBQWGtnZVIyeWdrcnJyVC1TTmJ3dmpFSmJWRGtFeVVydXBnS0l1cUtGN2tzQmRlVHNCT2FXZHR0V1N0a01ZcENHYXlJUWVCWTN0Q1dyOHNTWlotTDgyVnZ1M3F0MGtSb01MZXdzYko5V281c0xHakhKYjFNYnQxOTJnd09VcU1JYkNzc1EwUHhJZWJ3UVF6dHk4d2VLNHdQZFJmOUh4SnhWaTZ6cF9zNkVPME9yUzh1dTI1VVowVThqTTJrME5WbnM?oc=5",
-      "source": "facebook.com",
-      "published": "2026-09-27T16:35:33+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Vancouver Canucks - Minnesota Wild Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamMxV0ZSLWxnU0VGNXE3MWk1SjBsTVJUYmw4WnMtbXlKRnJBYmxIZ21vSWEwckU1Z0hBd05DLU9oN0pLVEhXMmFjcFpYRWN5czJ5NlRlbkYxQWJ3Z2JabnJvbnRKWFV4U2lQZUZXZTdOSlgxTUJRZzNmalZxWVNYYkdzLTRPbnB0aXVPMFNhVGoyckp2Z0dTNTVMakZQaFVRR25oMXdUdw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T16:31:33+00:00",
       "summary": "",
       "image": null
     }
