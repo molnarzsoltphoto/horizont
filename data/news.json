@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T05:30:43.497923+00:00",
+  "updated": "2026-09-29T05:45:32.404363+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -691,6 +691,15 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvRTJjRlFSc3JsUHVWcjltal9NQy04QThQdDJTalZnd2dhaExGdmJtZmVLZk1FTEY5SEMtb2lWZEZ6QlZzTElvT3ZMR0lXY1BPMU9YVm5R?oc=5",
       "source": "Focus Taiwan",
       "published": "2026-09-28T10:58:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Először szólal fel Magyar Péter mentelmi jog nélkül",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByNlZINmwtNkJQOFFyeEQ5cVFJTGNMMXZ0Y01HS2J0bTY1R1BNbThSeTdMYk5MS2NsNTBmRnJZaWE0UnJkekZqNFl0Q01fQld1ZzhnRlp4SHUwTkZ6RTZTNVdRN19yd21nRmc3OGx2cU1VdWRHLVh5cXh3aw?oc=5",
+      "source": "24.hu",
+      "published": "2026-09-28T10:54:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUVMUDg5SnBaX0g1TTVfRFBnM0hYNUZpRy1EWTJYcDlZRWo2N3pWQndqSXROd2hIaU9NaXktVTVYeVhqUWdsWGFvUUpqMklsNTRHUFYyLWI1cnIxWlZlejRJWXp2U1lWaWdzdzBTTWRNbk1xVUlBVlVvc05qUjd5TUNXRUhvNHRCR0o2bnFVQUJwZERmemVEalFpQ3ZrVUhQeXBwaV8yQlduaVdySklv?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T15:11:27+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Online megveszik a buszjegyet, mégsem biztos, hogy felférnek a buszra – ezt mondta a MÁV ügyfélszolgálata",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREEwcTd2MUctUnFvWkY5anlyV0owSnBlS1NjU3hHeWdJbUxHOVFEZmJKeDIxQlpRNEVSZDBtQ05HSTFWYVpXczZIRnItczhvTDVVQi1GOFV3Q1JONU1UQkVUN25kOXRHYTNMZVp5WEpDbzBhYjB0bm5HbkNrX0picEJZb2xGZVVYM3pUUw?oc=5",
-      "source": "bama.hu",
-      "published": "2026-09-27T15:00:33+00:00",
       "summary": "",
       "image": null
     }
