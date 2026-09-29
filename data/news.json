@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-29T07:15:30.540376+00:00",
+  "updated": "2026-09-29T07:30:44.152153+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Változik a forgalmi rend az M1-es autópálya bővítéssel érintett szakaszán",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWdjTUhfVEdqV25YaUhwdGNDbng4MGg1MkppdHRJaGRDV19xMlhhMnk4cGRYZGZJX29MR1hLQVVoSFNueUZXUmFueGY1LXEtbFBZWXNBSjNyQXdocnh5QlFDRTI1V1hIUU9EanZQUF80Z1pBZjFZOUQ2aFBaS0VSNzZqMF85Ykp3bXZweFB2ck55U1A2?oc=5",
+      "source": "Tata Város Önkormányzatának honlapja -",
+      "published": "2026-09-29T07:21:15+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "A kitettség hatalmas – 2040-ig szóló, 820–850 milliárdos űrszerződéseket vizsgál a kormány",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPay1kSU00OFNUcjR6bDY5UnRSc2dZS1BWaHM5SUF0dDRvSEQtTnlRSllFTUpUWUhvelZ1anVxUE5nUW9VXzRXREJLTVNOMHVlUHl5dHpMQmFZbWlLMTNQTmlVdWFlZkVQM3BLWVdWNTBCVVRYVzBQd0JzSWlIVHNONy1rY01MUGxfcG56blBZbWZ2MUJneUMtZ1RoUi0zZ21fQnVjdGw2RGVuaWY4anM2WlhDeUhhYS1EeW5jZFhvWmVxQndFZmkyaHBINk5Wd2ZzTXR30gHYAUFVX3lxTE9SSVVQeDQ0VnFoeXpvRHJ6bjhRYWp1X3N2TVpJcFlReVU5TkV5ZThjc2NhUk9VN0o4bndnX1NZOFpRclZsNVdlcWRpRkE4cEFSU3htY0x3RmQyYlpvdDZrOVBFRm9Gc1EwNkdJdnVwdi1zMGR6ZXc1Y3A2ZTJZQW5LMWk1UHVleGo1S1dYVEVxaVRreWVQeE9yanRaUEV6MzFwSHVCLXNXNHB3bmRFZ3JIaDNZNGZtNkY5VnBfZGNseG45NXEzWEZEMkw2Q3RIT1Vic205ODR0WQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-29T07:16:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "„Kicsit olyan autópálya-koncessziós érzése van az embernek” – 820 milliárdos 4iG-szerződést vizsgál a kormány",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHoyaS0wbEcyUE9PV0FkbEROcVNfSkxtX0s5TmM5N1N4QzJEY2ZVMXExdWJrZHNOSjQxaFQ3MERzdFZXajJrYXVtMFRBdEYwbllhZTkwMnJJVm9hSHFwREVhQ24yU2lkVzlBZ3NZUmFKanRqaFlIYU1JdzFDY0ZoblZGN2cwcEtqNWxsc2taVW1ETXpnREZrOUZoUUJGVTFvb1hkVldMVU5vSldfQnVsXw?oc=5",
       "source": "Eurosport",
       "published": "2026-09-27T15:32:52+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Pittsburgh Penguins - Florida Panthers vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHdYRk5HOXl2ckVQeV9jV0lRQklkX09qU3JWczd2eHJGb3p5bFZDa1plbUlCNHlUNGtPcGpZNDZ5UDUwUDQ5d2ZXeFBpbnVQd2RoV3dhUnljalZfZS1Kb093TlpBOFNTd3QwSzBtTWFZOVRabmMxN2dSdzVtWXNzcDRsd1NPOXkwVURLX1I3TEhpV3RGYm5zWGpKc2NmZldhWEFicHVzSXRsN0NjQ29aekdua3lpSlU?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T15:31:57+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Seattle Kraken - Utah Mammoth vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3ltekZndlpxNFRXNjVxSjBZMFlPazkzb2V2Z2hGODFEZ3JrT2xHekxGOTFoODdMZlNjb3BNQUlOYVh1Vm5uUmhXM2JGSHF4Z2lwWk1YT1IyNHFmanpuZDJ4MkFqR2QySktsYy1Jb2VpVHVXQkYtakpxeTVTZzU4Q1U4dm1ha0p3RlJUX1FXZGdUNk43NG9JREVQZnFMakk2U2JWTktQX3FTU2c?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-27T15:31:36+00:00",
       "summary": "",
       "image": null
     }
