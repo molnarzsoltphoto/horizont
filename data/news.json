@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T19:00:59.794942+00:00",
+  "updated": "2026-09-30T19:15:30.454283+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -610,6 +610,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2N3NEVhLXVfY25vZ2N2VjNqaC1CNnlweGdOLUFncTBWNlFyY2dGbXg1RTJXU0RTWWtfMldUd0lGUi1mX0ZOTkM0R1pRSVJVY0FfVTc4OVA3S3BWTWxMajZFdU9tT2FtWnRqZC1wMVFBVkwwX1NUZlV0T2ZXVjY4eDc3QmJFM1ZYemdmOHhNR3BuNG1fSHltOEpvS1diMWRlXzNWckVB?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-30T03:26:25+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Gazdasági hírek összefoglalója szeptember 29-én.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IV1gzNFEyWUZobnR0V1JrVS02emptbDZkQkxLUXRQdWNDcThxeVA4UklCRlIxX2Y1UjNrRF83cU55bUJMcHc1ckY4RFRUYTFWdlZDbG01Zy0ya0JaZXp2OU5TcWloQ3VUSVhyLWdRdw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-09-30T03:09:06+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeW1MdDZINnpqU3RSdjJ5SDFPMWZxYnowVm9UWmw3Q0NFY0xMRF9ncUVtR1AtQjY3bGJ1amdKTlVfMlREY204TGpENG8wWTQ3QmVMTGk1MFhlWGE1XzBKNkxhWHV5UHdoWUVPaG1pR2k4c3BBeW95dWdBNmItWDlkVmZnLTBlRmxhTFRsUFBJMWg1QlhYZDB6N0ZlUTlRdEhPS3BzNlFObnJpZzFvZnd1NmRsZVFBVTlHTG5kR2FSVWN4b0VGUUNabDV2VnI3UlVxOEFRRUNvdEh5SGRUU25wS0g1cnRzcmRlRlo0NFFEaWFCNlJPRElzZ21DQQ?oc=5",
       "source": "facebook.com",
       "published": "2026-09-28T11:02:29+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "High-speed rail adds extra northbound trains as holiday crowds swell",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvRTJjRlFSc3JsUHVWcjltal9NQy04QThQdDJTalZnd2dhaExGdmJtZmVLZk1FTEY5SEMtb2lWZEZ6QlZzTElvT3ZMR0lXY1BPMU9YVm5R?oc=5",
-      "source": "Focus Taiwan",
-      "published": "2026-09-28T10:58:00+00:00",
       "summary": "",
       "image": null
     }
