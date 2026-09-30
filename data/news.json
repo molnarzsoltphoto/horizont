@@ -1,12 +1,30 @@
 {
-  "updated": "2026-09-30T11:30:40.609209+00:00",
+  "updated": "2026-09-30T11:45:29.522247+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Mentőhelikopter érkezett az M7-es autópályára, összeütközött egy kamion és egy személyautó",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1BjYzJsMlJ6MTJldl96clpHWVp4Tmt2OFFRWkc1NlBHakFDb08wQXpvam9FSXZPd2NkZWpvcV9ab0YzRFd6Uk41S3FyVU1LdUREdTUtczhtZGhKSjJTZHpiSWw3UVZ5YlZpazJhUVZlQTAwYmNkRVVzU2ZLWmJUX29icUxfa2hJWGdsbkJlbTN4M1dKeTUyOWFIWHNCbndySGc?oc=5",
+      "source": "Index.hu",
+      "published": "2026-09-30T11:13:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "A fegyelmezett adósok védelmének megerősítésére hozott intézkedést a görög kormány",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzNxbG5zelFNRUk2WjRXTnEtR1dzMlBZb1dJcHdBbHpza05IeVJlZlRBRlZWd2RPQ3MzS25vSDdYbWtpLTJfaTZ0aEoyZWJiWldONmt3X0JHUHh1Y09uN3RQeFhqNXhOZEwzY3F5LTRnNF9Lb3o5VUhKaFRvbm1Kb3lrX2JBbHJfeXctNzlGRFhsT0ZDT2JZOGxfTDFTT2RDb2lwX3hhQWdLamwweHR1TTk0emxSdXli?oc=5",
       "source": "Euronews.com",
       "published": "2026-09-30T10:17:55+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Vége a nagy béremeléseknek Magyarországon, szja-csökkentéssel kompenzálhat a Tisza-kormány",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWxLaFFRYl9nZnJrOEtkSUQyNC00dExSS244d2dtaXViVUZuUHBrMDQ1M3FibUJfbGdmYXZXQzR6V2ZxYk9IeUVlMlpoVmxYbEp3aExPbDZQMF9OaVV0Yl9wSGI3ZDQ3T2pTZW9Pem5QbHFnZ3pwWm1VOGx4TVNkQXhzVTROQUo4a3AxQlBYNThIb1lPSldmTHpwcWpCLTF0VjVHWHN3cEhaVC1iVVE?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-09-30T10:04:36+00:00",
       "summary": "",
       "image": null
     },
@@ -1118,6 +1136,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Nem hagyják kifutni a Volán 160 darabos elővárosi LE-buszkeretét, készül a megrendelés",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEExV3haaGdNUUlxQ2h6engzbF9wcFoxQjNSeW5iQXdWdFBnMERZXzdIQVRmZG9WSVJXUEcxVmxldFE1cDNoNFJNYjdQVll3NjdrbUlIeHFCNldsYjBwZUxlQmhnN1lHWWpUb2FrR0dFOS1Lbm5DTExDQ3h3dGJINmMybkNwRE9PQWJITmtiUHNrY0Joa0Z6VU9LMGViYWdkWlVxcENITTZEVTJ5NG5JYnk3d0tjRGNMaDRIdEVn?oc=5",
+      "source": "Magyarbusz [Info]",
+      "published": "2026-09-29T01:31:38+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Jégkorong",
       "title": "Kanada szenzációs meccsen hosszabbításban győzött Csehország ellen a férfi hokitorna negyeddöntőjében",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEgycGRmTHFUV0hlQk00UGNZbk9rYllSRXBZQml1Nkx4Q295ZVd4d0xiNFVYSXZLbU5YY0p6OHZLWUNnVks5MWhhWjZZTU5oa01uSmlXVFdOS2d2SlpoTUNRdkd3cUZxMkdselc3VjhVbTZiT2lRSlhqWWIza1NnSm9sRFJ5RkQ5UllQcE5wZmRqMDBwYWFrZDBtaVVkcVJMRXFRU3hfeVR4YjJfbnRfUUR0U3FVNnBqYUs4ZVBGa2VxOG9zS2NTbWctMXNkQkRvRm1LSDBsc3FwSkF0MjdGV1kzWTVzS3E3Zmd3?oc=5",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWNjcndONElOaUl1ckc3Y1ZsVC1XdFlxUkp4QlVJWUpNd0lyWkJuMjBmRU5oVUdtNGhFOWFXaWgtTEFyeURvN29TUXVFT0Q2b2dPWm5lRERkYXVxYzRDaU4wVjE1UjhMTE9fSzhON2Nnd0RQbnEtT3hJUU9PSlBwT1hnODM0N21pcGpVQVNwekJ1c3N6clhLeHpnR3BmdDRHY3l2dVEwRjV1MlhzZjQtZEFn?oc=5",
       "source": "Eurosport",
       "published": "2026-09-28T05:33:42+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Januárig meghosszabbította kereskedelmi fegyverszünetét Kína és az Egyesült Államok",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHE3NGZnZ3R1ZGR6cU5NWmtXejdtZzJWQnFUVVMzbW1kRzhyXzNhdnB0al85TlZIczI5eHlCdC1EN1VLOFNXeFQ4SU5Od0xlSlZJYUVrLXByajMzYVR4YXFLd2wxV0N1TjRRYmozTExBemlCaVJEY1ZYeHVGXzZJTzlzYVVTWVVyWWJWYXExVFRIdElDUzYtcmJOUE0zS21jdEJ5UDJIYmJPcHJzVTJSSWJLVUlFQ25Ib19JWFFRXzc?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-09-28T05:27:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: elszenvedte első vereségét az új szezonban a DEAC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXl0UjlhU09TWnB0RUpjVzhxN1UtU1YxMk0tS1ZqVG9pS1dDY3RTcjh6WWhNQ3k3VlN5eUJ1Y2t6bVNiVlI4d2NfYmJDNVVudENnR2xOUVNFSlFNRmNVaGxpd2V5ejNydGpvYW95NEwxV21IZ0wxd3I5ZVNSTV9tWEc5NW5uM0wtb3l0SWNxdVBxVHA2WndrUg?oc=5",
-      "source": "Dehir",
-      "published": "2026-09-28T05:25:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: elszenvedte első vereségét az új szezonban a DEAC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFlIQmN0cmdJRlZUUEMtT3RmS05UajJ4bElEUW1KQmNEdF9maEhiVXl3N2JTZVdmREhlM05uUVNkYW5Qbnc5cFV3SUZsNGMxeWFyUlZMRGk3TU5vbjlEQ3BITUV0eHpJamhWcXlYTmFFdzB6cGVaVHFwZDBXek5tQ01DVVZJNTQ0TTByWFNiT3F4ZHdOeE5oeHlR?oc=5",
-      "source": "Dehir",
-      "published": "2026-09-28T05:23:42+00:00",
       "summary": "",
       "image": null
     }
