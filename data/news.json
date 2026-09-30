@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T13:00:56.593088+00:00",
+  "updated": "2026-09-30T13:15:30.641797+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Egy nappal a határidő előtt dobott mentőövet a kormány a napelemeseknek",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUhxWXpSdHdvNk9FTVE4TDF3TFU3QUc3ekRQMkJpWmRndGxwYXRKbmZZWHZoREMyZnNKZFNVd1dtX1dkMTg1XzB2aWpPWGFqRXJkb1VqWkhFeXl2TkhOMF9yS3g5akJjUFBickZrZU9qbjhXSDZSZXRLMm9TSjNRWm13Qmpud3RYc0I5bktpOHYwWjBUeHIyclQwRFQ5bV9jUDYxZHJpOU1yMzJiY0hqMW9XeTljekRTX3pyVjZB0gHDAUFVX3lxTE04UDY3SnBZQ1lhU1dyUEszYlJyZXpHUm9XajZxZzd6empWRWRIbnJhZVdOaGNrTUMyWlVwRWdtLVhTb2hTU2ZDQnF0b1J5UTA4ZGhlaUptTlJHcG9MN1d5Zks4SmlnR2F6eGtBa19qM0FtZVN5SzE3WkhZblNvMExXRjQxc0xFLTUxajFEN25HV0RQeGo2UEU5bThhMnFsdUZnZE9Pb1ZBakZoRWdZUWpJTmh1eXg4QURYMF9ZaXRHb2JoWQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T13:09:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Zöldebb lesz a Nagykörút - lakossági bejárások indulnak a megújuló fasorokkal kapcsolatban",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0JHUUhNTUZGaU83NEowdmU4bndQUFh5N0hFdnY1WTFBWl9rVnpYcGJDdElnd0RBVTBwaUd3Z3VoWDBhX3lLa3F3T1ZxVS0ybHR1RGcteDdFVm1FTlQ0S1NZdnNScXJTM2tESTBfMjUxNjliRDYwLW1ES1RKLVRSNTdkYll2ei0zQlA3OXhYMnhBTkdnN3J0NmhSbk1fZWgzX1BxZlRxa1JHbnFCTW9EbUpDRGlyUjRSbnZ4Zzl0eU9qZw?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-09-30T13:06:48+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Iráni háború ide, vagy oda: a vártnál is kisebb az amerikai infláció",
@@ -52,6 +70,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHM5Z1o2SWtjVi15RV9aeHdPNS1FdHVYajZvT2UtV2tmNlp6TUxaVDRNcVl2QXpqN1pGdG83bEpNbHU5encwSWx3UE51bnRoeEo3emdpZy1vNFpqQmIxVkxBdGxqQmVWQk5VQ0ZDT2wxWDNTMjBJQzFyTUo1NzRWaklmTDRYVGs?oc=5",
       "source": "CalMatters",
       "published": "2026-09-30T12:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Meg sem érezte a paksi atomerőmű kiesését a magyar gazdaság, az aszály viszont keményen odavágott",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tQTREN21nT1JUc1ZCby1rdmx5LVRSbU85a0xoRW5kUWtBMHA4T2IyQ3ZXR3Z1b3pSMVdlU00zTjdXbktBYXcxM3RpMEZ2TVNZTmczNlBhYXcycFBSMVJBdkZIR3IzRnRMY0JPRDNTZGNBMThRY0pSUy04eV8?oc=5",
+      "source": "Népszava",
+      "published": "2026-09-30T11:35:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ040SEJ5RTA1Ynl0MGVXTlRyWTlBQXpGTi1MWmpKSVNwTFFnVGt6Q0dBOGwwRFBUOTZUNUZHaXlCVkhnckdOZ01KUmlIaFp1bFFEcnVvMGVMSG16aVFmdmRvUDVXZkszY3VMRXZfQUkyblFGSnZCcVJZVEl1T1h4b2o1MEdXcGRoZWV1cG1iQmZQcVg5YzU2SGluT1gybWFmUEEzUTdlNFFBVU9Md25iR0sycjdNRENhN2pJZk5BTUF1Q21oemwzLdIBzgFBVV95cUxNdnNIOFNoX19RWDVXd2tUeE9uNGZsUHJTZks4VjkyU0dVbUI3TXVUZjZLZEduUk9HcWlxM1VNTl9jc181cGRnRXRQUm41U0g4QmxjOWFFMFh0dDJNSWM0WUdkVUNMNm9SeGVlMFZwZV91cExhLUN1NGNJZ0tyajNjbEdfVVRvLW5rZEZWR0lwcXI5U2FQeFhkcG5mLVlxTS1GUG9rMENwU2FPa19SSnpCUDVUbVdOM1k3YXV1S2JvazhjSGsxbGQzMnRuSnBUdw?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-28T07:09:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A legerősebb távcső „kinyitotta a szemét” az űrben.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlUwRGE1eUxlVU4wMEt1N1B5b3VNRWRlUFN6SkhySGJXakZQVkN4NklUU3lES0phU3lEXzFpOFotNFFPbExRWURJTV8yd2c4V3lSS1pWdU9zZ3dQVWlPMWNtZ1dMUndyR0dBUTdnRVIyMHVKZFlsclJRXzdGdlNEWWJxekk1Zw?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-28T07:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong Erste Liga: nem hibázott a Sportklub, a GYHK és a Brassó",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVp0MmxBbVFycllpb09QNkdfN2gzSlhIdkF6Vl9DQ091WGJvS1BKWWtQR2FsRy1MOHc0bkNaWmc4RTVoN2RlYlhlcTN0XzJoSEZTUFZxWHlSdWRsRWxITHVUWEFTWmFRd3p2WTgyY1hzdUZQMHZFVFVSTUIzelNmYlVFOEFHSzgtTmpBMVBhUUppZw?oc=5",
-      "source": "Maszol",
-      "published": "2026-09-28T06:47:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Orbán Anita: Konzervatív, valláspárti kormány vagyunk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFpXTUtGNElPR09WaUpMTXh0YkNKcGZ0OWs0VksxM3c4a2tudGgtYnFsNTNvWTNZTDZneDN1eVRyMjJ2SlhfaDdaeXpuV3pFT2NKdVplUXpLMGFFc0RMRmwzYmtWRGZUWUdHczVhWlo5NXNrdVRvZEk3R3BaNFFWUDhRMlN0LTl6WmYtZVZrTQ?oc=5",
-      "source": "Telex",
-      "published": "2026-09-28T06:43:15+00:00",
       "summary": "",
       "image": null
     }
