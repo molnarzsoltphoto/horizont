@@ -1,12 +1,30 @@
 {
-  "updated": "2026-09-30T08:00:54.583380+00:00",
+  "updated": "2026-09-30T08:15:31.803839+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Veronai szerelmesek – A MÁV Szimfonikus Zenekar évadnyitó bérleti koncertjéről",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlNsN3dscjh0czMtZExNazJhblh3TU01anhJYkFONzRGdU1TMFliRW8tMFE4dkVWOU04T1M0aEc2dGs5TGo5S2ZoRXJkZm00NVd6cVBua3lyMU9pX2Q4bnRqNnBwQzRKSjBNV0ZJclRtLUxGQ3dsTFFnTmJWOVRGYjRRZUo2c3R2YXRobFJTbTdJbnY2VzIycWE4a28wc0JXSjg0WkhFY3owUXBB?oc=5",
+      "source": "GRAMOFON - Klasszikus és Jazz",
+      "published": "2026-09-30T08:01:33+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Így mentette meg Rogán Mészárosék óriási autópálya-bizniszét",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODZqMU9SaVZjazJGaUFlc3hONENKcUc1YWhsQk5Od082bUZ5Zmd0SWNINFZ5aDMxTGJUbEpfc2hiaUhmaTNlMUdLdXNMZ0pPeUozbVRKdmwtay1Gd2c1cmFQckxYU1Q3d200MzM1QXI2MVBZU1ZXS2M1NE9NUWxGTF80YjNHTHIwMl8zNjgxUEtTYVVwUEV3eG1xSQ?oc=5",
       "source": "Telex",
       "published": "2026-09-30T07:33:52+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "500 milliárdos ingatlanfejlesztés a Váci úton: hatalmas terhet hagyott hátra az Orbán-kormány",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTHpTSlRUTU5Jelc1b3FGWlZrcVByWnFhd1h6dWhxUjlZbVAxSU1abmNJQUVWZzlVelh5UW5TaDJkeGZwZEEzaWZEUXJTZm1xRkk2NWhkRjNWeFJNTFJabWJGbEptdzJzQ0loaGowYjhfM1JkbDR1blBvancwTk4wVnFKWkdHazI3UE95RWhMSHhnVzQyTWgtTnJuSENJamF4NlI5VlhQaWpQcGVVR2VyNnN3WHR6ZVRvdkdrWjdSTXA0M3pFM05HbFNMYi1KcW5XNzF5TVlNaFlOQdIB3wFBVV95cUxNWEhVOTJwUWFZVk1wazVCeWpmZHFvWmNabWR6RXphWUIyX3d1LTN2dWRMR3pTSkZ6MHhVbUN0N0pfOVJ1Mm05ZUF2RldIWmNpbnVfQUNNb3NMbC1hZFp4RGYwNFg3RUh2OFMtZlpWbWJtVVNROWpvdnFzTTFzYnVsckI2bHlNVF9PYjN1N1RuQ2tnOUU0WXJaQWM3cGRyb1p0U296SVVNc0U1dkd2MG9yZTl4bmtrbEZKZ0ZZMWhSeXI2QV9iNnpmQ19NSTdWUWlDMEdQaHZTQnVwOExtYjdN?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T07:16:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHdsN29Ja0JWQnFEN2pkcS1EMkJ4VF9kaHhmQ05UZFFPamNQbXRQYmo1ZlJLdUx2dy05UVNjbGExSVNhcTJBZlpoR3dMSGRXaVlldzhCTi1TcDZXX25aUHBVMjV0dS02RU5adTV5UVo0Wl9UX05mM0wyTHlTZlFrZUtISENaTWFXVmNqSzJueHR5VklNQTdzMzFsN19pczJXTXFOcHp3c1N2M1NGaG5VRW1QWDZja1pBU1haTzhaRkowc2F5YllBbmJoUTkteHFrRVhiZHhoNXNmT1JGSC1yOUxB?oc=5",
       "source": "Infostart",
       "published": "2026-09-28T04:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Utah Mammoth - New York Islanders Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDNVUEZ2Z19KcDVxVEFIZmFyeTk0d0lFbnRSbklkZXgwRjZwR2pYcVdYY1pmUzRyWVJQYWZMY1dZMzJqZVpfa000NUJ6SmVQWkRHTjYyWHMwa2l3MzZfZTJSQ1dvaXMtR3pWbHhWdTJhRGxEMjltNEJpWkF1YXFDdDB0V1k5MEl6d0RiMm5yM3NyWXBOeXVkSHI0b1Q4b0FDMWdfMUt3?oc=5",
-      "source": "eurosport.hu",
-      "published": "2026-09-28T03:56:41+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Minnesota Wild - Anaheim Ducks Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLVR5TG1CdFJ0SjZHYlowVUJYejdJRlBtU3VVWUNMSGdqZWFsZ0J0ZDdqRTM0MGZkZEZWMHJ6cW50eGlfNGduZTloTEkwTmlyQVpGeEJaVklqUXlNVXkyS0NoVjMxWHZXWVNQbjV6VTNSaGROY204OE1XcVRQcXlJNmJuV2UzQlc3ZGoxY2kyUlZ3VThuR1B6V1M2STBweGJtTWc?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-28T03:48:39+00:00",
       "summary": "",
       "image": null
     }
