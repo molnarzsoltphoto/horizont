@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30T15:01:11.200973+00:00",
+  "updated": "2026-09-30T15:15:30.710067+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Három év után idén beindult a gazdaság, de a felívelő GDP-adatra még várni kell",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN05FbW1TbXgyTDRWV0RNSE1KOTE2S1hYTnJucDUtMTBPeFE5R1lhQndQV0tTYmYtSFU1Zzdyc21TSmxWUF9sLW9yWTd6Y1N0RUk5cFBjUHFQU1c3STBnaGk0V212QUpjWFhvcWFORldmZlkxRWY5X0tNbTNvYnhWMzNiYkF6djRHdVU5MnBKMzlkX3NmQndkU25uSlo1M2RvTjBCUnJ2UTdMWUd0NXJCRXVyY2Z1bjduS2JSY0E0NUNWaV8y?oc=5",
+      "source": "telex.hu",
+      "published": "2026-09-30T15:04:42+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Közösségi közlekedéssel a pénteki Magyarország – Georgia labdarúgó-mérkőzésre",
@@ -41,6 +50,15 @@
       "category": "Csillagászat",
       "title": "Különös mozgolódás az amerikai bázison: évtizedek után újra repülhet a világ leggyorsabb gépe",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUdRTEhJR3ZlRXZBdEQ0Wi1lS0IyUnhmMk9raExCZEl1OWp2RU1XRElydWNyTThtVWFQNjVlVmZjN1BRemEyT2NuUzh3bUZsZlVCRHdiU2JTU2EwdGpEcEJmSDV6aHNqa3ZaQ0hCekcwTkh2X21YVEY4N19uNEhwTF9jSWlLVVpHVWM1a3hNRVJESVNuMDFoc0V2elZMTk93VWtGUDdlcjN3eUdKblNJNVQwUUlGSk54NUF5Z0Nna0luUTBuQU5NYldkb1lCWjlmcjRWMnVJQdIB3AFBVV95cUxQUWhaY1JsWXpxTW1pek9ySnZSN21PR1JRR1FkenZZUVNBeTJwUGVISFUtY3JHMy1RLXdpNm5nZnhXUGpDbXBmdnoyeV9OYnU3TmRiMFlXMzhqd3hPSWdLT2piZjhFR29sekk3TUJ2eXVSR2pqNHdGekpYVVRyQU9saC1aa08yVG5BTUpZZ2l2UndieklGZVZFLXRuaUVKblBzZ0lSYVFjUkxwNExua3FOUmZzQ0VRYzEzQ0NQaWlwTE15a2VaWWZ0SW5nVVltc1Yxc3BXWUxnWXViTkVw?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T13:08:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Különös mozgolódás az amerikai bázison: évtizedek után újra repülhet a világ leggyorsabb gépe",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWhaY1JsWXpxTW1pek9ySnZSN21PR1JRR1FkenZZUVNBeTJwUGVISFUtY3JHMy1RLXdpNm5nZnhXUGpDbXBmdnoyeV9OYnU3TmRiMFlXMzhqd3hPSWdLT2piZjhFR29sekk3TUJ2eXVSR2pqNHdGekpYVVRyQU9saC1aa08yVG5BTUpZZ2l2UndieklGZVZFLXRuaUVKblBzZ0lSYVFjUkxwNExua3FOUmZzQ0VRYzEzQ0NQaWlwTE15a2VaWWZ0SW5nVVltc1Yxc3BXWUxnWXViTkVw0gHcAUFVX3lxTFBRaFpjUmxZenFNbWl6T3JKdlI3bU9HUlFHUWR6dllRU0F5MnBQZUhIVS1jckczLVEtd2k2bmdmeFdQakNtcGZ2ejJ5X05idTdOZGIwWVczOGp3eE9JZ0tPamJmOEVHb2x6STdNQnZ5dVJHamo0d0Z6SlhVVHJBT2xoLVprTzJUbkFNSllnaXZSd2J6SUZlVkUtdG5pRUpuUHNnSVJhUWNSTHA0TG5rcU5SZnNDRVFjMTNDQ1BpaXBMTXlrZVpZZnRJbmdVWW1zVjFzcFdZTGdZdWJORXA?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-30T13:08:00+00:00",
       "summary": "",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaW45a0dia1dYVzRpemdYVVRwUF9mOFdIMU5TZW1MNUFVZU13VDI1dGZYQUFQWVR4YXM3X2trSFRaZWVhbG56aHJHenVsbGZ2aklYZjg1YWpqRDdsTTRDVWZwUzRhUzNEMF9OVFRJTklxaENvdjU4cTROSkNLeEM0ZFh2MEVHbzNNcWQ5ekkyZmhUYWRsTmtTVzc5U0xJWDVVZ0hocGQ3WWExWHhpWlHSAa4BQVVfeXFMTWluOWtHYmtXWFc0aXpnWFVUcFBfZjhXSDFOU2VtTDVBVWVNd1QyNXRmWEFBUFlUeGFzN19ra0hUWmVlYWxuemhyR3p1bGxmdmpJWGY4NWFqakQ3bE00Q1VmcFM0YVMzRDBfTlRUSU5JcWhDb3Y1OHE0TkpDS3hDNGRYdjBFR28zTXFkOXpJMmZoVGFkbE5rU1c3OVNMSVg1VWdIaHBkN1lhMVh4aVpR?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-28T07:58:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: négy büntetőügyet vett át az NVVH, új iratok az aranykonvoj-ügyben",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ040SEJ5RTA1Ynl0MGVXTlRyWTlBQXpGTi1MWmpKSVNwTFFnVGt6Q0dBOGwwRFBUOTZUNUZHaXlCVkhnckdOZ01KUmlIaFp1bFFEcnVvMGVMSG16aVFmdmRvUDVXZkszY3VMRXZfQUkyblFGSnZCcVJZVEl1T1h4b2o1MEdXcGRoZWV1cG1iQmZQcVg5YzU2SGluT1gybWFmUEEzUTdlNFFBVU9Md25iR0sycjdNRENhN2pJZk5BTUF1Q21oemwzLdIBzgFBVV95cUxNdnNIOFNoX19RWDVXd2tUeE9uNGZsUHJTZks4VjkyU0dVbUI3TXVUZjZLZEduUk9HcWlxM1VNTl9jc181cGRnRXRQUm41U0g4QmxjOWFFMFh0dDJNSWM0WUdkVUNMNm9SeGVlMFZwZV91cExhLUN1NGNJZ0tyajNjbEdfVVRvLW5rZEZWR0lwcXI5U2FQeFhkcG5mLVlxTS1GUG9rMENwU2FPa19SSnpCUDVUbVdOM1k3YXV1S2JvazhjSGsxbGQzMnRuSnBUdw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-28T07:49:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Rendkívüli: az Országgyűlés felfüggesztette Hankó Balázs mentelmi jogát",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWw1RURNWEc3V2lUZFJVZXA1eWN2RUptclBkY185SU1nUWZaT1FRRXRwSVh6YkJmZjdydVd4NFZwYS1HZ2dkQ19xME1fVklCdV85M0tlTHVIVEQtNWlZNWNIeUdrc3FRcG0tVjZEZm9qdkZPVk93YV93bm9Yc2tfRC12cElxcmR6dUkzcVZqZ1dpUFZJeFh6elhxVDBhaVNXNURLelBWUVE?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-09-28T07:44:45+00:00",
       "summary": "",
       "image": null
     }
