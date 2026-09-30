@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-30T09:00:53.785347+00:00",
+  "updated": "2026-09-30T09:15:30.550521+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Eljött a magyar gazdaság fekete napja, Kármán András és Kapitány István elnémult: Orbán Viktor előre megmondta",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUU5tY1FiZ2lvdW02RGRPenI1VERiTFlXV0QwTnhVaEdqQ0N6bTBVUW4yQ21wVjBwbXhpZUd2amRPQnZ6cTBwUDItaDQ2dTFtTi1EZkZLVEFrbDlKQlduZndUSjBVdUdjNWpJbTFTdVpFaTNZdUtBc25UTEVycE1DZVMxUVEyUW80WFRTRUJyMUwxeDRQcWNJc2FtMVlfX1NFeEdNb3VWTWRSdw?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-09-30T09:09:15+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Vitézy Dávid új vezetőt keres, aki az utasok oldalára áll a MÁV-val és a Volánnal szemben is",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2VOOVpTYmppanF1MEhYNTRpaG5pd19tanMyb2ZCdldKdUlYRk1Ra1g4dXROa3FhelloblNHQjdLS0xXbUJWazRzY0k2M3JiSXB1cUJjVzNqQVdIQm1KdmlRMGwweVhmLXZ3R0Vybzk2MkZQWUZaMHVsQkUyZXcyY1dCb1ZJdFAycTZnRzl3?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-09-30T09:06:42+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Curious Commonwealth asks: Is high-speed rail possible in Virginia?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjk5Qkd2eUp6SFZvNjU1ZS1mX0xUTmtZTzFrMlRVWTlBUU85STNET1NteHpwSUtTeElrQ2NVRmZhZkZXZUp2dnEtNnBFRUJiQnM3SG43MGhkejZzdWFQc0RrbnhNZVZTZ1hTVHR4MWRrdmZNcWJUSll2ODJYVUx5aHE3ZE1TMGdkSEtNWW9kX1ZNakVUN0VCZHdfNkl1N0J1MFdSRUhR?oc=5",
+      "source": "VPM",
+      "published": "2026-09-30T09:00:19+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Morocco links high-speed rail to Casablanca Airport: the challenge of delivering a seamless air-rail single ticket",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNaWlSVmNZLUV1NXAxWktmc0N3VDVsN0RIUGI5TU8ybnJjYm9kTU83X0tYTmpDbUpnbnRQRHlxVjVBZTB0dFdTUVA2LWtESEdvV0puQmZDSFNPNkhobXRiQjZEalEyY3NuY2VEZ1JZekJyQWZSYU5lQWV1dTE3NkhEeEp5QjAtRk5QMFhnSEFZSDNxS2tJd1V6R1lnd3RCVzNJR3IyNTdUT1Q0ZlYzb0ZYaU1zdnZxUy1lanZVOW1jamd5UTJ4dW54VW9oaXRhemZXS3k2c2llQVFyTWt2UEgxWVlnVGJsYXpQbm9lLXhER0ItZkUzVFliZ2hFZXNuQXFxVnVIRkNXemhTdnlMb05TWXoyQTlKdHpoQWdvajA4QXE?oc=5",
+      "source": "Atalayar",
+      "published": "2026-09-30T09:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Veronai szerelmesek – A MÁV Szimfonikus Zenekar évadnyitó bérleti koncertjéről",
@@ -205,6 +241,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHo1Y0NuNl9Nc2xkY29SSjNLd3F1YXNnZW5CLXdlR0l3bWpWekI4OHo0OGotaXJZQVRfTWplLUFwX1dWZ2U2Y0lPSklRWjFlaXZDRHpNOEdoVWxHYklDX1JscGVGZ1o5WkZ2TFJIaHFMX1c4cmhLTFFMNTBBdHBoWGFwWDZFY1RfMWd5OA?oc=5",
       "source": "CBS News",
       "published": "2026-09-29T23:16:54+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "BKK Info: mai forgalmi változások Budapesten",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2hkU3RiMjEyTHNMOTFBaVc0Uk1EVXFxZTRmZUJrLU5DaVM2V0tsSFkzamlPeF9MaXlpeDJOOTVFMlZ6VFU2THQ0VGxQTGtsenNrazJzZXh6cmJXN25MM2g2d2xrUEoxc2VfcGpBTEdzTjhKMUpWaUttNkw2XzBwZlgyeGV3Vm50RzRaZ1AzQmFiTFk5QTA4Ny1Cc01sdw?oc=5",
+      "source": "globalhir.hu",
+      "published": "2026-09-29T22:11:11+00:00",
       "summary": "",
       "image": null
     },
@@ -2203,51 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWNfRzFBNkk1aVVSM2FocjExaFJuVUdQREtKN0FsVW13TkoyU25qLWJvd1dxcGZHeG43cVpob0lJUGNfTkRNZnNSWjc2bTZndTdqM2d5SzloRHI4aVg2VkpzVGlaNld0UThqaHI0NFVyTkh2ZnBObVpjdGhUTUw3NVlaVVp6bkROTE9aOVVTNm9RV0ZQSHRZcG5oTHpZUG9SbFFodUhKNndBam9TRzVzdA?oc=5",
       "source": "Eurosport",
       "published": "2026-09-28T04:38:27+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Tudomány - Végig ott voltak, mégsem látta őket senki, 84 rejtélyes objektumot találtak az univerzumban",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEJuenUyMlBqYTB1TzBkR013TmMxUjkwbzFCUWxpQnhVcW5mMkpOaGU2REo1Z2k0TklZbmVkT1BGR0tyZy1qVUV1ME83VFdsWWRjWnQxUGpOdERJTy15cEZBSVVSY0ZacDR1WHYxZDhzOTZnbVF2YmFyVDlPYXJHbllPcEpOOFV4a3hLdQ?oc=5",
-      "source": "Index.hu",
-      "published": "2026-09-28T04:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Seattle Kraken - Buffalo Sabres Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYm5GeDE5bjZKSkhzOUZIZ3FOZFEySzNfZUFsMklwTkdRLXozaG9oNkNKZWlHWmFSNjhmVllxUG1vaHE1ZjZnN2dUZUxfcXVyN3REMjhCSTN3RlFEeUdHZzFMR21td2Vyb3JNOHE1dlRKdlMzbmNNYlJCaFZ2YzlfcG9qY3l4VzVBb3MyaXpJNVFBNUMwVUhpTlNCbWplUmZnb2lXZ1NWbjFDSnM?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-28T04:24:04+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Seattle Kraken - Buffalo Sabres vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3BBNkNsYWQxZDBZTEQxT081WkRzR0dFakZxRWNlQUpjRnc4SlJCa25JdWI3eTFzb3FpUE1iT1Q0U0FCdklLdXVidHBPY2F2bW9vX28yUzRFR05XVmpGcnNTVXRzaDIxYmdrRkw2SzAyQ2Q3TU9LSjdBYVdyYnd2X1hubXd3cWNQUUlrMUJSdDNaNlJIaXBrcDhobWxhTHpQUFZ2X3ZfRHctSGRub3c?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-28T04:21:17+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Minnesota Wild - Anaheim Ducks Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkd6NWVQbkNJYmtsaUZzTHotaGlkbHZqdS1FMGpTSFJsaWw2R3FzbmpTNXZlYjA0TExfV0lPVUktNUY5M3hDUnQ3VGdSMi1nOXJRM3FRQU5KM09UMVpKRjFEVjdsdkx6U2RqV2F6V1Y4UXpKNDJQd0pMa0xHMktXWUVqd3hUUUd0emNBU05HZ3lxc0QxeWJkM2lMSng1ZXh4clJOcWZpbTZxZw?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-28T04:17:42+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Amerikai cégek érdeklődnek a magyarokat is érintő balkáni autópálya-projekt iránt",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXlON1I3S2F4cm8yQ0ZhLS1UR01KWTBhcTJCY0M4NGs5bGk1OV9NaFM4SDQ0ajM3bDVyZ1UtZWJIOXJ6bHJJWjV2bmZIeEFMVXNRd1ZxTTYxYmcycDdsUEZOWjlnWlA3Z3l2cTVybGYzOFY5a2c0VS05SU1SVHUtUkpNaUp4OVNRSHNXTUJtY1Buajl1NmtkQk5QaEdWWVY1aFRzc0VhY2V5SzBmaTJQSkx4RTd3ZHViaHdpUE5rNA?oc=5",
-      "source": "Infostart",
-      "published": "2026-09-28T04:12:00+00:00",
       "summary": "",
       "image": null
     }
