@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T08:15:31.803839+00:00",
+  "updated": "2026-09-30T08:30:43.311781+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -25,6 +25,15 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTHpTSlRUTU5Jelc1b3FGWlZrcVByWnFhd1h6dWhxUjlZbVAxSU1abmNJQUVWZzlVelh5UW5TaDJkeGZwZEEzaWZEUXJTZm1xRkk2NWhkRjNWeFJNTFJabWJGbEptdzJzQ0loaGowYjhfM1JkbDR1blBvancwTk4wVnFKWkdHazI3UE95RWhMSHhnVzQyTWgtTnJuSENJamF4NlI5VlhQaWpQcGVVR2VyNnN3WHR6ZVRvdkdrWjdSTXA0M3pFM05HbFNMYi1KcW5XNzF5TVlNaFlOQdIB3wFBVV95cUxNWEhVOTJwUWFZVk1wazVCeWpmZHFvWmNabWR6RXphWUIyX3d1LTN2dWRMR3pTSkZ6MHhVbUN0N0pfOVJ1Mm05ZUF2RldIWmNpbnVfQUNNb3NMbC1hZFp4RGYwNFg3RUh2OFMtZlpWbWJtVVNROWpvdnFzTTFzYnVsckI2bHlNVF9PYjN1N1RuQ2tnOUU0WXJaQWM3cGRyb1p0U296SVVNc0U1dkd2MG9yZTl4bmtrbEZKZ0ZZMWhSeXI2QV9iNnpmQ19NSTdWUWlDMEdQaHZTQnVwOExtYjdN?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-30T07:16:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Itthon: Közzétették az Orbán-kormány 2010-es üléseinek összefoglalóit",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEpFRmk3emdzWnJXMW1lRUNCLWhnRHM1Ul8wQ3FJSjlsZ1RXUThHREkwTjJBVWU2LUpTQ2txaWozSXY5SDZCbHI2ZktzTEplbGMzMTdOUzBpRWtSMHJkQzg5WU9LOHA5V1BCbldfRUp4YXVFQzJiMkg1OXVZWXBzaVhNcXBUMy1oclhpLUttNXFvdVlOMXc?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-09-30T07:15:08+00:00",
       "summary": "",
       "image": null
     },
@@ -848,6 +857,15 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Hosszabbított válogatott csatárával az FTC jégkorongcsapata",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFhpNDg2Z0gzcmwzU3huV0hGS0g2dkZyczU2ZlZPZFJkWmFhcGZjTHlhWlNsYlZqVWtObG9iY3JMUWV5ZVpqcjlzOFpmUm9uczFhb3Nybm9SR2tsOWVfemd4clFGVEdMRVN4WXctNVlpY0pKOGpOSHJDSzZDZnFxcl9ic2VYSS1FblhYeDU1VURIbVQtZG1mU3QxZGtNcEM0V1c0X0N5MVI?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-09-29T04:04:54+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Csillagászat",
       "title": "A NASA tervezi a Boeing Starliner küldetéseinek újraindítását.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjF6NW1tWkJrQzZOLXdhRFdFUFZQOUNGQUVqcm11bFNEX0UtNWdHU0RrVHdpUzBnNXN0dzFKUF9nSUdLYXBQVVF3TXpCYXA3dEtaRlpvVnBIeEJjMlllNG04dDBwQks1RUVuNE5xVjdPdWQzUUFXd3J0RlB2M0R0TjhuSVNZLUs5VmljSA?oc=5",
@@ -889,6 +907,15 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUZWNFpvdlFScU5PY1JfM0lzMFBXYmRJWGRLNHJRaVVKcElnZkVGTThiU1dHX3RxcWFGemRwZFNTOVJXSXFpbGJEOXhGa2FmTjRpM2RweEhnbUVfY0hqV2RvXzkwT051NVMtY01qWkZMT2p4amNrUkI0MWFOTTJmeA?oc=5",
       "source": "BiztosDöntés",
       "published": "2026-09-29T03:12:25+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Elköszönt csapatkapitányától a Ferencváros",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaExyb2xpek9EU3hES1QzMnFiN2pxRVF1QmR3cVNrSzRrREFrSlpma0pzWktLT0xjdHdlbGp3THlHQWNSbEZrMl8zSWZnN2JrdUlfaEYwZzQyWWFZbW1GQWVyRlQ0MFJERXo0S0hSdjJXQjRsM01Fc2pvZV9rWndtSTFHM1ZaUDR6R2tKV1J6QnBsQQ?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-09-29T02:10:44+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3JBT0NMdE92NjlSUmowa2dfNlR6VmtoY2oyWjRsZ0R2MmpibVgtUFkxLThRMjV2NXZWekcxMjNmVENEZS1VWloyQXNld2VJdVpKc1g5WVBCb242cjZWSGhkVTNGd3FjVkJhQ1pLR3JHWUN6REN3eUF3eXNadDZkdDFHdkhrUC1ldTVMNGNoZnI2MHVrMXZjRjh4Q1prY3J5RXY1cUtyZWc5MFJV?oc=5",
       "source": "Mfor.hu",
       "published": "2026-09-28T04:05:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Toronto Maple Leafs - Anaheim Ducks Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONVVsaExsLUtRaTVuYXcwNjVIdnAzTThacEFjQU80c1pVOXhySHBlcTJWRXYtQk9ZOGpBUkpzVFd6RUo2MGs2VFVkSzJZUTJuN0hWLTQ0blQydkRzOTI3R3VOQW5VV2M1ZlJwYno3N1p1WlU5czZNUXVCclRfc1lfUFI2QVcwa2xkRldKV2s3ckMxMjFUTUU1OXRYNXVncFBXZ0FEZm9Ud2wwWU56aHFIMg?oc=5",
-      "source": "Eurosport",
-      "published": "2026-09-28T04:02:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Már a spájzban van a dízelár-sokk: mutatjuk, hogyan védekezhet a fájdalmas ütés ellen a Tisza-kormány",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZEN1RkFUUEZkb3hzNEFGb1p5RDA4dlRtT2dZV09mQ1VGY2J3d0V4ZmRsdmJTcFBQQ2dLd1dFOHlpU042c3ZZb1IxbWZMbEVUalFza3lzeEhlRHNVLWYwdzR3Rl9wSzFndUpuQVFqdlZfNEM1SW5hNFdua3pVczl3MHFDR0V5cUlJaVEtNFpxS2ROTXpHZW5mcHdyaEt6VEF4dTdKZGZacFlRV3F5THcyOGlZdEhteTRHQ2pNaEJVVlJhTHBsNTc3aUZGcmJxRlRILWpyRXRrOXlIVXZUWWtCTmxORdIB6AFBVV95cUxObVlSdVFiN0ZqN0ZNRl81ZFJiQ2M4NGZzLXNHVW5kcE41VkpacGRBb3I4LW5fUEdRUV93c0R2TkEyYlZIdkNodkJNSVI5OGJSQ1RfLVlpREFWbk13VmNpZDNfVjNDZUhoVTFOVEhzYk1LLV9RLVB5QzFZekN6U3B2eEVfSlFxVWwyMGtPV0k3MVU4MUZkYzExZzVQQmdhT2ZfVVU0ZU40cGp3c3lYLUo3cXZKSmJ6ZlRLWnZRRWlNaWlwMXdtV18tYzZjR0JtVWZwbmJSQkMwZm9Sb3dDSExlaERTVkNhazRh?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-28T04:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Izgalmas dupla ülést tart hétfőn az Országgyűlés, szavaznak a legfőbb ügyésznek jelölt Szathmáry Zoltánról is",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHdsN29Ja0JWQnFEN2pkcS1EMkJ4VF9kaHhmQ05UZFFPamNQbXRQYmo1ZlJLdUx2dy05UVNjbGExSVNhcTJBZlpoR3dMSGRXaVlldzhCTi1TcDZXX25aUHBVMjV0dS02RU5adTV5UVo0Wl9UX05mM0wyTHlTZlFrZUtISENaTWFXVmNqSzJueHR5VklNQTdzMzFsN19pczJXTXFOcHp3c1N2M1NGaG5VRW1QWDZja1pBU1haTzhaRkowc2F5YllBbmJoUTkteHFrRVhiZHhoNXNmT1JGSC1yOUxB?oc=5",
-      "source": "Infostart",
-      "published": "2026-09-28T04:00:00+00:00",
       "summary": "",
       "image": null
     }
