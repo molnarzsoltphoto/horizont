@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:30:48.123102+00:00",
+  "updated": "2026-09-30T16:45:31.615037+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tCWF9sOVFhT3d0YjVOQXZyNkpHcHBhX2lZT0NLbUR6d3AxU0c2aW8zRkdFWWUtTTdVTTNRclBmQlU1RThtaEg1d3RoaFBma1M0VVdra09HV2Q2UENXTXVtWHIxenJDdFBxZzFjcEtod19zOGJSNHp5d0JoZ1dHY1AxMnd1TlBiM0ZhMGMxTEJUbHhlY0VheGcwdUZ0amIwdklZWEhOcEYwVG9uZmdyYXhHYlZUdklBUXc?oc=5",
       "source": "Economx.hu",
       "published": "2026-09-30T15:50:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Óriási dugók nehezítik a közlekedést",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2tNWkhVYnZEeFdDZlBhV1hWbVZvVXV6Ty1vOFpfV2lxM1dycG0tM0JfNG83aERvLWdjMnZNSVBtRGFYVWFidEdQOHF0Tzc2YWQwMnFmR19yQXNKMEczNU5GYjQ4VkE3MUdZQmFpVGR3M3Awc3R5WTNfMmJDcUI5azNqdFl5Q3FVWmhDRTdEX0JIU0lY0gGUAUFVX3lxTE1Ta01aSFVidkR4V0NmUGFXWFZtVm9VdXpPLW84Wl9XaXEzV3JwbS0zQl80bzdoRG8tZ2Mydk1JUG1EYVhVYWJ0R1A4cXRPNzZhZDAycWZHX3JBc0owRzM1TkZiNDhWQTcxR1lCYWlUZHczcDBzdHlZM18yYkNxQjlrM2p0WXlDcVVaaENFN0RfQkhTSVg?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T15:38:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1334,6 +1343,15 @@
       "image": null
     },
     {
+      "category": "Nemzetközi vasút",
+      "title": "Critics dub it \"anti-transparency.\" A California High-Speed Rail watchdog report reveals otherwise.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1FTWUIxak1XcDBSRjZpZVg1Qk9TUk52bGZhRXBrYmp1ZzVhUWNOQnQxRDFxdkJUU2M0T0g4Y25kWjZyeTN0T1VMOVdrZS04SG1BUnF6RFVFY2Rrb1FSSGdqTmdmeDhyWFNUUG5qaWdNcWc2MWh1cnBHeGhaREZkSERuT01LWUNvd1Z1M2tJak5nVWUwaVNzcS1VT1BzZ3F6WWtWTkhQREhVZ1FfRkdObXNpazBhRXpOTVNYX3p6NDg1SWJkYUp0UVJ4eTE2TTBucUxB?oc=5",
+      "source": "CBS News",
+      "published": "2026-09-29T03:37:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Belesimul az európai fősodorba a magyar külpolitika",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmdLc2pyLTUxeG9xSUdKWEJ2RnFiMThEM21jSmdWQnBxTk1kSmVpdkpncDh6ZXN0dkdWUEJLQnhlcmdfUkd5ZVNOMHJkQ3pYNmpmLTAwLWVsSlNsM05yQVVyQkJqS2pjNHZqYjk5SnJBQ0hVVzQwUl9OeHJzYUtjTw?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2NZWU9qQm0yZDkzWXZuT0RmRUY0bGVIdmpwcDVGc3B6dlNjWl84WmlKcmF5WDFTQXdBRTl4Y2IyQTV1NHlmcHlhTFpJOVhWMDdnbVAybWFQZDlwQ2ZTUHVOZFNxTTJQQ08xeGoyNTNRenlNU01zZldoOXFTLVpWaHMyWWNiWEgyTmhwdTJTV2tGbTg?oc=5",
       "source": "Hét Nap",
       "published": "2026-09-28T08:47:02+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Szinte példátlan: az országgyűlés felfüggesztette a miniszterelnök mentelmi jogát",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUW1qLXFRMDZiSlR2RlkyMGN6d2NHb2VwbEFFelJNcjRmcHg4RzZXOFlQN0FqVUhWZjZNUUFlSk4zY01kdW5XcWZMQWFiWDI3dWlrY2VmcDdhTThsOEx6amhmRVVGckF5cVR6OVdjY2JHN2luY1I2S1RMUUNRYmNuMjNCMEN3bkRabXVjS1NHYXFsemJYM29FcmFBblI1ck9scUw3M0o5RFJ5Q2s?oc=5",
-      "source": "Növekedés.hu",
-      "published": "2026-09-28T08:36:06+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az infláció és a maginfláció alakulása az eurózónában",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWZFWmZVanMzNk0xVGhoYUVEakFwSDB1WDVpRVRRZTljVTJVdzl6SHk4VjlPRGdseVYxZE9ENlpvSmRQeHljQ2VTa0tPRWVLZ1FSTXpacEZkOW5NdWVaejU0Sk9YNkxuek9BSzNZWWNFM0NiSmJIbEFyOWVkdms4Rk9OcHh3R3E0UUYzalF1ZGtmakFuaTBtN3A0eWpaVHU4T2VxaU0xQU4?oc=5",
-      "source": "Erste Market",
-      "published": "2026-09-28T08:30:40+00:00",
       "summary": "",
       "image": null
     }
