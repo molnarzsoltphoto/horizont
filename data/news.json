@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:00:56.980066+00:00",
+  "updated": "2026-09-30T07:15:32.791441+00:00",
   "articles": [
     {
       "category": "Belpolitika",
@@ -29,6 +29,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Commerzbank-felvásárlás: itt vannak a német kormány feltételei",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtoLXF4QTdZY0x6ekhNTm01dXA4Qng0UGhvNnVMeFZHdnB1OG54eDdZcU1CZU4xZVhjeEk0MjdlMGxwczlNRDhkLV96VVFlNTlrT1MyYWR4QXd4MDVNSXBpdXBsd2RMdVFZaFlGNHFPcGFEemZkRGVOa0Z0aVg3RkFKalVCcFVfMmEyRTdEVEJqS0tCN2piOWZZZTYtWXhlWHl6aFZmR1lQWHfSAbABQVVfeXFMUG9zUlozeWZvaS1pZ1REVy1ta1NaeGNmSktsWm1weUg1TWRwYjlRWEUyNVpXSlpVTjhzeXRUWEM4NUF3aV9pQVYxLTZlTFBleXZFSnJiQU9meV9Qd2YxSkpEUi1GMnpmUHR4c3lTeGI1SXhrYU1HM0p1eU5YVHFaOERvRHpIMkE5Vm9VbTY2emRKT1RuV1Z0MndoS3AyTG9mQ2s2eHJlRjdCR2I0b1hLZHc?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T06:04:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "GKI: az euró önmagában nem oldja meg a magyar gazdaság gondjait",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWhEanVzX3JVTGtxa3VSQlU1SHQzSG5hcEVVQW1mTFVqN0FFV2pBeVJsOGc3eVJvVXBqZ3dkNmVDenk0TVZGMjk5RWhISzAzZjByTjJrN1hUaWNIQkppOGV0SklWZGFyMHlxOXhzVV9RdmxGdl9BNFpqN2dxZ2pCdXdjYmRrOTRDXzVVNmtpV3ZZdjhrYlE?oc=5",
@@ -38,11 +47,29 @@
       "image": null
     },
     {
+      "category": "Csillagászat",
+      "title": "Napi pakk: napsütéssel és robotokkal ér véget a szeptember a Napfény Városában – Szegedi hírek",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUx2dDJGR09zZHFMZEpQZzVubmRDbXJJeDY4WVF6NVBNbVB2WDVDYjBlQWpQSnRFQUNlazNVdEhYdlF4LXQyUUtSSVFHcDJoLVE3bzFfWFVTb0dmV21DZjU0eE40dTNkbTdIYzIzNnFfeFdocWxFMm5KNDhtbFZVN25pNXpPUTl4SDUyXzFiVzhZSGlUaDdVSGZyMU9DVjFiYTRiVXRTOXZBa2NqdnU0?oc=5",
+      "source": "Szeged365",
+      "published": "2026-09-30T04:32:53+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "Itthon: Szigorította a kék villogó használatát a kormány",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2N3NEVhLXVfY25vZ2N2VjNqaC1CNnlweGdOLUFncTBWNlFyY2dGbXg1RTJXU0RTWWtfMldUd0lGUi1mX0ZOTkM0R1pRSVJVY0FfVTc4OVA3S3BWTWxMajZFdU9tT2FtWnRqZC1wMVFBVkwwX1NUZlV0T2ZXVjY4eDc3QmJFM1ZYemdmOHhNR3BuNG1fSHltOEpvS1diMWRlXzNWckVB?oc=5",
       "source": "| hvg.hu",
       "published": "2026-09-30T03:26:25+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Ha a Naprendszer tele van menő holdnevekkel, a Földét miért simán csak úgy hívják, hogy Hold?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVl4YnpjTzNRN1dGdFR3VF83M3NzSzhyU2poS0hfY2NFUjJpMy1aVTFKY3dRbElrWGxnb0dIeF91ajJ0cHpkNU1adm9wTDhxYXU4aHRRejVWSTg1dlMtVmJFZjlVbjVPOUVtQ2RqbmtXTGpEdENJUUpvRjhiWF8xOV9fY1Q?oc=5",
+      "source": "Telex",
+      "published": "2026-09-30T03:08:45+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFhDLXZ3VWdOOXlYeFZlc3dvX2IxTzJGaDdkX1hMT3BaNjhDZ0QyWXd5djBJSGhUaU14dE9XcmVodm14YW9QdHV0MDNXQlJtcGYwVlQxT3Vrb2tZa09aZ0FvTWp6ZS1ndk1vbERlMC03M3NudVlEaVJDMjN0eFIwQ2VJRzh2d1l2eFFFTTVuajZIOWE5eV9UTGNBOG5Lc3FnQ0NB?oc=5",
       "source": "newtechnology.hu",
       "published": "2026-09-28T02:33:22+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Anaheim Ducks - Seattle Kraken vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmJOdXFNNTdjckdFY1dkQ1hxMjV0M1dTdlcxQVZIVU5QcE9oUl9xMExNUlAwb3o1VGdTa3ZGTFJTVUxCX0FQT1lJTW1kb295Rll2SEE0YkNLdlV1M09vZXltQm4yN0U4WUJTZGNramdNanZXakRFUjhkc3ZndFhtQTZOU0p4dGNEdlh4bDZsbDFjTGtkakZOeEE0bUZhLTY2cWM5aTNtNjMxbThD?oc=5",
-      "source": "eurosport.hu",
-      "published": "2026-09-28T02:22:53+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Vajon az USA visszaküldi az égbe a világ leggyorsabb repülőgépét?",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEJrZDB3eGE4MVJ0VXFEVGRoaDhYYVBrSTIzWUFGNUUxcXl1SktDS0RRM3dTUUw5Y2VZeHo4QWRRQjRwQnMxaGJFS3ljQUVqT2FnMERncXJFVTMwRFdLU013LUl5b0xTbzNpVVpkQXYxQjd0YUZRUldKM0V2MHFWT0lyRQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-28T02:09:20+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Gazdasági hírek áttekintése a szeptember 21-25-i hétre.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLVDBWeDluQkNsT3drZXl3cXNvQldEZXhUN29tQkl6NkIyVm9fMENrUFgzX2xnS25ORGNQLVU5aTR1LThWSUlmSmk2TWhqQ1I1MGYxTFpOcFIycHBYZTM3OExMTGR3VDVPWnAwdDBJaVFCMWplZEJn?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-28T02:09:18+00:00",
       "summary": "",
       "image": null
     }
