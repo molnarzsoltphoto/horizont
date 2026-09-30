@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:00:56.874733+00:00",
+  "updated": "2026-09-30T23:15:30.121739+00:00",
   "articles": [
     {
       "category": "Nemzetközi vasút",
@@ -25,6 +25,24 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcDl5Nk45bEVPRUw1YkdEOENxY2RYN1NfM3RLRVJNekZaRDRDVldQLWxUN0FZeGs1MzI5b2NfZ2FBSXFMNGlPeUlUZ09kUWc1YnMwV0lURVZXbGFsSTVKZU05UzlfWllDVld3akRILWU3eVNuVGMwX3laMkpnMFdzQWs0TVpfTmk1bzFXSW9wRzNZTHRVLXBQRW5pRV93a3VvT0dMYmZWX1JqbVQ4LWtGTmRGTFk4Nm1vSkVhRldZZC00NmJ1QWNuRmh5bjFHQUVidTdwOS03QUFXLUVPbWR2Vg?oc=5",
       "source": "KVPR",
       "published": "2026-09-30T21:39:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "California high-speed rail fails to accomplish most of its legislative goals for 2026",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR1JMOU5kUXZOTTlfWGFHTWlFblRvWFRCZWdjVFVzX1pqLU9qcVJJV2FqOGFmQmpZQUVEOWZTUktfdFVVNGVqWURuSEZSUlc4VF9DbHJhWUxETjJoX3o3aEF2Vmgtc3phNktuTnZZYm11bjJUaHE4ZDk5R0VRZ2xrWEJOR1JPTHBUX3RIWUxNUHlNbXdKRF9aSUZZY3lZM3R3c3VENTc2ck9SNXZXSFpZM0RGNTk0VDY1dDFRUVcwc05JUGtCZmZiZTZOYWg4cXdoRkdZ?oc=5",
+      "source": "KVPR",
+      "published": "2026-09-30T21:39:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "win2day ICE Hockey League",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jT3A3Mm9oLTl5RTY4OUhUSGc3aXlYdHB5ODIyYmRuUWZhZEV4ZWtzblRGR1JpcVIwNzQxZndMeFNlRmU4V0xsSmROVFdDUHVFaWVDVFJUb0xPb1Voa1Fydmpyb3AwOEpGMzIzY051OXpHS0hO?oc=5",
+      "source": "ICE Hockey League",
+      "published": "2026-09-30T21:03:46+00:00",
       "summary": "",
       "image": null
     },
@@ -1713,6 +1731,15 @@
     },
     {
       "category": "Belpolitika",
+      "title": "Tisza-kormány: Seszták Miklós őrizetben, új jelöltet keres Baka András",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGlVaDJzT012NW9jOEg5SVFUSHM1UjZiODkzRGM2RUcyWGJxeVNtTUdyRG9MSXBUaU9UalJyVzBsX1pQQzJ4SC1HQ3NYQmcyNEVHMjZNOXZ2RmVOejBVUjlBV2U0S2xodEJLZG81bVRZTTlldmQ4ZWpwajZsMmhUcG1aRm1lc1BST2FSQXVCQTcxT3ozeW8xT3hiU3BrOVRMR0UyeVdxMy15cGN5ZV9sQ2ZjNWw1NFpReWfSAb8BQVVfeXFMUHNmR0RJMHU2c3BCVWd2ZXdZY1hmLXhkZ1pzNndfWkpaUVBQNUIzaGFBV2F6enRHTVNidEFyQm56NmUtNzVZNTBFTG1pNkRRWkJ3N21Jb2lrWEwwOVBvTVhlaEJReWpkQTdKQkxPTlhXWEVDZURJN2NHZWhVMHBPeTNCdmRYOWFhWUJlTi1pcnI0bW1IVHlINXVmUHZ6VnpDNnVDYmRmdU9VVVczbjVHSk5PM3NUMWtzQlItVTRCdjg?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-28T20:45:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
       "title": "Váratlanul elhangzott a parlamentben, mit kezd az Otthon Start programmal a Tisza-kormány: így fogják átalakítani, megnevezték a változásokat",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVg2OW5yX1pJa0V3TXdWUnE2a3VRZkI2ck5pWTVJdjlJWGs4MnF5SVYxdDZQaE52ZWV6M1BLcjVwcUFiOUR2Ti1HTWNHV3FHZWZaX3Y3RFg2dHAybmtRRGZkRXpJejU0bUNxdlZoQWtDNlNUVE0yMl9WYnRIRl9TdVdUWFV5dG1mc1l3WGRIVDg5SmFDWnpwRmFSUG5IdWI3ODQw?oc=5",
       "source": "Világgazdaság",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82eHZvQ0pMaVV3VDJ3a1dQT3FKLW1Na3RDZDBKNHcyWXE1VGhoWC1Ob0diVURRYjVwdzlSZjBLTy1ONmxHaHQzRjNnbmdWa1pITjdmYlBkci1kQktZTGluN2todlN3UEpHOEE?oc=5",
       "source": "Capital.com",
       "published": "2026-09-28T12:25:42+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Felfüggesztették a miniszterelnök és két volt miniszter mentelmi jogát",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzlkN2lJMWQ0dnRVRnlIeE1GTHI0OHpSUXlNRnRqWUhwV1MxYkY3U19tSUxJdWdQeGpBbDBGR01jeHExTXZoZ2ticG9GRjFJblE1MHNQV3RGeEZXclBKZlkyR1pqSHUwQko2aVkwNlFBaXg2aVNPQTVNRll2SVQ5Vl9TTTVTMXJtRUhNNTlJZC0?oc=5",
-      "source": "BEHIR",
-      "published": "2026-09-28T12:22:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Megváltoztatja a kormány az energiatároló-programot, 15 ezerrel több háztartás lesz érintett, de kevesebb pénzt lehet kapni",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNzJDYXpTOHVDY09YNDJ5TnRScEFURkQ4bVR1cE5CUTAwZUFQbTVBT0d6ZFNHamUtODF3ZWJOTGFDeTZ0eER1cWJwTng5T2xZV1hCQnQ1eXFwMTJzVjR2YlJ4TTBPNlJndGVFVWNUSFM2VnNKSTJfUUUwYnZnRWhKT2dQS09IM1A1d0ozZ3RDVEJoN2ZtQVVjOFFTakJ4cUF0eEN2VXlSTVVFRUxjY1A0ekdiV0pqTkFFRnNRVWNXbTVuWGd4R2ZINFl6X2pPbTQtZTlLY3BLRnY3TVNSbUdRbWNQU3RTY25ycThMVkpEd3VyV1E?oc=5",
-      "source": "Infostart",
-      "published": "2026-09-28T11:52:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: Seszták Miklós őrizetben, új jelöltet keres Baka András",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGlVaDJzT012NW9jOEg5SVFUSHM1UjZiODkzRGM2RUcyWGJxeVNtTUdyRG9MSXBUaU9UalJyVzBsX1pQQzJ4SC1HQ3NYQmcyNEVHMjZNOXZ2RmVOejBVUjlBV2U0S2xodEJLZG81bVRZTTlldmQ4ZWpwajZsMmhUcG1aRm1lc1BST2FSQXVCQTcxT3ozeW8xT3hiU3BrOVRMR0UyeVdxMy15cGN5ZV9sQ2ZjNWw1NFpReWc?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-28T11:31:00+00:00",
       "summary": "",
       "image": null
     }
