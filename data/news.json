@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T08:30:43.311781+00:00",
+  "updated": "2026-09-30T08:45:33.873716+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -43,6 +43,15 @@
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaDMxQW5tTkRyT3dvNWVDcXZ4c2hlMU92dFMtSUtLcGV2Y0ZNS3dJbWVLdDhzdWg4TEZ5T2o0NFVnajQxTi0xV0lUYWZhQ0FUdkxZbUowSnF6dXpDRG1vSmRleWFPOXVwY3pQU0lMVjhNRWNNekE1STB5NjVWYzZEdnRZemZ6ZzJFN2Y3X29MazdZbVBGR1c3b3hyZGl6bjRBeUMwOVNUcjMtRVZ2NGxmeC16VlNIdGdQVDNBQUd1alh5dXI1NjR0N0hCZnV0STJodlZGczVsRHBhZi1ncGUwZklVYmZCelNwblM3WDVBcGZDR0xHTjhwWThUVHQ4NmPSAYQCQVVfeXFMTllyZXM0R3RrX01OSUY4SzRFQmQxNUY0SUtsMEhYLWplSmRVa21oYnE2LWhDNTZ2djZiYU9kVGFKMlJ6bDNvNlotQTFfcjZ4OVdtV1hTRjBINEFDa1RLT1h6M2VheXpOb1hxZTBockJmbndIOGRyUEpBSF80NXY0T0lpbUYtbUpKY2Z3WFRLWkltMnNLemhUcDB6a0VEWTJXNFNlRTUwUWdtN0FrU09rTDI1S0YtMlFtSUsySE4tTnM2S0ZneEhCV0dpUWxMakR5MUNQeGFlLWVEeHV5TWs2eVpCdVllRzZNamlhUXgxMzhyaWNjTkMzNUNsamFieFAyaUJuTUw?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-30T07:05:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "7,7 milliárddal emeli a kormány a hit- és erkölcstanoktatás, illetve a tankönyvtámogatás költségvetését",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2w2RTBuUkNHeGo4N3VtZnZFSDM0YzczZUVfXzB4cXJPVzdUTnRwU01GeDVTS25IRElEYkp6ZVRRbjhnaHFRVlVCS1lab2NSOFdCdzhhSXhzU2RBdFpCZjYwV1hSVm5WYTN1SFdaU2g1RU9qZ1NwNXlWaS10U3JkQ3JPeDIwQkIzdGhxZVdSZzFjUzVrRTZSUXFQZG1lYmFLRldrNEtvbmw?oc=5",
+      "source": "eduline.hu",
+      "published": "2026-09-30T06:32:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTNJdG5FdGFvSzl2YS1TemxabEZsb2tlT0laX2UwSWN0b2JFcGtnWFROU0ZVXzg2R1dPRzZWUUYtanYtOHM3ZVBhNHJRZXJGclRxU0E0YVl3ZjU2RDd1a3BscG05Mk0zS0lQOTNPZjJFOGVzWnBkQ3VrUmhmcDNCTV9VSlRfUnNKY0drZG9tRVpqeEFKSlBJQUxmOTFPVEpKOWpldDJpOHhhVWc?oc=5",
       "source": "HR Portál",
       "published": "2026-09-28T04:06:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Távozott a szerb elnöki posztról Vucsics, de már a választásra készül",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3JBT0NMdE92NjlSUmowa2dfNlR6VmtoY2oyWjRsZ0R2MmpibVgtUFkxLThRMjV2NXZWekcxMjNmVENEZS1VWloyQXNld2VJdVpKc1g5WVBCb242cjZWSGhkVTNGd3FjVkJhQ1pLR3JHWUN6REN3eUF3eXNadDZkdDFHdkhrUC1ldTVMNGNoZnI2MHVrMXZjRjh4Q1prY3J5RXY1cUtyZWc5MFJV?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-09-28T04:05:00+00:00",
       "summary": "",
       "image": null
     }
