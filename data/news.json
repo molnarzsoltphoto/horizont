@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T12:15:29.753170+00:00",
+  "updated": "2026-09-30T12:27:15.715228+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Rendszerváltás a MÁV-nál: megyebérlet lesz a vármegyebérlet új neve",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1dlM2FpVmtVcUJmV2hjYWZLMHplNkVFejRBbGFmRjNpa2NvSzdSa2FSWU5oWWUxMWhsSkxDUktlYzdrX2loNXlhbmVTdk5iRHZ4dnM2eUw5ZXlTUE1Dckk1ZkpiYmJyOEV4Z3RHSzFvellDZnhrcEl0cERmMG01aVg2TFloRkJZN1Q2cGlLRUptZ2hkazB3?oc=5",
+      "source": "444",
+      "published": "2026-09-30T12:22:55+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Ismét meglódult az infláció Olaszországban: szeptemberben 4,2%, hároméves csúcs",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanp0OVluTTAwclpuSWdMbXFMNWdtRDgxVFZIRGhRQUZvaDYzVUpYMFJ3d3FkSlhwUjBGV1oySlQ1cmxqaVFWWUZPdTVabnJvd0xYemx0RHJoTWtqSzJkZUd1ZUdBOVBBZDVsY0FCeWc0VWFKOFpTdldUeU1JUWJacklGMVFfcU9vOEpPcFFGZUtCN0ZqclVDR1RDQXlUTi1UQm13em5NaURGWm1TTkZZ?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-09-30T12:10:35+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Nemzetközi vasút",
       "title": "California high-speed rail fails to accomplish most of its legislative goals for 2026",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzd6X0NCMzdMaGItNVBXaGtNRkdlZVBDeTZGcHZ3bzZ1NkQxMnAtSW5UOFFXZDRFNEFsbGg4QlFtRXVYSkVGV3RlRGl5NS1uN0puRVprQkxNbXZ6cWFqNFBHU2JlVU03NlozSXpMQTI1Um01aGxLREZqeFlLNDdVNlBzOWFQRlZKcjNLbFhuWQ?oc=5",
       "source": "ORIGO",
       "published": "2026-09-28T06:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Kész, ennyi volt: az oroszok szerint elvesztette semlegességét a világ egyik leggazdagabb országa, azt is elárulták, miért",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT3AyVWxocnZYQ29PN2Y5SjJneWF5eHVmVnJ2dWdnRkdxUnZndVhYYVFpd1ozeUtPUlpFdExaVTNJYzZnTnZsbHdES2V0aTJpdE1vWWUzMFBycGItVzFIMzViR3lHalZUN2JqNnRSOUs2eFVESWpNWFNpSGptZnlRdXVSX0JQNkdlVlppMmZEVVg5bnQwSzZqazhoLXNweHJsVFlDVF8zME42cUtjd2JpMnV4Y2hHbG1wcVQ1WGd5d0JSQ2JOejBGNndNU2hRQS0zOXhLWnBvT25pVkFBQTBwMXBVc1FtRm1jaEtEWVQ5dUlJdy1JMWxpc0dldThjX1XSAf8BQVVfeXFMTk9wMlVsaHJ2WENvTzdmOUoyZ3lheXh1ZlZydnVnZ0ZHcVJ2Z3VYWGFRaXdaM3lLT1JaRXRMWlUzSWM2Z052bGx3REtldGkyaXRNb1llMzBQcnBiLVcxSDM1Ykd5R2pWVDdiajZ0UjlLNnhVRElqTVhTaUhqbWZ5UXV1Ul9CUDZHZVZaaTJmRFVYOW50MEs2ams4aC1zcHhybFRZQ1RfMzBONnFLY3diaTJ1eGNoR2xtcHFUNVhneXdCUkNiTnowRjZ3TVNoUUEtMzl4S1pwb09uaVZBQUEwcDFwVXNRbUZtY2hLRFlUOXVJSXctSTFsaXNHZXU4Y19V?oc=5",
-      "source": "portfolio.hu",
-      "published": "2026-09-28T06:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Összeült a Mentelmi Bizottság, három képviselő sorsa van napirenden",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblZvUnhzVXhERjljSlhQV2YzR0RaeENyQndvX1JsZTV2bUQyVGhSNmd6VTNYTlBFU0FEbUYzd2hmZFZScDJfck1XQzQ5MzJodjJCVFBjOUd6Z0VDYk14bmtGMllXZklQMjY5UkctYjB4SzQ4aEVFQnQyMC1rUVlwajJNaXlFMTRsVzFUeDJYVG82UU9xWVQtOTU2bmk3aWFoQVYySEtTNTBoX3RvTkNQa0dzOV9kbVHSAbwBQVVfeXFMUEJ5c0JwMVBsRzJheGdYRklLTXNHUGFXNHYwclEwOVduZFJLUjJ2UUdTcGVhR3JSVEwtZFBHeXM3ZGwwWmxoRUswUlBEVzJNQ0Fmb3kwcmFXVVZGekY0ZjhfUjZIdkduOHZYNzJBaldlTWZ6M3ZzTnNNSkFZUWdJekF5RVUzM1dLR1BLalVEanc4MTA2ZWNVbHFYZmIzZ0ZJZVg5SXY1d2E2bTFfYjB0UW5VYXVheVJfVHdJVnM?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-28T06:10:00+00:00",
       "summary": "",
       "image": null
     }
