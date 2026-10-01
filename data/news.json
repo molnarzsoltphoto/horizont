@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:30:53.651394+00:00",
+  "updated": "2026-10-01T15:45:31.878970+00:00",
   "articles": [
     {
       "category": "Belpolitika",
@@ -25,6 +25,15 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeFd6cXBxbzI3ZXRDVW44Q3hqX0hOT0VWZDVaTlpoQm9BR2l5MlFudmdNMUE3cHhfaFgzQmtFLVFSeEhyRlFoMV8yQmxEVkhILVl3S29BZlhfRDMzdXRxOWo4WDR1bVNtc2Y4Skg0NVZUem1td19jcFEwSTVuN294N2w1aElSNzhveEJ3UnppbC1aRkpUaVpTMWhOczhaZXhYV2pMQkxvLS13N2VBcFpwSktaM2tyQ2puRU4tRjVjV1c2ZnVneU9FMGRKb2dTcDRCdE14enNfUlRtWWtNTWNoT0JPMnFaRnRwZ1J2VDFiX1hpQ1lNemh5azJESQ?oc=5",
       "source": "Mass Transit",
       "published": "2026-10-01T14:44:38+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Halálos karambol az M5-ösön, Lajosmizsénél",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TajdZWnA0RlN6ektEZF9admd4WEY0VzAtcjhqanE4THY3YXdPbXplZGNsUWRqZk9hcENEZ1RoRjBObEVEd0lGQjVWQVZVYks3RzlwVE9jVkRtVHlqTlVDQno0dFNxU25MM2Zn?oc=5",
+      "source": "hiros.hu",
+      "published": "2026-10-01T14:33:33+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmdLc2pyLTUxeG9xSUdKWEJ2RnFiMThEM21jSmdWQnBxTk1kSmVpdkpncDh6ZXN0dkdWUEJLQnhlcmdfUkd5ZVNOMHJkQ3pYNmpmLTAwLWVsSlNsM05yQVVyQkJqS2pjNHZqYjk5SnJBQ0hVVzQwUl9OeHJzYUtjTw?oc=5",
       "source": "moszkvater.com",
       "published": "2026-09-29T03:35:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az infláció többszörösével nőtt a nyugdíjpénztárak tagjainak vagyona",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUZWNFpvdlFScU5PY1JfM0lzMFBXYmRJWGRLNHJRaVVKcElnZkVGTThiU1dHX3RxcWFGemRwZFNTOVJXSXFpbGJEOXhGa2FmTjRpM2RweEhnbUVfY0hqV2RvXzkwT051NVMtY01qWkZMT2p4amNrUkI0MWFOTTJmeA?oc=5",
-      "source": "BiztosDöntés",
-      "published": "2026-09-29T03:12:25+00:00",
       "summary": "",
       "image": null
     }
