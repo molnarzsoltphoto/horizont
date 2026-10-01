@@ -1,12 +1,30 @@
 {
-  "updated": "2026-10-01T14:00:54.656004+00:00",
+  "updated": "2026-10-01T14:15:30.875829+00:00",
   "articles": [
+    {
+      "category": "Nemzetközi vasút",
+      "title": "California high-speed rail accomplishes only one legislative goal in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV0VJbUktSG5raEg5NnFMWjBUOEdNdl9vXzZfbFRHNGVKWFl4X21BMjA3ZkRnUnNSWEttQ2JxSG1yOE01YjRseEhGX2FyMnpEWnYxQ0hTVFQ3QWN0MTNPN2JOcHFYU2VTT1J2UHctY2F1WWlkbTRMbDhTUjVvdXlsVF84clJRUlpLcHlmNFI3OUlnWFl2aFl3VE9OZ3lwcWpzcm5ndC1IVjN5Ul92cFZ0UDhuV25sLXdM?oc=5",
+      "source": "Planetizen",
+      "published": "2026-10-01T14:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Indonézia átalakítja a kabinetjét, számos kulcsfontosságú tisztviselőt lecserélve.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFh6OHZOX0RNNlNvdndWcXNKTlF2Z2Jtdlp3dXFwWks0TUNTandMM0pFc01MZWZhRU9Xd0ZZWkJNTmd1dEN2akdTWHVTckxBTWlEaVdlT1EzYVRESjBVaHpiaVN1aktGaWdONDZzUEJVRzd1SERuVmVldlhDeHJra0ZNSjFWcmFrT1NyQ1p1N1BQZw?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-10-01T13:48:33+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Budapestre várja Emmanuel Macron francia elnököt a magyar kormány",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUZrdVI5WWJpOThiMkZFYVJRaXcyVDZaQ3dJeVA1STFfUVBKSXhhOGhhZGlQZHZNbHJobXVQOGstTjFBaV95c0hKTFptTU9XZTh2eVhFb19yLWlvQTg4RHEtaURWOXB2TkVCVzRQN28yOTlUb1FXalZ4a2NPTWNLQjRvMEdtSVVTUnJsX1JGdXRudklGTGlYTmpHMUJCVEthRXc?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-10-01T13:40:09+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlBzeHBieWFod3g3cTlxYkdPRGRRUkVBRFp1WmRYV2g0YXpkYkFONHNqSFA4Mk10YzZPZTB2OUliTGxZWWFJc203dUJSaDAxLWhYajY2Rl9ERW15QzRFQW96QVBNd3ZUcWV6RDlRQTc3R0lZaDJFYTF0ckN1c1ZsYXBGUQ?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-09-29T00:45:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Egyre több Fed-tisztviselő támogatja a kamatemelést az infláció megfékezése érdekében.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmVIM1hwOVRJNklmeEc4dm5jYzF4Nk05TTcxR1Byclg2cEFzUXR2MGpZREhFVWk2SVcwbi1IYlF6RVgzRUs1Rk5vV3ZwQ01IRTl2SDhRYkp1ZEZlWmlHRlJYb3I5U2xsR2F2M0lHRWRIeTBuTi1ZUlBic0htQjcyUjE2TzNrdHE1bzRRWkNJNUc0ejJtZm9MVUZ3RQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-29T00:45:15+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Osztrák hokiliga: nem sikerült egyenlíteni, Székesfehérváron is a Graz nyert",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0ZxQWhfTk1GNDJqUjBENkgyaUd0VlpfbVJ5djJFajFrS05kMWFoWVVyV0Nxd2NUSWhqWDAwcUFNSEJLWVNQX05tN3dWOEV0Y25RdjMtelVkMHF5Qm94aFBNaHZIREhYTE90NzZRMnNWVkdLbmhrbzhCNkE1WW1IT2I3LU5FMjhYQm1OY2tMTkVLVUU1Ny1sU0R3OVF1TzF0ak5JS0xNZVo4WkI3WHVXa0c4b0lsUXNPRThpTA?oc=5",
-      "source": "nemzetisport.hu",
-      "published": "2026-09-29T00:15:21+00:00",
       "summary": "",
       "image": null
     }
