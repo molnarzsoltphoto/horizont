@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-01T06:45:30.487477+00:00",
+  "updated": "2026-10-01T07:15:28.650216+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Jó hírt kapott a magyar gazdaság, erősen indult az ősz a kulcságazatban",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFA2ZWU2Y2NJSEZnbVhQMXRSUVN3b0F1TkpVdElmazY3c29peGVkNXFuODhTcVpNV3JRYmJwSTFsQTY5VVVyYW1RNzdhM2YtaG5vZG9oMWxydUhEZGlscTFDZHhiOUFIZnI5THBPd3pMWmhGUHB6WWFrM2VjVnNZOEJpSE1uaFBuZEp6dDhDXzVxNTdTTDdMZlAtcDdvd201SWJiYW80VQ?oc=5",
+      "source": "mfor.hu",
+      "published": "2026-10-01T07:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Ma eldőlhet a BKK sorsa: a közlekedési vállalat államosítása volt az alku tárgya Vitézy Dávid és Karácsony Gergely között?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0JSa0NkbERsM05lcnV2NWdib1hsQTI5Q1oxMDNib3o1N2pUdXIzNkNpTEFjTUdvVVdNcVVId3NINEtQZDdhN0QyQTJMU0hlNkJaOWlSMy00RmRURVBORF9naTdVcXlrRk00WXBIRmRnclVIUmdGdnk3UnE1dVVYQ1NCUk5MZGN6UjlkM29yT0xxSF80eW9pd0NJVllQNmg1YXRMaVk2MA?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-10-01T06:57:59+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Olyat látott az űrben a NASA teleszkópja, ami ép ésszel nehezen felfogható",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUE1ZaFNUOFJEMkp4Z0c1c2cteDJFdm9CWE1kUk5WVkRtYThNUE9LbVZWeXVrSFZ3U0RJQ3QxSU5VXzVUMGh6RlZrZjBoYkJxbmk2ZEdKbG5NQkdQVUc1QXM5TkhUSy1wN1J4aF91MkN5WS1OOVdGa09nZkEtbUZxVDd2bTMtUG1Bem9mNGZUZWVMRVVHQ1R2c1BYYmNRT2xDOWNydnlkZl9UZ2dWTk9v?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-10-01T06:50:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Olyat látott az űrben a NASA teleszkópja, ami ép ésszel nehezen felfogható",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDlJdGJGMnhWWHZyUDhNTUVISlgxd0ZtQWxuYW90STMwTXJYZy02NGg4OVM4V2h6SFZvdTM1Ymc2bk40MW5vbVV6QVBDMFlPaGFyb0dVUkdvOXpYLUM3V25teW16SmpQWjBreE41ZzQwbEloRmVQV2x0bDRrYnVvUWZGd1dLXzdLVnp2eUQxUlBEc18w?oc=5",
+      "source": "ORIGO",
+      "published": "2026-10-01T06:45:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Dízeltámogatás: benzinesek és teslások is kaptak a kormány 5000 forintjából",
@@ -43,6 +79,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3R1UlJ2RHRnZWFkQlBBTXJ1OWVfWjlsNnk1ejRaZ3NHc3lVdGZVU3JmcWk4YWxRemtfVFBBV2t4aWduZlNOQjZKaE4tTUhjN2w2MFVXbEx3TzdHZmV3VE9vRFhMbzgzWkp0S0RfTHVXRmE1dkVySFRjbmdMRnBpNm1fa0U1ajBSS1pwelRKMWtRNVBqLVktNmZmUEZaR2JlTnc?oc=5",
       "source": "Tőzsdefórum",
       "published": "2026-10-01T05:29:54+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "A kormány lerombolja Demeter Szilárd fő művét, a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3lCTGNrZzF5ejF0cElvSmJUWXlYcjNzbllFMnBwaVpzUGlrcXhJMlRuemZfRTVRMk9La2l1N1YtNFJ2NU9zUDZ4M3poS1JqUm96NzJDVjJlakpVaGdnYUpJSEtid0dZRE5ZSWN1bFJIOTFBWm8tdElweHRTRG9fZEp0Z1JnSGdqWFBfS1pWU0Z4cVc3VG1SRFltMGJDa0o5LVJjYVVaUUJfM3lQbnRTMnpXaXdJSW9zSjEyaGZaMA?oc=5",
+      "source": "Qubit",
+      "published": "2026-10-01T05:19:03+00:00",
       "summary": "",
       "image": null
     },
@@ -178,6 +223,15 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0hPMnNJTXJhckx2RjEtWVJWMDhiQnNQYWxtREVEV1BFOGJpRGppb2JLMjNBcU1NenpmeWY4clRoMDRVRFVVTFJPcHQ4dXZzdHVYb0JoYlNxOF9FYUpPWjdxS3Bvcy0xYWVmM2lRTVdVMzZBaHF0dTFOajJwMWpYVVFYblBVcnRRbHNMamlR?oc=5",
       "source": "Yahoo",
       "published": "2026-09-30T20:13:45+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Jelentős közlekedési változás lesz Budapesten, a BKK közölte a részleteket",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlpQYXpOeDlqMmJSelVXeXJleHVQbVhqRTRwZnFvMzNkV1pZUlQwdURqVW1CVkhwU2ZjZnVmMHZTd1FwMnl3b1JCUTdmVjh2bUpXSk9EUXEtekJob2NSWlJyZF9oQXRwdGZZYXVhbFJFT1NlYjZLU3hNbzBmajRjV3g4LVVVdDlWSm1CTVNGUTFlS0NLbkxTMDJscE1uY3RqZ2pMUVFPS3lGbEcyWmdn?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-09-30T19:24:23+00:00",
       "summary": "",
       "image": null
     },
@@ -2194,60 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02MDM5Z3pqY0lPaDZyS1V4MWYxeWNqc0t2WkJNQWFmMFQ1RzRNaEdOZTZfaUN5RWVXMU9BT3k1SVpVcWpRNFJCT3hFaTNxejBIWl9VeklJd3YxVmlCVlFGdjFQbzZzbGFlOWlJSw?oc=5",
       "source": "ORIGO",
       "published": "2026-09-28T15:45:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Újabb csapás a hatvani fővonalon – összeomlott a vonatközlekedés",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDlKRkhfOW1VemN2SFNaOVpEQ0MxTHF6VEdycW1zZkZnMGVRejZkVXJObV81ZmprNWQ1UVRtTWtUOTdvaERuMDI4X0lPZzA5Z2IyRDIzQ3R1eDN6aVJpNFZSZExWNF85S185a3M1QUlkdElNSEtlNk92X28tQmFSd2ZwVUw3RGRNWTd6NQ?oc=5",
-      "source": "HEOL",
-      "published": "2026-09-28T15:42:29+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Kisiklott egy veszélyes anyagot szállító vonat Budapesten: óriási a káosz késésekre kell számítani",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOazJEaHRJM0toclQyeDFUUXFpeUxLS29OWEFXX3hpWGJSMzY4QWotSFV1Ti1LdnNiX3hDaS1wcDZLMmpUdlBoVGRRMm1tU0pub0tIbV8wckpyOGpLak1uUnNadXlRLU1td1AwSS04M2VXUEQ4RVB4SUlKOWxEWFBidEF0VUl6V240amFHMmdINXJPdmwzMlZfaGZTVUVlRHgwVW9XeE5fSi15M1d3b0k2aVpkTUowQVphUklMUFphci1aejkwMks0TFJTR2pCYW9WcS01QkdSYkRhWGVBeEJUeFp6SXJYV1nSAecBQVVfeXFMTmsyRGh0STNLaHJUMngxVFFxaXlMS0tvTlhBV194aVhiUjM2OEFqLUhVdU4tS3ZzYl94Q2ktcHA2SzJqVHZQaFRkUTJtbVNKbm9LSG1fMHJKcjhqS2pNblJzWnV5US1NbXdQMEktODNlV1BEOEVQeElJSjlsRFhQYnRBdFVJelduNGphRzJnSDVyT3ZsMzJWX2hmU1VFZUR4MFVvV3hOX0oteTNXd29JNmlaZE1KMEFaYVJJTFBaYXItWno5MDJLNExSU0dqQmFvVnEtNUJHUmJEYVhlQXhCVHhaeklyWFdZ?oc=5",
-      "source": "penzcentrum.hu",
-      "published": "2026-09-28T15:40:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "‘We can find the money. The problem is stability’: the EU high speed rail plan one year on",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEJUdW1HUEd4dHJlVVVSRUZKeW9xZ0E2Ni1oSl9WWmg1UGEyS2xOMjRtTkc1dXVZSTJYVG5sOFlvLThrdGtyVzVYNnc3RXQ5SWZYOWJKeUtONEFQX2xCU24wOEFyQ2FMUmJrSkRjYTFwOVRRQmYyMmlsTlBPY0JOWEhBWVhrMll3d1JjclQ5N0RYakxPbUNOU1VmY3FXVEV2cXFlV29rZ0s1R2VTbGwtT2NVaXlPM0NWVFEyUUlvZkc1alY3eFBJdFJvVUF3N00?oc=5",
-      "source": "Railway Gazette International",
-      "published": "2026-09-28T15:21:55+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Milliárdos vagyonzár a Volánbusz-ügyben: ingatlanokat és autót is lefoglalt a rendőrség",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0ltNmRnckF5cHhPbTVFMmdvaDlfRXpTTWdIXzZNb1hwVlhyME5CbDVjaUsyS2VhU1preGxOOURkVjNTX3Y1MWJjd2o3T3Bjdmc3VTZQN0VrTWd3a1Q3SHVEandUR2RaUGVZZmxLNWxnX05BVVFrVWdheFdXRkN1OGEzemhjZmppX0hoLXN5SURUU2tzMXNXVDhoV0Z6MHlrOVV3aEVn?oc=5",
-      "source": "24.hu",
-      "published": "2026-09-28T15:21:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Felborult két, petróleumot szállító tartálykocsi Budapesten",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlEzV3JUVDllUXVRQjljMDFRckJab3JJbm1jMGNwQ1M2NFYycERQWW05SGE5N2V5aWY0bFhIWm00RkNNUnpGOVhlRF9hY1ZOaldiQ2hoOXNmVXp6TTMtV241OXk3bGZzd0xGVWpSWjNkU3l6SHA3enNkMVNhS1h5eWpYd2xGZE14NjhMUG1TV0Jjdw?oc=5",
-      "source": "24.hu",
-      "published": "2026-09-28T15:15:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Zöld utat kapott a BKK új gyalogos stratégiája Budapesten",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnJZRXp1TWp1V3dVRV9qX2x2QXYtUWNBSlB1czh4SldId0RXd1BxQjhVUVBEUGJibjBFdUJ1X1VMQWFIc291N3JITHMtLUdrcXFvMlZncHYzMERxUnZaM2dTVklKZ0h6ZmVaS1J2dldJZ0VUWVNQbmw0bERmeVd3cWlIQUEzVnhkZVd1T1U0WXMxbjRYQWwzM01vTTJlZnJoRGNxSlZNNA?oc=5",
-      "source": "blikk.hu",
-      "published": "2026-09-28T15:14:39+00:00",
       "summary": "",
       "image": null
     }
