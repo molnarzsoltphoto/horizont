@@ -1,12 +1,30 @@
 {
-  "updated": "2026-10-01T08:15:28.829999+00:00",
+  "updated": "2026-10-01T08:30:42.454755+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Rózsaszín szalagokkal hívja fel a figyelmet a mellrák elleni küzdelemre a BKK",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZXdjhYa2ZiZC1faVFvNG5GZkxCWldkRjBKOEc3SXJ3OWFRM1g2MzdmYTg1dlNyWk13bGRHZ1JUUzJoOGRkNTU2dXRzdnZFY2gzSEhEbzJhenJiNE1pNF9KZzZWYnRjU2hNejJpVDBKVG41MFhzbEtKTW55MFlROGpPRS05ZXI3bTZyLVJoYTdlNHh6TTd2RHk1N0JwZU5hYk03MUdYd0JoT19XZFNfTWlmSQ?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-01T08:27:15+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Nemzetközi vasút",
       "title": "China's newly opened high-speed rail lines to boost holiday tourism",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44NGVuam41NFMzSmtYR25KMTF0V3A2TVc0ajBFVTB3YjBRaUM1bzNRWFA1aUJBeUJsUUhUVkw2anNDT29MZG9VUS1tSzRqY2hFQWY3YzNlSkE?oc=5",
       "source": "chinadailyasia.com",
       "published": "2026-10-01T07:55:31+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Gazdaság: Bemutatta a KSH, mekkora terhet pakolt az Orbán-kormány Magyarékra a kampányban",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhWlhCR0wtbk5TR1ZGdndodWw4eENEWnliRUFpdVJ5dENwNkVrdjMtcnVlTkxhWHRtd1RiSXNjbE1Ka0RkanZkaURZVWZ3bWJXQmZ3dEtZc2M3dw?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-10-01T07:53:45+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXJUREdhcHlCVG1yVnI5aWs0bEpsWjNWWmtEa3VUN0ZfZ0Jzcm9jY0pfblJ0RmZJNlMyTzRsalhJSjF4Y1hBczd2RGZQZEtqWXJYSEQ4MC1XRS1NRFZVZGRKSnNGWkVFZ3ZoNzFqRVYtZzB3TFYxMzZHR1AzSXJiUnBaNkgyQUlvaXFmbVlIX0h0SjdCLUVKRkRsNG91bUR5cTFPM21aM2hyYTNncWc?oc=5",
       "source": "Világgazdaság",
       "published": "2026-09-28T16:44:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Végre: elkészült Magyarország legújabb autópályája, megvan, mikor indulhat el a forgalom rajta – azonnal folytatják az építését a határig",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczhCQmxtb0hsQ0VkSFZoQm1zVmU0U2tZUmtMSXhia01EUmFBTGstNXEyZ1F1NEY4RXNTY3V4d0lrMDlFa0VneEhISGtDcFBfaUZVWkFuZWxuZy1pVTZVTlhmeG9yOE5MbUdJTy1BNVR6WFA2eXlzMjd2NEh3TVNlN01TYVRTSTFUdFRFLVN3?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-09-28T16:30:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Közel hárommilliárd forintnyi vagyont foglaltak le a Volánbusz-ügyben, de van egy csavar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UZXkyQUlqZTNfaUQxNWsySWpyeTRWQzhUMHhsLS1xRzNVczNuQmctbE1PRTlWOXdNSDlSR3VxWkZMVDBGZzltV1NzcmtqaGdIMUpCWG1RSDEtVENtalh0ODhNb1VBcVdvZ2RFT0dvX3ZTOTRZTU83ajZYSE0yZw?oc=5",
-      "source": "Forbes.hu",
-      "published": "2026-09-28T16:20:18+00:00",
       "summary": "",
       "image": null
     }
