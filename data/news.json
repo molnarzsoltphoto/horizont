@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-01T11:45:32.205578+00:00",
+  "updated": "2026-10-01T12:00:53.885123+00:00",
   "articles": [
+    {
+      "category": "Külpolitika",
+      "title": "ELEMZÉS A Trump republikánusainak félidős veresége nyomán várható hatások: az Egyesült Államok nehezebben értelmezhetővé válik",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDhMVU9kRUFTSzVsX2RhSjVrR0M2MEpySHk5T0FkNkdqcUxiMjdaN1NSR243VU85a1pUSUNGZFZuSTNZRVJxa2I0QWZDUXh5c3FGeTlGZ3h4cHJ2OGtYaXNQeGptMmlDSTZhSy1TZnpDSERDWE05bGttY1hBMFpxYUk0Y1RJbVB1N1E?oc=5",
+      "source": "Informat.ro",
+      "published": "2026-10-01T11:43:52+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Továbbléptették az ezermilliárdokba kerülő autópálya-koncesszió miatti uniós eljárást",
@@ -313,6 +322,15 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3lCTGNrZzF5ejF0cElvSmJUWXlYcjNzbllFMnBwaVpzUGlrcXhJMlRuemZfRTVRMk9La2l1N1YtNFJ2NU9zUDZ4M3poS1JqUm96NzJDVjJlakpVaGdnYUpJSEtid0dZRE5ZSWN1bFJIOTFBWm8tdElweHRTRG9fZEp0Z1JnSGdqWFBfS1pWU0Z4cVc3VG1SRFltMGJDa0o5LVJjYVVaUUJfM3lQbnRTMnpXaXdJSW9zSjEyaGZaMA?oc=5",
       "source": "Qubit",
       "published": "2026-10-01T05:19:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "FOX26 News Poll: Do you think High-Speed Rail will lay track by the end of the year?",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjhjMTV6eXBNZ1YzaFBzSG9RQkl1YWdBLXluOFJfQ3VDY0g2dFQwVjBxOFJlTUFQdktWaHNyZkN0OGtFa3Fjb1NCa2NtOFVrWjl3S1VFLUdrX3IyNTVJY0h3MGtuMjREZ0c4MEFQNWdCaHBrcDlXaVhUU0xrbHk4WUdxZXY4QmY3SmpCOFpkeFJnemdhY1dDa04wV0M0TWpTeU9HNWwyMmY5UEQ5cjFmU1hkQ3RkUVhGVVE1eXVlUmZ1SlRi?oc=5",
+      "source": "kmph.com",
+      "published": "2026-10-01T04:17:01+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzBhZjVpbGFNd2FsS25IUjNXY25VMnhfcWNuSHQ1YmhzX2tVeDhrYU5RR3FzTHhyQUJlczR0QW1LdUlZdGNmQkRIbUQ5UkNRWkZhNnFMeVhZZFRNS2Jtd3ZkaUlUN184ekkyRjBJODA3UWpqWDVFclI4bmZSUS01bnN3U3JiUkEzQ2xwNjJ3eWcyeTExWUw1aEthdXdDaURfSlRrR2E5WGtrUE1kbmtndHphT3BHRnNtMG9ncVRZOVdkam1r?oc=5",
       "source": "Szegeder",
       "published": "2026-09-28T18:51:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "High Speed Rail Plan One Year On: Industry Says Money Is not the Problem",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxDbFd3ZUVsc3BzakVVT2t2S0hHY0tWMlZna1U1bEUwNXBmR3cyVzRxMEZBWnBGdkVKWHFuRVBPN0RZOGhkZkc0Y3NVb3YxZHQtSjRvTVR2WXNrUExSZnd3Y2p0UG1xZDR5THZ3Wm9RSkkzek5LeDhiSHVGQ1FucWNWaVlGcUgyMHNidzNZTDlmS2FCNE9Pd1NYSlBKeFo3OHpn?oc=5",
-      "source": "IndexBox",
-      "published": "2026-09-28T18:41:52+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Volánbusz-ügy: 3 milliárd forintnyi vagyonelemet biztosítottak a hatóságok",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zbm54X3lCRDBNM1JBSk9vc0E4YWcwOXgwdXV5Zjk3UjkxUTVKeDBUbG5sNDNxZ2hFTXJkYzJxYldTZlRSek9NNnRabWVLVWEwX29SOWYzdUNjN1BKN3hYTGVIdmx5Q0xqbW9kbUhRTXJMSzlvZmpIQXFR?oc=5",
-      "source": "ORIGO",
-      "published": "2026-09-28T18:22:00+00:00",
       "summary": "",
       "image": null
     }
