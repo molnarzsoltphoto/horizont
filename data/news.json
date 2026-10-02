@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:00:56.297623+00:00",
+  "updated": "2026-10-02T11:15:33.573934+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -34,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFdfYmJXQ0FSWWVGNllkZEJYYmtXUVJPSThJWUxWbnRielBLMFgyeVNodzBaR0JDcDZ6LThzeEI3bEctSWVoaVFFS2lUMHA0RDB2NHoySHFMUTJweklOQnI2OXZneTVNbUE2d3RlbTdlenNKVl9Zbkp2LTNDMjVTb0hSY29OWlpWS2RnR2U1ZDFVN2c2MGk1cU0yWkdJUmdiMi1MVzRrVWVscU1NeWRiRw?oc=5",
       "source": "Euronews.com",
       "published": "2026-10-02T09:40:36+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A NASA kiválasztotta az új küldetésosztály első projektjét, a PRIMA távoli infravörös űrtávcsövet",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQbWRfV0N0Z3A1TU8wdVYySWFkYWl1TmhGX2hOeENYdmFNNUhCUG1zZVkzNmMxd3lyZTU3UDU1WDVPSGJWSkRRV09qN1ZMQVVLVjA0TGotbzNKU1B2dHotTGVIOXZ5d2w5aDhTcVpIUnlIcDkxOERuczlsMEZhNXBqcmtXdlcza19oM25iN2xULUJaRFhwa1NGSENiN3FDUVdEQlBNREd3VzJFMFNJcC00eHVJaHh1bHR6bXM0LVowQkdmZGwxcEpBWm9CYm5JOHdaMXpYWGVmbWpwRmFsQm5JOG4zVWF4Wm5VWERtRDMxWGo2UExOckJkdkJsWFRDamRnMGxqZ0taUmx5M1F1ZXppeDBTUG4xajU4U2FnM1J3S0duSnVIS3dNaHZnbUlnbFZwMDBidjBuYjhobktpTU5NejJ4dnVDQ2M3Mm44V0dMLXBBLU5HR0lDLWp0ZWVqeWFZb2FiZGNmS0dUT2NOOGMyNzBsaDZmY0RjeU5BS2F5bV9qWGQ2c2xtMWhPUFnSAYwDQVVfeXFMUG1kX1dDdGdwNU1PMHVWMklhZGFpdU5oRl9oTnhDWHZhTTVIQlBtc2VZMzZjMXd5cmU1N1A1NVg1T0hiVkpEUVdPajdWTEFVS1YwNExqLW8zSlNQdnR6LUxlSDl2eXdsOWg4U3FaSFJ5SHA5MThEbnM5bDBGYTVwanJrV3ZXM2tfaDNuYjdsVC1CWkRYcGtTRkhDYjdxQ1FXREJQTURHd1cyRTBTSXAtNHh1SWh4dWx0em1zNC1aMEJHZmRsMXBKQVpvQmJuSTh3WjF6WFhlZm1qcEZhbEJuSThuM1VheFpuVVhEbUQzMVhqNlBMTnJCZHZCbFhUQ2pkZzBsamdLWlJseTNRdWV6aXgwU1BuMWo1OFNhZzNSd0tHbkp1SEt3TWh2Z21JZ2xWcDAwYnYwbmI4aG5LaU1OTXoyeHZ1Q0NjNzJuOFdHTC1wQS1OR0dJQy1qdGVlanlhWW9hYmRjZktHVE9jTjhjMjcwbGg2ZmNEY3lOQUtheW1falhkNnNsbTFoT1BZ?oc=5",
+      "source": "Fess.hu",
+      "published": "2026-10-02T09:36:02+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnNLM21JamNQTExkNTBsM2htU0pwcEJTV1ZnRTVlcGIxUTZPM1lkN3NDV2JkcFJUaWpXSVdUNGhtWUJ5Ykh4SUFxTkJZbHRjaHZzSy1VcTFldGd1N3JORzd2MDA3Xzl3NW9hVXVpd1pKR3lDZk1Jb1J2SjRXWjk0OEdzNVVuNWpkQ2lRV1ZGa2lCc2dhWkpZ?oc=5",
       "source": "Newsweek",
       "published": "2026-09-29T20:29:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Csatlakozás az Európai Ügyészséghez: Laura Codruta Kövesivel egyeztettek a kormány tagjai",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFBaZ1pJdk9yZm1KWmlCSHpnQjdRYUNnQkZnR004SDNuajJKZkg3V3lBR3hvTVI2anRhMURKejVsWFJQdzJOSzlmY0tiMGNrZkNSUnU1cjlCeTBCRmQwUk02bEV1d1NCeFBSZWx5NEtzQUNrRGJkX3ZWa09uc1lyLTJwdjhtdm5ZZVRGaHBzYnpQcERvYW1BVzZpSnplNE1VWkdKX0dsSEJ4SmhuZnoxOW13NjBqMVlCdm5tM1ppUF9QV3Nv?oc=5",
-      "source": "Klubrádió",
-      "published": "2026-09-29T19:47:28+00:00",
       "summary": "",
       "image": null
     }
