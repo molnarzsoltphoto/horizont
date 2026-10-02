@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T13:15:29.880769+00:00",
+  "updated": "2026-10-02T13:30:45.847417+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Megélnének földi mikrobák a Szaturnusz Enceladus holdján",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemQyRktnXzg2TnlZR2x3eGRrWVdrcWhOZUIxOWpFeTdxVU1ySXJ0eGNSb0RvRFJJcU9lOHQ3bFdpbmhSdktzenpTNnJCS1RUSV9KOU1DTXdQWFZqNzViSVpXWGRzVUJuTWdSRHh0SlNfdkpsTkpzOV9qTkNreDZPamgzRTFraHM1ZHN3Uw?oc=5",
+      "source": "Qubit",
+      "published": "2026-10-02T13:22:41+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Volánbusz: kilenc hónappal rövidülhet a buszbeszerzés, Vitézy Dávid a régi szerződéshez nyúl",
@@ -39,6 +48,15 @@
     },
     {
       "category": "Gazdaság",
+      "title": "Hároméves csúcsra emelkedett az infláció az euróövezetben",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaTRBLUM3ODFPR2lFYzlIdDdQTko4cXJxUnFGTEtiZzFPdk9KN0MzVVBiTDdacUc2dkpKVzF3QjY2SVBfTVRwRlZoQlhoT2VSSFdFMVJSSW9tZUk4c0lfUVFTeFJ4ZWR4LUJmOUJibld2RVlHaE92cnZkNmJ1eGFlVFB0Mkx5ZFRnYm9OQWJGTEZONFRUSzRoXzIzSmNCeDIydUJWaEN0QUpIdTVpY0dNUUthdnIzbnBiRWEyNzF2VGZ2Y1JKNlpWSl9vMGE2eFpnQ0loakFZOGM?oc=5",
+      "source": "Радио-телевизија Војводине",
+      "published": "2026-10-02T12:36:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
       "title": "Hiába a nehezített pálya, mégis lendületet vehet a magyar gazdaság",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVJmRndCYjk4MzdQX25VOFlHSUFKZEdSSC1JVnctSXV4bmQyUU1LZ0JQRWt1S0k2WFl1Q2xEdFBCX3BYai1oaDNKdXFZUEo2UTYzeWF4Y1k5dDVXWmVfWUd2VmlEQjB5aDBfM2hXNXMzSUlOMmY2U3hSS0ZmX19qb3o5X1FmQXg5bFdYVE9XWDJVUjQ?oc=5",
       "source": "Economx.hu",
@@ -52,6 +70,15 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZTDZfZXVJaE5QSXFOcTB5N19RRkdFU2JzNUxuOEdmUm9GR3IyV2RYZnNTNmFqQ0ctTGtLOXJQYTR3YUZLVk5vNkRTNzI0VDZ4VlUyTmh3X3FBUWxZdnJmY1ZZeWg1dENBUDlmazJlSjVxcmdpWEVzLUhKN2I?oc=5",
       "source": "24.hu",
       "published": "2026-10-02T12:22:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Nehezített terepen vesz lendületet a magyar gazdaság: eljöhet az évek óta várt fordulat, erőre kaphat a növekedés",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdWtUS2pWUVRDckdzYllCLXRmQXV1QmlmaVV4QnhvWVNDNERiU2tjanRXR2theDVUXzZzd3V3QlVLa3g3Z2hpdHBpd0lQYk1fV3Q5dTc0T3RCb29KcnJRLU1BRXduM24tTjhHOG1jYUREQVlFdEMwTXdaMlIwa3NRcE9HZjBBVm5PZ0NURExQWVpIVWo1VWYwdkZueGdrc1NMLTBuMDhyUUlOWGhjYzFJeGF0TFdmSWd0LWxCZlRWU2luZ25nX1FiRkpxbUNxUXNhVnFCWXVNR19obV9EZ0ZTTmhRb1dpYzQybXRRT2RVYXB5QmFBNF9IMm8yVG3SAfwBQVVfeXFMTnVrVEtqVlFUQ3JHc2JZQi10ZkF1dUJpZmlVeEJ4b1lTQzREYlNrY2p0V0drYXg1VF82c3d1d0JVS2t4N2doaXRwaXdJUGJNX1d0OXU3NE90Qm9vSnJyUS1NQUV3bjNuLU44RzhtY2FEREFZRXRDME13WjJSMGtzUXBPR2YwQVZuT2dDVERMUFlaSFVqNVVmMHZGbnhna3NTTC0wbjA4clFJTlhoY2MxSXhhdExXZklndC1sQmZUVlNpbmduZ19RYkZKcW1DcVFzYVZxQll1TUdfaG1fRGdGU05oUW9XaWM0Mm10UU9kVWFweUJhQTRfSDJvMlRt?oc=5",
+      "source": "penzcentrum.hu",
+      "published": "2026-10-02T12:10:00+00:00",
       "summary": "",
       "image": null
     },
@@ -340,6 +367,15 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdWN5bGE5Rk5JTGRzNHptbHRJSkNJczJURWMyS0xsY3hFck96UUxMdlpEYXRheWlkZWNnQTNzVGZpR21NV0JTVURMZ2gxdXloMUU3RlFTSHdMendTQ0g4LUxyU0VibHlZYXFDMU93dXY5dWgyNGZSR2w0Z1RReVU3STM1ck5EeDJjNkFtTXhDR0xJVHBqTzcwcNIBngFBVV95cUxPNzUyZnFEZ3ctZEo3aGItNkluM2JhRjRBeTBSNGFrdjQ3eFRoUkY1QTNpUnBOOVk5V2NiajBtbUs4UndNQkR5SE5IcV9YYjlFVzA0NnJyalpuSV9yRGxvRU1QaHZGemVaVHFUS0FaMWtiRFo1LWRoX1hzem5vTXh1YXhKNmNGREUzckNwWi1ZaHlpWEpyemZKMzh6Mi1QUQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-02T06:22:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Vitézy Dávid. . Megkezdődtek a tárgyalások az autópálya-koncessziós szerződés teljes körű lezárásáról. Az MKIF jelezte nyitottságát a szerződés megszüntetésére, az Európai Bizottság pedig újabb jogi kifogásokat fogalmazott meg a koncesszióval kapcsol",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNX0wyXzZTTDdKVFUwWldsSWJGNC1ITVkyTHBuNlp0NXNLYkRRZEtKM0VDSmVSNmlKMkxoZ3F2bjR6ZElYbm5uWkVyQnBycFBUWGdNYXZIQXBGM0tNRUFzSDk1Y1BJeEs1bTE1R3ozVEhNLWNQTGN1cll5TW5QRVNZemdnUTF6N0JMaWt3Q1VyLVJpTWtQVXBMVzBudDA2djNxdVlXcVdrd1VOUHlsWkVOVlNWS0s1M3REc0Y5UEhxSmdLekJVYnpiSXV1RUVnWmV4Q3l4MG5kR1Q3RVI5Zks3eUZnT3lmY1VvUVRBek9fay1HazlCWVRKbGxyV1ZtUXlMVllUZFY3UVBBMWtKc3hJU0N3M1h6X2xMbHVFd1NhMmtTVlF1bEEwc1BB?oc=5",
+      "source": "facebook.com",
+      "published": "2026-10-02T06:21:48+00:00",
       "summary": "",
       "image": null
     },
@@ -2212,42 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbEdNRVFKZ1pLR1pNN2tGT040SXNGNTl4cGxEeElXZ0lvakV4Vm0zUGFPeldTZ1V6dFdPSGctb1VOZ25SWlNHNHVNaG9LSjN3ZmhlaHQ4dzBLZi1LZlFVUndiakZOUUlaQjU5ZEJJSlBtNk5qYWF2Z1phcjNjSDJOWjBlX25kREpqdDlYazdqNUhqWGpZRkp2ZllIck9tVVU5NjJ0QnhPc2I4SDhfbm1jWFZFcXcwMzdIQU5fbmVQQURvT3Rsd3JZc3FVbGlMWXE2MFdvTFl2eHlsaGNCUk14aUlHWEYxeHhfUXhNWXpVWE44STA3bEFualNsWllWMVRFM1VzVGhvSWLSAYgCQVVfeXFMUGxHTUVRSmdaS0daTTdrRk9ONElzRjU5eHBsRHhJV2dJb2pFeFZtM1BhT3pXU2dVenRXT0hnLW9VTmduUlpTRzR1TWhvS0ozd2ZoZWh0OHcwS2YtS2ZRVVJ3YmpGTlFJWkI1OWRCSUpQbTZOamFhdmdaYXIzY0gyTlowZV9uZERKanQ5WGs3ajVIalhqWUZKdmZZSHJPbVVVOTYydEJ4T3NiOEg4X25tY1hWRXF3MDM3SEFOX25lUEFEb090bHdyWXNxVWxpTFlxNjBXb0xZdnh5bGhjQlJNeGlJR1hGMXh4X1F4TVl6VVhOOEkwN2xBbmpTbFpZVjFURTNVc1Rob0li?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-30T06:22:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Nyilvánosságra hozta a kormány a 2010-es kormányülések jegyzőkönyveit",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1BpVzQ5TUFQdHhsVElZSHdMclJFOGV0MmZpdXhIREEyc2ZvMkpKWEUyd1VhcXh1dXhndGRkX0d1bS13MU91YldSLUptSzBzRGRBc2prZGVWeTVfbDFtTlhqS01EMk00eWpnUGFPX1JxMUhjTHU2M09iUFJ3RXFVaHg4UzR4RDRKb3RhR0JEZ3kyWThE?oc=5",
-      "source": "Telex",
-      "published": "2026-09-30T06:20:01+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Döntött a kormány: nyilvánossá teszik az Orbán-kormány üléseinek jegyzőkönyveit",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUpockJLVWtnZEpCM0ZSYmtiTzlNdWVWUDk2T2FmaXJDUHlSN2x0YVN5M0FCc2FyaWVZRy1hUTU4aW83aU5kV3ZMaVBTZnFkb2R0aTRlWWxyQWZnZG5sQWFLX3NsSDRRTlYzUmdPdW40bXo4dUFBaFVOcHV2bUJxd1V6UXA3eVkwU3RQX3ZCMDVwbVJkWEs1amw4dUtNSVNOeWFlbDhSd1lOanJQUXFYbzhkc1lpdzdVTll6dWJlR3dPbjh2Nklj0gHMAUFVX3lxTFAzTzNiQV8xV1pmME82YkJKNUMybVNLdnNtN1V5VmlhSi05OHUwXzdMOEFVQU41d2tyUnM3Y2JycmYzT2owVk1yak1tQzFqTlg1NGxGUlB1Y2piUlg5b0FtMVVUemRhd2t5NzY3WEtoNlZTc2tNMmd0LVBwYlEwZ211X3JBeGxFMWhoZVNna0hneGM3VFplMEgwS3VnMkxWeHZGZ2tfdTdMU3RlM1hPNHhNZDdMeDFwOVdxZEV1Z090cFRwQktCNmZIWENDSQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-30T06:18:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Commerzbank-felvásárlás: itt vannak a német kormány feltételei",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtoLXF4QTdZY0x6ekhNTm01dXA4Qng0UGhvNnVMeFZHdnB1OG54eDdZcU1CZU4xZVhjeEk0MjdlMGxwczlNRDhkLV96VVFlNTlrT1MyYWR4QXd4MDVNSXBpdXBsd2RMdVFZaFlGNHFPcGFEemZkRGVOa0Z0aVg3RkFKalVCcFVfMmEyRTdEVEJqS0tCN2piOWZZZTYtWXhlWHl6aFZmR1lQWHfSAbABQVVfeXFMUG9zUlozeWZvaS1pZ1REVy1ta1NaeGNmSktsWm1weUg1TWRwYjlRWEUyNVpXSlpVTjhzeXRUWEM4NUF3aV9pQVYxLTZlTFBleXZFSnJiQU9meV9Qd2YxSkpEUi1GMnpmUHR4c3lTeGI1SXhrYU1HM0p1eU5YVHFaOERvRHpIMkE5Vm9VbTY2emRKT1RuV1Z0MndoS3AyTG9mQ2s2eHJlRjdCR2I0b1hLZHc?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-30T06:04:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "GKI: az euró önmagában nem oldja meg a magyar gazdaság gondjait",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWhEanVzX3JVTGtxa3VSQlU1SHQzSG5hcEVVQW1mTFVqN0FFV2pBeVJsOGc3eVJvVXBqZ3dkNmVDenk0TVZGMjk5RWhISzAzZjByTjJrN1hUaWNIQkppOGV0SklWZGFyMHlxOXhzVV9RdmxGdl9BNFpqN2dxZ2pCdXdjYmRrOTRDXzVVNmtpV3ZZdjhrYlE?oc=5",
-      "source": "Store Insider",
-      "published": "2026-09-30T06:02:39+00:00",
       "summary": "",
       "image": null
     }
