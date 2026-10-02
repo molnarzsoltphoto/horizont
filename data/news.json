@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:00:55.355907+00:00",
+  "updated": "2026-10-02T09:15:31.489423+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -142,6 +142,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjhPQW16azNMT2VNMnV3Vkt0WkQ4TnMxaXI0UWdXT0xaMmh1SDZ3Qm1vM2tIQmtMMHBTQlNzZ3djc3Y2ZW9MeFhpcGREMnpwN3Q5bm85N2ZVbko0UnlZclJIS3RuQ0VNVnVlSzltSU9ONmRrSjJUV1FXWVRMYktVdmZfT0kzTmduSnMzbFhmTVhaQ3F0Mk0tOXZRZE1Ua3JIcVJTcE1RUDJ6a09vUkhBUUtrVGxVck5NSWNr?oc=5",
       "source": "Nemzeti Sport Online",
       "published": "2026-10-02T05:48:58+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Újabb megrendítő fotók érkeztek az M5-ösön történt halálos balesetről",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVERJRFlid2hxdUNhV3NsWEo2M3JIS01jZDRpbDRhSVRCU3NqYzR6eVFHanBHMnc1V2hZUzhUN0ZvZWd5SmgwUjYyS0Q4MWFSTzRLa2ZPc3QzWFVvNkpDMXoybU9VS0RDZTViZXZiaGZadzZqQXBQLV9xYVNTMzFKQWp3LUY2V21tSl9nb05IMHNaRzNM?oc=5",
+      "source": "baon.hu",
+      "published": "2026-10-02T05:21:19+00:00",
       "summary": "",
       "image": null
     },
@@ -826,6 +835,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd2U4dl91WWJ4QnBYVVVsOHJsWnZseHVhcW9ST2g1MlloSG96U0pTVktMeVZvR0lVTWRSclM3RTJjOFUzTWZhaHI2eE03ZnZHTUMzMDdhTGlDUHVYNTlBRGI5dkRYNGxmOUdqbWFEV3JiRVFISXlSTmxMcm1nc3ZpUHdTQ0xsOURmTUVnMHg3aW12VlpNZDhLRGRMNjlyVVNkRW9xN0NyVWo4WEtnS1pRQ3VoWjRjRWFXV0k3WVdwa1c?oc=5",
       "source": "Privátbankár.hu",
       "published": "2026-10-01T09:14:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Megtudtuk, mennyibe kerülnek a Magyar-kormány új autói",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcFhkQThJQXlVaEVxY2Nac3NWWHZjZVktOHNfTXRsN2dHS25GeUQzSnVJZjQtVWJsSWhtUDBFVzRsNEg5UU00ZFBvbk1sSWtkR0Z5enZEa2VuWEtwZWQ0QWRqZG53Z3VHbWhBUkJqZlBRMy1RLVpHSVRBaEFlVWVSRmRKQVZhTDZCTTFTS3RwclpmSHFwTDAyS21PWQ?oc=5",
+      "source": "Vezess",
+      "published": "2026-10-01T09:09:51+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenpidXdBZ29hdXFDbGRfRTJQUm9mc0xtSFl3dThBdkR4RWZWQllyU213VVkzb3B1NXppbmp5amlPTHBKRFNXUEhPR2x0NklCb1RFcEhpc3dKcGJXcW5Ya0lJSGVwazZjcU4tRW1aVGNNTmN2Qjl4eEZzT252UDRKeGhldzZkdXJ0VS1ObXR3UlFtdWtv?oc=5",
       "source": "Telex",
       "published": "2026-09-29T18:31:28+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Gazdaság - A magyar kormány rendkívüli határozatot hozott a rezsivédelemmel kapcsolatban",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHRfUWtvenM1YzZrS1hvSlF2SnBhSnhQWEJ0U3JJNmxEX2ZBX3JhRmxlZVlIdXhEM0Zhb0V2YUMyeGcwZzFuaWt1SzlIeW9YU09XMHNDa0hIMFhDRlY5Zzc2My1EeEhiMldWNlZtRHpzanMyeW9UQnNHdXZJNjNHbF9ONVRZUkl5NXJQaWtmVXRMRzNrbWtVcHpoYWlxV3NwYUJZ?oc=5",
-      "source": "Index.hu",
-      "published": "2026-09-29T18:18:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Tudomány - Elhűltek a csillagászok, fizikai képtelenségnek tűnő dolgot találtak egy kőzetbolygón",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcEtDLWFIV05NbHhmc1g1cWZfWlloVF94SUxFRGVEMFhoWC1XeG9RemFwdFFDT2dLd3pXZ2J5bjFJYktQUGVucWMxTmprX01rLXp3bGdMejNwa1N2Y0p1V0xLa0FfU1hYQ2lkb2t2MWo0SjJGYlhQNFA0ZkRrcjc4eQ?oc=5",
-      "source": "Index.hu",
-      "published": "2026-09-29T18:06:00+00:00",
       "summary": "",
       "image": null
     }
