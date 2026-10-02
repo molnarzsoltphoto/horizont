@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-02T12:45:33.996719+00:00",
+  "updated": "2026-10-02T13:01:02.379204+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Hiába az új vezetés, nőtt a késések száma a MÁV-nál Vezess",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcVNiRUFCdDl2aU1haWQtSTdIREQ1ZXpyLUJjcXNmNmFYclV2VmZtVHZ0bjYxQlZyQmQxTjllRDhSUXE2SFkxZHkxcEgtVmZjYlF6VWxYRGF0N3hjZ0I4TlNIRmZJZXhJaVMxYg?oc=5",
+      "source": "24.hu",
+      "published": "2026-10-02T12:55:32+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Megállíthatatlan: tovább nőtt az orosz GDP",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOajl6V1FHcG1FalRoSWxmZk9BR2FRcFNGaXdlWHFYeVdDUTZPWFhMb3gxdWVwWnYyQk5WODFRNkFpMV9hTWYyQk5GRlNMV1RyX3h5aEdnZl9kNzBnV19mWHNwMC03YWpEbWx4RXFneW5XWGNzWm9zaVc2cEJJaU0xTktjRU45NF9ETDRIcmRR?oc=5",
+      "source": "Economx.hu",
+      "published": "2026-10-02T12:50:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Hiába a nehezített pálya, mégis lendületet vehet a magyar gazdaság",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3ZVU1BZNzE1bXBhUjNpN0ZDeURGVjZ1VkJFUHBaT292M2MwNFZmU2VzcDdOSVc3SExrUzgwNXduQ0VsZ1ZEMGMzVjBTU05rbE02bnJld1M0TGZBZUNnS2JIMmVRaFNIM2Exb3kxcHBQVVozT2QtbVpGaG9ING9DbXR4RDJaLXM?oc=5",
       "source": "Hirnavigator",
       "published": "2026-09-30T05:08:26+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Áttörések létrehozása az autópálya-infrastruktúrában, új növekedési terek kialakítása.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0NXSE94bmlsRGpsckpFVi1hcDVXejNZNUZZeWpiTmw3aG5zQ09GaldtUFdGdUVJb0xOUVBQR0pFQVhMLTdyRENjdXFWcnNlNmQwd29ZdXpXeU9sb1pHMVdOb05SR25lcEs0Nk5OS0xkZVZvVE00ZlowTFhmbmNMdVpKUVRtN201cENnbXl3Z1ZRemtI?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-30T04:43:36+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Napi pakk: napsütéssel és robotokkal ér véget a szeptember a Napfény Városában – Szegedi hírek",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUx2dDJGR09zZHFMZEpQZzVubmRDbXJJeDY4WVF6NVBNbVB2WDVDYjBlQWpQSnRFQUNlazNVdEhYdlF4LXQyUUtSSVFHcDJoLVE3bzFfWFVTb0dmV21DZjU0eE40dTNkbTdIYzIzNnFfeFdocWxFMm5KNDhtbFZVN25pNXpPUTl4SDUyXzFiVzhZSGlUaDdVSGZyMU9DVjFiYTRiVXRTOXZBa2NqdnU0?oc=5",
-      "source": "Szeged365",
-      "published": "2026-09-30T04:32:53+00:00",
       "summary": "",
       "image": null
     }
