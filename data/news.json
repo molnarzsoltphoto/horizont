@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T08:15:30.748909+00:00",
+  "updated": "2026-10-02T08:30:43.794277+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -33,6 +33,15 @@
       "title": "Visszakapaszkodott az orosz gazdaság",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2Z6VnlXb3RYcmtUNnR3MGJFMGVlU3V5cG05c01Fc1c1a1hfVGlGUjdLdXNFSXN2NEFHYmtQWEY1c09wWDdReUtBWkx1czFENWRaT3RLV1JDTU5yNHVXcUFOYVY3cC0zVG1wU0ZPR2lybnNOQkVyek41Tm5USE9nRVc2M3JPb0sw?oc=5",
       "source": "Piac&Profit",
+      "published": "2026-10-02T07:19:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "A Mol nem érti az Európai Bizottság döntését",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlp1LW1TeVVocmszUGdISk5aQjdvb3RNZzVGQl9LSHRmTHhPM2U2SWxfeHpPUjJQX25SNmRFUkJwc0YwcWFFZTRUbXhiYkM4MnJCdFdBejNFSUl6TlhscW52S2dHaFNMWFdvdjRaY1NlR0dDaDZMZVlPTDZBRGFmaHI3cTltVDVkQ3g0MQ?oc=5",
+      "source": "Mfor.hu",
       "published": "2026-10-02T07:19:00+00:00",
       "summary": "",
       "image": null
@@ -1541,6 +1550,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Jön a változás a vármegyebérleteknél",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMVVKVExsT1BsbUdnaXBBUUt3WEF5eFdnZkhnU0tMVVN5YmVkc3ZkcUtOX0hTZzg4NHpDREFINDVIWDFMdjZqME9qb1cwQkMzVzliVU81QThBaWhGRXNQNG9ZWUxoR3J4UU43aU54UEYyUkRUcWRBN0xsTWYxbncyb2dodFZnak1IZWM2N2pnUQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-09-30T12:12:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Ismét meglódult az infláció Olaszországban: szeptemberben 4,2%, hároméves csúcs",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanp0OVluTTAwclpuSWdMbXFMNWdtRDgxVFZIRGhRQUZvaDYzVUpYMFJ3d3FkSlhwUjBGV1oySlQ1cmxqaVFWWUZPdTVabnJvd0xYemx0RHJoTWtqSzJkZUd1ZUdBOVBBZDVsY0FCeWc0VWFKOFpTdldUeU1JUWJacklGMVFfcU9vOEpPcFFGZUtCN0ZqclVDR1RDQXlUTi1UQm13em5NaURGWm1TTkZZ?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDFFTTcxM2NPNnBEclN1NjR2UlpoNmRjOHkyR3F0UzF6SjdCVWNGV2wtbGc3MzY1VHBPWGFmaXdZSmZOdGJfdFFDUE9FZ1BfYV9lOE9Ib2dyU0FBYUtHcVZnWGlwSE1lR2NzdmVzYnJGMk15Wm5uNlhoNk51S1ZEa3pzbVN5R1V2QzBrZC1GQkVZZ21jMXhEMHhn?oc=5",
       "source": "PCWPlus.hu",
       "published": "2026-09-29T16:31:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA nem engedi el a Starlinert: további 359 millió dollárral támogatják a Boeinget",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NjQXlKT0g2Y21XZVJkdWpQUmxhMmQ4MjVaNkRNN1JYdUVuV2RCNGx5cDVCeFV3UzlIMno0MFFNdlpNRG54aTRTbExENE5TNjJkRkROSklGREd5d3dRd3pRYWtIUXdaSm14R2lVa3o3X0JtRDFRd190dTZSc2dNckxvbnI2Z1Q4U3U2V1RWWEZrb2RYMU5ncm9DSFhsMkh0a2U5Zk1heXI0LVlV?oc=5",
-      "source": "Spacejunkie.hu",
-      "published": "2026-09-29T16:17:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: Őrizetben Seszták Miklós és Hankó Balázs, megnevezték Orbán Viktort az aranykonvoj ügyében",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQazhhb0FjaG1EQ3cyeU5hTmM1OW5DdVdMdXZRQm90U2VMckt3MmI2ckNqQnhLNUdTTm1rT3IwcjMyZ0JpV3VRbzZtZkw3R3h0Z2NTN1N5V2Q2YXppU3k1ZXpUZlR2cWZwYmE1bzhCRng3WGZsQVlEVVBNNHZGUVZCOS11Vmg5NzBFbzhic25QWmhiT0RPQUNrNENIcDIxWno0T2JGNHhoRWtQbUdUZHhjdnBUVUxSVVZjcWZncmdDOG81MUQtN0djQzA1OGVrUDd0MUthaUxRSmptMW9LeTVETlFIRXBJNGJu0gHuAUFVX3lxTE1WWkpZNVlxWVFrd2VSaVNhV1Vjc3JSVVJiVWUxV1ZlaVZuYk04WW1OWHJqTGFVS19qNW44RkU5UlloQ1FUUUZNWkJiQU53LU1YcWJXbDI3U202b2ZLNl9KZ1VMR2xlVXI2ai1mRHhxWUREVGE4ZFliejdUd2hTeGs5N1VVd3FISlFHT1k2eHJtSG1JRGhLM2VsMDdlWlYzRW5ST0k3TGpRbUVFMElQRDY0Y2trS1BHcmUyajc5WTZMUzIyb2NFZlJ6VmZpdUdoQlQ0WFNlbFRHblk1ZVNKclFEMjBrcUFWUHBsUGFHZlE?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-29T15:51:00+00:00",
       "summary": "",
       "image": null
     }
