@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T12:01:30.409251+00:00",
+  "updated": "2026-10-02T12:15:32.594445+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Újbuda rákapcsol: 62 új helyszínnel nő a MOL Bubi hálózata",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnc0Y0JxSFJqczlOZHhOaENJdVZXVW9ocHctT3NTM0xZOWNhaTkwb1puR1JNa2wwZm4zb0QwZ19fNHdtaVlwVktFZWRkVUZIVlRZZWxkTUdmMl9vQTNaRHo3NnlSOUtDS0FfS05POGdTUG9IU082RmlqQ21HME8wTDMtdm9oZDJlNGlEVE0wVnBObEctbDVBbg?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-02T12:02:21+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Több októberi éjszakán is dolgozik a MÁV Egerben",
@@ -257,6 +266,15 @@
       "category": "Külpolitika",
       "title": "Visszamenőleges extraadó a lengyeleknél az üzemanyagkereskedőkre",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdG9GeGlrQ20yNFY3UFZZTEo2RUxDaU01aTZXWS05ZnBxUE5EbHdDNFlqbk04YW9HQnVGM3otSjJ4X0d4bEF5QWdNaVczd0FoWlZXcDNfZmdmWU5QNWtvUHBVM1BjbWZKUHVCVVhUSmhjYVl0Zm12QzEyU3NjS1h4Tmpvd3VSSFpqN0lxTGZCY3Eya0xseEdpMnBDaDdPYTNwc3Nqc3NtRQ?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-02T06:05:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Visszamenőleges extraadó a lengyeleknél az üzemanyag-kereskedőkre",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTVJ0VzNJazZHRWpMVS1iZ1NyTDR1Q0RBcDJ5UE1nZ1E0aTFDRWNaa0lOV2U3MmNFWV9QR1VoVGlIU0RCUHJMOExIUjhuQ1dQbkZKUkRKM3hBTFJMV1JpLTJOMjVjWXhpQ1NLUWpSRVpONTdJVzhEdGZTMnYwazB4dEs4dUpndzJkeDNmNGw4aE1GNDhTSlRTY1p4Xy1QTVY2RldWaFVMWlB6NVA3Y1VQR3VWUFA5MGpZdlhZdzFNYVpSZXY4OGpxdVF5emJwbVFMSmlRSXgxNGd5QVkyV1Q1NGw2MGlqdDQwM2tqLVhJTzJhdmxSckYtT2x3?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-02T06:05:00+00:00",
       "summary": "",
@@ -1397,6 +1415,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Letartóztatták Seszták Miklós volt minisztert a Volánbusz-ügyben",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckhpS0NEa1hmVzJUOFRueXpRVnl5NUpONW9lQTcwSWVybWhybUJoY1JjYWF5c1c3MWtqNy1tbWh2WjA5MjZxVV9rSkdrbVNGRDNrOHdIT3Bwa1Z4YTVjU1JQZFpwazFDdWx2MWhCRmNaZ1NkV2l2elJGUXVFcmx5V0RQV1Vab19ZVFVYejhfNmN3bUxQa0EtaHc0MmJOWkE0?oc=5",
+      "source": "Egri Ügyek",
+      "published": "2026-09-30T23:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "FOX26 News Poll: Do you think High-Speed Rail will lay track by the end of the year?",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUS0xM2s4QjBsU2hxNlJ6SzBSVnhxbmJiV3laMUN4R0daSWkwbWhjOF9oTDNRbUFqa0hfY0p5QmNKbThwTmR3aEdGY2JnbmtYbW9KcnNRTllzZmxMNFlKZEJDZXhhVkd0bTUwSnpLVW1qeDctSVFOOHd3VUpHd2JKRm1EYjFDZlFnWl9kRV9henNVcFcyd2RFcWxhVTdVaVBtZnZabFFsdWZTRGg0a21V?oc=5",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVpPWTlONjNhcU5fOXJEY3dUb1J4TjV0OVNPZmhEdlBkOVQtZFVxaHJYZFF2MUtTaUw4MGFBbXJXV3FRNS1sUVc0ODlXWG1ONWwyRlhVYTVQZW12R0Jza1NzdWVXN0QzSnE3Q3pjNzdIcU5VZXJ0VXR0X3VLc05lc0hHRGpHTWNqNVNTZVJiaEVyMFpEcDdpUXg2Zw?oc=5",
       "source": "Telex",
       "published": "2026-09-30T02:53:09+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "G7: Az egyik legdrágább Tisza-ígéretre is lenne pénz Mészárosék autópálya-túlárazása nélkül",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDQxdHpuTU5jcUhPdTJZS2VKN19qcEo3ZGw4MDU0S3VCdEhEekxSdWtZS2JWYTl2NVdxckdYV1U1QzVOSjA5WXpDX05sbE5US2tDZHllR0ppZk8yYjNEV1VNRDlIMVNBd3ozcUhwVmg1RWpYTW8wNVhGa1ZsUXlPQV9tZVVmOU5nYURBOWVKNFBRcFBCSUNpM3FGVQ?oc=5",
-      "source": "Telex",
-      "published": "2026-09-30T02:50:51+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Ukrajna: A valós költségvetési hiány a GDP 40%-ára is emelkedhet.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamdUVXhZay1UVXZST2JpWVVqM3EyWnR1Z2pvVno4N0E2N0hoUk1IdVA4c1piNzQ0RjA1Y3liVjZ3dWliYmhRNy15ZHplckxqMkROb2dYY2JDR1ZxVkhSd3kwQVB5VEYtUlhabXhEV2dTN1pCNjZEZlB0UWlVWUpmLUZWbTVuWW1MNF9v?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-30T02:40:40+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "100 óra csillagászat! A Szaturnusz és Androméda-galaxis éjszakája",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFJTZ2JCNEpxeWxjNzNOMUNiREppdDliNVJGdndhb3dORUVPMmZ0ZU9zR0tDQ3RuQi1aWE1SeWlCUFBjdjdYM2l3dXFnbUx2S0tmaHE2N1BBSUd1Yzc3R1lHTUJSVmliUTZ5aUJZLWFJNWpuT2JJNlJqeGFUTG9TREtOYWo0REdnQ3Rwb2dpNHJyNXU3Z21NdnRmWUtUNk5abjNxZVo1amcxNF9T?oc=5",
-      "source": "PORT",
-      "published": "2026-09-30T01:01:16+00:00",
       "summary": "",
       "image": null
     }
