@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T14:00:57.160988+00:00",
+  "updated": "2026-10-02T14:15:32.742468+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -300,6 +300,15 @@
     },
     {
       "category": "Külpolitika",
+      "title": "Sokkoló figyelmeztetést küldött Putyin: kimondta, mikor vetik be az atomfegyvert",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWpsZGVZMi14TFBON3dENUgwR0hiMnpzaFZ6bmlFcU1Ud1A1UEFSUld3WUlfQW9pUTY2SXByLXE2dUN1dmtZV3dxdzZxLXVHSmY2S216V0pvN3F0YmwwQkdhNERGUEVsMXQycVRXODdpbHlZOFQ3MEF1OHgtUnJuV3RIVlRFeWdUR3hBdnBSRGNmVzEtUW55ZWJfQUlLU1Q1VjdDazBCWjJoNldoRU1EWUJkelFXSDkzcG9YdjVQaHhVRVpsRjVteXN4c2HSAcwBQVVfeXFMTUlqbGRlWTIteExQTjd3RDVIMEdIYjJ6c2hWem5pRXFNVHdQNVBBUlJXd1lJX0FvaVE2Nklwci1xNnVDdXZrWVd3cXc2cS11R0pmNktteldKbzdxdGJsMEJHYTRERlBFbDF0MnFUVzg3aWx5WThUNzBBdTh4LVJybld0SFZURXlnVEd4QXZwUkRjZlcxLVFueWViX0FJS1NUNVY3Q2swQloyaDZXaEVNRFlCZHpRV0g5M3BvWHY1UGh4VUVabEY1bXlzeHNh?oc=5",
+      "source": "penzcentrum.hu",
+      "published": "2026-10-02T07:11:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
       "title": "Ukrajna tett egy gesztust a magyarok felé",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXlqQ3RFemRWRWRERU5PWWZCOURRbzh1SHIwdHdSSHh1TjMxVnV0RkxYd0F2aGhEVmg3ZGZ1Mm1paWJZQzlmTnlOYXVpNmVReDBySVN4MktqNDQ5RGs5Sk4xRGkzX2pZNUZ3VVlIWVVEQWV4cEdiRVpYaWVobFRuMmhqUjZfZU9S?oc=5",
       "source": "Mfor.hu",
@@ -439,6 +448,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTU5HRFdsQmZYYlFvdkpBOHJUc0ZaakZnXy12X012S2F2V0ZOTkN3b0Y3eFFZZ05QakVnaG5yVjNzdlBLZG9kTDdsT19vWndPZWJLQmcxSFZmTGxPSFlXTzBhd1ZTZw?oc=5",
       "source": "Helló Magyar",
       "published": "2026-10-02T04:44:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Quick Shifts: California High-Speed Rail Authority Investigation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRl8xenN4LV9ieFFIWnZfOGp2c2RQX2s3eEN4eVlOeTdmeVRKR2hla0xZQURFb21KT09YcU0zMDZlemZ3MUQ3U2FrM2F5dDFyTU1PSDJfVHdIUEI1VlFHZnlZZHVyNkhkOEhONlFKdW5TUnREUFY5cXlMTW5Ya1lhNTdyckhSSXp2enU0VVdHYVFRRGZNMlNXTW9R?oc=5",
+      "source": "MySA",
+      "published": "2026-10-02T04:16:45+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2w2RTBuUkNHeGo4N3VtZnZFSDM0YzczZUVfXzB4cXJPVzdUTnRwU01GeDVTS25IRElEYkp6ZVRRbjhnaHFRVlVCS1lab2NSOFdCdzhhSXhzU2RBdFpCZjYwV1hSVm5WYTN1SFdaU2g1RU9qZ1NwNXlWaS10U3JkQ3JPeDIwQkIzdGhxZVdSZzFjUzVrRTZSUXFQZG1lYmFLRldrNEtvbmw?oc=5",
       "source": "eduline.hu",
       "published": "2026-09-30T06:32:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Belföld - Magyar Péter szerint most már hivatalos, hogy az Orbán-kormány egy bűnszervezet volt",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTV2QU9oQlJmYVh0Mko4ME1tZ3BnWTVCMWJkT3VsMTVxNTZsWjh4eXN2SnNtX0dSNkNfQmZzQzZINmRrMXA0Ym95TWU2M3BETTdYbndMYWRWNUN4U3RiNTQ1c2ltLVdXTVl0b1U0WnpDSlQxX09pTjhjcUZpbU1EbTM3eEp0R3lBNldRNDZyN1N6bGtWSWJfYVBsNnltWFBK?oc=5",
-      "source": "Index.hu",
-      "published": "2026-09-30T06:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit, elindultak a volt miniszterek őrizetbe vételei",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPN0NqQU1mR2M5dlJrRTZGZkZWVTV4RzFSeWlxRGhzTDQ5LUtydDhrQXBsWFJCWEV2Zi14MmRJbDR6bnJvNHVZMUdzajhnSXQ4STVLUHVYaEY3OGppQy1rRU4xNHN6Q2cwMm9BWWpOOGI3NDltdncxMUtqU2gta3JmZXlHQWU4QW1kQUhfYWJ4aDRIQThaRWgyQjNmd1NVTHZ0M1laMXBDNWJWbHFDMnVqblpOSnpqUVdTQkxwcnV6dnBFcFcza3RnM25zV2VRWUhoVzNKSk5aYkxFRWxrZURLR2pMOUxqaHZ5QWIwZW9TWDVVZTJsRFhocXUyeFJOXzIzaG5R0gGIAkFVX3lxTFBsR01FUUpnWktHWk03a0ZPTjRJc0Y1OXhwbER4SVdnSW9qRXhWbTNQYU96V1NnVXp0V09IZy1vVU5nblJaU0c0dU1ob0tKM3dmaGVodDh3MEtmLUtmUVVSd2JqRk5RSVpCNTlkQklKUG02TmphYXZnWmFyM2NIMk5aMGVfbmRESmp0OVhrN2o1SGpYallGSnZmWUhyT21VVTk2MnRCeE9zYjhIOF9ubWNYVkVxdzAzN0hBTl9uZVBBRG9PdGx3cllzcVVsaUxZcTYwV29MWXZ4eWxoY0JSTXhpSUdYRjF4eF9ReE1ZelVYTjhJMDdsQW5qU2xaWVYxVEUzVXNUaG9JYg?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-30T06:22:00+00:00",
       "summary": "",
       "image": null
     }
