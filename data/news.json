@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T17:30:44.305307+00:00",
+  "updated": "2026-10-02T17:45:33.994505+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Óvatos GDP-növekedést vár az OTP idén és jövőre",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWRmSmFaZWM4eF9ieGF0cEV6N09mSkZHaHZnSFRsU3BRRTA0OWhreDhsUjhtSlZabTdYc0sxTnZ6RDEzYmRoTUh0eDZHVW9LMjNpRGd2MlVmWnpETzA1aW1LMm93QlRubzVNRU9aT1k2UDV6akZyU2dpbHJUaS13aWZkdmNGSmF6?oc=5",
+      "source": "Startlap",
+      "published": "2026-10-02T17:39:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Októberi felfordulás Fejérben: éjszakai zaj és útlezárás is várható több helyen",
@@ -25,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDJXdU5jTVJNT3ZKa3dkaWdsVlNzQVJCZmJvbEtQQV9XNmY4eW5jRWxrVXJOSnhEc0t6TXZ4eFRUR1V0bE9xeW4wdHRVM2Z5UHJJWExqOWtwdVNBNEJ2MjhOSU1feVFGeUhmOF82UGJyTFppR056bWJqRUpWWWdmZ25KTEhKZ3YxbHRtRGxIUWFjcTlEVFVwRndpSUQ1XzhVd0RvcnlWeFI1akpOOHFUbGdaTVVXOE5L0gG4AUFVX3lxTFAwMld1TmNNUk1Pdkprd2RpZ2xWU3NBUkJmYm9sS1BBX1c2Zjh5bmNFbGtVck5KeERzS3pNdnh4VFRHVXRsT3F5bjB0dFUzZnlQcklYTGo5a3B1U0E0QnYyOE5JTV95UUZ5SGY4XzZQYnJMWmlHTnptYmpFSlZZZ2ZnbkpMSEpndjFsdG1EbEhRYWNxOURUVXBGd2lJRDVfOFV3RG9yeVZ4UjVqSk44cVRsZ1pNVVc4Tks?oc=5",
       "source": "Pénzcentrum",
       "published": "2026-10-02T16:13:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Újra komoly nyomás alatt az árak: látványosan gyorsult az infláció Európában",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2szQU1wYldqOG0tOUk5Z2M0WXYzQ2Z4d2FENlBIeldDSkNEVXdTY2JMc1RTT0lSaVY2ZUZxSFNCdFlUQ0NneTNMOUhxSG92NUlFZTA1ckZuOUI4QW1OUlJ5RUp0OXFiM2szbnJFQUdpZ2R3dWlSMTZsMFRQZ2QzV2J6XzYxZkFja09BaS1rRHhqOTFQV1YtbURnbGNSQU9Kakk2VERLVWN6Z3dMS0NsaXVTNzlZalFkWXhhTFJn0gHDAUFVX3lxTE1WdXFEZjkxYzQwaTRLZkdjMFlUTjRSQ1ZkbEtBTm5YeDZSaHQyLTJyX21yWUcwazEwSG1FRnZuUWZNQlY4TGdNUThmcUJ0OThhNnhZUnpwTlQtWUJnSG5GU25peXN4YVo0M1ZfX1d5X0V0U0p0dkctRF94dE4zYmx5Zk1KOUI2dlMtUW4tQ1JaMUdhaElpVV9YMWRldEljSGgzX1JWaFJUUWY5ckNTWjRjdC1oR3pCbnlxSmJQSEhFNWZyWQ?oc=5",
+      "source": "agroinform.hu",
+      "published": "2026-10-02T16:06:32+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjBjR3hScVpERU5vQXhiUTAxV0RSS3J4eUNMUWd0MVIxTzdFcW9kc00tUVptNkNISFRmMjMxemphSEVSVEtRdld6SHloTExQYUJqcld0REwzS1gzWFNsQVFpU05yMHpyLTQ5TUhjTEJPcW1LV21sTDlpaTExV1FSNkdZTlpzREdsdFE?oc=5",
       "source": "24.hu",
       "published": "2026-09-30T10:04:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Ausztriában is kiemelt téma az Orbán-kormány tagjainak elszámoltatása",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNU1QeFdzckx3YVIzQ29rcXpKSWVJV0NlUzY1VnM5ejFmYnR4V05wdUtQMnNpb0FXaTdiN3ZjSEJPZmJJbmxBMDdtZ09OWnBHYkY4Yk1fOFdIbE9WZVlTeW1qT01yMXJRT3oza3BTVy03M1BWWmRhazA2SWtWNUVrbmZua2EtRGlfcGtRQVNoVTBseU1mejhQWDg4T2JpMU1jZmc?oc=5",
-      "source": "Növekedés.hu",
-      "published": "2026-09-30T09:45:09+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Egy űrhajó meghibásodása veszélyezteti a NASA Holdra való visszatérésének tervét.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTlpd3JHMVpKOFMteU9Cd3F1ckxqc19ZRXR2YW1Gc19yX3FPTzkyeUhzV3ZVM2EtS2ttdXdpVEZHd0k1QV8wbjdGVXA3aEhQdkFwZlZPM2dlcnUxVzN1MTlpaU9aLUxfaVhKNUNjbDI5REVUUVBubGdfd0hZOWFzcHV6Z0lwTjVoVDFJ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-30T09:34:14+00:00",
       "summary": "",
       "image": null
     }
