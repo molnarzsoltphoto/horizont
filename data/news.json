@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-02T19:00:57.028048+00:00",
+  "updated": "2026-10-02T19:15:32.250932+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Rekord: a Crew-13 kevesebb, mint 8 óra alatt odaért a Nemzetközi Űrállomásra",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjR3RzBxSVBudThQd1ZUWWpTR0YyMDZ4T1J1VnlKT1lFYXoxSVUtOG9BT0s4emlxZ2k3QTdPLWtsWUpudWE3UTF2NlNmeklCeEZoYVJIX3M1WkxrTGFJQWRKUWJMVzkweHU2RzYtdGNDM2dVdURRb19zQ3lMcnpuOFk1X3U1djN0dl9CSk41Z0pJWFlrNktqNzdxY2hKNjQ?oc=5",
+      "source": "androgeek.hu",
+      "published": "2026-10-02T19:07:50+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Jégkorong: szoros meccsen kikaptunk Japántól a női Négy Nemzet Tornáján",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1lzandheVpTRUF0c041ZXRHdURKLWtTb0FudHlKakx1eHNLNlQyNld6WTdST01xUjZqeDNtV2NfcXg5WXJ2ejhnS2JnMDZrbGwzaXRsR3YtZnM0YUVUWnVHdURNaUF1VmhqYU80dlF1UUtZdXhHamxBVlpxSFJ4akx5Y2tNMmZwZVQ4eUVQRjJkRzhKNzBubThnU0lSTFVvUmZ6dXZUZW9FS0VZaGI4WU9zbWViLTA?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-10-02T19:07:16+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Erste Liga: szétlövésben nyert rangadót a címvédő Gyergyó",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmZJaVJCLUU4OHZZRl9mM0NDQUZFMHdEb1l6MTNiakhvYUp2amg0dWpPTkFmSzZVcnpTaGNNVkJVM2prMG9tRVVZcUQteVFrOHRJM29zaVNYRG16bFBMRG9rVFhNelp6UVl2V0NhbFlWZTBYV1BXWmdPbW1YbVBVcW1UWHlUa0RhSUxfZ0lQVlFtNkUyR2ZjaUlPdlA1eE5tUHkyWQ?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-10-02T19:00:15+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Kapitány István a korrupcióról beszélt: szerinte ez a magyar gazdaság egyik legnagyobb problémája",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95NnJ2NXpYQ291UmRZNmNUbHFZei1NU0dlUnJIOFRRSEliYlpnc1JnaHRHMFZEQmtmN0hyRDVDQ3ZocmNhcDRpbWN3T1I0VFBIOTlIYUQtTTBRbU96OG5hQVFTTm9MVTBEQncxbHFpdnpjWEUxN19wNnpNVFlMZw?oc=5",
       "source": "24.hu",
       "published": "2026-09-30T11:21:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Mentőhelikopter érkezett az M7-es autópályára, összeütközött egy kamion és egy személyautó",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1BjYzJsMlJ6MTJldl96clpHWVp4Tmt2OFFRWkc1NlBHakFDb08wQXpvam9FSXZPd2NkZWpvcV9ab0YzRFd6Uk41S3FyVU1LdUREdTUtczhtZGhKSjJTZHpiSWw3UVZ5YlZpazJhUVZlQTAwYmNkRVVzU2ZLWmJUX29icUxfa2hJWGdsbkJlbTN4M1dKeTUyOWFIWHNCbndySGc?oc=5",
-      "source": "Index.hu",
-      "published": "2026-09-30T11:13:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: Magyar Péter újabb vádat fogalmazott meg, Seszták Miklóst letartóztatták, Hankó Balázsról a bíróság dönt",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT0t3NGFTQUhtUE92WVpJSkdFUXlwQkdIdEhJeFpBMWVLTllBZWwyMExHNi04clpGYzBnazgyNWlOa3ZudEVLQWpCN0hGTlhWcS05dnBUSHBwc3JETzN5ZW9GUmI1aEM4RlFlWHF6anVzVl9JRWJ2eU9IdmpEd3Nrc0hjcEJ0eHdrSW5HRWhfbVFscDB2NnFJVnppaWNRTXhHQ3VuWkNjVmFWRlhBenNEQ1lfRlllbFR1c0xmTDlQNEFZNEJzT2dSamJUT2cybjhZa2g0bU1icWNaakpoOHFRM01ja1dDNHN2cHNkZFh4MEZmb2xtZ1NMRkgtQ2tIR03SAf8BQVVfeXFMT09LdzRhU0FIbVBPdllaSUpHRVF5cEJHSHRISXhaQTFlS05ZQWVsMjBMRzYtOHJaRmMwZ2s4MjVpTmt2bnRFS0FqQjdIRk5YVnEtOXZwVEhwcHNyRE8zeWVvRlJiNWhDOEZRZVhxemp1c1ZfSUVidnlPSHZqRHdza3NIY3BCdHh3a0luR0VoX21RbHAwdjZxSVZ6aWljUU14R0N1blpDY1ZhVkZYQXpzRENZX0ZZZWxUdXNMZkw5UDRBWTRCc09nUmpiVE9nMm44WWtoNG1NYnFjWmpKaDhxUTNNY2tXQzRzdnBzZGRYeDBGZm9sbWdTTEZILUNrSEdN?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-30T10:56:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "December elsején nyithatják meg a forgalom előtt az észak-erdélyi autópálya 22 éve épülő szakaszát",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1l2cDZ2T0hxU3VJVzRCUEdxYTYwSzExYlM5QUMyOG9JMWVrVmRDcG1qdUFuMzVpbDdWZWNRN3htcnFPaU5fUXpZSnhGX3JON3d2Sko4LUY5RDg5eHFaN0tIMXVhbnFTWk9xS3hENVNkbFRxN2x2cW9qWC1tQUZDTXA4QnR4QWJSb1BGc01tUEpEaU9GbTM2N2x3?oc=5",
-      "source": "Transtelex",
-      "published": "2026-09-30T10:48:23+00:00",
       "summary": "",
       "image": null
     }
