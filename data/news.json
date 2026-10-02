@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:30:45.847417+00:00",
+  "updated": "2026-10-02T13:45:32.642383+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2MzeEVjUnRiaGZvU3NCQzhyQkxKVTBfT3B0VW1hUk56ZXluaEh3UFhfM0p4djR6VTdUVWJlNUNETjV6LXJXaHgwYjNmdnBPbUxXOWVqODItMG1BcDZuSDZTRFhVREF0ZkdabERJY0Zzd0EyQm1qRFhBdVdadTAwdnVKbXl4ZTQzQVp4VQ?oc=5",
       "source": "Világgazdaság",
       "published": "2026-10-02T13:10:08+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "A francia kormány 1 százalékos növekedést vár 2027-re: mit gondolnak a szakértők?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2NjcTVTUjU2S0RZYWFXUVRmZ29pblNOQ2swVWR6SnUza2V2eFJyTGVnTjhhWHAwSEQxTW5aMFVxcUpreUhaV0JZcWlxMWh3QUN0akdwT3g4eHg2TlJLQWF2cmJHd0ptRE1UeEZDSUtzWU9QUjdNLXpwSks1d2ZIMUNuaDMxeWJscUFTRVlFdGNTVDBSSGl1VkhhcUFaUmRLeklOWE9zSFIyaW56dUE5MEl2V1c?oc=5",
+      "source": "hu.euronews.com",
+      "published": "2026-10-02T13:01:31+00:00",
       "summary": "",
       "image": null
     },
@@ -2237,15 +2246,6 @@
       "category": "Belpolitika",
       "title": "Tisza-kormány: nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit, elindultak a volt miniszterek őrizetbe vételei",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPN0NqQU1mR2M5dlJrRTZGZkZWVTV4RzFSeWlxRGhzTDQ5LUtydDhrQXBsWFJCWEV2Zi14MmRJbDR6bnJvNHVZMUdzajhnSXQ4STVLUHVYaEY3OGppQy1rRU4xNHN6Q2cwMm9BWWpOOGI3NDltdncxMUtqU2gta3JmZXlHQWU4QW1kQUhfYWJ4aDRIQThaRWgyQjNmd1NVTHZ0M1laMXBDNWJWbHFDMnVqblpOSnpqUVdTQkxwcnV6dnBFcFcza3RnM25zV2VRWUhoVzNKSk5aYkxFRWxrZURLR2pMOUxqaHZ5QWIwZW9TWDVVZTJsRFhocXUyeFJOXzIzaG5R0gGIAkFVX3lxTFBsR01FUUpnWktHWk03a0ZPTjRJc0Y1OXhwbER4SVdnSW9qRXhWbTNQYU96V1NnVXp0V09IZy1vVU5nblJaU0c0dU1ob0tKM3dmaGVodDh3MEtmLUtmUVVSd2JqRk5RSVpCNTlkQklKUG02TmphYXZnWmFyM2NIMk5aMGVfbmRESmp0OVhrN2o1SGpYallGSnZmWUhyT21VVTk2MnRCeE9zYjhIOF9ubWNYVkVxdzAzN0hBTl9uZVBBRG9PdGx3cllzcVVsaUxZcTYwV29MWXZ4eWxoY0JSTXhpSUdYRjF4eF9ReE1ZelVYTjhJMDdsQW5qU2xaWVYxVEUzVXNUaG9JYg?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-09-30T06:22:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit, elindultak a volt miniszterek őrizetbe vételei",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbEdNRVFKZ1pLR1pNN2tGT040SXNGNTl4cGxEeElXZ0lvakV4Vm0zUGFPeldTZ1V6dFdPSGctb1VOZ25SWlNHNHVNaG9LSjN3ZmhlaHQ4dzBLZi1LZlFVUndiakZOUUlaQjU5ZEJJSlBtNk5qYWF2Z1phcjNjSDJOWjBlX25kREpqdDlYazdqNUhqWGpZRkp2ZllIck9tVVU5NjJ0QnhPc2I4SDhfbm1jWFZFcXcwMzdIQU5fbmVQQURvT3Rsd3JZc3FVbGlMWXE2MFdvTFl2eHlsaGNCUk14aUlHWEYxeHhfUXhNWXpVWE44STA3bEFualNsWllWMVRFM1VzVGhvSWLSAYgCQVVfeXFMUGxHTUVRSmdaS0daTTdrRk9ONElzRjU5eHBsRHhJV2dJb2pFeFZtM1BhT3pXU2dVenRXT0hnLW9VTmduUlpTRzR1TWhvS0ozd2ZoZWh0OHcwS2YtS2ZRVVJ3YmpGTlFJWkI1OWRCSUpQbTZOamFhdmdaYXIzY0gyTlowZV9uZERKanQ5WGs3ajVIalhqWUZKdmZZSHJPbVVVOTYydEJ4T3NiOEg4X25tY1hWRXF3MDM3SEFOX25lUEFEb090bHdyWXNxVWxpTFlxNjBXb0xZdnh5bGhjQlJNeGlJR1hGMXh4X1F4TVl6VVhOOEkwN2xBbmpTbFpZVjFURTNVc1Rob0li?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-09-30T06:22:00+00:00",
       "summary": "",
