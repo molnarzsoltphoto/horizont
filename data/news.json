@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-02T11:45:30.771516+00:00",
+  "updated": "2026-10-02T12:01:30.409251+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Több októberi éjszakán is dolgozik a MÁV Egerben",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkluWjk3YVR2Y2VHeHFXVEtycEMydWhrNzBvNjFYN29sd2huZDI4T2h4cjlnNzd1ODFhMDFMX1VPSkxIQmtmX0NDMHVPeV96eUtkY2c2T2diemNqbDdMVTA5dUgyTFhRYTAtWldiUFB4VFNORFk0YTVsRHFUcU8zUUkyWk56NWczaWVKOTNKTFRCWE9HWjkzN3NySDZqTVZDNW9V?oc=5",
+      "source": "EgerHírek",
+      "published": "2026-10-02T11:51:51+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Vitézy Dávid bejelentést tett a majdnem pocsékba ment Volánbusz-beszerzésről",
@@ -39,6 +48,15 @@
     },
     {
       "category": "MÁV",
+      "title": "Mozdonyszimulátorok és interaktív szakmák: Így telt a MÁV-csoport pályaorientációs nyílt napja Zuglóban",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmFJTWlZMC1xcUNzbXlWNEtPT3lPU1pmV280V3B4eGhEMnhrT3hnb0N1N3R5R0xGdTRJUWJMbWk2LXRtR1kwZXE4TEQ5V0tRM1ZYQ05VUXkwVy1XQWpaZjF0ZUxCN1U3TG00WjZwTHVxU3gxcXZCa3FZVXdKcWdmUklWT05BSFhCVVZPSjFPOEJtMFRHVWhuM2NWS0lDQ2ZqY0k4Uk5mX052dmVWWUJVcTg1RFI3X1ozVEFUbzhsUmFiZnFvbDZueHdn?oc=5",
+      "source": "bkik.hu",
+      "published": "2026-10-02T09:57:11+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
       "title": "Pótlóbusz a H6-os HÉV helyett október 3-án és 4-én, valamint 10-én és 11-én hétvégén",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVFNYllfck40cEVFMnZGcW9Gck10Z21uYVBCUmxYUnRJSFRhT3J4TVI0cWNVNVZsYnF3YTBlZUhMUWYweldqdzhhekxIanM4Wk15WVRyejRGc3ExVnduOWEwaG1FdUJFTk1CSTFEZERUU3dLTlVHM2hCeHFLLVRGcDRzME02Tno2QUdpY0hDZFNkNG94VFA4eEFrX2M3N2E4NFFXeC1SeTB4WlpmX3JvaURaRzE?oc=5",
       "source": "MÁV-csoport |",
@@ -59,6 +77,15 @@
       "category": "Gazdaság",
       "title": "Figyelem: nagyot ugrott az infláció az euróövezetben",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZGhWbkFSSVhsYll6bHdHSlRJV2hEOUstSTJEZUk3eDBHa2NkeDdFUUJER1hfTDM4NldvWFFiUWpYMTg5RmZrSjJUZlAwdmZHazlNbHBjcUZDVDR3Y3ZIX1BCN0hQaGk0cUhFUGN5RFVDdmgyNk1uUkhqWm5QSjlkS1dfN0VsZkx4SDJmU0N3bUU5N21pNmJaWkJTMFREakRaVDhkY3pieVHSAagBQVVfeXFMTmRoVm5BUklYbGJZemx3R0pUSVdoRDlLLUkyRGVJN3gwR2tjZHg3RVFCREdYX0wzODZXb1hRYlFqWDE4OUZma0oyVGZQMHZmR2s5TWxwY3FGQ1Q0d2N2SF9QQjdIUGhpNHFIRVBjeURVQ3ZoMjZNblJIalpuUEo5ZEtXXzdFbGZMeEgyZlNDd21FOTdtaTZiWlpCUzBURGpEWlQ4ZGN6YnlR?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-02T09:37:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Figyelem: nagyot ugrott az infláció az euróövezetben",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbU1oa3hSaVVJaFlRandEdlU4Ml8tT1VKekxXbExSUWVaQkU2UEROdFdIb3dHcmJqODZVTTFRcGp2UXRSMzMtdWRLam1iZEZuY2tabFdRM09vZ0RYbVhmblltaU5peEZoUjFORU5yLVlESFBuRXRheUhCSHNhcDdZMkJvYXhyVHUtVUZQcHFRR3NldFNscGJSY2Y1TjVHYUNLV0xJ0gGoAUFVX3lxTE5kaFZuQVJJWGxiWXpsd0dKVElXaEQ5Sy1JMkRlSTd4MEdrY2R4N0VRQkRHWF9MMzg2V29YUWJRalgxODlGZmtKMlRmUDB2ZkdrOU1scGNxRkNUNHdjdkhfUEI3SFBoaTRxSEVQY3lEVUN2aDI2TW5SSGpablBKOWRLV183RWxmTHhIMmZTQ3dtRTk3bWk2YlpaQlMwVERqRFpUOGRjemJ5UQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-02T09:37:00+00:00",
       "summary": "",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFJTZ2JCNEpxeWxjNzNOMUNiREppdDliNVJGdndhb3dORUVPMmZ0ZU9zR0tDQ3RuQi1aWE1SeWlCUFBjdjdYM2l3dXFnbUx2S0tmaHE2N1BBSUd1Yzc3R1lHTUJSVmliUTZ5aUJZLWFJNWpuT2JJNlJqeGFUTG9TREtOYWo0REdnQ3Rwb2dpNHJyNXU3Z21NdnRmWUtUNk5abjNxZVo1amcxNF9T?oc=5",
       "source": "PORT",
       "published": "2026-09-30T01:01:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Erőforrások mozgósítása az 5000 km-es autópálya-cél elérése érdekében.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GNjlTQWRFN3RUdDBIeDlmeTN0d1g2Vmx5RkZWSWdTWjFGZkQ5NEVEM1ZHWm9Pd3hFZWM1czlVR0s2Rlo1dFJZYWRKZS1fd21IOWlDcnU2ay00THBxWkgweGl0S050MmZSTk5QeG9fcDlCTFEtYk5TdXNSRnU?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-09-30T00:34:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Letartóztatták Seszták Miklós volt minisztert a Volánbusz-ügyben",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckhpS0NEa1hmVzJUOFRueXpRVnl5NUpONW9lQTcwSWVybWhybUJoY1JjYWF5c1c3MWtqNy1tbWh2WjA5MjZxVV9rSkdrbVNGRDNrOHdIT3Bwa1Z4YTVjU1JQZFpwazFDdWx2MWhCRmNaZ1NkV2l2elJGUXVFcmx5V0RQV1Vab19ZVFVYejhfNmN3bUxQa0EtaHc0MmJOWkE0?oc=5",
-      "source": "Egri Ügyek",
-      "published": "2026-09-30T00:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "California Republicans dubbed it the high-speed rail \"anti-transparency bill.\" A new watchdog report reveals why it isn't.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHo1Y0NuNl9Nc2xkY29SSjNLd3F1YXNnZW5CLXdlR0l3bWpWekI4OHo0OGotaXJZQVRfTWplLUFwX1dWZ2U2Y0lPSklRWjFlaXZDRHpNOEdoVWxHYklDX1JscGVGZ1o5WkZ2TFJIaHFMX1c4cmhLTFFMNTBBdHBoWGFwWDZFY1RfMWd5OA?oc=5",
-      "source": "CBS News",
-      "published": "2026-09-29T23:16:54+00:00",
       "summary": "",
       "image": null
     }
