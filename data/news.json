@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-03T07:30:44.205950+00:00",
+  "updated": "2026-10-03T07:45:32.306219+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Erről már tényleg a Tisza-kormány tehet: többet késett a MÁV idén nyáron, mint tavaly",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFlKMFdyTk9IdkJnNlFUR1p3QXVuUDBuY3FxOUFNcXllT0ZmOHVxYU5pbHp1RmlzQk82Z2c2UkhRMkNMTzhxVnItLWRqRkxyWWxqWk4xanN5STI2Z1l5ODBmN0JuczZBVnRkaXBldVdvYjQtd0pFak5lVTJuTUtHTlpVYnpLSjg4c3ZfWQ?oc=5",
+      "source": "Economx.hu",
+      "published": "2026-10-03T07:25:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Kármán András elmondta, hogy segít a kormány a nyugdíjasoknak",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUs3eXJIVy1VX3FvaG5xeWxFS21xdk8wS1lkcVRzZ1pYdHRnSDNlSVFPcEpLSzJtdFA3RjQ4OUc3MURwdWs0Yi1CcFNTQTNfSmVUZjRHcVBqekdlMDR6UW50VEpBMEtLSjBibndVM05LbzJTLU5XZmg4NTRhMDVKX2FxYWMwR2pWb0NKaTB5TjRySk5kM1ViR0RycGpCem5VdzFfS01NMGlzYXpvQmhN0gG0AUFVX3lxTFBtcFlaMEpnWjYtVGg5M1ZocGNjMlJjMjNXNjNjWnMtQmMwdlFCQlF1Mzh1YmdUY1lEbzlNU1VXbXpRM3pKSHVKNWlhalBlLVVOUzQ1bkxaZE9kaGpOZ2hPS2dodkFzNmRjZHVpUmZpdzZzRHdtd2oyUG95dnNLZ2NQM3FjVlBZa2t0R3Fwb1paUzZRWU5kVzV3UUtieEdoT3kxOXgtZnpTeW4xeVVPcHg4WGkxZA?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-03T07:24:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Brightline launches late-night trains for major Kaseya Center concerts like Doja Cat, Jonas Brothers and Don Omar",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFRuM3psY1V1cE5LR05oVmt2Z0NscE5nRVRoWWVGNktSenhSOWJVekd6WTNIYmg1VzVsRHdhQVdXVksxYmh0RTQ3RGt0bkoxYmlCLVNweGx6THhfN1pyRlUxdDNHMVAtbjY1NGR4WUhFNlBQV0FSVEdZSXZIdHEtSXlzcktfdlZPWFE?oc=5",
+      "source": "Secret Miami",
+      "published": "2026-10-03T07:18:59+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Magához veszi a BKK ötven százalékát a kormány",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2MwaHV2N1ZRWUk0X0VualFkLTNtdGxXc2c5UDVSWkVEWGwxMVUtM21JVk5BdXY5ZzZYcGxaU2ZSdVpMV2Yxb21VVG9Sc3pfRnZ3dEpNZ3BURmxwclBEQzkxVGo5RC01LVVhQmVPVnJjWnozV3ZYcGVnRFBYQ2NKVVBzdU1lcHJQUzJZdGVVZEF1cUdaOVZyT3JwalJDaWR4cGR2NE4weGxRYXQ4Q0lhbE5BQU9UcWtTOTVZdUdqMXRsQWh4dTlZ?oc=5",
       "source": "Telex",
       "published": "2026-09-30T18:06:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az egész nemzetgazdaságot megrázza a 2026-os aszály",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xQUNWb1B6QWF0RmJVbVBKeXpDTDdQRF9fczFsYnItTXgwUTN2WVliWEZvUkRGZUoydzFSb0RPRThmQmRSUTZGelBka3pFTFEyZGdDTFhBRVp5NlREZEFCSEFPYVp4VkozQ0RXVDl3U3Y?oc=5",
-      "source": "Agrárágazat",
-      "published": "2026-09-30T17:48:27+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Most CA high-speed rail reform bills failed this year",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzFnZE9wVWtYbHR3cnZjSnptXzJGSXpUWUJBd1p6QnMtSHlyOVE0WmNjLV9wWHdfck16QWlzQVFzUmo3dXBCNmJhRzNHWEJMNDRUUzJGV0hkM2lFY24wX0JJLUtVVnBDUlZJb1pZd3VtbXVkYjh5TENLMkdWNV8yLWR5RFBJRmVnOHh6N19jRnp2RjVacnR1aDN4Q1FicVhLZ1ZHMW1UUFV4cERqYXhFZDRHRHB4VWNHM0ZhVWg0UWduekN3eHFFS2JoenpRandmTzNwOA?oc=5",
-      "source": "Action News Now",
-      "published": "2026-09-30T17:22:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Kapitány István a magyar gazdaság fekete napja után is optimista: „A bizalom nem tűnt el”",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3JId3JaVXVPZi1jN2VjVFRudE5LaWFhY0FLcTZmQmdEWkpxZWNEVk03dnRwNzZmSlRkT08xOFFMT2NWU0F6dTA0MmpYakhOVExGMmNUUi0xUWRtclpNNTFtQjlxNW90VklHYVJiSkFMc2NWd0NKR2l3Yk9BSkR6UEpPaGExbUJUS08zVzhzMHR0VzgxYU5mVnJqbk5jQ3A4ZURVU09fWTkwLUZVR3g0?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-09-30T17:21:57+00:00",
       "summary": "",
       "image": null
     }
