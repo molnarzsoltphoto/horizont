@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:00:51.690202+00:00",
+  "updated": "2026-10-03T20:11:10.411569+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -1847,6 +1847,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: újra egy asztalhoz ül Magyar Péter és Karácsony Gergely",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX084Rzh5NGFVTGFqS3puWEhSNUc2YVRSdW1iRU5sSU5raC1yT0lIOXA2VV96NXhTUlVFUmJFTU1yVEY3SjlTMmhOdHNNak0tR1ZQZHNGNWlEbU5LaEQzdC1BXzQ2TmQ0LWxUdEV2dHF6VUtyTzB5cWFjUHZmU2p1eU5mYTZGNzVodnNNSEVab0VWZG5ZRXg2a2lZR1ViVFEwaHE1dWpsOWdwM2IzLXZHNnEycVBWaFJVTWN30gHAAUFVX3lxTE52UGpTbm5PaVlhSXEwMFd5MDluSUFjc0M3Nk1KR3ktNUtkVzBOVE1IazhhcldSX1JTZG85MHBXZ1BDdENZdkQ5QzZwcDM1YTgwVGVSdzZwOWhQSjFKSmhQTnh0eDNySzhrX184MXY0SjlVYms0SXV5aHpwQnRjMUYzQWJRc1h0VTVOZGRqbUxXYlMtQk5DOHpfOWJ6ODF4dU1QNjRKbElMRkF1bm5PRG9OM0cxd0NydE10RkM3MmJNVg?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-01T11:21:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Továbbléptették az ezermilliárdokba kerülő autópálya-koncesszió miatti uniós eljárást",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhoVVo3LXdiNHExY2tXSFJQdF96VFVQcTZnNVJWNTRDQWp0MkxXWTR0M2l0OWV5dEd3czBkS1Z6TmpuNG1aZTM1SHFWWjYyN2wtZ3RJanAwWG1aa3RNVHk5ZHRoNnZQVjhyWmlkdkYzNVhHQnhaSnhBMlVpa1lpX3d2S3p2ZTM5ZUhkY2JLQkprZWRnaE90T1FiU2w?oc=5",
@@ -2234,20 +2243,11 @@
       "image": null
     },
     {
-      "category": "Jégkorong",
-      "title": "Hosszabbított válogatott csatárával az FTC jégkorongcsapata",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFhpNDg2Z0gzcmwzU3huV0hGS0g2dkZyczU2ZlZPZFJkWmFhcGZjTHlhWlNsYlZqVWtObG9iY3JMUWV5ZVpqcjlzOFpmUm9uczFhb3Nybm9SR2tsOWVfemd4clFGVEdMRVN4WXctNVlpY0pKOGpOSHJDSzZDZnFxcl9ic2VYSS1FblhYeDU1VURIbVQtZG1mU3QxZGtNcEM0V1c0X0N5MVI?oc=5",
-      "source": "Nemzeti Sport",
-      "published": "2026-10-01T06:28:20+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Dízeltámogatás: benzinesek és teslások is kaptak a kormány 5000 forintjából",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWm9KNEFwZU85U3h1V2JtWTlaWU1fQk9yMnFySG50amhJOTFnSWVGN0ozNjRrTDE4OGJDd0gzYTlLUkVhZy1TQjlnOFJWTWlydkI3c3JlRGRLWEV3Vm5zUkowRnVSeUhVSV9qbWJlU2V5ZmZHdHJvY1E3UnVHbURvRXZ4Y3Qzc1UtUC0yMDJ3UzJnX245VFlzS2tYNTc4X3F5NHdUNGxHXzZDeW0xN2ZOLW14c1hLU2E4Q3ZsLVc3aFdqUdIBxwFBVV95cUxNV3hwZnliajdEdnFMakdvbEx0cDJJczdPSkMybUw5SGNOYUtiVmxPdXFyMDU1SlNwRmE5UVl5QjlteEc5NWlJRDdoZXd2MEpMemx4LWEwcUQtcm5IeXFnOFNlVE5rTkxxeFkxdEhPNlEwTGpLdHZfZ1VMYUg1bGFURHpGNWkwRGEwNXNCaUtKc0REZ3M4VDQzU0pJRTAtSTZJa1R3SHVwMWNGakV1QmQwT3FvWFlOdkV3cHdzdzlNRkFuUFlmNkg0?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-01T06:19:00+00:00",
+      "category": "Gazdaság",
+      "title": "Megugrottak az energiaárak, a vártnál magasabb lett a német infláció",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3R1UlJ2RHRnZWFkQlBBTXJ1OWVfWjlsNnk1ejRaZ3NHc3lVdGZVU3JmcWk4YWxRemtfVFBBV2t4aWduZlNOQjZKaE4tTUhjN2w2MFVXbEx3TzdHZmV3VE9vRFhMbzgzWkp0S0RfTHVXRmE1dkVySFRjbmdMRnBpNm1fa0U1ajBSS1pwelRKMWtRNVBqLVktNmZmUEZaR2JlTnc?oc=5",
+      "source": "Tőzsdefórum",
+      "published": "2026-10-01T06:41:11+00:00",
       "summary": "",
       "image": null
     }
