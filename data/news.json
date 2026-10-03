@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:30:42.205916+00:00",
+  "updated": "2026-10-03T15:45:29.050304+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -52,6 +52,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmFaRnRPVHhQOUFITjdhTUhCb0k3Yl9KTFlYdHg2eFYyN0NlRHhiQkc3TzQzRW9OUXdlVkpxQnQwVmxoUVlhbFN6U3BkRjFxTldoeHBkUVVLWDE1NmtSdHlMRWZ2LTJxZS04bmUzbG01Uzk0cDBRXzdMeTRCN2tvU1ZWNVhJWHY1?oc=5",
       "source": "FEOL",
       "published": "2026-10-03T07:40:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Az első kilenc hónapban a GDP növekedése 9,01% volt.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oeUxoV3JISWpCSXJqMjRBc3BtWV9FY1ZpMGtUTU1mMlV2V1RHbGhQSlJOaHA4Y0dnMVAzamNsMUswWmFJQ3FqMXpmTmlLZ01BSFFPSGhxNGxSeUk?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-03T07:33:56+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWNWUHVLbUt5ckNFb25wYUUtTzhBRk1rWlZ5S055Q2pseTVHaWh0ZVZtZ1Nyd1BUUFpYMzdDRlFBdmFNM24zNFlTT1lQOXpjS3RIb1VDWlZ5ZkNBSjgzRExFMXFrTHZ6MXlZZ1hFcjJsVS1uazdxSG5IY0Y4RjNIdmtCb21aYm8?oc=5",
       "source": "Vietnam.vn",
       "published": "2026-09-30T23:07:29+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Letartóztatták Seszták Miklós volt minisztert a Volánbusz-ügyben",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckhpS0NEa1hmVzJUOFRueXpRVnl5NUpONW9lQTcwSWVybWhybUJoY1JjYWF5c1c3MWtqNy1tbWh2WjA5MjZxVV9rSkdrbVNGRDNrOHdIT3Bwa1Z4YTVjU1JQZFpwazFDdWx2MWhCRmNaZ1NkV2l2elJGUXVFcmx5V0RQV1Vab19ZVFVYejhfNmN3bUxQa0EtaHc0MmJOWkE0?oc=5",
-      "source": "Egri Ügyek",
-      "published": "2026-09-30T23:00:00+00:00",
       "summary": "",
       "image": null
     }
