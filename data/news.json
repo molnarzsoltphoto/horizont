@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-03T16:15:32.506892+00:00",
+  "updated": "2026-10-03T16:30:42.946442+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Rekordsebességgel döngeti a mellét a NASA, az oroszok meg csak röhögnek a markukba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOW1IM0o5WS16S0phQXdWV3Bha0EwWFdtSlluNFQzSWlaVG4zMl9uUW9EeWdENUJFUkUxT1V1Zk5Cck1BZDVvNWF2TlJCN1ZFWW1qdktRenJaS1J3akM2VThsN3pJbGVETzJHeFFCdlczMHo2ZU1hdmU4RDVHNmh1cXJ5QTVkU2txVmtrbGRxc0xBVlJfOUQ4RjUtRHIwYzlGWlgwNjlSSXo2TFBmYnV4QTNXcHh5WkFnMFE?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-10-03T16:25:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Tech: Rekordsebességgel döngeti a mellét a NASA, az oroszok meg csak röhögnek a markukba",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjdJTFB0ODN3Nnp1YzZjLXRnNDN4TzNUSTdTN0xlSi1FYTh3ZGF2Ykt2bC1lLXRSNkxiZGtEUlNVNU1ndUtOamVaaXFpNG85WkRyTWJFZTVtSUh0eTZGR2FXbWZ2RFVqanQzLUc3eHFXSHJsTUtDZlpaSkI3SnFqSkFuTXU3aXFQTW1IY0NuUmUzR0Q1QWtWdnZPQmN3ZDQwTXJtcVlvc3FoNEZD?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-10-03T16:18:07+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Tisza-kormány: egész hétvégén ülésezik a kormány, a legfontosabb tervet állítja most össze a kabinet",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ2x6bTJobnBfVktocl94X0s1VWYtZTF3VnRMbjlJYk5IcUxYMGV5bzBGdEFjRWJLdXZrazhYT3hRbDFFWC1USmtzc0IxM3Y4cGdYSUdDaGdGajM2Z2FCRWZDYVBEN0RNaGNZZ2xhU0drX3AycjloSlNpSTNGQ21lVkd0c1dzWlBGenN5YWw1VnFuZHAweGJDU0NRRW5JX0duekRROVNLQlhPZlc0SDhXMUxKR1pXc2d2U2gwSlA2NWNSOWtOcnNiWmtQcFZHak4zRE1DMWl3?oc=5",
       "source": "Nemzeti Sport",
       "published": "2026-10-01T00:23:13+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "High Speed Rail Authority to address spending concerns at Oct. 9 meeting",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYWQ4YVdTRk5Oa0Z3ODFMN3FWUFVTcVZNUHpoTjJJUFBZZ3ZHVWUweG9UTTFUVmdYalFkRzUzdXlEbGVMUnloX0ptZWRRcjduUmoyTy1UcVhaZTEzQTdwUDNYc2swdi1pak9CMXhqVmFyTzhtblpGN2stX18zdU9lOXNHOTRtaWlFSnJhVGx6c2ViTGN5VjVGWWJyQWVTTXkxWEJRMUlzU0dDVm9LMlVjV0FZYkZWYUVPN0QxQk5UOWNTdk9BWEgwUDk0bW1SaG9FZ2pFcnpJRGNnMm9xeXRINWJub04zWWIzN0k0UGdodVFsUmpNR0xvZHhtbW9XeW5zSllwNDlBN2szRWcxLTRZdlUyNmpsOVJ0?oc=5",
-      "source": "ABC10",
-      "published": "2026-10-01T00:18:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Ma éjféltől a Planetárium a Közlekedési Múzeumhoz tartozik Éjfélkor lép életbe az a törvény, amelynek értelmében a Planetárium vagyonkezelői joga átszáll a Tudományos Ismeretterjesztő Társulattól a Magyar Műszaki és Közlekedési Múzeumhoz: ez az első",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMk9jeERzdU5xOUZPaWVxTjNzaW5aS2kzTmZFb293a1lWRTA5LUtrTWdaZkF5aE1STkhRZVc1Y1cxUzhtQmVLel9WanQ1Wms1SXgxRkgzQ080S2J0WXc5YmlrRW55bjhTZjlHMXYwXy03WWdSTGRzcU91Q3RCcFdOVGg4YVBPYzhWdXhWNzBtVGM3Q3M0VFk3eGpaRFYxZ0ZpS0xycUpPdjhqUGRxWGJUYUhFaWVDYktNdGtoS05CakhOeWdKV3F0OEItTmRVUkFDdEZoeHdIdk4xS0lGWklhcjRyQXUwaG9OQ1o5Mk9jQTRodEFYMlB2cnpFNUpiMFh3aVpQS3dmTTRCZ0pQMFUzaGFrMEt5YmRhX1BIdzdScXFIQQ?oc=5",
-      "source": "facebook.com",
-      "published": "2026-09-30T23:39:16+00:00",
       "summary": "",
       "image": null
     }
