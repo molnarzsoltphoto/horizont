@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:30:40.635521+00:00",
+  "updated": "2026-10-04T22:45:30.456195+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -7,6 +7,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmx5b2dyUTFmTlZaSWZLZDViVnRsYVZRVUNDQmZIbnpZeDhVZkpqNVFELWNjam9pYlNmNVFVeXg0NGc2ZXNfRWtheWc4am51Z2JCV2lEaGk3MlNPSlM4VzhQa2FzRVd5NHFWT0NKazJjVkdYZ0tWRzZSTEZzdVFIMWh0bm9xenc?oc=5",
       "source": "MédiaKlikk",
       "published": "2026-10-04T21:14:53+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Megtalálták a Tejút leggyorsabb csillagát",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3dWYtM0pWN2l2d2xTMk03SU9XSWVxOHR4em94cmhEaGJCVEdkcVNoWU1EX0hvOE5PZUw5OXlDY3ktY0Rfc2dCODViRE9DWV9DVXhJZGd5TVoyanlvNHJQT3VyT0lYN0VZVHY4MA?oc=5",
+      "source": "24.hu",
+      "published": "2026-10-04T19:08:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1649,6 +1658,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Továbbléptették az ezermilliárdokba kerülő autópálya-koncesszió miatti uniós eljárást",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFhoVVo3LXdiNHExY2tXSFJQdF96VFVQcTZnNVJWNTRDQWp0MkxXWTR0M2l0OWV5dEd3czBkS1Z6TmpuNG1aZTM1SHFWWjYyN2wtZ3RJanAwWG1aa3RNVHk5ZHRoNnZQVjhyWmlkdkYzNVhHQnhaSnhBMlVpa1lpX3d2S3p2ZTM5ZUhkY2JLQkprZWRnaE90T1FiU2w?oc=5",
+      "source": "Telex",
+      "published": "2026-10-02T04:40:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "Quick Shifts: California High-Speed Rail Authority Investigation",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRl8xenN4LV9ieFFIWnZfOGp2c2RQX2s3eEN4eVlOeTdmeVRKR2hla0xZQURFb21KT09YcU0zMDZlemZ3MUQ3U2FrM2F5dDFyTU1PSDJfVHdIUEI1VlFHZnlZZHVyNkhkOEhONlFKdW5TUnREUFY5cXlMTW5Ya1lhNTdyckhSSXp2enU0VVdHYVFRRGZNMlNXTW9R?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb0pSbXJ0RVhTc2JueDNSUFBmbFctbTJtdThTdExoVWN4c29sc00yVHF2U1pqVHpaRDVZU0ZOZmVtalNscnRTamI5LWlQZDdVRl9IZFJOaVNLcFduZFd5ZnYtcW9JUDZzSHdDeWN2UXJBLWtnYVdiSnZDTHpvZXY1QmVobDQ2UWZNOU8yY2RCeEhQanBlVldkMGJpYw?oc=5",
       "source": "BKK.hu",
       "published": "2026-10-01T13:03:51+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az USA adja a világ államadósságának 40%-át, idehaza ismét rákapcsolhat az infláció",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHU4NWJQSk1kaHNqc1lxbkRHcGJHQ2ROY1RLcjFzeG1BbVRLVmFocFZ4djNKWnhIN3Bfa21Oa2VtanJEd01WdFVFcWs3bi1CR3RQbVU1dDlhTGlaQUhWWDNVTmZtbTQzQVkyendFbTYwYngwZm4yTWdBV2g2X2pZY3VCYWw1Z045cE9QZVdzNUx1aUtZbDZlY1d6SGtxcmQ1a284YzJzYjdKd2JzcG90UHliaw?oc=5",
-      "source": "TrendFM",
-      "published": "2026-10-01T12:41:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Hamarosan kiderül, milyen megállapodás született Budapest és a kormány közt",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTzV5YU9rVjkzVUpFeWw0Y1U0LVkzamxWUFprRTFLWmwzd3lFRVVYQzhMMVZLWkdZWDE5anBnOGRMVXRabVpZM1dCRXBzTERQcTFsTFpPYmVCMkV6QzBDYWpSYzAweDN5STJGYnAxRElCdTdoUkRrdGlJamRVY2pveks1c3NFVzRfU25HRTdFUDMtMmtzUE5QMDAwNkMxdjNWbDZLbk5PQ211WjVrUklibUhFd0x3bFJtc1d5VVpKdlpRUdIBxwFBVV95cUxNOU82OXF6MFRLSl9pMl8wSk1Fc3hPaW10emVxdFBFa21LcWJtQVRQN2UzVThubFo5Ynp0YXgtdTdDc3k0UWFPTWFVcXJRZ2FFTjVtQzB0VmJDUUg0REhrdlFia2lfRkVJRzVESkFEc2s3NTNoNFRDZDlua1BQS211b1kxcHJ0ZFNmVjBMMkpFSFBxNnNfNVQxeXVJUmNCZms4SXFuN3k1dGhUaFU0UW9Felp5Wi1fUlo0TEZFMW1Dbm5KcGxSNkRn?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-01T12:36:00+00:00",
       "summary": "",
       "image": null
     }
