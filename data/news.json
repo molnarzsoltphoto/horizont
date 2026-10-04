@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:00:51.525718+00:00",
+  "updated": "2026-10-04T22:15:31.390854+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -52,6 +52,15 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcDVsZDZNaVlIamN0cDlkeUFnWVAwRUtZRmVZcHo2am1FdGJjYXo2OEozUndnZFZmdDVXbmJwZTRlTF9sV2JubE96NVlhU2pFMkI5SFhXdGp3MC1qdWNSZlZZekZjVHA5VlJHQlRxSHV2ZThsdm5hNkJUcS15ZTBYaGRJRUVoSFBSQkRLZmVtajgyNzRpWkE5WW16TTlRYXlCMWJWYy1hLXhVMDVGYkhkQkdEenhpeHlTcm9haHZhYVJkOFV3ZWdDc2xPSmpfYUVRTmlnREI3SGRtNDZNUzM0c0NNaUxtM2s?oc=5",
       "source": "Utánpótlássport",
       "published": "2026-10-04T15:34:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "{{esemény}} Táblázat: Jégkorong Eredmények, eredmények és mérkőzések",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1Z4akNBOTdteEVXMzR3RVpscjQ0Ukhpb3RBYmhZS1BNTUdxNEJscVV6TGtmand2SHZ4WlRMNlg5QjNzVXRsNENhbDdkaUNRSFlXdDl4UGtsMGt2U0hHcTh2QXB4NGduX2cxQzVoUkJBLTlqVHZxc3QzWEgtX1V1cENpVnVpd29YYXEzVWstVnZ4bnVnSEFtakdsOFJVaVZ3OGJldWk3c0VmODdHa2FtR1A4bUQ3cjlZajRLZnFnaVZQX0p5YlRreg?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T15:27:17+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV191c1hRYmp6eGRkamx5RnRqZEdiN2h1ZmQ2eWp3RERMWjdxUlhhQy1wemQ3bThBcnJEejFoRnlTMlNIX1NsWHA5b21xMmJ2VVZyYVlxRXY2ZmsxVzRNVjU4VGV6Tk0zaTZ4YW84aVdlM2NHNnluZ3UxcXZoQjRVb2RoUXJfNjR0Y1hnZTFNXzJtOXU3V2Fv?oc=5",
       "source": "HírTv",
       "published": "2026-10-01T12:21:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Sokkoló fordulat: az amerikai gazdaság meglepte a szakértőket, de az infláció még mindig kísért",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUltYXBNUjItSmJCQ0YtX2FDVjk5T0kycHozbzdUOE1YWXZWQkVkeW03YWJvRFJMVy1HUWd6bVRvX1JjQVhXdlltNFd4Tllna2FuQnFoUkwyYWJVY2o3VVplaTVfRzNyQ2t4ck5jclZsVWtzd1hhTldpc19sQi1jWUVFUVBFVFk4dEJXazNzZWNRZw?oc=5",
-      "source": "Economx.hu",
-      "published": "2026-10-01T12:19:00+00:00",
       "summary": "",
       "image": null
     }
