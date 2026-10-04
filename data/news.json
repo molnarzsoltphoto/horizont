@@ -1,12 +1,39 @@
 {
-  "updated": "2026-10-04T07:15:32.096334+00:00",
+  "updated": "2026-10-04T07:30:44.545660+00:00",
   "articles": [
+    {
+      "category": "Külpolitika",
+      "title": "Külpolitika - Általános választásokat tartanak ma Bosznia-Hercegovinában",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWktYTUtS21ySnEwcXdPb3BwVGVNLUJlMzdERW9GZTVydmZGMXJWZ0l3alRRcUkzanhibHdneE04VDc2YXBmQkFmQTVmZk9CRnZSSFFOZ3JKdldPSThna0Uxek1fMG0wamJBLUtGVFVKMWdKZEhjdzZ3SGZkRUg5RjN3eGNyMWhLZThSMnRnU1k1djJwM2Iw?oc=5",
+      "source": "Hét Nap",
+      "published": "2026-10-04T07:24:11+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Megfenyegette Zelenszkij Oroszországot: minden eddiginél keményebb tél jöhet a háborúban",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDlZS0JfU0JSR3BIYzBZZC1Lci1RODZiRnVzX3VxZHE3V0tkQ1NlOTNPcjJHekxLbWt6YnZPVS1UOWxEU2FpMWxhRTRtSjI2SFIzM2VXbmQxS1laSXc0MUtsdE9OVmc2bUFUQ3hOSkh0Y2R4cWNNbjdzaTE0cGIxRkRVdDNCM3pCTlFSN2pmVi0tV1VEekNaWlZ3TXdyMjRrMXYxR3dqV3lwbmpmSTcyQzFnQXRHVWFPWlJqbUxXYlg2ZGtCc1E?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-04T06:19:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Hanoi - a csillagászat szerelmeseinek találkozóhelye.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVzhFa3N2bi11ejFNZDAzaGgzTWY0NVNnTWZMazM0U1F1dmxnOWo0MVhFcWZnRzZzaVNJbHdfWlE4blR0dDJnaHBKajJLTWg0a2ZCSk54bWVVc0RXYlJDcy0tbmN3MTZEMDkxOTFPMkdJQWtNT0hwYjE2NTFBQkE?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-04T05:56:06+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Megvannak azok az országok, ahol a legkisebb adót szedik a kormányok",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVFdDeTlGcUhiSGZUZG9SVVVvMXpjNmd1aElBQ3JwTDRlNGdMQkxtZG1WbExTSzRaOGZrU2VkNlAyalVHU1dTTnlmRExtRDZMVXVrNXBTem5wVG8xUVc5MWhkQWljU05wRnJFZXlNRW1PbGJ4QVlUZUhtUmw3WmZzbllKVEJKQmpaYmxQeHFKRzgxa0RRS3lnR2oxbi1HS20tZTFHR1JlSjFlOXV4MjBvY213?oc=5",
+      "source": "Piac&Profit",
+      "published": "2026-10-04T03:25:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KZE1LcmZSLThrYjV0a041MkRwbEFORU5NU2EtVmN4aWFMSkFRZldER1NXdlRSQVBHaTA4Z0tRdm9oWDdFSng1TlpEenZEQUVlVTR1V0dicGs5MXRGbEtTV2lINkQyenBPYnNoMk1DTlotRVNjSGFR?oc=5",
       "source": "24.hu",
       "published": "2026-10-01T07:19:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Kihelyezett ülést tart a kormány hétvégén Erdőbényén",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVJ0UUNvaHlFN1psXzNuSjAtalhmeVZ0ZFBOQnhocktPVkROb3pvX2c5SGd1dEZ1RTJ2Q0tBdkc0blNXbUdPTVB4NFJWZzZYV3ZGNWlCbDV0YjdCQml4WTRnSjJ5UWZQTTQ2bTBMdllQMWxmNTZTU2VxR1I2VXF0dWpB?oc=5",
-      "source": "Telex",
-      "published": "2026-10-01T07:16:40+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Nagyot ugrott a kormányzati szektor hiánya",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDlKV0pKVjhZZlVOXzF3VEZIMEdaVzRxQVVfQkVyZE5tSUVQc2t4R0g5clJWNEdLemtzWkhqcVlOSC1RMWl1UDB6ODVZZDBFWlFrdnpxRnNhRXdON2JkTkJNaWwzVlFoOWEwUzNjR21vZ3ZBWjVNQmc5NkxRY2tUQy1ZOGZFVXRzMXFYM1NxSFEzWGZjOHM3UzJJTFAxbC1oZmx3cWJ6eEZaOTYxZWR1bEN4MXUwbTI4eEVWalFvZjlUbFo5eUpaTVF3?oc=5",
-      "source": "piacesprofit.hu",
-      "published": "2026-10-01T07:14:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Jó hírt kapott a magyar gazdaság, erősen indult az ősz a kulcságazatban",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFA2ZWU2Y2NJSEZnbVhQMXRSUVN3b0F1TkpVdElmazY3c29peGVkNXFuODhTcVpNV3JRYmJwSTFsQTY5VVVyYW1RNzdhM2YtaG5vZG9oMWxydUhEZGlscTFDZHhiOUFIZnI5THBPd3pMWmhGUHB6WWFrM2VjVnNZOEJpSE1uaFBuZEp6dDhDXzVxNTdTTDdMZlAtcDdvd201SWJiYW80VQ?oc=5",
-      "source": "mfor.hu",
-      "published": "2026-10-01T07:00:00+00:00",
       "summary": "",
       "image": null
     }
