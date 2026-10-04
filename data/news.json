@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-04T17:00:53.186270+00:00",
+  "updated": "2026-10-04T17:15:32.299939+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Gyorshír: Pjotr Dubrov lett az ISS új parancsnoka",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yeEJ1SGtLd2Z1M1JVWlFlQ0lQZW1ibU5PUFpsRDY5NTl1aFd0TFJwY3FFaENMZWhhLTctaFg0ckxkOU1HQ3I4Ym5janB5aUpucUFmQkFHNy0tZURYNkEyeXQ3SHoycy0yQ1Q0eDdDdFZjTXN0QmJBNHJCM1M?oc=5",
+      "source": "Spacejunkie.hu",
+      "published": "2026-10-04T16:27:44+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Kolbenheyer Zsuzsanna: Még több lehetőséget kell teremteni a jégkorong valamennyi szereplője számára",
@@ -250,6 +259,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXdqUTV3QUFsRkZlMmhhaDFEdWRuM0ZldHVqYzhBZlZCN2l3S1oyZV9FRDBqYlMyVjItczRQc0pGcHV5UXM4VlBzNkZFSGFHQmpmN2VMOUZJTnoyQWpOYmY0VzJGVmFIMWVaaW5fQkZxVlRjX1RmVVZ4d2tOaTR0dDJzWHpqclVMVmVrdzNNbTBvemlTcnFldmxMZExfUjR6M0psaEpJVk9FUlZXMFlwd0Exa3k3a2hu?oc=5",
       "source": "Eurosport",
       "published": "2026-10-04T03:23:13+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Tampa Bay Lightning - Washington Capitals Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDB0WTN1cDF6Z0RBZEFPSV9lQTdaTUFVMy1ISEJJMjh5MVIyVlA0emlwS19GSVdTaFRvWXRmSzFPbkZORlNPN2N5dzhyZ0dySk1USXhKeG1Zb0FoR2FycHNkV1pvcl9lMlF4bnN0NDB1cFFhZGF6b051YW1jTHV4U201ZVBhSkR0WmpjUWoteTc2enhxeDUxTUE3ekdnNHVBaTBNRDdZQ1pVMXlJUWdoVXVzUDU0RUJ2WllyeXBxTQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T03:09:40+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQndBSkxCWVZiODJvbll1RWlQRDlLSDdIX3MwZDFVbTRvNHNvR2UwTmRHUFlwQXp4NjZSeWo1Mm85U3U2U1RMQU5qV2ZhRHB5Um5HRWtPLUgzbHYxdFlKS0RXS090bDVyNjJEUXNpUElPOEZGWmRFWFA4UGtBZGRhMDJmT2g2MHJpb0JuMm42SUxMaXJPeXNyb3I4YVZsV2d4Zm5ESXlpVERRYm1obHF0NE40MXdnclVybjR1YTJSUm1INnc?oc=5",
       "source": "Euronews.com",
       "published": "2026-10-01T11:09:35+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Egyre egyértelműbb, hogy akkor emelhet jelentősen béreket a kormány, ha valahonnan elvesz",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXNPbkZGRTV1UTNFU3NJX2VtbTh5eFpqV2lUNjRZbmp1NDA5QzZOQU9pcnc2M2VnNUMzOFJJMTN6eHlCNTFZX1RyUDlHVmFhZTJRN1ZESGZRWnV3UFlmU1BnWE8zVnh4dE5uWEt0SHZiYU9CTW41RjBQR3JXVV9LaThwOXJwOF9Ka2hwMXFISTBsUWRqbnVjcHZCaXZlOGpRVW4wdGFnc25Xdw?oc=5",
-      "source": "Telex",
-      "published": "2026-10-01T11:07:38+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Beküldte a kormány az akár közel 3700 milliárd forintot érő uniós kifizetési kérelmét",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1k2aHhpQU5IaURJTVgwWDdrS25ybmwxb0hVT2xTbEdGTGdFdXVYREFNTHdFdTlsUDdkS3VHQjNQcEVqREEzd25vY3N2dnFGTFpVRXFrQjhBNzB1cGE1MUlZTkR0YjRGRWRTMzloZzQ4dV9xQW05a2pscm50Z1RaRVFnQk8?oc=5",
-      "source": "Telex",
-      "published": "2026-10-01T10:56:57+00:00",
       "summary": "",
       "image": null
     }
