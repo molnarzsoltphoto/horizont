@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T08:30:47.759679+00:00",
+  "updated": "2026-10-05T08:45:38.239566+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Emelik a sebességhatárt az M1-es autópálya építkezésénél",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDJBNHFfQ3NnSDUzeDdaNU1SRlZscmQ0a285d3FTeWpNLXBqdWp5Yk43RGtlX1BrWWgtVkxUTjc0cEdwTFJjUVRuNnQ3UkFHY0p3cXRvZmY1dVJRM0hnOFJXTUh6Vmg2UU1icU5CZGdOLXB1LUc5ZzEtb1NmR2FvWUdyQThEWmdtZFJ5ekRSZ2tMUmc?oc=5",
+      "source": "ORIGO",
+      "published": "2026-10-05T08:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Kolbenheyer Zsuzsanna az IHF döntéshozó testületébe",
@@ -124,6 +133,15 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUs4dE5pLVVGc0RsTkhkV1QyUFVhWDIwLU1NV3pQYnZBU0hoRkl3c1BYUmRLMEg1dkhuTkdiYUpnclFLb1dHNWxxUWpaVzJXSW5XQkZIazFhMFdNYS02bk9ERVlJRktlYm5OMi1idjFPVlFMOTFLcUpMWjRtbjJGMFRVN3RON0FsZ3hsWDRZVDJXQzg3RGs3U2l3cllIYkJQQ1RLZEJLX0FhMVdiaGprNFd4VW1fRDhTSWdESG1GbVlKalRJdWM4?oc=5",
       "source": "Eurosport",
       "published": "2026-10-05T01:11:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "EHC Red Bull München - Augsburger Panther Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTk5xLTlQVXBqMFpwNG1od0pzWlRKTWowYVpKMlRVLWc5SVhVaF9mUWJMdGJtOTZuT2FhV2w5Q2RuNTdTeXhBOE9fZTVnZi1FV3BZVThMYm44NVZUcHBTTHc3Z2pHMFZRUWI5TVhLczUycmFCZmpsVjhOMF9nOHRNQWpMMjJyaGUxREZQOWtiYThwa3RfS3VlRERIaXBlRDlvVU9fMXZNTDFPNl9uc1dabWlfX21JRFhPaGFwUFNQU0ZmQ1MtcVpXYQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-05T00:48:10+00:00",
       "summary": "",
       "image": null
     },
@@ -1370,6 +1388,15 @@
       "image": null
     },
     {
+      "category": "Gazdaság",
+      "title": "Gazdaság - Csányi Sándorék szerint ez vár az országra, most Magyar Péteréknél pattog a labda",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTJhTGZDSHMxbHpJeTBkZGhPX0YwaENsZl9jWElSSTRDWjR5aVlKVGhoTmlZOGRGT0s2dm40WFp6eUlzMVBoekoxaE9sNEpOMmlsc2Zmdk51Uk93dEozWkZQNFRjVXd5SlhiRHpQS3RZUTRRYzMyZV94UVNFLVZsMHdTb3FVOTVPMGFfbFBjc2Q4dDQ?oc=5",
+      "source": "Index.hu",
+      "published": "2026-10-02T13:03:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "A francia kormány 1 százalékos növekedést vár 2027-re: mit gondolnak a szakértők?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2NjcTVTUjU2S0RZYWFXUVRmZ29pblNOQ2swVWR6SnUza2V2eFJyTGVnTjhhWHAwSEQxTW5aMFVxcUpreUhaV0JZcWlxMWh3QUN0akdwT3g4eHg2TlJLQWF2cmJHd0ptRE1UeEZDSUtzWU9QUjdNLXpwSks1d2ZIMUNuaDMxeWJscUFTRVlFdGNTVDBSSGl1VkhhcUFaUmRLeklOWE9zSFIyaW56dUE5MEl2V1c?oc=5",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ROWV3Vk5Qdll4VzNLTmhyUHJycDItQjk3R01YaFRwZUxjZnFhYVB2M0dXYzhZN3NaYmVJQnBiX3ZKby03dnlwRlg2WFRrZGJ1Mi1ydFJpZW9vUF84eTZhVmZtd21Td0w5X2dxWmhvaFBlNXMyNVk1NExCS3htZw?oc=5",
       "source": "China Daily",
       "published": "2026-10-02T02:22:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Gazdasági hírek összefoglalója október 1-jéről.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JZ1JqYnJrbkJiSXh2S29kNmZuVjM3UURKakJKbTNjeVpGNHRMbVlNaWZGMlVQSXk3NUxDNTgwMUJJOGVzZUZ6c19TbDkyR1pYNTBWdVBtTy0wN3ZhUkNrMnhwUVp5Y1dETWlnLVBNVQ?oc=5",
-      "source": "vietnam.vn",
-      "published": "2026-10-02T01:54:48+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Kiss Roland: Játék szempontjából közelebb kerültünk az elithez",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUNPOVJ4YUZOMVNCWDRVZWNLOXluaUZ4a2tXUHQ2amNHM2xRTFRZVzFLUFVkZkxjWkliQ1N4X0ZnVlhfYWdULXJEUm5ZeUhnZlJ1N3FhRF9yYk0tb3lVelJlM1JEd2Y1bXVWYldMTTZ2ZUNfdGdsSk9ZU3h4M1djX1NlQnNRX2FfTnNXcVNjakw1cnc0eTZ5QzVYaTd4bU9EMmliU0tVTHZXVDg?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-10-02T01:52:17+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Ma új korszak kezdődött Budapest és a kormány együttműködésében. A Fővárosi Közfejlesztések Tanácsának döntése alapján a BKK regionális közlekedésszervezővé válhat, így végre összehangolható Budapest és az agglomeráció közösségi közlekedése.",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcmpTN2pLMWdkZTNGZkRnMWJTNGhGQnlSOHc0WDItRVUyR3RudFFNdjJJY3pkZXlESVR0S2d0eEJvWXRPMHk2VXpTemdTSnZVOHpFNFoxVEZzQ2xjeTFubVZXNWNiUzVOLWcya2hxVlB4LVpuV1FDSm5IT1d5UXFZemphQ2N3VGxFaGpEX3EwanVaSlcxcW1fWFBYWEFKc3lnQ3c3eVdyX3UzY2pYVTE1YzhieEJTVjVodXE1cTVRaGRkVU1SalA5RlpXVW1pallDZnJnS2FpdGw0R18yTXpGMkJqRFVLdTMyOTRzRWFnb0RXUFBwQUVUM1ZUVTlRaW9CaEpRWUxwMHlHR1BWd2RvV2FmTWJxcTlpWDFOUmdZNHBLSEh1YTJhOUNnV3NrNlE?oc=5",
-      "source": "facebook.com",
-      "published": "2026-10-02T01:09:13+00:00",
       "summary": "",
       "image": null
     }
