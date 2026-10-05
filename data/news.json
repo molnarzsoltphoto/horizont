@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:45:34.340145+00:00",
+  "updated": "2026-10-05T06:00:53.978673+00:00",
   "articles": [
     {
       "category": "Külpolitika",
@@ -169,6 +169,15 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWR2cTkwVTR4ZGdZcF9zQm9UTXN1QUNseVVHUWF0ZWplOHltaVQwS1lJSUxyM2NaYVZINGFXVmxRMk9fTV9URjRwNmVKd1Y3elE1dFhwbFpyTzRJNUNteWlwdF80VXVMLVkxTFVjM2FONUsxOTd5ZUp3bnRRaXRyVVNBeUMyRnhwRWhMLWFRQ0ZZVklNc1p6WGM2d0dqaDRnWGZIR2J2RlhmRGdiRnJBMFEydDhfM3NFWm4xNQ?oc=5",
       "source": "Eurosport",
       "published": "2026-10-04T14:10:50+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Anaheim Ducks - Florida Panthers Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTW50WUtGbjY2cERlTDJHSG9BVndpX1A0elAyWVpxWTNlaGtVWmJQY2hvRFlSNDd0N1pWVmowZzJiTkp1NGh1SU9pUkdqTDJuUDROVmh0Y0F3OEw1TlZMUm1LQ3BYLWR0cWhKNWc1NDF6SzZPX20zQkF3RGY5S0h4WDhpa3pnWEw1NDNJYWhoZXRfREI0WjdueXo5cDBldTE0STJzLXFWUVB6aURld0NEeE0xRQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T13:44:44+00:00",
       "summary": "",
       "image": null
     },
@@ -417,6 +426,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "San Jose Sharks - Los Angeles Kings Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGs5Mk9LbzNsSVpqazVXSGgzd25pNFVxMEJOX0dNQk9ZRy1LLTdnTms3RXRVSkVwLUQzSFNLOG05U2k1RURzNlhKV1hHTHp1cTJJRFZmUmJVYjVIeGh0VV9DRm1mVkNhcE94cE9pVTNSZVFzRDcyRWRtUWwyNHg0ZDBkeHpfUElOd2dHUlpRbTVHZnZmZ1NScWVBVkRQdmZkNnJwUnhVU0VWc2dSRkw4V0V5QmdTSGM?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T03:36:17+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Edmonton Oilers - Seattle Kraken vonatkozó mérkőzések: Élő Jégkorong Frissítések",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQkhsaHhvVmowcm8wNnpZMnByRnBjWnE4ZXVsMS1BMDNUVnliQ0pzWE5nNEFTelJMYWRJRjBFMlRQMHlieE5JdUExclNKbVNSSGltb2JhNXZjVGVtemxhWkZXVmlzUnBEcFFGc1pGYVdYUVdWckIwT1lzOUdWcHY2U09hMUpTNEhfQVBSRkU1bUNVdDA4OXhDckVnU2ZJdmpkdFYzMThWX0d0ZGZodFVtVVZMV0NTUQ?oc=5",
       "source": "Eurosport",
@@ -453,6 +471,24 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Nashville Predators - Dallas Stars Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEpjcFZCR1U4YTBUTmVvMzg4VW9JcUVpMlJVMUQzMmczTlVzWlNfZ1dncEZfU0ZGWEhpX3hyRkVlVnpBRllvLVJfSXJ4eWJ0VnpLSGhMUWxzQ3pZRVFpTHZLWFZzVWE4SHpOODNEN3NuS0gya2lqSVByemxyaXA2RFhtTVR2cFNLTmJBS2ZUZG5CZFlXWDFTV2p3Umozb1dWcXlKZ21Hdk9TOU5aTEE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T03:13:42+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "San Jose Sharks - Los Angeles Kings vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3EyVUlqaGVvOFZMS3p0NEZIRVhnVndzRUNTNGVrbTM0TWUyWG1kYWlNZjN2QWtZVXpyOVQySmZDdXdHX0VYSkNEWUlYZVdpYTR1NG9ySWdpUnVlVEQ3TmcwUm5zSjYxWGJaVENMWlFvOWhKMUdldE9LOXRPNjdHYnNIdWcwOHBMTGZ6R09ESzM4dlppMW91ajg5dTl3TmJoUDJUeVZHS3RnSEMwUWc2a2hHZkpMeEJwMkE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T03:13:13+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Tampa Bay Lightning - Washington Capitals Statisztika: Jégkorong gólok & Eredmények",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDB0WTN1cDF6Z0RBZEFPSV9lQTdaTUFVMy1ISEJJMjh5MVIyVlA0emlwS19GSVdTaFRvWXRmSzFPbkZORlNPN2N5dzhyZ0dySk1USXhKeG1Zb0FoR2FycHNkV1pvcl9lMlF4bnN0NDB1cFFhZGF6b051YW1jTHV4U201ZVBhSkR0WmpjUWoteTc2enhxeDUxTUE3ekdnNHVBaTBNRDdZQ1pVMXlJUWdoVXVzUDU0RUJ2WllyeXBxTQ?oc=5",
       "source": "Eurosport",
@@ -466,6 +502,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnRndTk4b0RaZk9pdU16b29XMXlfSVRxYVFsUTJUSEpMbmxTOU9rTG9Lc0RvSjdMT2U5NHY0VFFNOWNoeEF1QWtfcXp6c0FJWWptc3huNkNuQkRqbDB4dWk3VkVCSHAwUUZEOC0yYjI5QjJva3pmQVE2dkUtdWNCbzJFQlRIYTlDd2MyVFhtMW9rZ3FWZGdtWEpHbWtFdEpYby1fT3E1MWxvaXFnWjhrNmtfcFhZWEZX?oc=5",
       "source": "Eurosport",
       "published": "2026-10-04T03:09:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Iserlohn Roosters - Krefeld Pinguine Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlc1ZU1DdEF0SnVZeF8wRjhad3JVV3E5ZmVWUV8wd1hzN1h4SjJTWGNqUy1uM1lhX25ZTjhFNTN4ekRCYUhHa1hzd0FBTlRXYVh2ZTN0cXdkQTFVWU5DeWRXNVVmal9QZEpyME5RUFB0ZVlqZlNjQV85bTlfMTMxN2lnQUZMUFNKUWwxZUI4ZFVXcW9yRlJmakUzNElxZnR3QkEzVFBDaDZKLWNydmpKbWpYWmlmUjl4MXNNaEtVcG0?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T00:53:21+00:00",
       "summary": "",
       "image": null
     },
@@ -731,6 +776,15 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Minnesota Wild - Boston Bruins Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFRXYzNsQ3pZLW5JOHlpV3NXMjBhNTdWeklsUlBqcXhlU25JcjM2aGQta3otQ2lmeEQwVlJWdERqcksxblJEUmxmT2tkdTFuRVppdWxnLVJjLW9uQ0syR3JINVdoMF9WWWtSdmhRdTd4VGNENzNwWkhhRWhLNFE4RHBBYUFaUTc0SXFaUU5YcDJoN2pyMklNMDlxN0FxWHNhUzEwa0wycUhxNUNRNlBOYg?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-03T07:02:45+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Pengeélen táncol a szomszédos ország gazdasága: sorsdöntő bejelentést tett a hitelminősítő",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVEQ2clp6WUtLbVlTWjZSSmktRjNqUmwzNWlxVWhqQWlBeFIxSTBMN0prRGQwTWVKRExFd2tXYlR1VDZSUTVOdVpmTldZNnhNNy0tMEI4SnVnQXd1aExXTkdjWVpod3BLQUM1RVFRdUFST0lldXRtRGNGM3FiRXdXU1ZUYWVWSGdnZ1R4V1VDOHJHYmJoblVJajhjYWlmVWh2Qm1yM3k3c2NhNnBFYWg0ZHl4R0dwc0xoVmJzVkZab1VkOGhNZTNCNFVtV0ZGc0VZTzlhZ2NveEZRUG_SAdsBQVVfeXFMTlRENnJaellLS21ZU1o2UkppLUYzalJsMzVpcVVoakFpQXhSMUkwTDdKa0RkME1lSkRMRXdrV2JUdVQ2UlE1TnVaZk5XWTZ4TTctLTBCOEp1Z0F3dWhMV05HY1laaHdwS0FDNUVRUXVBUk9JZXV0bURjRjNxYkV3V1NWVGFlVkhnZ2dUeFdVQzhyR2JiaG5VSWo4Y2FpZlVodkJtcjN5N3NjYTZwRWFoNGR5eEdHcHNMaFZic1ZGWm9VZDhoTWUzQjRVbVdGRnNFWU85YWdjb3hGUVBv?oc=5",
@@ -799,6 +853,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0tSSUpRR3dvZHhKc2ptdUVTcEhQM18zaFBYQmFURTFiNGI4YkhoeS1vdzFXWjhINmZUWGtPX2lnTDFnMmtkTFROMHdBZlhWWjRDSE5JblBxM0djVmh6alBhMnVrVFRJc3ZfcUh5QW1RUjMxOUl1QnVrUnAtWGFLVlVMUThqNU5XN2hHVUptT2hfcWUyeV9qRkhCS3JsZTZuVm1ldGFfR1lhUQ?oc=5",
       "source": "kmph.com",
       "published": "2026-10-03T05:08:05+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "{{esemény}} Táblázat: Jégkorong Eredmények, eredmények és mérkőzések",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamJhV0FwLTlORWhCTUx0M3gzTjcwWTVmcjd4QkJpek1oVUF0clBTbkc3TVBiYU5iemNZSkl5TWZ4Mnl1dlotdHQzNUJsYjdjSkFKdE5DcmcxcjhLQkdrRERUYUdDNTdJSDVhWEtReWJ0RUtvLVdVNm5zaVI4Qm10b3hVY0JvaHFsb3pPSjNBUFpRYUxpb2NLSFpjME1PcHdMUy1Qd1llNFpsMkREMjNJMHNfU3YzQVNZdmtCblk1cW9iUWxKanREWHpuY0phZw?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-03T04:38:26+00:00",
       "summary": "",
       "image": null
     },
@@ -1078,6 +1141,15 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aWTk5bk1hNUdNWFpMdk1UMGZrdTFONlBnY3gzMUpEdlhsTGxPQTNfd1k2TXZkZERJb1ZwN28ydmFzcG1rN203eFRKS3hqcndZcjI0QXlkZi0wTzZtMGJ2clJVcnRIZTFOZE9ndklzYzNXUlVa?oc=5",
       "source": "ICE Hockey League",
       "published": "2026-10-02T14:44:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Nürnberg Ice Tigers - Schwenninger Wild Wings Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHhYa0dyZ0hITGYzLWlYQUxhVlloMEVkdm94cXpGME8yc1pJLXpaemxEZmg0QWVSQ09OOWN0WGdwWEFJdnJSTUd1UmV3TDBYeTMzaS1pajF3RkxBeF9Qalh0bGhFR2lIVDBja0h4ckNzOHJFRTdJZ2c3ZHgyQWc0Z0tMdHJmTGMzU1RhQUx5R3dpV3ZZVjBwTk8wSGdPdTJCaGpLaDF3TUlMV0d6RkVOcjl2UEpMUVF3elpuZDdTM0dBUEpmclE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T14:38:50+00:00",
       "summary": "",
       "image": null
     },
@@ -1902,6 +1974,24 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Adler Mannheim - Iserlohn Roosters Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd19hYUpjNjIyUjF3YnZXN3ZVS2U1MHpZcFFydnhuMzl4cTIzTlNVTHRQZ1ktbnJfSHQyaVd2bW5wQmhWX2psc2tyM1RJcHNBOVB5emthd0RJNXNmc21ocG1nZEktaXo5VnlrR1IyUW50SUprWnhwWXl4UnJSamxEQ1labnI1UElNMGwwMVdKdzhMQXJaMUhOX28tTkNyU2d1bE9lS2tSTlhsOGVWblRub19mZENDUQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T03:03:57+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Krefeld Pinguine - ERC Ingolstadt Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUZKMnZjWmpiTFRQNUl3UkZ5eGtQNkFIenhrNGl4RlY1R21VRVVRV1dtZEZUbks3VWtPVmlHS0JDOUxnQ0ZEdmpxQWVlWGRwRE1ibzA1QWdXOXZ0MjhMeXhQTTFsd1p3UWxUVHZaX3piRndUTDRXc3BCQmJ6Q3V0d2JBOVhnSFUtbTYwZ3NvdHFjaTAwazBrUXUwQXQ3RTJYclhMa2IwbEg2WnZJZGNFUVhQaVA?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T03:03:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "{{esemény}} Táblázat: Jégkorong Eredmények, eredmények és mérkőzések",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG1NN095c0k4YVpHb01FQmhadEZtRWJHSFZReVhOMjc3eHluWHkxVEh6T2hYbkVyQzk0eV9nY1dzRVM5dktfX3JudmVicWZkNGYyVXVPSUZBY3o2VTAtOXYwb05PaXRaalpBNmtGbW1EbUF5UjdyamJYaWhNLVF4X0hhN0lJbC1Ybk1kUmlfeFBwSXUwTk55RElEOHBxZ2ZWUHFKcmFsNnBaekZveXJXclRvVUZ2Zm1qOTJsRmpCU1lfZEls?oc=5",
       "source": "Eurosport",
@@ -1920,6 +2010,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "San Jose Sharks - Florida Panthers vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTZKclkybHZrZExpQnZqX19IS2x4VWVHT3VUTmdWSGgwQlpVYk1idzM3T0VxQmVjaHo0SDh2QWYyNGFtT3JSWXE2dG52WWJ3STdRZEEyY051N2l4UTBwMi1WTUplQ3Q0VnN6dXR0clJQRmU4aXFpREczbWMwRV93Zml4WnJZZnMySnpRY3FaYm0wMEcwcnlkMUlZc3V6RzlMQnZLRmtRQnRTWm9lcVF4aWVkRUFiNmVf?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T02:59:31+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Krefeld Pinguine - ERC Ingolstadt Statisztika: Jégkorong gólok & Eredmények",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWRlYi1KZTJfVlFTRHNpTDBSalljYkVtWWJIc1MwRENsNEw3cWZ6dXNHelc5WnU5SE1XVDV6emp6OE9TNUlnNTc3R3l1TkRxLVNEaWROM0pHSDhsVlp6WG5BWkJEMzJ2Q1BXb19kZ005RjRfbmtITjFEdUMxNEhidHcwTDlmNk13eEVmTlNtX1lVR21UMEJSLUJxOTNHR0lxclZXMkJOUjNTbEtKNnd6amNwSHR3dXd5YXM0WQ?oc=5",
       "source": "Eurosport",
@@ -1933,6 +2032,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzZMdDJiUDVtM1VESk82SzJlbTA5SWQ3M2EyWlVHamxJX21KWEMwdzZZZnQyR3BzS1NJTzhkc0JuQmxVeGV1alZUNzV1dTRGVnJkTnFhcEI1OWkxcnJsT3FjTXNaVnU4NWljYW56b3BvOVU5ZkNKYi1TWGJzQ1FfbTR1QWNPQ29OQWRDamE2M0FIOVgwYkhzYWpvcWdKcmRCRGRMWE0yUExMQWRfMnB6U0xWdzQ5NjQwV3Zr?oc=5",
       "source": "Eurosport",
       "published": "2026-10-02T02:53:16+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Nashville Predators - Minnesota Wild Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkM5eGgwcTdRZEg3LXpNWXhMbGtMYy1KMW52UElXNEJxQk5NaDI0WU1VWmprc1JCR3R0a2dQN1N1Tk9wclRNbHpDblBjSU5XSEd3MTU3Q1RqejNLVklXVTRoOWo1OUtFWFgtdU1UQ1hYZmNySV9RczIyZU5NMy11akY4V2dpaE1zREpLSmhpVXZyc2xOb0VzSTgtenBGYUIxb2l4Ynh0M3RYV053c3J4SQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T02:53:12+00:00",
       "summary": "",
       "image": null
     },
@@ -2140,114 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlp6bl92a1Ziekd6bU42Ny1Rd3o3Rmg4QWxQeGVZZzVIVkl4TU9aN0tCcFNEZGhsRkxNdWpOYTE5ejRVajlPNDlPSThtdmt5OXYzaGdqekdUbFNYNnJTR1FFOWVuNEFmOUJkeUpCRnJaTlVRdkRyY3Y0OUotbV91MFZOcVZ2enMyQlpPYnowRTFyREs2WXFtTnVVWjZSVkdqM1hGd0wtdDU0c2JnWGxtRmJYa2p0WkNaUER0V2UyblY1UDdPWVRvdElMdVNvdUN0eEc2Z3Bqbw?oc=5",
       "source": "Telex",
       "published": "2026-10-01T16:29:46+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Megszólalt Peszkov a Magyarországgal kapcsolatos gazdasági együttműködésről - Figyelmeztetést küldött Budapestnek",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEVpSktoNXBkWWgwV1JhZGl1LXR5RFJKRUZva3hWUU10VERLWWtrZmJoX0t6MVNhTDI2Nks5OTUyLVhTOXlSVXVSY3dZWUlYazFpNlR6ZGZGZjdBd2pRMlFaRTF2M0EzYmRNeXpCMDBkYlBrcDJ2dGhQWEUzRllUNVlrYWJlczJyOVpqNVM1dmo2NzlHNWlWZEhJNUxfVklSTGxxT2ZnV20wQ0JDcVl6MmVLTFM2YkxYT0dlRkc0cE81d2twc3FrZTV1dUZPZmRReHlzODJwTldXM1piS2VUYTliYVl2Zjg4SEFIbEMybFpxUUVpa2fSAfYBQVVfeXFMUHhFaUpLaDVwZFloMFdSYWRpdS10eURSSkVGb2t4VlFNdFRES1lra2ZiaF9LejFTYUwyNjZLOTk1Mi1YUzl5UlV1UmN3WVlJWGsxaTZUemRmRmY3QXdqUTJRWkUxdjNBM2JkTXl6QjAwZGJQa3AydnRoUFhFM0ZZVDVZa2FiZXMycjlaajVTNXZqNjc5RzVpVmRISTVMX1ZJUkxscU9mZ1dtMENCQ3FZejJlS0xTNmJMWE9HZUZHNHBPNXdrcHNxa2U1dXVGT2ZkUXh5czgycE5XVzNaYktlVGE5YmFZdmY4OEhBSGxDMmxacVFFaWtn?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-01T16:08:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Newsom vetoes high-speed rail oversight bill weeks after scathing audit of rail agency",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzdkOUpYTGNwQlJrTzZ6WjhNZWZDS1F6SmNZXzUzY3o3MFZmUmZvN1Y1bkNaTjlQZlVhNDdaU01DSFkwSlFvVkVFX1lQZV9vMV9aMzh3c3ZBdnNFaGVJa3BLZ1hZZFJJbmFkVS00bFAwYUN0cFR1ZURJcGFFVWdzTWtNTzl3d0pjdlZTazhjb0cyYlhob1ctZE8xdUZGNXR6clNwSTZINHVHM0ZURmUtWjh1aU14MjVuRG9LcHBjb1dfdldsR1oxdzlRNnlka2g4UW8tWnRQLXFqdw?oc=5",
-      "source": "Pleasanton Weekly",
-      "published": "2026-10-01T16:04:31+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Súlyos mínuszban volt az államkassza a kormányváltáskor, ezermilliárdok hiányoztak",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QaFN0Rk1hSzk3QmhpQmhzRzFWbFZESTBxcEFRVkJFVXpELVFOSmtOS1l5ZE5xM0YtN2FOVU9XdV9HTjFXbkc2dEJSanFBSFpuR09tb1JLZi1icTRiOXpoaWFkbVd2OEM1dGhWQzMyX3JFdw?oc=5",
-      "source": "atv.hu",
-      "published": "2026-10-01T15:47:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "High-speed rail costs could reach $113 billion, 25% more than estimated, PBO warns",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uVnpIbUcyWjZNQzlLN1VsRnU4OVJ1ZHM1cmFDRS0xNmhFejFNNTk3cF9fYllhb0FyX3lyY0MxTzlib2hwaVd0aTZzYXZ6OEN4dVdSSmNqUVJ5cnN1OEp0MGpGMFJMbkRSLUZVLVIzMW5Wc0JiMmRJ?oc=5",
-      "source": "Yahoo News Canada",
-      "published": "2026-10-01T15:46:03+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Újabb részleteket jelentett be Kármán András a nyugdíjemelésről, más szociális juttatásokhoz is hozzányúl a kormány",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOLWd4TFN2Q2tpRzJKYnMzMG5taEMwaE5MakJ0VzE5U05UWFZhSENqMU00ZFo0Q29tUW1kcFR6ak5oUnlIakw4MnY1WjRFSUNiM0txM1ZvUzh1VXNseUlMRnRZTzRNTEFKNkYxVy1IQlNHTlpaRmp0SFZHWHhleW5oZVBnQVRuSC1kNEZvTGdET0RkbW9mclN3ajQxOVhMNDRnQWZGaElsV0M4YU9OZThFai1qeWsxLUJhYlBhUjRxX0lPbEVXeWFEWWNzblZ4NDRtZUw5Ml8yci1mVFdiZm0wbzF6Q1NkUUtZaFFDbnRuWWkyWlVvUkNr0gH8AUFVX3lxTFA0RTBZaDNFM3pLR21LVHU0UXprMVdpd0FpZWttWHZURmNMZ3FudF9hbkpNdXhIbmdVR05yQkpFVHdrU1hSSXdsS1pycnhEcUM4blJ0TlU2MjRIeVRwQnlxUTdFQ0k3ZDFOeWtpaFVZRVdnYTlYM19TNXBSVlB5NmR1WXVLSzdLV3hCU0FZU2wtVlR6YkxqbUcya1RETWdwUTJDVFhDZlI3NTBrOWVLR2d4bTBFSUw4Q1VDaWU4VF9SYlJ3ZVRUSkVDVGR3U1UtSGF6cEVydEFBYXN5V3hRMmdIblhCX2lMR0g1UUpYTllkdGdXcWZJUmlya185eQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-01T15:44:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Több napig is eltarthat a kisiklott vasúti kocsik mentése Rákosnál, jelentősen változik a közlekedés",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejFvd1lzc0hhRVhPRGVSMU9lbVR6c2pIVEJQS2hIX0ZPbFhUQmtkdXJhM3hxRHRvYVZxNU92bHhoTkdqalhIQk1KNE1aRFVjcWVxZjkyRVpnXzdjRm5NdEQ4c2dxeWRrVW1FaGFaTG9USjdvaVdqNUlHVG9vUGpROUxwTHk4ZVJnYWd6cmVNSXhweEFfUXpQS2pkZ3FZYkJhZzlzeTByZVFhOWs0NXc?oc=5",
-      "source": "Index.hu",
-      "published": "2026-10-01T15:37:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Itthon: Interaktív térképen mutatja meg a kormány, kik kapták az NKA-támogatásokat",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYlNmakFZOW1UN2VwODFCS3ZoZldubUJON01kOF9fLWNhSW5uSjFlZWJGWkFlUlNObUpLSFZsS1JQdWZqM25JTEFBSHNmQkwzUlpPdVB4SURWQVktZGV6T0ZkelVGUUd3SFp6aFZsX0dHRHNiY1IwRUJheFp0Qm9TWlJPRm5MYlVJcXlEMkhlalkzTWZuRzdyRHdOeV9mOTNVamh5QW9WYzM?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-10-01T15:18:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Canada’s Eastern Corridor High-Speed Rail: A Cost Analysis using Global Data",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObUtBMk04aVRYa0hsVW5QVDJVMEd0Q2R5NnBoa3RDaGx2T19CS1RSWUxoTXRJWWZUOENPYmpVUC1EUWMxZjBwSjVUZy1lRUZIMFQ1eDJ0Z0FmZHg0OHhvdkF3eVh3NWF6NF9NQUdIVG1UNnliR2tGYXZGOUt2MzUybmhhY1BlVEdkcGlEOXlTSU5TQlc2UUk3ZE5FQXJsSk9xU1IwOTJvUG4wTVloUENxcklJWlQ5Xy1ycDVXbGFCaUF3dlVjcFdhcHdhQUVuV3FacFhya1NrRVZZUFpJU0t5WUIzdWROLVRKR2dVN3dzSTJrRk5kSkdORlB2cVNuZ2NEempTVmhOZnZCWXctLVhUTGZaaEQ1T3E1RXlWb1JhRXBlT0oydGxWNEJVVFo?oc=5",
-      "source": "pbo-dpb.ca",
-      "published": "2026-10-01T15:17:45+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Alto high-speed rail project could cost more than originally thought: budget watchdog",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWsyQW1ORDlxX3NzcFZNNGx0aW9qMWNncXFtTEhMT3d1WXlwNGlwZjFnUVI1cmprQ2k0NU9LVklvNnZzaEJZRk5JRVNZTzVoRWlkaTVQSUdyNmstSms3aHZBNlBWbl9qSEswb1ZKQndtOEF1Sms3U2lFQmtlRHQ1LTh5bV9rT3di?oc=5",
-      "source": "CBC",
-      "published": "2026-10-01T15:16:08+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "NKA: Nyilvánosságra hozza a kormány, kik kaptak támogatást az alaptól az elmúlt öt évben",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDZFWGRwbnNmc0ppbnd6b2FWMlVPQ3JNcFJSVWJjQzZPYWdwcnltRXJ5SDh3UWFzckhMN0FBZmhWX1YzM3dpUzhCZEg1VG1FR3o4TjZENHB6R2lyNjlzV1JLdHI5allWdXdLYVBCVmlZQ0tnWU9xa0VpblVZMktXUHFaOExiOGt1cXRtSl9MYVpRaGYyOWpXb0pNVWVvbmtvVDZKZ05kelVPWGxNdWNNbWRVV0VTNkVz?oc=5",
-      "source": "telex.hu",
-      "published": "2026-10-01T14:59:46+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "G7: Egyelőre maradnak a Fidesz-kormány szent tehenei, de meddig fenntarthatók?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTFPTjdRV2JNSTYxaGlVaUpWRnIxdVJLUk1NTllnbmlEVVZ2SUQ3M21TdG53UDRHUzdMWVMtTTk5U1owZTR4a1VkUkVTdXp4T0ZTTHNVOGlGTTNvTmtYenlyZllWSzlnSlFoa2x6eV83dmZvMlBKTm9RMGN3V2ZST2lMQ3JaYjBST0lBTlAtM19kM3RyUzB5aHlhdW8tbmszZ29mNXF0bGExMjVNdHFUZ2htQQ?oc=5",
-      "source": "Telex",
-      "published": "2026-10-01T14:59:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "120 milliárd forintos támogatást kap Budapest – kiderült, milyen megállapodás született a kormány és főváros közt",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWVd1aWZKTDY1SjdiYXBsRktFUXRJTm5lQl9vYVg4dWwtQWowNFZVU1RGeG5SUkhyaFRyektxZmk2SnRQUTYtNWdJYWJhRy1yU19ZUmVHVmR1ZEU0RGdBbFBtcTFuX2YwRlkwVFAxa0dqSmNWMllTOUVTeDBBUFlyYkxBMklwVkJuZWVQRE5TLTRjX3lVY2EzOUVxUWREZGszNXpocXp3ZTZ0VUZtU01QcndxS3lFWUtVdTJDbVNLZ3daSGtRTkszbzJpUllvOE5La2JKOHZNYTZJdS1NeXFucTF3aGVNVzBDWTZYZGtkR1lNZ9IB9wFBVV95cUxQeVotemx2LXdYVGRFVElXbDVOalhyREFtWkVPUm5rTER3TUg0a05NMGZjSndMOW4wUlRsbjg3SVdCVVljN29qNnlUaE1ZTXFXSnZJQmwxSThERDEwaG1TZGdnem4welZ4M1kzaWtOUXJSSFRMd0hfeDYtSWtVa0hyMUtvX3B1NUhKSkcxR3YycGIxV1dZVjF6a0ozMEtnaG5TSkc0a3dZSGR6WVBIRGRDakFGN292a3g3bWJRSkVmalhaT3phRlQxZnBmdTlneVhtUTZ4QlVwaXlCZUV4cl9vT0pFQ3dfcFItNG5ub2t3em1iY0dRdk1j?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-01T14:50:00+00:00",
       "summary": "",
       "image": null
     }
