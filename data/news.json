@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:15:35.153804+00:00",
+  "updated": "2026-10-05T17:30:47.311746+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -7,6 +7,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjlKSTlWRnBael9iNThURDlfVDc5bU9fTXlOMGs4VzJ3bHVNS2lyalRuOENuY2dMMGwxb1dBeW1tYjZSOFZHUkNvXzdJd01BU1NIb2Y0eHEtTUxTUDRKMkxoLTRKb2pwSkNhS2pxcktJMTRjcTNjN0tXdWV6NWpkR0sxTzJ6LUx1Y3hvYVNSdDZCa29zaWRLMGNwQUU5QWlWOExBY2o0UTltQ2hrZTlpOE0zeFBEZnlD?oc=5",
       "source": "Euronews.com",
       "published": "2026-10-05T16:15:39+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "NB III: Újpest FC II-Szolnoki MÁV FC 2-2",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96SDhXbWlteUtJQWFxYjZyS1V5RGw4TU0xNS1rMDA5d052X2UtYUU2VjVadHdmMTBWdXZubTQ3eHVnOFhndExiMkpIYXFnb0VoVHp0MURIQkdvbjcxTTJzZnktN0RadlpZWndLN21rYmNJSG1zRnZn?oc=5",
+      "source": "ujpestfc.hu",
+      "published": "2026-10-05T16:05:33+00:00",
       "summary": "",
       "image": null
     },
@@ -182,6 +191,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Egységes, várostérségi rendszerben működik tovább a fővárosi és az elővárosi közösségi közlekedés. A Fővárosi Közfejlesztések Tanácsa már az első ülésén megoldási javaslatot adott a fővárosi személyszállítási közszolgáltatások egységesítésére. Mivel ",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUEFwbWtGbm95d3hFTnRTOERycEFYd0FnWWNMaUttU3FyNkRmdmlXOV9WX2E1RmJWMXhieEd1RUZ6THk5cmE5Q1E2TEU2OVA2MFpHTFZLYk85ZUl3YS1HaUJxZWF4ZC1OSF9CT3EtMzVaMTNDNVJXc3BaV1diQl9jVUliVWoxZ0tCRk95MXJ6Yl9FWU82OXFMQW0wQXZuSzV1V2JkWlpsTC1DVVdfLVgyM2x5NF9aNHZScGNsVTVZRmNEbHUydHEya0VycmU3WU5qYjJWY2VWVzRnZ0hoa0JFNEIxMXJmYkxwRlN6YnBRZFRYR2lNTnp1emVEUUVPQlZWVGhQYUVENlFXVTk4WVlGVjItZTBPN3BHN0xQX3N2ZklCUnhRcTlGYm5lRWtZVG9VRTkyS293?oc=5",
+      "source": "facebook.com",
+      "published": "2026-10-05T12:07:39+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "Ez kínos, kiszivárgott egy belsős levél: így dolgoznak valójában a Tisza-kormány csúcsminisztériumában",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVV0bVhQT2dncW85V2t0TVVRSjlxMENjMXZmRDBrdWpBZFdnVVI0ajYyODJyMzluUUM5UlBLRkFlaHZWLUVTTmd3ZHlBOGdBcllsMGZjYy03SWRZNVZYVE50SGpiN3JqcWlmdVUweklFdVZ0SVpmZ1dyb3RZS2thd3hSTVd5dHRmck5jalJVWQ?oc=5",
@@ -196,6 +214,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkQ3ZWNENVdfX0tjZENIVTUyN0RKR3ZYQVJqNnJ1SjdpSTFyd0g1V1FhdVN2cnR2VTg1VC1GQmlRMzMycFFGQ0UtLUROU0RpNkJLZUl3QUVIR2ZRVzc0S1NYUUNFMTdlVE5xREJZbTRCZUZMNkVZY21QOENZN1p5VVNsQ01VSkpHUDh2V3lsSFhOMmxFbXRXMlItWHpvU3dvUmU4?oc=5",
       "source": "KaposPont",
       "published": "2026-10-05T11:46:16+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Továbbra is a MÁV üzemelteti a szegedi buszhálózatot, új közbeszerzést írnak ki",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVBFYjMzWjhya1NPMWxoSE9OSENvSWxEdGhxY25OT1V0LWc3dXh1VHJmWDN5ZGd4VGd3WUVKRV9xZ241eHVRQmpZdHhITDdrNi1kXy1QZzFlVjlhTlJVdEJhNHNrRWxXSWc0QXM1cDZ0UThwRnVIeE12a216bGhmWlRrQ0l3aDBTOS1zRlhJdEJmc1VfMTBhYnBtUlc5dHdlbHZmcUNTZTNWVS12U1pGRlF1cl80ZkVSLUE?oc=5",
+      "source": "Szegedi Nap",
+      "published": "2026-10-05T11:16:04+00:00",
       "summary": "",
       "image": null
     },
@@ -2207,47 +2234,20 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: folytatódnak a büntetőeljárások, új szövetséget kötött Magyar Péter a fővárossal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQVFOWU1CMkdJNEhYNnRnN0ZES0xvN0lSV2VReXFSNUQwRTdJN0thSnR0YUY2UWJZdllCbmluRWRXLW1zdldqVWFwS3ZhMUJiNlFLLTZsWmEySHFDSkx1V0hzQ29zRXRmOE1Tb0x1a2pCSjVwWGlHcGxLWUtJZlVKcG5Pb1NmZHhMQkFFdGF3ank1RUg4SVZRd05NSXhBUlBCaEdGY3VtWHN5YlVFWnE2T2Z3RmpJVG91cW00Z3dKRjlackpzcTAwcjduRFNzNFRnU0VRWm5rUkNqQk3SAeABQVVfeXFMT1oyZ0ppTGlYZS1mUXNEUm01NE5BaV9iakphQk1DSDFRaVJGWER5YXZjNGRBQkJkS1JvdVBjZHNpWEJuejQzOVppY01UaEdYb3dLOG1PckFzVS14WWJEcEEycDFreTY1R0JhYWtIN1ZNdm40a0tFMnRVQmpnVkMta0h0MEhac2Z4MEhUc2ZscVpNR0dOUTdZQkJrT2pJOENJUThXOFZmZ3Z0OThRdkd3QzRVY0NpRTZDZDVfaEU3U05tM0l0cGM1LW50ZHZiTnA0bTlvNWEtNUV6Z2Noa1VhTnM?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-02T07:08:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Kötelező a taxisoknak a BKK új applikációja – az érintettek tiltakoznak",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9Od29tYlhwbXpyZnNxOGFTcC1oS3BoRzA0N183NURzUGpRWTQxbFFXRFQ1czhDYWdRTDRQR0RoM1IxNlc0b0Rfb0llZ0lzTmRObTdjLWhzcEVyaDBVSUpRVnd2YXFMSU1fdVdxQjNCa3ZyODNLYmNESkg5M093S0l6QXVEZHJoa0tsdmJsLURma1QwR1lnZGgzMEFadHc?oc=5",
       "source": "Józsefváros Újság",
       "published": "2026-10-02T07:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Ukrajna tett egy gesztust a magyarok felé",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXlqQ3RFemRWRWRERU5PWWZCOURRbzh1SHIwdHdSSHh1TjMxVnV0RkxYd0F2aGhEVmg3ZGZ1Mm1paWJZQzlmTnlOYXVpNmVReDBySVN4MktqNDQ5RGs5Sk4xRGkzX2pZNUZ3VVlIWVVEQWV4cEdiRVpYaWVobFRuMmhqUjZfZU9S?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-10-02T06:59:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Érződik a háború: gyenge az orosz növekedés",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnpRbmtYUF9RaDNkYjZRYWVvaExOV1pzSXJ1THZrVUJTbjdVenpiNE9jS25pc3lqMWVic29MYUlGQUxtRGlYVU5RdUpiS3cycGdtbHBybV81SjBuOFMtbnRPMDhuWkt3NGZDaU5abE9nSVJQQ29FRVpjUDJsNk9WMTBXWWtfVnM2cU9iYk1LNXNaYTRtY21aMG1XX2nSAZwBQVVfeXFMTjZ6UW5rWFBfUWgzZGI2UWFlb2hMTldac0lydUx2a1VCU243VXp6YjRPY0tuaXN5ajFlYnNvTGFJRkFMbURpWFVOUXVKYkt3MnBnbWxwcm1fNUowbjhTLW50TzA4blpLdzRmQ2lOWmxPZ0lSUENvRUVaY1AybDZPVjEwV1lrX1ZzNnFPYmJNSzVzWmE0bWNtWjBtV19p?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-02T06:50:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Külpolitika - Oroszország minél előbb szeretne véget vetni tárgyalásos úton az ukrajnai konfliktusnak",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWxYN25wY3d6eFJIWWRSa2R3Y2ctcVlvMTBZRE93Tk9LX2VvMWFlQlRJN1FselBfNndIelRTOVMwaGxvMUwtR3otMHpPN2tHQS1CZnFUZEY2ak45T0ZpMlF5Vnpvd1c3Z1p0VHp5SERsR3p1NTRlTURZWWNfYkxGalFKN1dwUTZqMG8yN1AzUkRQdHVjYTVvSTU3NTZrRi1zLUpHRzJsT2c3V1BMVnZ1YVl4bUpielI4WllGTFhB?oc=5",
-      "source": "Hét Nap",
-      "published": "2026-10-02T06:49:20+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "5G-s hálózat kiépítését rendelték el... a Holdon",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmdpUll1ZF9vVDM3NmpZcGNjaXFEMWZfQWJiU0JMeEtPSkludmZMRUtSR2R0V3VxSEhHVWI5N3M5RDZINXprcmdJMDlXdDVEeTlxTnVHaEw1TXYxQm11ZUplRGU5QlpnVXZWUmZ4OTY5YVBRTnpfNEd3X0REWUhGbTNUQ3A2TXNVX1Y1SlE1VXk?oc=5",
-      "source": "PCWPlus.hu",
-      "published": "2026-10-02T06:41:09+00:00",
       "summary": "",
       "image": null
     }
