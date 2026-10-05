@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:01:00.638829+00:00",
+  "updated": "2026-10-05T15:15:32.919334+00:00",
   "articles": [
     {
       "category": "Külpolitika",
@@ -29,11 +29,29 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: véget ért Szijjártó meghallgatása, a fideszesek egy része is elégedett az elszámoltatással",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0xMMG1EVzVVUVEyMGxfREtBQWNFbjNQT2tlY2g5UTl5ZWZLUWhkUmkxdkZKM2Jpa2ZfZmhtSUtrN3BncmtVYjVaWlpIS1d3TFMxREJLWkVKdzcwaHBjV2loTDRxUEkzVW1qbGhHcnJUUUdpcjB6WVB1dVROZlFlV0I5dU9yWFR3a3g3UnFWRHFMcmYyZHYwYTFway1LWUNEbDJJYURUejRfMS1MNWQ2TjQ5S0Rva2NKOUstRko1V0pYX190cEozd0hseS03dlhZOThGNW9lbnJHTWRhN0hfVmcwYWtwVzVI0gHuAUFVX3lxTFBYSVhqa3Y0OUk5U1RISTVnVTlHZTRWdGtuN2JLU3JTMnpnX0pDcXFiSUc0bERWNUJxR1RkU2UzSWRkTUZXOF8tTk56bHZOYjhrYlhSbFI3c0NOV1lwTzVnZE91cmU1QVRWbHVjME1JZDkydWRMUERwMXFacjdicENvMjhTQ2VzNHBYaEl3ZnJ4WUpmeWV3RlVnZkhlYm15cW56ODJLLW91am5XZE91elVLdmowOU1wSzd6RU16RlZhWDdLZzljeHhGbmdvZm9yNmFQOC1IV1dqdjc0cFpka1FyemtYRTdmaHgtcWo4MEE?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-05T14:31:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "Governments of Canada, Alberta set to work together on high-speed rail",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnZMQlZTVW96bFVnaGlxU1o2QVFZYnJTQzBGLVk2VDBsOEl4anVsSjh6d1lFcVI4a0FEWllIbm5JbkF6Vl84eU1SREpHUDg4UWQyeG9wejFaNEsyX3F3UFl1WUlXZFY5QkdodmhXU0ctNVh6T05aeHRReHpFVWlHXzcyY0poU3VQa1RpVlhBaFRWX296dzdyM0thb29FT0ZXMXhKNmNRODJvNk5MZVFxVnJFY2VEVFJWY3N0WG1wdG56eW5CU0ZsZzUyUm5Cdw?oc=5",
       "source": "Mass Transit",
       "published": "2026-10-05T13:43:02+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Az állam 50 százalékos tulajdonrészt szerez a BKK-ban, megváltozik a neve is",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeWR0Uk1CdUpoMGw2RWJGWDBGS0ljZHBaMzQ1cVU2SDlwYVR2X3JoR2Ewd3VNT3NzWmJDTmdZdGppUmVSMG9MNUg0eEY5aklLYWRtZVBka3ZCdEZ2WWladlBhRGRtUkNRRFFabHdPRjhRUlR1QmFtaWY3bGIyNG10Nm43eFlUN01NLThvVzJuMWh2YjhIUzdaUzQxM2pGRlhLcEhGVHBmU3lSTlZJNEVhZkRDNnVWeVNZWVJWMFpldFU0RWo1Z2hrddIByAFBVV95cUxPeWR0Uk1CdUpoMGw2RWJGWDBGS0ljZHBaMzQ1cVU2SDlwYVR2X3JoR2Ewd3VNT3NzWmJDTmdZdGppUmVSMG9MNUg0eEY5aklLYWRtZVBka3ZCdEZ2WWladlBhRGRtUkNRRFFabHdPRjhRUlR1QmFtaWY3bGIyNG10Nm43eFlUN01NLThvVzJuMWh2YjhIUzdaUzQxM2pGRlhLcEhGVHBmU3lSTlZJNEVhZkRDNnVWeVNZWVJWMFpldFU0RWo1Z2hrdQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-05T13:40:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTVJ0VzNJazZHRWpMVS1iZ1NyTDR1Q0RBcDJ5UE1nZ1E0aTFDRWNaa0lOV2U3MmNFWV9QR1VoVGlIU0RCUHJMOExIUjhuQ1dQbkZKUkRKM3hBTFJMV1JpLTJOMjVjWXhpQ1NLUWpSRVpONTdJVzhEdGZTMnYwazB4dEs4dUpndzJkeDNmNGw4aE1GNDhTSlRTY1p4Xy1QTVY2RldWaFVMWlB6NVA3Y1VQR3VWUFA5MGpZdlhZdzFNYVpSZXY4OGpxdVF5emJwbVFMSmlRSXgxNGd5QVkyV1Q1NGw2MGlqdDQwM2tqLVhJTzJhdmxSckYtT2x3?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-02T06:05:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Sikeresen dokkolt a Crew Dragon a Nemzetközi Űrállomással",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzdqZ3d1a2IzMURJdUJzSEtwQzhGZUExX1NJME9sX2doMWVVMjRQeXdhajJLblBjc0xRNWNXQVZKU0s0c0ZNdk5seWZjQ09yTmtPWlBQUjZmaGJrQVJHUFJtbmVraFB1WjRuYXR2dWlpYlltcmZxeTA2ZlZ4dDdzR3U3UXJSZw?oc=5",
-      "source": "Ma7",
-      "published": "2026-10-02T06:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: női válogatottunk kapitánya bekerült a Vancouver edzői stábjába",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjhPQW16azNMT2VNMnV3Vkt0WkQ4TnMxaXI0UWdXT0xaMmh1SDZ3Qm1vM2tIQmtMMHBTQlNzZ3djc3Y2ZW9MeFhpcGREMnpwN3Q5bm85N2ZVbko0UnlZclJIS3RuQ0VNVnVlSzltSU9ONmRrSjJUV1FXWVRMYktVdmZfT0kzTmduSnMzbFhmTVhaQ3F0Mk0tOXZRZE1Ua3JIcVJTcE1RUDJ6a09vUkhBUUtrVGxVck5NSWNr?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-10-02T05:48:58+00:00",
       "summary": "",
       "image": null
     }
