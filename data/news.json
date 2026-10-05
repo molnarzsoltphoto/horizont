@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:45:31.832107+00:00",
+  "updated": "2026-10-05T01:00:54.353579+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -664,6 +664,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0pnSGM2Mi1TTHBxbnZDN2lVSGQ0S0p3VlFYYk12WmxRWGxMMFBKRVhnZXd3WXVpZmJSNGpVM3FIRTFnVFE3OHI5dVBKZlVJTUdxeWlUcWQwS1hDdnhMYnpuLU9oZmVlcGQtY0JaWExGOWtBdHIyZ3J1czQ5N3cyN21QSQ?oc=5",
       "source": "Roadster.hu",
       "published": "2026-10-03T06:01:35+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "A GDP növekedése az első kilenc hónapban 9,01% volt, amelyből az ipar és az építőipar közel 50%-kal járult hozzá.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0RhX1Y5SkJmRHhua2dLdFFuOFRkSkVKN0VhdS1EV2xvY19TU1hydzRFM3ZmVWxld0x0MldiZFJHblpQb1BUeFRRWUU2V2Q1c0RVckhuZjdFdzQ2YlBocGE2WDdvSWlMUDZlVzZtRC15bnZJSlAxZXp4QjNXS2xpOTNTdEZUSy0yUjd1b21SakQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-03T05:17:15+00:00",
       "summary": "",
       "image": null
     },
@@ -2090,6 +2099,15 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Utah Mammoth - Chicago Blackhawks vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1d4X3JTOUREQWdJNGVLRUpuS3NZSUlwenpYWEFfNFU0OTVDeXQzMklacEZmYkJiTnJDemYtMzlveDFrRmpidFBQRFg1b0VuU1V6TXFNS3pqdEZReHZSVTNGVHhTcnpGVmM5dGlnY3BWYnJ3UTRjTkNOR2l3VW1fLS1qaGVOUENrOGhNNUVYSUl1ckh0QktfM3Z0andqemFDcXdJSzR4bkVHaW1sRzFVWDNXWGJWemM?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-01T14:41:32+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Halálos karambol az M5-ösön, Lajosmizsénél",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TajdZWnA0RlN6ektEZF9admd4WEY0VzAtcjhqanE4THY3YXdPbXplZGNsUWRqZk9hcENEZ1RoRjBObEVEd0lGQjVWQVZVYks3RzlwVE9jVkRtVHlqTlVDQno0dFNxU25MM2Zn?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVBVQlRtSlJGNS14MUNaYXhJMVFMTm1ibGtSMEk4cnFyN01uUlhtcUNoM1JudHNtLTdjYnBrRlRheGk3S3dXeEtVQXI2b0VXcEF6SkNYX1RZU0NYTXp5eGtCSmhqSllPb2J4OUdsUVZpSWRKUVJwaEY0YlFFMmJIS3ZOaWE0Y2dhNDRjNUtfM2xjTXVicm1mcjBxbUNWQ09CbTdrNkE4c0gxbGZmSHJZQUhfbDhqZldTdGc4Ry1Hc05JUdIBxwFBVV95cUxPNVRCWjhNeEpESmQ1aEkyUkxXd0F2c1ZEZUNqU3c5MVJjZWRHZ0VxSlBEeUpXbDRRSDFpd2tBNWgyMTRIdS1yUGloOVpEbjF5NGp2UkJyaENESFRiX1gtME50WHdqc1d3RHJudXR5UnlaVDVlS0N2dVRGMGNaUG1QUFpMMEFTQTYyaG9DSnJWZHYxaV84blBvMEdYMHNJaU5rQjRWdzU2TlNLTkpBTjY4WWk4SEdONFhOdWJYSlRYWVZLVU4yb1BF?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-01T13:33:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA-tól a barlangi búvárokig: amikor az összefogás életeket mentett",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5QanMtc3N6d1VHSkJza2RtekNidExjRHdKVVBlS3VVTFV4aTVvRFQ1ckJzTE96SzI5UFVJX2RwaVBicEpkUDg0WERoUHFsSlhuQjB3WmlJNEo4MGhpYUVoV1c3QzJXUXg2NFFxYmhhM1lvRUZXVlU4cjZuLVF4Y05oMEozRkIzZ3ZBV2lFckFldjlwdWVvQ1VGUlZ0a0xRVXk1RGswYWNMYmxKQ1VZNHp3?oc=5",
-      "source": "DigitalHungary -",
-      "published": "2026-10-01T13:28:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Poland’s Journey towards High-Speed Rail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PNlpDS1JyRFNLcnhhM2p2bVBjMFgtTzBRMUJlM2p3SG9FYXh1Y2hBVFBpOVJISnlnQnhoRzZpN0dYelBHUkVPankxdlFnd3NfSHFrd1k4ZGtYdnlraWU4dXZnU0cyc1lkZGdBWWVmUUNYbnNJUGloRjln?oc=5",
-      "source": "Railway PRO",
-      "published": "2026-10-01T13:26:08+00:00",
       "summary": "",
       "image": null
     }
