@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:30:50.794602+00:00",
+  "updated": "2026-10-05T21:45:36.589753+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSktNNm8tR2VNcHVDTFBCQjlnR1lmRGNKN2hFNnNlcjU0R0h6bjBZUnZoSkJTNEdFRjZNd1JuYUFqTFpDVjBwTjEzeko1TjU5bDd0RThEbWxMMXZ2Szh5OFdoYXoxS2U2LVhxUXZfaXhYT3ljLTltVkJ3dUljZWtzNjhpZVllSkdnOTdtQ3RjdmhSWWxTLTFPcFVMMUxjaUtMRlFXWnV4azl2RFlDUDFOS21yRWlTdzFyblE?oc=5",
       "source": "Economx.hu",
       "published": "2026-10-05T19:43:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: véget ért Szijjártó meghallgatása, megvan az új foglalkoztatáspolitikáért felelős államtitkár",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX1U3TWhBQnJGRU04RTRfX1R6Zjd4ZE5sZHA1SnJnWWJIR21LbzNrQWVBbFlualMtaVBVRUg0bkc4ZXNZeWVaUEVkaTdhTWdjYTFrV0RMOWxDVXpaYUZEeHlZNkZpNXR4RWxJM2NVcnVpSGhfdjYxdnFqQTRBQUNyaVc3LUFnc0FYYW85ekE3VmJBaGVGUjZMamNNWUp2alpHajJlcFZEeWE2THBBR3ZsRDZPNUxKRGtfNFRib0MyXzlnMENKWmJpQ25jalJRTlc5T0pqTFlIYldYbnhwWkNOUURsSXB0aWNyLVBKadIB8gFBVV95cUxOb2xwN19UeUZRQ09sVXZGWWt1bGZQZDRmaEhXNS03SHVtWlREcDFiYVJCdUdNVzNPdWlHcHZOMUZpSk9fSFdNZE9CbkRIbDc2VnliRlNVQ0s4YjlQWGtNMGJNUGVNNGVjcHFSNWNUamxiRWZJNXJkNERqWURDNWNBMXdxNGlWSVNCMDM5NGhMX0ZyY2hGQzE4TW1IOUhhNllvclMwdzN0LXAxcEVDM1NwbkhXYmE0RjJnWS1yLURtRVV6SzhvT1d4N1dsRlRFVzF2Y0NYOXVKYkZ0aWFab1hGUXRScVI3Sk1NMkRMOE5NVkZ5dw?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-05T19:19:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2237,15 +2246,6 @@
       "category": "Belpolitika",
       "title": "Tisza-kormány: folytatódnak a büntetőeljárások, felbukkant Nagy Márton",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMV9zM0Fvek9MM2VzSTZ4NGhGRlFxaXdMSUtBQmxIZFZfQlZ4QWc1WEtMajgxQzRuZUtHekRrMXV5YngxTElIcjEtRlJEVzk1SlBiMVFJR29xRGdfYkJvR2hTQzE3bTl5d1JKR3dIdWtCODZmZnhZOGRTSTJVdXgyRlkxU3RwRm10UDc4QkdCNWNScWJndFpFQy1fd1QtSWE5QTlzMnJIeUFwek1VcGtzcHNaU3pPUWdyeWfSAb8BQVVfeXFMTV9IOXF2Q2Ixd0tlVG0zc0xxVDFkd012alBtRVpFN1NPQV8wTGtDMjlTTF9DbmkzMm9FazdycWEtc0IyejlXa0Q1QjYyLW41b3dHaWpBM1ROS3luN2sxSnVEYlBVUUdpTW1RVnF2ZFBhSG1zZ2JmWDFqOTk3TWlzY2s1NFpwQ2RLU05GQ1ZSNjhPMklJaFQzbW14cW4wYTRLaGZ6MzlEUEtuT1p3dmcxOXBOdkNWcjBrREYwNlAxTWs?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-02T09:14:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Több mint megduplázná a kutatási forrásokat a kormány, elkészült az új magyar stratégia",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMmRPLWE1aTBSQlI2QWdUOFZyLVhFYTFNSlpuTkczdV81R1BuSldGNkF4MmdGaThsUjhWeTNTd2N6WlpQZEZRMjNFTFE4bkFsU2VuTlhURDFHRmVvV2hydUVJRmFVVXd1Y0ZWalAwdTRnSUN0YzdWaDJObkczZWgtNWdFVzN0WlY0aXFwbms4OEJMVDBTMFMyMDdBWlhucjNuUEdvZHVaQmJDNVdSV0wwck9OaVhVaEpvRTBVQmJTVF9VQmczQ01ZQkV1UEIzZzFqLW45VUcyNNIB1wFBVV95cUxPMmRPLWE1aTBSQlI2QWdUOFZyLVhFYTFNSlpuTkczdV81R1BuSldGNkF4MmdGaThsUjhWeTNTd2N6WlpQZEZRMjNFTFE4bkFsU2VuTlhURDFHRmVvV2hydUVJRmFVVXd1Y0ZWalAwdTRnSUN0YzdWaDJObkczZWgtNWdFVzN0WlY0aXFwbms4OEJMVDBTMFMyMDdBWlhucjNuUEdvZHVaQmJDNVdSV0wwck9OaVhVaEpvRTBVQmJTVF9VQmczQ01ZQkV1UEIzZzFqLW45VUcyNA?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-02T09:14:00+00:00",
       "summary": "",
