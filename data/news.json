@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T18:45:37.132904+00:00",
+  "updated": "2026-10-05T19:04:30.910168+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Váratlan fordulat a szomszédos országban: tapasztalt diplomatára bízták a válságba süllyedt kormány irányítását",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZTRwbXI2SHBadUZuY3U5ajlCVTh3UWpBSUhDU2NZUmUwczhnQXZ0cS1xeTZueFZjcWx6NzFtWm9MRzA4aUVLcnFzWHRmbHFTVEtkZENDY1dxeUJrMzlJYVRjU3JiMFlRSDB6WndwNlJsZU9mamFIdXVhUWZGXzR6WG1ENUVQdXIzOWM1bW56Nm9rYkZ6N0J5NWFwUHphT1dOQ21janRmQ01DWklqTXFmZEVTQkNacFNhTTJRNnRGT0pIS19MQklScUhFVnVaLVo5LU9hQ1g5OVJSQ1kzOFEtaTlnMDdHSjlNUzFia0pYeHhfSDVl0gH0AUFVX3lxTE9lNHBtcjZIcFp1Rm5jdTlqOUJVOHdRakFJSENTY1lSZTBzOGdBdnRxLXF5Nm54VmNxbHo3MW1ab0xHMDhpRUtycXNYdGZscVNUS2RkQ0NjV3F5QmszOUlhVGNTcmIwWVFIMHpad3A2UmxlT2ZqYUh1dWFRZkZfNHpYbUQ1RVB1cjM5YzVtbno2b2tiRno3Qnk1YXBQemFPV05DbWNqdGZDTUNaSWpNcWZkRVNCQ1pwU2FNMlE2dEZPSkhLX0xCSVJxSEVWdVotWjktT2FDWDk5UlJDWTM4US1pOWcwN0dKOU1TMWJrSlh4eF9INWU?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-05T18:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Amikor a növekedés nem elég: lakhatás és infláció, Sánchez nagy választási kihívásai",
@@ -34,6 +43,15 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlpkcTZwYjMzQ1UyMDU1RjNvZFFfVDdJaUtJT3BaaVdBaTFiaC1SVHV2WkxHM2t5Q05XSjBUaDlQaWRHbzR3NFM3QXhYaWRBUEdzOTZNR1Q5QjZtazRjZ1Y3S2FHY1VsbVBUNlJVODNEeVJhX2FsSUYxc1JYMUpBWnJOWmtQanZHa1VtV29ORC00aGItMVJ2MkZ4ZlA2LXhrbHl0U3dPZDJVMG9i?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-05T15:31:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Titokzatos nyílást találhattak a Holdon – alapos vizsgálatokat kezdeményez a NASA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHZUX3BvXzkxMWQ1Wmt5TXRkdEd1dzRSclhNVXRiUjhlQW44OWVPdXZ3VnJKUWVRNWY3MEktVW9DREVPYWlOeXByNV92d3BxSFA5ZWk1dEU5MDNGMkQ4cGEwajZKMDBXSEV2YlFMSmdiTWZMbHdDeWQzdDB4SzhNTlZSMk9ndHY5eTRyRHY1cWRCc2tV?oc=5",
+      "source": "ORIGO",
+      "published": "2026-10-05T15:30:00+00:00",
       "summary": "",
       "image": null
     },
@@ -484,6 +502,15 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3lOaUtWMFI4OFZWUEpZZWU2TGdGTjlBa09iTUZuOG40MWZmS1p4Y3NNYUFrLUZaazBPaXkwR25sY1plb0FETXpuUWdpcVZubmY1WVRoel94Z3lJTzdqWThDTzRSMW5tRTg1UjNUd2RiWXRkSXJGWjJwSlJJVzFQWXJwMEhiZFpWUjBhSDU3cWoxaWxYSk9hZ2xlQnBodG1XV1BlUVhwQ2ZJc3BnNDJVeGZB?oc=5",
       "source": "eurosport.hu",
       "published": "2026-10-04T22:43:44+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "MÁVINFORM: terelés / korlátozás – 2026. október 5.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RBWF84Yzc1UXlPOVgzOHJ5N1kxb05hb2QtZWloSS1iOU9HMzFkXzRJZVluT1l4aVFHY1luZjFlVWxaT1NmV0hCbzZEN201Y3NLTnUzTFh5MFVwcFlTSGRvLVIyaVB2bGVnZkl6T3lWNGU4V3E0dUlwVjlJZ0lkVlp1MUY1ZjVnazlweWV0RHd6ZnBSQUV6aXZzQVEtUQ?oc=5",
+      "source": "globalhir.hu",
+      "published": "2026-10-04T22:03:06+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMy12a1hQbmZpM2N2Ty1nR1BvWUdRNENkRHBPSXBVT1RRVXA0dHRnUF9kU0ptVDBtRGdhRzUwQ2VCa3pFRWtoM0tWeGp1Wk5TZGNDS0ZKTnlDUWpUZm04Qjc2b3RhbjRPYUhJQ2lRQVBJX3JWRHZkcHhhSWx3S3hTd1h6cm9vQXREUHNLcWRDQkk2ZDdTV05Kd1FDY1gxd3B5a3g3VHBLRVg0dTZJMlVQNklvNlNHeVpiQ0lTam1FMlFLdzA?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-02T07:31:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Elvetették a kormány elleni bizalmatlansági indítványt a cseh parlamentben",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjFSY2VfbXF3TWlCTVhYT1NHVVloM1RSNnpGaGQ5Qmg5QmpzQ2dFVl8yaDlYNV8xOGh2NW1IYXE1ZXJjRENCV0RrQ2tISG1aeVJmQVdBejUxd2xsaXdlVnVLTlZHTGRuZml6YnU4Yi1YSm1mS1BQb3dMRm8tWktsMWNZMDJIMGdwLUY0T1JhX0RDUGRTZU5hZnJOczFnN2xyZmxnT1hEVE1Idw?oc=5",
-      "source": "Felvidék.ma",
-      "published": "2026-10-02T07:22:34+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Visszakapaszkodott az orosz gazdaság",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2Z6VnlXb3RYcmtUNnR3MGJFMGVlU3V5cG05c01Fc1c1a1hfVGlGUjdLdXNFSXN2NEFHYmtQWEY1c09wWDdReUtBWkx1czFENWRaT3RLV1JDTU5yNHVXcUFOYVY3cC0zVG1wU0ZPR2lybnNOQkVyek41Tm5USE9nRVc2M3JPb0sw?oc=5",
-      "source": "Piac&Profit",
-      "published": "2026-10-02T07:19:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "A Mol nem érti az Európai Bizottság döntését",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlp1LW1TeVVocmszUGdISk5aQjdvb3RNZzVGQl9LSHRmTHhPM2U2SWxfeHpPUjJQX25SNmRFUkJwc0YwcWFFZTRUbXhiYkM4MnJCdFdBejNFSUl6TlhscW52S2dHaFNMWFdvdjRaY1NlR0dDaDZMZVlPTDZBRGFmaHI3cTltVDVkQ3g0MQ?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-10-02T07:19:00+00:00",
       "summary": "",
       "image": null
     }
