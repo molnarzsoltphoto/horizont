@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T06:45:34.033405+00:00",
+  "updated": "2026-10-05T07:01:32.641477+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Erősen indul a hét a MÁV-nál – kisiklott egy mozdony a Déliben",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmNyVE5SS1RScHJQMFhjeGtoUm1KbFd6TmdBUzdKQVNJTWxOXzlHZzBQZEhtOXc2cXE4TmZWMmloRVV3VkJYNGE5ZTRuNEdLV194MFQ2WTlrcndWNGZWLW1Md0pVVF9MT2NEalRWSkp2UkdtS0lHV3hBN19rdE0wVjF6cHBSOWxJeUdqSm1rLWJMLVFYWlZiSDRGalBfUUFT?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-05T06:42:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Megint a kijevi hidakat támadják az oroszok",
@@ -232,6 +241,15 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdG14d3l5QWJSRHMzYVBDelNFR1c5d0JUNXFUbjJaM2RzYjFOV21wd0FQWGhIaHZOOTFFMTdqaFI0S0QyX2pCdVQyNDU1bzk1aEFwLW52MXNFX3U1X0ktWHptMVMxX1FNLTV4TVNIdXRDMjlCVkk0SjE2cFpDZHhQeGFta29QR2E0aDJsaXRxMWJuX1E?oc=5",
       "source": "index.hu",
       "published": "2026-10-04T13:41:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Pinguins Bremerhaven - Löwen Frankfurt Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE5RdTY1QllETnJzdVJJN25ZX2RUQlZGZXo4V2R1UTZSSmVubkZjU1RSR3ZVM0JDX2dGdzBfdGlPTHV0eUtDR3BkM0J6eDZCWlQxbVZLTGFvbmJKMV9LX281WVRFNDh2XzdNcFpwa09iblVqRkxoQXVXVGI4YlI3MTA3LXJrUzhoVldSdmNJazBnT3djdkpqYWVBOF91QktlYUwzVmFJdnpyLU4tZW5jLVVRajhBdVFmWUtWRQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T13:27:18+00:00",
       "summary": "",
       "image": null
     },
@@ -561,6 +579,24 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Nashville Predators - Dallas Stars Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSEdJUVV4RFRvVEZRVlNTYjZOOFo3X0RMcDdZaWpBTklrTXpwNXRjaG5kRjU1WFVLeWZJamE0YVZOWldQOWRaRkhNR0lOaEo4aXVrWE56X3ZEWWVDeFFrSU4zLUtXcHJBUzJXeXloRGE1ODJoV2tua0RjNkh0M1V0TkRyaGs4YmxjdkVIZG1PcGt6bEpuMHB0MTJDVG9JX2sxMk0zYkJTX0JMdXpqSzBiR3R6YlYzUQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T03:09:20+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Pinguins Bremerhaven - Löwen Frankfurt Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3diaDI1cy1zN2ZfYXIyenFCYWlGVzB2TTZUc3M1cVNzWmlURV9yVGE0QjNPQjVFelFjMlgwYUxBVHFqclZfd08wTmM3dHJHWWJUU25fQXVMTlJMVDRQWFJKOXFZSHVQVlVLNFRfTWdzRzRnQVNyUHZWczl0Q3VNcUQyQ2JDcldxVGJCc0pFc0dtR2JfVlBYd0c0VDNMVWU4OVJZdmt0RzFrMGVzZGpjUHpIZElObVJyMzZxVzVnZnU2bUl3?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-04T01:12:05+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Iserlohn Roosters - Krefeld Pinguine Statisztika: Jégkorong gólok & Eredmények",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlc1ZU1DdEF0SnVZeF8wRjhad3JVV3E5ZmVWUV8wd1hzN1h4SjJTWGNqUy1uM1lhX25ZTjhFNTN4ekRCYUhHa1hzd0FBTlRXYVh2ZTN0cXdkQTFVWU5DeWRXNVVmal9QZEpyME5RUFB0ZVlqZlNjQV85bTlfMTMxN2lnQUZMUFNKUWwxZUI4ZFVXcW9yRlJmakUzNElxZnR3QkEzVFBDaDZKLWNydmpKbWpYWmlmUjl4MXNNaEtVcG0?oc=5",
       "source": "Eurosport",
@@ -727,6 +763,15 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOWJjZlF3VzljVW5OZFQ3T005ekxTVTdqTzh5a0R3cTBveklRLVN6bGdpTjR6bWd2SVhSVFlRVlQ1ODRhNEpYdWkyVUdQRlotOWNDREtvY044XzU0bzNNV1NpZHNxVk5wcXdPTFQycHVIUTdSUXFkOGNWcnZRQlR6ZWJWN3I3aXd0SHdtc0VwdDlNX2V0UGpiTWh6dFNTamhmVnYwWXBfUWpGQTRlQi0wSXlmbzFPZkVkckNoUzFlN1JNejV1dmQtSW0zc1AydTRZcm9ncWxMRm5tclFi?oc=5",
       "source": "Magyarbusz [Info]",
       "published": "2026-10-03T11:43:58+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "New York Islanders - New Jersey Devils Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSk82MkUzTG4ybnd5Q1NmcWI4d3JUVElBRDdyX2REaFkwbFhlZENVOXFCZi1HWTlrTDlXaUZja1NQcTlGWFBLQ1FmdGR2d05UWW5KeU4zZmRRV01UcThZUjFTendxVjhNUGt4QWFzYUt4bkNQMkw2UFVmem5TY2FuanJHbENXbFNFYzU5b2xLWmFtd0V5ZUt0ZGJuMkp5WmtVRmNtYmlHaGFiWnNGNkpSSllCaURxNzR1Qkx3?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-03T11:40:57+00:00",
       "summary": "",
       "image": null
     },
@@ -1739,6 +1784,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Kötelező a taxisoknak a BKK új applikációja – az érintettek tiltakoznak",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9Od29tYlhwbXpyZnNxOGFTcC1oS3BoRzA0N183NURzUGpRWTQxbFFXRFQ1czhDYWdRTDRQR0RoM1IxNlc0b0Rfb0llZ0lzTmRObTdjLWhzcEVyaDBVSUpRVnd2YXFMSU1fdVdxQjNCa3ZyODNLYmNESkg5M093S0l6QXVEZHJoa0tsdmJsLURma1QwR1lnZGgzMEFadHc?oc=5",
+      "source": "Józsefváros Újság",
+      "published": "2026-10-02T07:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Ukrajna tett egy gesztust a magyarok felé",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXlqQ3RFemRWRWRERU5PWWZCOURRbzh1SHIwdHdSSHh1TjMxVnV0RkxYd0F2aGhEVmg3ZGZ1Mm1paWJZQzlmTnlOYXVpNmVReDBySVN4MktqNDQ5RGs5Sk4xRGkzX2pZNUZ3VVlIWVVEQWV4cEdiRVpYaWVobFRuMmhqUjZfZU9S?oc=5",
@@ -2064,6 +2118,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Nürnberg Ice Tigers - Schwenninger Wild Wings vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMkxkOVhhSTJtdEVpYXlWUTk5NHJyeDZDekRhaEVyYk9zTFM1Z0NqSnR6UEVCNk5zSU1lcWJucGctMDZsaVVXcXY3OE5Cbzk2YXlyaGhCUGJiTDNIUi1EWVZ4dTAtZ0Zncmo5c0RGVE5BeUJEZ19VbWFwdUlxLWNnS1hSWXUwNjk3Yzc2dWxtVWRtNUI1Z3E0QXhac0ZtcVVrNEp6dEtqaFAyMEZrdTBnX0FCWU14R3lZd2xUZ1phRkd3YUJsUmpPV0dVUFNlcm5x?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T02:59:54+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "San Jose Sharks - Florida Panthers vonatkozó mérkőzések: Élő Jégkorong Frissítések",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTZKclkybHZrZExpQnZqX19IS2x4VWVHT3VUTmdWSGgwQlpVYk1idzM3T0VxQmVjaHo0SDh2QWYyNGFtT3JSWXE2dG52WWJ3STdRZEEyY051N2l4UTBwMi1WTUplQ3Q0VnN6dXR0clJQRmU4aXFpREczbWMwRV93Zml4WnJZZnMySnpRY3FaYm0wMEcwcnlkMUlZc3V6RzlMQnZLRmtRQnRTWm9lcVF4aWVkRUFiNmVf?oc=5",
       "source": "Eurosport",
@@ -2095,6 +2158,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkM5eGgwcTdRZEg3LXpNWXhMbGtMYy1KMW52UElXNEJxQk5NaDI0WU1VWmprc1JCR3R0a2dQN1N1Tk9wclRNbHpDblBjSU5XSEd3MTU3Q1RqejNLVklXVTRoOWo1OUtFWFgtdU1UQ1hYZmNySV9RczIyZU5NMy11akY4V2dpaE1zREpLSmhpVXZyc2xOb0VzSTgtenBGYUIxb2l4Ynh0M3RYV053c3J4SQ?oc=5",
       "source": "Eurosport",
       "published": "2026-10-02T02:53:12+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Nürnberg Ice Tigers - Schwenninger Wild Wings Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeVhjcXJtU01iUTR1aGFEblRwek51WWJnSkl5bFYtYzhNbzRwTFZRR0xOMDBmUTY5MmFJR0NONkZMM1RZZm85SDA4cFh3VS1wOFZheGxyWkxqdWtJQ3pXTG1PUlcxaXltVVhmMGVPTkV2Q2V2cVpkRkRiT0ZET1dMS19HYUxLSkk4YUVfUHJxc1A0YnRLZ0xOeFhmS1hBUm96aXNZMGNtc0ItTnFjbEpLQ1RMaVRGS2ExT1JiQjBrWUtyMGdRZjdtb3dfb1FuUQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-02T02:42:22+00:00",
       "summary": "",
       "image": null
     },
@@ -2176,78 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDFwQjZUbm1YQXgyYTlEdHJPNGVTb3E0YVk5dnpuQlRMUnU3amxfRzBTc2FkbXUxOVpnbjhvakJMYUxpV1huMkotRGEwcTJpcFR6UXRzNmp2Ni1HR0RJazVyYmF1YzdUdURDNEpLa09uWEwwb2dGT0t5Y1JaU082dTc4dk5yWnFJNmZVeWJQanBUMDVINkNZVVp0MWh0Y0VRRG9hZ3hOTkxJaktKVmU4RHhYQ0FOTktrajJjZk1IWk5NdVlSa0x6MjdyRjhtSlhXaUZXX2VQTQ?oc=5",
       "source": "Palo Alto Online",
       "published": "2026-10-01T22:57:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Newsom vetoes high-speed rail oversight bill weeks after scathing audit of rail agency",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdjZWc2ZYRnlxclZFb3lVNEtIZjZsSGVkTEdfaWthZWt3TGpIWGFJelpuTEtlQUlObkpLSl9YTXpCVmxuclFaalZQSi03Yl9vdUNxblhmVWl6dTJqY2FpWDYtSFhMRGtZdzFfZmYtUGFVWlo1eDFtbU5XNkVwd0NOTmM5eU5oaXhmU0lQTzZaNlc2QlR3RWxIbk8yZG1VRW1iWjd5NXJjTS1VczlCZ2s0TC0tOGswaXRDcXpDNTR5SXRGcXJBSElJaE82T0FCLW8?oc=5",
-      "source": "rwcpulse.com",
-      "published": "2026-10-01T22:57:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az infláció csökkenése mellett miért hagyja nyitva a Fed az ajtót a kamatemelések előtt?",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlhubERSVnVlaXV1RFVpakRVVVNSS1UweF9JcDJiVFJjQnluZG43SmQzQlZWckV2aDdMM0Z4cGNiX1EybUFzbjc4c2dUcXZLQVBDTVEyVXowa0tqdmNnWkhydmZjdk5VN2tJelViZzV0cnMtOWJJbi1ZNmdRdGtGTFhkZEM3Z001X2VN?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-10-01T22:36:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Féléves küldetésre indult a Crew-13 a Nemzetközi Űrállomásra",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2c3R0w0NEs1R1E2TTJFUlBkeUhZcWZqM05NSlNmcFo1bUx6SVhRWlRCSld1QUh5Z1BvRVlfY0szRUtrWHV3THNIQXhXX1BIUXdXWHVtWGp3QlJ6QzlCLWhzSXFhOG1mNGxyWThQcUdTU0YtaWl5WlVybVA0ekxDa0pFRWk5dzEtQ2lCNFNIOS1IQQ?oc=5",
-      "source": "Időkép",
-      "published": "2026-10-01T20:59:56+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A SpaceX elindította a Crew-13 legénységét a Nemzetközi Űrállomásra",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFNoRU4tQ2FzbDhTQXJNZkV1dGRoZnVPWkpEMm14OFVneGpiMEhKNHRGcFJIYkU2WUc5bDR2VU1hVnhkbFNjRVJKRGhPWG5zQmlOR3Mxc1M2QU16V2JBUjQ4d0dmU1ZqNEUyOThLdnlxYXNESlRreVRTeHhDc1M1dk9aT2xocE9sWXBQbEVlZ0RKLWg5LUJKYQ?oc=5",
-      "source": "androgeek.hu",
-      "published": "2026-10-01T20:11:37+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Éjszakai, zajjal járó munkavégzés októberben – MÁV tájékoztató",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOG1zQWl2LWdPbmtrNjNMY0RuLWxTZnpmdGtaVlVSWVA0UW9IZ1dPbEtOaTRJYWZkQlowNnlGT3NEWVBuY21jZGdTLXdfcnRkR2lKUFlFVEs0aEdQLWhlX3paaW1UUnRIZmtpcWVQUFpwSEtxYVJYeTZ0RE1ncTM3WDhB?oc=5",
-      "source": "Tata Város Önkormányzatának honlapja -",
-      "published": "2026-10-01T19:13:44+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Everett Councilman sees “thornier” questions for BC to Portland high speed rail",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQl9qUFJ4SXA0VC1ELWl5UThyWHB2WnNyb3Y2NWJ2NVprUnJ6ejREVU1ReVN3R3BtbFhhQlVDdk5IZkt2bmlPaTFhU3dRbFZETWpvYkdMdjYzRDA1cTM4dDVpRHBjVE1SUklIdThMMElsaGZQelNicjZrVW9iWDVhVTAxTWRzcEMxZHAzNVhNS2RPdXNYT1RlUnFjN0xmbGUxenB5ZWtsc2ZPR09XSzN2cmlvekFlUWpI?oc=5",
-      "source": "Everett Post",
-      "published": "2026-10-01T19:13:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Edmonton Oilers - Buffalo Sabres Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHRQVTdjS1A4R0VNLWZ2d05yd2pKS19uSlFRNzgxM05pSVZlRndVTkhOX0RueHhXTVBRSEZwMW1XM0w3LTVpcWgtTkFaeEI2WWl6bmFucmVucTFrUWpJZlJWWXd1Qi1yMm85M3RxUEN2eXR5YTNuYlBXd05OSVUySHVWeE1WZkNEbzJleHQ3dWMzNUQ3eWtxRXpzOEJxRnFxazhobElVSXRlclJX?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-01T19:11:35+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A SpaceX elindította a Crew-13 legénységét a Nemzetközi Űrállomásra",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTTJ1X2U3ZnYycVlkWHd6cmJpck5yclhadzZaX0ZwMUtUT3NfMUduMGZZZHlvSmcxN2Ytcjl5aG13RXpCV3dENG9KWjBCa3A0SXdVVVQxSTVQU2lLWFdjVEUyOXh3V1dIdXFKTmU1SXo3N0h1bV84VnRxVGg3UWNWcXFfRzFMRGp6UjY3ampxOGZ6YzRmT0E?oc=5",
-      "source": "androgeek.hu",
-      "published": "2026-10-01T18:20:00+00:00",
       "summary": "",
       "image": null
     }
