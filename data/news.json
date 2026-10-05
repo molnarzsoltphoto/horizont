@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T05:30:48.010655+00:00",
+  "updated": "2026-10-05T05:45:34.340145+00:00",
   "articles": [
+    {
+      "category": "Külpolitika",
+      "title": "Nem akadozik a kőolajszállítás, de attól még nem biztonságos a Hormuzi-szoros",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWZPTXBITjdRVmE2eUFqMkJPX0wyVHpyd1prTjM5VTd6NFhBQ1BYWkRTaW90MkdnZDVUaGZ2Wnp4VjgzNkQwTXBkckItMjFqWVF5TmptTHdTNTFiUEdWMHoyb0w1MXlSX0FsN1ZQUEhUVnZlc19NZG1LelIzQTBadkxOTVlmcDRvc29sTTBHQUtMYUF4M1lYVE45VHN2ektIa01OZ2RETVZxZW1JU0ZGODFUOGdTWE0?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-05T05:40:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "A Bolsonaro név kötelez? Meglepetés a brazil elnökválasztáson",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0t6OTJHT1p3aUNEaHVNdDBIbWRlZjVsVFo4YkV3RnZwb0N5eU1melpwbkkzOXpxMXI1a3VSYk5BUElzY0NrZ0lNdjAtSVJGaTJmWU9ZU3VJNnZmbDBJQzVadFB1dE85VTRlN2x5bnFmNWl6Y0ZtV25RQ2g2WFl4cVpnbHppaTNZV3JEdXp4WnlUNDRQZGxBOGNlb1ZiaENnMjNN?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-05T05:15:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Megszólalnak a magyar gazdaság nagyágyúi és záporoznak a fontos adatok",
@@ -16,6 +34,24 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTJiZUYtXzIyUVQ1aThfc0JQMExna0tKQi1UM21KZzc5NTlUUlZfRXRpSGJuRDJ5UGNneUFWc0x6R2Jna294VTY2VjNsR0ZpWlRJcG5MeWR0TUVuWDkyM3B3ZUdhT3o0YWhuRDloeVJ1Q2R5S19IcjI3eXdRUGRubU1B?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-05T04:44:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Eisbären Berlin - Nürnberg Ice Tigers vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUs4dE5pLVVGc0RsTkhkV1QyUFVhWDIwLU1NV3pQYnZBU0hoRkl3c1BYUmRLMEg1dkhuTkdiYUpnclFLb1dHNWxxUWpaVzJXSW5XQkZIazFhMFdNYS02bk9ERVlJRktlYm5OMi1idjFPVlFMOTFLcUpMWjRtbjJGMFRVN3RON0FsZ3hsWDRZVDJXQzg3RGs3U2l3cllIYkJQQ1RLZEJLX0FhMVdiaGprNFd4VW1fRDhTSWdESG1GbVlKalRJdWM4?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-05T01:11:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Seattle Kraken - Calgary Flames Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVF4LXlkRWc1bkd5ZGxwckpNT1JqWEJkOEhzWjRNNkJDMTB3a3RyVXNLSnBBLVFOZ25NVEtmZzVDNlctWEVsRnZRRkdjNWdSZVh5NEhaWE9YVEg2TVFZbjVJRHppNGs3T2M4cEFYV2NtVFFjS2JTT2drWUJfTHpLTHRXM19UOGV0MlVRRFA5NWU3dTRPUUMta1o2WG03ejZBVEFvWUVxbms2Z2lrM3RDQW5R?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-05T00:45:28+00:00",
       "summary": "",
       "image": null
     },
@@ -2212,42 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWVd1aWZKTDY1SjdiYXBsRktFUXRJTm5lQl9vYVg4dWwtQWowNFZVU1RGeG5SUkhyaFRyektxZmk2SnRQUTYtNWdJYWJhRy1yU19ZUmVHVmR1ZEU0RGdBbFBtcTFuX2YwRlkwVFAxa0dqSmNWMllTOUVTeDBBUFlyYkxBMklwVkJuZWVQRE5TLTRjX3lVY2EzOUVxUWREZGszNXpocXp3ZTZ0VUZtU01QcndxS3lFWUtVdTJDbVNLZ3daSGtRTkszbzJpUllvOE5La2JKOHZNYTZJdS1NeXFucTF3aGVNVzBDWTZYZGtkR1lNZ9IB9wFBVV95cUxQeVotemx2LXdYVGRFVElXbDVOalhyREFtWkVPUm5rTER3TUg0a05NMGZjSndMOW4wUlRsbjg3SVdCVVljN29qNnlUaE1ZTXFXSnZJQmwxSThERDEwaG1TZGdnem4welZ4M1kzaWtOUXJSSFRMd0hfeDYtSWtVa0hyMUtvX3B1NUhKSkcxR3YycGIxV1dZVjF6a0ozMEtnaG5TSkc0a3dZSGR6WVBIRGRDakFGN292a3g3bWJRSkVmalhaT3phRlQxZnBmdTlneVhtUTZ4QlVwaXlCZUV4cl9vT0pFQ3dfcFItNG5ub2t3em1iY0dRdk1j?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-01T14:50:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Egyszeri, 120 milliárdos támogatás az államtól a fővárosnak, regionális BKK, parkolási bevételek átcsatornázása: ezekről döntött az FKT",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQall1MnpkdVFsMTR6RGNGQU9SRFJ3SmVvOFBqZzNzNGtOeG5EZzNUY2czOFV3QWlJX3BCdWwxNkdjYVVodGxYaG1HX3gtRkEzZmNqYkFvV3pmR1RyOC1sUW9Pb2NSVE45bTRDem10dTFyVzdhUThyRXh1N1NUNXp1aGZNa2Y2dEFtbmpwV3R3SERwTGZTSW44WVYxcUZqb0pWVFJNUXVvaUEtQnZHdURJMXpQb3JiR1IxbmJ3RDh5LS1PdDNBVUJLLXR3UTAtTVJNNG9QTU1Lc0FBTzEyN1NqcWRCTHpUVzNOMnA1dzNB?oc=5",
-      "source": "444",
-      "published": "2026-10-01T14:48:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "California governor signs bill giving CHSRA encroachment permit power",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeFd6cXBxbzI3ZXRDVW44Q3hqX0hOT0VWZDVaTlpoQm9BR2l5MlFudmdNMUE3cHhfaFgzQmtFLVFSeEhyRlFoMV8yQmxEVkhILVl3S29BZlhfRDMzdXRxOWo4WDR1bVNtc2Y4Skg0NVZUem1td19jcFEwSTVuN294N2w1aElSNzhveEJ3UnppbC1aRkpUaVpTMWhOczhaZXhYV2pMQkxvLS13N2VBcFpwSktaM2tyQ2puRU4tRjVjV1c2ZnVneU9FMGRKb2dTcDRCdE14enNfUlRtWWtNTWNoT0JPMnFaRnRwZ1J2VDFiX1hpQ1lNemh5azJESQ?oc=5",
-      "source": "Mass Transit",
-      "published": "2026-10-01T14:44:38+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Utah Mammoth - Chicago Blackhawks vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1d4X3JTOUREQWdJNGVLRUpuS3NZSUlwenpYWEFfNFU0OTVDeXQzMklacEZmYkJiTnJDemYtMzlveDFrRmpidFBQRFg1b0VuU1V6TXFNS3pqdEZReHZSVTNGVHhTcnpGVmM5dGlnY3BWYnJ3UTRjTkNOR2l3VW1fLS1qaGVOUENrOGhNNUVYSUl1ckh0QktfM3Z0andqemFDcXdJSzR4bkVHaW1sRzFVWDNXWGJWemM?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-01T14:41:32+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Konkrét lépések a főváros működésének kiszámítható finanszírozásáért",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEhfbHpmRUdNbFZJdWsxVWZoaHRzdGhXbU9va2ZzbVRENmUtN19oSU92a1F1ZlpJYVprbG9nQU5jcUZhUkFZQlBzZmtIQ3oxemh5R0Q1MXRIYUlpVUc3bWx1Wk9ZdG9nYVhRcmFFZXpxRlV4WDZYNlMxVGdRRHhEcHdMa3FpX19TUjczUWJVZGhDUGE1anJtVw?oc=5",
-      "source": "Magyarország Kormánya",
-      "published": "2026-10-01T14:36:54+00:00",
       "summary": "",
       "image": null
     }
