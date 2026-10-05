@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:30:47.311746+00:00",
+  "updated": "2026-10-05T17:45:33.856390+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96SDhXbWlteUtJQWFxYjZyS1V5RGw4TU0xNS1rMDA5d052X2UtYUU2VjVadHdmMTBWdXZubTQ3eHVnOFhndExiMkpIYXFnb0VoVHp0MURIQkdvbjcxTTJzZnktN0RadlpZWndLN21rYmNJSG1zRnZn?oc=5",
       "source": "ujpestfc.hu",
       "published": "2026-10-05T16:05:33+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Dübörög Orbánék lakásprogramja - Megtudtuk, mit kezd vele a Tisza-kormány",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUlyRWNDZnRIaHNZWEFXdjJVWmJ2bU1mN21pd3FuVkFXTDVaQXVBZjUwcHlhWjZzMzVwcVNCOW4xTnVfVmhFSWV3T1IzZWRObUZMWGlwWFdOWUNGYkV4TVJxck5zYmppYkxIWjE5Tnl4TjktUFMxT1FQdko0TGl4X3FSdVA2Y2tZbGRObkU5VVl1N0NzX1Y5RGgtamFmb1RKd3RvbFpnWGhxZnZ0Nl8xRHo0YnJQODBTUGh4NQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-05T16:00:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1415,6 +1424,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "MÁVINFORM: pótlóbusz – 2026. október 3.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVdNN0R4Z1l0U1A3LWpINkZjanQ5Z0F3cEFuTzg1elpvSXl1eXAxd0FZTlpSQzBpMmp0b2l4cWJ4WExoSl8wMHktNzNjd0R6M1hyNldEYVBNTkxTX2d5TFJWdlFoSjdxQnJmOTBmYklxRXAwbi1KNXlXMGpoODdjZ1dEWkhHR2NkcWZnSWxncTdYQQ?oc=5",
+      "source": "globalhir.hu",
+      "published": "2026-10-03T03:18:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "New high-speed rail lines weave a denser network, boosting travel and regional growth",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HSWwzc2hPSFJDbVY3RlBJdklpSTRRNnlyLVduNlBaRXR3d0V4eEU5aHp5UGxPQ1BtUnItZmxQb0R4d3BEUUE3c3l2NTBwaEdHa3FLcUFCb0I1VEFFMUlDLS1aeHkyeHIxUzNhSFJRdTdPYUNzVDVFU25rNGU?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWpsZGVZMi14TFBON3dENUgwR0hiMnpzaFZ6bmlFcU1Ud1A1UEFSUld3WUlfQW9pUTY2SXByLXE2dUN1dmtZV3dxdzZxLXVHSmY2S216V0pvN3F0YmwwQkdhNERGUEVsMXQycVRXODdpbHlZOFQ3MEF1OHgtUnJuV3RIVlRFeWdUR3hBdnBSRGNmVzEtUW55ZWJfQUlLU1Q1VjdDazBCWjJoNldoRU1EWUJkelFXSDkzcG9YdjVQaHhVRVpsRjVteXN4c2HSAcwBQVVfeXFMTUlqbGRlWTIteExQTjd3RDVIMEdIYjJ6c2hWem5pRXFNVHdQNVBBUlJXd1lJX0FvaVE2Nklwci1xNnVDdXZrWVd3cXc2cS11R0pmNktteldKbzdxdGJsMEJHYTRERlBFbDF0MnFUVzg3aWx5WThUNzBBdTh4LVJybld0SFZURXlnVEd4QXZwUkRjZlcxLVFueWViX0FJS1NUNVY3Q2swQloyaDZXaEVNRFlCZHpRV0g5M3BvWHY1UGh4VUVabEY1bXlzeHNh?oc=5",
       "source": "penzcentrum.hu",
       "published": "2026-10-02T07:11:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: folytatódnak a büntetőeljárások, új szövetséget kötött Magyar Péter a fővárossal",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQVFOWU1CMkdJNEhYNnRnN0ZES0xvN0lSV2VReXFSNUQwRTdJN0thSnR0YUY2UWJZdllCbmluRWRXLW1zdldqVWFwS3ZhMUJiNlFLLTZsWmEySHFDSkx1V0hzQ29zRXRmOE1Tb0x1a2pCSjVwWGlHcGxLWUtJZlVKcG5Pb1NmZHhMQkFFdGF3ank1RUg4SVZRd05NSXhBUlBCaEdGY3VtWHN5YlVFWnE2T2Z3RmpJVG91cW00Z3dKRjlackpzcTAwcjduRFNzNFRnU0VRWm5rUkNqQk3SAeABQVVfeXFMT1oyZ0ppTGlYZS1mUXNEUm01NE5BaV9iakphQk1DSDFRaVJGWER5YXZjNGRBQkJkS1JvdVBjZHNpWEJuejQzOVppY01UaEdYb3dLOG1PckFzVS14WWJEcEEycDFreTY1R0JhYWtIN1ZNdm40a0tFMnRVQmpnVkMta0h0MEhac2Z4MEhUc2ZscVpNR0dOUTdZQkJrT2pJOENJUThXOFZmZ3Z0OThRdkd3QzRVY0NpRTZDZDVfaEU3U05tM0l0cGM1LW50ZHZiTnA0bTlvNWEtNUV6Z2Noa1VhTnM?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-02T07:08:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Kötelező a taxisoknak a BKK új applikációja – az érintettek tiltakoznak",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9Od29tYlhwbXpyZnNxOGFTcC1oS3BoRzA0N183NURzUGpRWTQxbFFXRFQ1czhDYWdRTDRQR0RoM1IxNlc0b0Rfb0llZ0lzTmRObTdjLWhzcEVyaDBVSUpRVnd2YXFMSU1fdVdxQjNCa3ZyODNLYmNESkg5M093S0l6QXVEZHJoa0tsdmJsLURma1QwR1lnZGgzMEFadHc?oc=5",
-      "source": "Józsefváros Újság",
-      "published": "2026-10-02T07:00:00+00:00",
       "summary": "",
       "image": null
     }
