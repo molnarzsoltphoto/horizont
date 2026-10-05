@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-05T06:00:53.978673+00:00",
+  "updated": "2026-10-05T06:15:33.272396+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "A Holdra készülő technológia a sarkvidéki gazdálkodást is segítheti",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ21GRHNBMDZId2hjWEFFalpPRzhjQUdoNm1BVHE1Z0YzRVhfbEVrMFdFeG5HcVJ4bkNSMnN5RTBRRUxZMVNwSWw2Njh5UldObDFzbk15M1JEY0pVR1VoSzhGY3NBb05MOG1CSnBKc2FBNHdxSzAxWVVYWFBkYWhvNm53?oc=5",
+      "source": "mezohir.hu",
+      "published": "2026-10-05T06:11:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Hamarosan kiderül merre tart a magyar gazdaság: fontos adatok érkeznek a héten − mutatjuk mire érdemes figyelni",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU1TQ2tIdjh1cnN5QWtJU19yVDZnY1hpTHhYbjMtVzZ2NkRmMWJnSkVvWTJiR19RbUt0VnZNWXhpM0xqNS1UZExnQWlIYjJsOF9EMEl0ZDA5WGwxNDdpNkNNOXVza0xoTmo3VUJyOVFQQ18yTHpyQktDUVlwdXVJeVdCTDE1WDNIVV9idk9ma2RpZjlMZG9ZUFp2YlJlUVMt?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-10-05T06:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Nem akadozik a kőolajszállítás, de attól még nem biztonságos a Hormuzi-szoros",
@@ -16,6 +34,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0t6OTJHT1p3aUNEaHVNdDBIbWRlZjVsVFo4YkV3RnZwb0N5eU1melpwbkkzOXpxMXI1a3VSYk5BUElzY0NrZ0lNdjAtSVJGaTJmWU9ZU3VJNnZmbDBJQzVadFB1dE85VTRlN2x5bnFmNWl6Y0ZtV25RQ2g2WFl4cVpnbHppaTNZV3JEdXp4WnlUNDRQZGxBOGNlb1ZiaENnMjNN?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-05T05:15:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Újraválasztották a lett miniszterelnököt",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3kybEJ2TXpUQU55NVZ4UndUZ1VCc3cxMmF2U0FlWEpPQjVET2ZIcFI0OXYxdEYyVmlpREExSzJKNmt1Q2lOc1IzaWJWTGpBb2I2TWFNVTVUbkhZNVZlaldpaUV6eEhULWI0dG9jMjhjU2VKSWxmT0NGVlRUREtCLW5FSHFfUVU?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-05T05:05:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmFaZl9FeHdaMzJiTV83b1RjU09PN3VyZERaQnpHclRfUXc1dGh3dmZybXdRVU1hanQxWGxoWDYzam5mN3pyMDA0UktWRVZuQjJZMFpuXy1PbllmdVZ1Znp6R0d0ektOLTZaZ1pDam5MNU8xMFJ4Ny1MWEJBY29ZVjdib29QckgxUHo3ZGtuRjZSSFMxb2fSAaYBQVVfeXFMT2k1Z0NKWDYtY1V3MnBnTTZveDdidTNWeHJ4cUoweFBjZnUtdVpTNW94N3E3djNtR01GUktKUnM1RE9tQ0FBdEhzWTNibmZZSlBFck5ETjVuUFBXaC1rSEtGZ0x2b0dvWE42MEs2ZmFGM201a1I2bm5oRjB0aXVoQ3hyNmJoZHFIRXB6RlJwQTRCXzk0a1BxaGt5S0lMMU51elhKZ1QzUQ?oc=5",
       "source": "CarProUSA.com.",
       "published": "2026-10-01T16:44:34+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Quick Shifts: California High-Speed Rail Authority Investigation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTVnQ0pYNi1jVXcycGdNNm94N2J1M1Z4cnhxSjB4UGNmdS11WlM1b3g3cTd2M21HTUZSS0pSczVET21DQUF0SHNZM2JuZllKUEVyTkRONW5QUFdoLWtIS0ZnTHZvR29YTjYwSzZmYUYzbTVrUjZubmhGMHRpdWhDeHI2YmhkcUhFcHpGUnBBNEJfOTRrUHFoa3lLSUwxTnV6WEpnVDNR0gGmAUFVX3lxTE9pNWdDSlg2LWNVdzJwZ002b3g3YnUzVnhyeHFKMHhQY2Z1LXVaUzVveDdxN3YzbUdNRlJLSlJzNURPbUNBQXRIc1kzYm5mWUpQRXJORE41blBQV2gta0hLRmdMdm9Hb1hONjBLNmZhRjNtNWtSNm5uaEYwdGl1aEN4cjZiaGRxSEVwekZScEE0Ql85NGtQcWhreUtJTDFOdXpYSmdUM1E?oc=5",
-      "source": "CarProUSA.com.",
-      "published": "2026-10-01T16:44:03+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A Nasa-tól a barlangi búvárokig: amikor az összefogás életeket mentett",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW5mc2NUOE1rS3VLWDk3c1dwaHdlRXlxSExlb3VWZXZiOGhtSnB4NkpZcGlpejg2R1ZQUFhEM0R1ZnNFN3FQaGFaYndSU2VBY3JCOVdaMlhFbl9faDdqZVlPRVhMOFkyRWVDdlVVSU5DYWFySkdISURGQWZqTzdVZ25NcU5reFR4M210MjA3VTA4QTg1NGdENjlPZWJxdmZoZ09ac0phSDA?oc=5",
-      "source": "Hírstart",
-      "published": "2026-10-01T16:32:23+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Megállapodott Budapest és a kormány: mostantól a főváros szedheti be a parkolási pénzeket, 120 milliárd forintot kap, hogy ne menjen csődbe",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlp6bl92a1Ziekd6bU42Ny1Rd3o3Rmg4QWxQeGVZZzVIVkl4TU9aN0tCcFNEZGhsRkxNdWpOYTE5ejRVajlPNDlPSThtdmt5OXYzaGdqekdUbFNYNnJTR1FFOWVuNEFmOUJkeUpCRnJaTlVRdkRyY3Y0OUotbV91MFZOcVZ2enMyQlpPYnowRTFyREs2WXFtTnVVWjZSVkdqM1hGd0wtdDU0c2JnWGxtRmJYa2p0WkNaUER0V2UyblY1UDdPWVRvdElMdVNvdUN0eEc2Z3Bqbw?oc=5",
-      "source": "Telex",
-      "published": "2026-10-01T16:29:46+00:00",
       "summary": "",
       "image": null
     }
