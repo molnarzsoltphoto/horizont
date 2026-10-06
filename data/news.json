@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T06:00:58.929001+00:00",
+  "updated": "2026-10-06T06:15:34.839182+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -88,6 +88,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFh6OHZOX0RNNlNvdndWcXNKTlF2Z2Jtdlp3dXFwWks0TUNTandMM0pFc01MZWZhRU9Xd0ZZWkJNTmd1dEN2akdTWHVTckxBTWlEaVdlT1EzYVRESjBVaHpiaVN1aktGaWdONDZzUEJVRzd1SERuVmVldlhDeHJra0ZNSjFWcmFrT1NyQ1p1N1BQZw?oc=5",
       "source": "vietnam.vn",
       "published": "2026-10-05T23:28:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Időkép Képtár",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00OUVLWmd5Rlh4ZEg5UHFqOXBSa2haaEVvVHlfcldfUTVKS2FqU2Q1UXFrS1o4WFlhRnltZy0yZjd3MlUwM2hubDhVMThnXzZ5TGU4WUk3dlRxdnJGU2ZvRDJB?oc=5",
+      "source": "Időkép",
+      "published": "2026-10-05T20:46:16+00:00",
       "summary": "",
       "image": null
     },
@@ -412,6 +421,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkQ3ZWNENVdfX0tjZENIVTUyN0RKR3ZYQVJqNnJ1SjdpSTFyd0g1V1FhdVN2cnR2VTg1VC1GQmlRMzMycFFGQ0UtLUROU0RpNkJLZUl3QUVIR2ZRVzc0S1NYUUNFMTdlVE5xREJZbTRCZUZMNkVZY21QOENZN1p5VVNsQ01VSkpHUDh2V3lsSFhOMmxFbXRXMlItWHpvU3dvUmU4?oc=5",
       "source": "KaposPont",
       "published": "2026-10-05T11:46:16+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Sebességkorlátozást vezet be a MÁV az algyői vasúti Tisza-hídon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDNXZlpHangyYy1FREVWamM5SU1CWUNWcnlaX0hkNlljX3dkeFB0ODdUN0xadVpabUZaRGluR21fMzhVRk1yWV9GNllxSFc1ZTFZUk1XMGJnWVlVNUdhWU9FQ2lLZVZmT1VwZ1A3ckd3QmRIRS1nLVNzVFRKR0Rpam9kY2VHd1B3SlBrc055dW80MHVmQ05hNE5yb2dvcTJqdEE?oc=5",
+      "source": "globalhir.hu",
+      "published": "2026-10-05T11:29:25+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXhILUs3OTRDeHhybHp0U2hSLUs3a19CNkR2UXJwQ3ZhSzl0UUNPQzlyczlHdndRMXRNLVZRZkh6Y1c1VFA3UnlBeFhjU0c0NlgzLVFrR2RHdlk1R080RERKYUhGWVNBS3ZWUE5TVVQ1MTJqSUZfLUVUZGstT0pldmJ4WjlzRWFEYkUtS3VDLURyaGNJOWJYag?oc=5",
       "source": "MÁV-csoport |",
       "published": "2026-10-02T11:05:29+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Felfalja a magyarok nyugdíjmegtakarítását az infláció? Itt az igazság: ennyire van biztonságban a pénzromlástól a vagyon",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeGZlRkhwV2FDMnVpblc2VTZpTDR1cENxWWJKQkNJcjFrN0xuaDY4WDZsa3RuY3c2WEdjYnRRck1ucW42djR3Z3VyV1VqelJQc1FiYWZtemI2d3Y4MlpLZjROZUkzdDEtVDVacS1BMmNGX0tBZ3hCWnE5aEpHTjFtdDJpMVBmNndBV1lzUGZmZWNtTmc0eUg5dVpQanZRUkF6eGJEVmFyYUdJaEZSdmlQSjRra0ZWaHlQeXZWVEh0Wmw5UXFmM1hQZVQtc2ZfcldPNVFieTdRQjJuMlZBQ2UtRW9qVmJpbWNXZUplVkJnRUt5Vm1Zcjl0bld6N1BwQ2vSAYQCQVVfeXFMUDNxOHVpSGYzeGVtXzZ0VkdMRm9uWEtGbjlOYXlrN3FhR0dIaGIzeXpJSHhIS01WanA3MXBJT04zODh3TmY5RTVKakpLZHNwTTRfTUZwYmxKNUdPaUVuZWNUdmxfeUNhb2lDTXRtV180YmJuWU96QWVFSzY1NFk5VG9vd3NLMlhNQkQ0VG9zcXBibjNGZHNqWDFCZk5rX24tdXFydHdqeTRMcktsYTh2ZGpWRDQ5LXZ5MFk0WlE3bmVlcERpTkgxZFpxb2laaU9rYW82WGtqQ0p0WVpPTERQWUNGS1Azck5PRzVScjlvcUdfM0R1dU9iOThEOElhUkpMLWQtaEM?oc=5",
-      "source": "Pénzcentrum",
-      "published": "2026-10-02T11:01:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Felfalja a magyarok nyugdíjmegtakarítását az infláció? Itt az igazság: ennyire van biztonságban a pénzromlástól a vagyon",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQM3E4dWlIZjN4ZW1fNnRWR0xGb25YS0ZuOU5heWs3cWFHR0hoYjN5eklIeEhLTVZqcDcxcElPTjM4OHdOZjlFNUpqSktkc3BNNF9NRnBibEo1R09pRW5lY1R2bF95Q2FvaUNNdG1XXzRiYm5ZT3pBZUVLNjU0WTlUb293c0syWE1CRDRUb3NxcGJuM0Zkc2pYMUJmTmtfbi11cXJ0d2p5NExyS2xhOHZkalZENDktdnkwWTRaUTduZWVwRGlOSDFkWnFvaVppT2thbzZYa2pDSnRZWk9MRFBZQ0ZLUDNyTk9HNVJyOW9xR18zRHV1T2I5OEQ4SWFSSkwtZC1oQ9IBhAJBVV95cUxQM3E4dWlIZjN4ZW1fNnRWR0xGb25YS0ZuOU5heWs3cWFHR0hoYjN5eklIeEhLTVZqcDcxcElPTjM4OHdOZjlFNUpqSktkc3BNNF9NRnBibEo1R09pRW5lY1R2bF95Q2FvaUNNdG1XXzRiYm5ZT3pBZUVLNjU0WTlUb293c0syWE1CRDRUb3NxcGJuM0Zkc2pYMUJmTmtfbi11cXJ0d2p5NExyS2xhOHZkalZENDktdnkwWTRaUTduZWVwRGlOSDFkWnFvaVppT2thbzZYa2pDSnRZWk9MRFBZQ0ZLUDNyTk9HNVJyOW9xR18zRHV1T2I5OEQ4SWFSSkwtZC1oQw?oc=5",
-      "source": "Pénzcentrum",
-      "published": "2026-10-02T11:01:00+00:00",
       "summary": "",
       "image": null
     }
