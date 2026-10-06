@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T04:01:01.535761+00:00",
+  "updated": "2026-10-06T04:15:33.249708+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Húsz éve nem látott gyárbezárási hullám söpör végig Magyarországon: ha Kapitány István nem figyel, csúnyán ráfázhat a magyar gazdaság",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVczX2U1TVZtZFhPXzA4d3hVU3Z0OVdYQk9XZUVIM3NYODNtSUk0NThvcUdlcldnVDdsbnlIMndoWjIzZFR4bkVzMmhjdDZqME9BTVNNVnlCNUtLVXRUVnBOR0pSS19hZncwdnJiRHpadl8yRDhhY0FWRUtUMGhPSE96TG1RZXk5MWIyYTBqNlpvUGFiUUZ3UjVoalg?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-10-06T03:34:52+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Tényleg ingyen parkolhatnak a nyugdíjasok a BKK-nál? Mutatjuk, milyen lehetőségek vannak valójában",
@@ -151,6 +160,15 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUlyRWNDZnRIaHNZWEFXdjJVWmJ2bU1mN21pd3FuVkFXTDVaQXVBZjUwcHlhWjZzMzVwcVNCOW4xTnVfVmhFSWV3T1IzZWRObUZMWGlwWFdOWUNGYkV4TVJxck5zYmppYkxIWjE5Tnl4TjktUFMxT1FQdko0TGl4X3FSdVA2Y2tZbGRObkU5VVl1N0NzX1Y5RGgtamFmb1RKd3RvbFpnWGhxZnZ0Nl8xRHo0YnJQODBTUGh4NQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-05T16:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Titokzatos nyílást találhattak a Holdon – alapos vizsgálatokat kezdeményez a NASA",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzhQMDRjUjZ2WHdpdGxvdEZiVGNNd2Fhb2EtbVI0amptanp4TWt5QmtseHRuZHZXdGRJS2dlWk5LNU1QaGJNdG5nOVNBNUJ0WmVIZDhvazk2VmhOU1VjeEdIS2k2SUVhRHVwTkdqQVNUbDdYTHM4ZmxyaUlraW9HZjYtb2lXN2VORWZoUGZCNEhhdTdvb2VkQmo0eDFuSUlTR0VEbWJwSDFLYmE2S1dKSGVDVjVnS1U?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-10-05T15:40:07+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGtROHE0SmhEQnRZOUxmdmoxUENwcGROSFl0TUl1bHk0VlEtanIxNlRIUFZUUnZhRzRwVU1Sa25NOU5HTmtndi1zWWxtMGViX0dNcm1kVWFzUGUzc3Riak9WQjIwd0lQaXpfenZfOEVIc2V6MER1NjVGemlIOE9XVGpma1NoM2dId3dxaE9DVHdLeDB1Ql85NWE3WEVrM1RJNjZINHlROWM0cjllcmpMeXlyMXVaeTExQUZVeEZMNGwxZw?oc=5",
       "source": "Üzletem -",
       "published": "2026-10-02T10:27:55+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Mozdonyszimulátorok és interaktív szakmák: Így telt a MÁV-csoport pályaorientációs nyílt napja Zuglóban",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmFJTWlZMC1xcUNzbXlWNEtPT3lPU1pmV280V3B4eGhEMnhrT3hnb0N1N3R5R0xGdTRJUWJMbWk2LXRtR1kwZXE4TEQ5V0tRM1ZYQ05VUXkwVy1XQWpaZjF0ZUxCN1U3TG00WjZwTHVxU3gxcXZCa3FZVXdKcWdmUklWT05BSFhCVVZPSjFPOEJtMFRHVWhuM2NWS0lDQ2ZqY0k4Uk5mX052dmVWWUJVcTg1RFI3X1ozVEFUbzhsUmFiZnFvbDZueHdn?oc=5",
-      "source": "bkik.hu",
-      "published": "2026-10-02T10:25:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Valóságos buszdömping jöhet a Volánnál",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpuZjV2Ukh3YzJWb2YxXzN1TnRhSE43Z1d1TlI0OWhTVTNmQ2V2anJSZ2w4UWl5YlAxb3NyWVNWaTNvX2JZamVjaVFwVXdCMENic1pvZ1RaX2FWRExNQ1dLSEpKTFU0UVlDQ3VFcXBjMEdmbWRzaW1Sbjd5Y2pteGhhVEo?oc=5",
-      "source": "Infostart",
-      "published": "2026-10-02T10:22:00+00:00",
       "summary": "",
       "image": null
     }
