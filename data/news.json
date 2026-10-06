@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-06T05:45:34.221634+00:00",
+  "updated": "2026-10-06T06:00:58.929001+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Itt a fordulat? Az üzemanyagokon csúszott el a magyar infláció",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHk1MkZuZHlqbFNmWmdaRmZxcFVLWFZGSGtDdmJDbVpEeWF2UVRkT1NxS3BOS2YtYlY4NUMyN0l3S2FpRFAxa3NEZDZrY0c1eVJpcXJOOHR1TjZ2dmpxZlZTazhaTUJ3N1BvUFNNajZsbU13VEhvTmN3aERRcVV1ME94TXZiZXJUNjY1RjhiN21sWUN6WTBpOXNMb2hRT2RFdThmTldPVTd4ZUMwSE1aONIBtgFBVV95cUxPV1dQOVpDTlg3aktqNEFRUW14REdoRktBTk9lRVZrMkJqUWFLUEZnMDc3UVppamh3R0dkd0Y5NnpwUG9WSWxEd3ZwUUZST3dDYjltakt6VTM2aHgxM243cFowRVpoSTJwQURiQzR6ZHk4OEFjU2REaklyQjdjeHZZbkN4Q19KdV81aEJ1akZmRjNFWUZxZ2wxZ0l2QWx3Z1cxaF85bkRlbGZTb1JiWm1pYkJEZHIwdw?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-06T05:53:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Beváltotta Zelenszkij a fenyegetését, több száz drónnal támadták Moszkvát az ukránok kedd hajnalban",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGhUME5xMmZzM3BjS0liSndJQlVoNDZQZGZsd2ZKa3ZLTldjZXRWeU56eUQ0dlFJVXJMQzhGR0FaUG9ua3hRVGxRMmE1RE5IaUxoR1BoTEt5bUl6QXRnSWIzUUthUWQ3V3NYbXJOc19XVmRTcHBOYVpNUE1xdnliSTVzM0luYWliS2hCeS1EYmVNNXUtRHhlbTVEVlBONEJkOTg5NUVEU1Mwazh6UEMxRGFtd1FDRGp4clU1TUZ0SHppRTVEQWMya3NrS3dET1VnekVwZg?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-10-06T05:46:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Külpolitika",
       "title": "Áll a bál Romániában, meglepte a pártokat az államfő",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQM3E4dWlIZjN4ZW1fNnRWR0xGb25YS0ZuOU5heWs3cWFHR0hoYjN5eklIeEhLTVZqcDcxcElPTjM4OHdOZjlFNUpqSktkc3BNNF9NRnBibEo1R09pRW5lY1R2bF95Q2FvaUNNdG1XXzRiYm5ZT3pBZUVLNjU0WTlUb293c0syWE1CRDRUb3NxcGJuM0Zkc2pYMUJmTmtfbi11cXJ0d2p5NExyS2xhOHZkalZENDktdnkwWTRaUTduZWVwRGlOSDFkWnFvaVppT2thbzZYa2pDSnRZWk9MRFBZQ0ZLUDNyTk9HNVJyOW9xR18zRHV1T2I5OEQ4SWFSSkwtZC1oQ9IBhAJBVV95cUxQM3E4dWlIZjN4ZW1fNnRWR0xGb25YS0ZuOU5heWs3cWFHR0hoYjN5eklIeEhLTVZqcDcxcElPTjM4OHdOZjlFNUpqSktkc3BNNF9NRnBibEo1R09pRW5lY1R2bF95Q2FvaUNNdG1XXzRiYm5ZT3pBZUVLNjU0WTlUb293c0syWE1CRDRUb3NxcGJuM0Zkc2pYMUJmTmtfbi11cXJ0d2p5NExyS2xhOHZkalZENDktdnkwWTRaUTduZWVwRGlOSDFkWnFvaVppT2thbzZYa2pDSnRZWk9MRFBZQ0ZLUDNyTk9HNVJyOW9xR18zRHV1T2I5OEQ4SWFSSkwtZC1oQw?oc=5",
       "source": "Pénzcentrum",
       "published": "2026-10-02T11:01:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Divízió I/A-s jégkorong-világbajnokságot rendeznek Marosvásárhelyen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkZrbW9JOU1kZ2lfanFWS3B2d2VJUXBBZTFOTWZFVzdQT1ZsTlcwWm5JbDEyRU9aQ3N0Y3BFcWVrWWx0OG9qLUFUVm5LMjZOOF8wc3MzVEs1endib2dvMWRpaXJZclJQaHQ5TGZqSFpoeFJoYVByZl9RVFdfT0ZCaWlwRXV4d1plZmxVZzhVdEk4RHlXQm1UN3Q5ZU5RZFBid2FrYS1iR0xLaWJwdHJn?oc=5",
-      "source": ".: mediatica.ro :.",
-      "published": "2026-10-02T10:47:46+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Rail Clips and Insulators Market Forecast to 2035, Driven by Global Rail Infrastructure Expansion",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWjVobTVYYkJiTGdXZkZQcVc4cXN3M0xOODlGb1JXVXpqNmlxYXRQV1BVcjRZZFBsNng2ZmNreXFQX2xiUU5RTndWSVdnMWdDTU1EVldoZ3ctZUlMNTVaNXpUaWRTbWdjNGVfYmVwQzVTQ1Z6ZjVkN1owbmd6QzEtV0VxX0VPUGRPZkRpbkRlTUYzQ3dDUmhJUmJXMnZsblQ4QmJsWXVsUnJjRWRTdUF3dXluUk5MdFk1Rmk1eFdOVFlkanNF?oc=5",
-      "source": "indexbox.io",
-      "published": "2026-10-02T10:41:04+00:00",
       "summary": "",
       "image": null
     }
