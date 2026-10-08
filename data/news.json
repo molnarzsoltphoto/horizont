@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-08T22:15:32.897074+00:00",
+  "updated": "2026-10-08T22:30:45.579464+00:00",
   "articles": [
+    {
+      "category": "Nemzetközi vasút",
+      "title": "High-Speed Rail CEO Betrayed Public Trust",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjBCbUFiZVJNQlR3TkZ1RHozU0pFdGxHZ2RLLWFEOGNLbzdPZ1VodmJDSE5BOUdOazlhZTF4eExaU3VZTVBNaUFHc2gtaDNRNlp6NzNWd0RwR1lzbGVkNTdhSEhPckw3UGowM1BVdWlSekt6QjhrSjg2Qk5EbmlZOQ?oc=5",
+      "source": "Van Nuys News Press",
+      "published": "2026-10-08T22:28:14+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Újra megszorongatta a bajnokot a FEHA19",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tNEs2clV4d0JlQU1RU2UzdW02dkVBbEN3Q2YxUHlSbVpyaV8yaFZzcHc3bUdtdWpkdzFsX3lLZXF1UFZjT2xOSTNsaThFZlQ2Nm1JbDdIRjVldEJDSVNTSEZzWlJSTjRKR1JibTdEQU5mNVE?oc=5",
+      "source": "fmc.hu",
+      "published": "2026-10-08T22:24:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Eisbären Berlin - Grizzlys Wolfsburg Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZUcmhHRWhULUxWRWFnc1Jlb2dDNUVPN1hJUHVWT21wVThTWFBfQm9QM1BpV1JBOV80bDhMTUM4LUdPNUpqQUNqVm9wUVJsb0FEZWRsRkZHeXUzcng3dUdqbVNfRVdCYlgzUTEydGlyczZpNEdfbVhCelBJOEN1eFkybmNQLVNJMFRsWlJob3ZQbWVYUXJ4X05hV2YxRWVjekFSQmxxUHhaNzJ6NzQwOVFNY245N29weGc?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-08T21:02:20+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Retró HÉV-ekkel vár a HÉV-hétvége!",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSU1iMXBfM2JiakZ6U1ZPbGZBa2F5T1YzeVV6N1l3bk14ZEd2djVPRlhOYngxR2VvUzZkX1k5d1VMNmQxem9sdU1IRGZVbXJfSU81ZWQwRWNrYjRMNUt2RHF0bkhmOTlsZ2lsZ0VNeEo5alRSQ2lnZnlMU1MycVZKQUN0QllPVlBUZjBFRlh2ZDFmcEtsWWRVeU1iaC1oM09WbF9F?oc=5",
       "source": "Magyar Építők",
       "published": "2026-10-05T23:22:28+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Why high speed rail projects keep stalling across America",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRCUWl2UEpfT1FabDZwNWY4czY5YVozSFJreWNpaGdvemI1THRBa215TE4xcVRfbHY3ZTdHVjJnZ3hqamd4aEhfQmpVOW1keS1ySExwMi14a0lScVFqZ1F2ejhGckpweGpUYk4xckFvSHVEdHB4Q2l1TWZXZmVuMWE3UkVMLS11LUxnNmpNQmdCbC1vR0VCMzNLb2hwZFp6SG1yWXRQamI?oc=5",
-      "source": "Mjengo Hub",
-      "published": "2026-10-05T21:24:48+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Időkép Képtár",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00OUVLWmd5Rlh4ZEg5UHFqOXBSa2haaEVvVHlfcldfUTVKS2FqU2Q1UXFrS1o4WFlhRnltZy0yZjd3MlUwM2hubDhVMThnXzZ5TGU4WUk3dlRxdnJGU2ZvRDJB?oc=5",
-      "source": "Időkép",
-      "published": "2026-10-05T20:46:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az infláció és a maginfláció alakulása Magyarországon",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeE9yNHI1bnJ1YUNKNXhZT0Q0Y0pzMVhYV1NmTlhPVlFSdTRzdVNjOHlGcHNhN1cxdl9oQWRfLVU4X3RlZ2d2TVhWcm1nSGQ0U05NRmRac3M0QTAtRTc1cUVEa0VjdnFjSFJnZDNFaHZYcGZMTXhxR2ZScU1YaGIzSWdhb285S1Q1Q1VkcWx5eExGblZPOXlSR05tTnZvMURWbXpiSmhzWFY?oc=5",
-      "source": "Erste Market",
-      "published": "2026-10-05T20:44:52+00:00",
       "summary": "",
       "image": null
     }
