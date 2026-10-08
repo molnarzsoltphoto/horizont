@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:15:36.795479+00:00",
+  "updated": "2026-10-08T16:30:50.626021+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -52,6 +52,15 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2U5bDF6T096SHEtQ2VHQ3BlaTFZeGttSzFkUk9vdndBNV94TmZaemViLTdCWHk5alRFNmJ5TmJXRkQ3ekN5bXNGWmxTQTNwdUM4Zk55bmVfYTBQMEJIalB3bm5KRS16US04S2JkNXJVczNrbTNxejBaYmh4WWVaaHdhSUNpYS0yQ2IxTHY2UVExeVRCWV8tMEZTeDkzVWhpVTlJc1R3cF9qYVRvbHVwQWJkT2dfZ9IBtgFBVV95cUxPT2U5bDF6T096SHEtQ2VHQ3BlaTFZeGttSzFkUk9vdndBNV94TmZaemViLTdCWHk5alRFNmJ5TmJXRkQ3ekN5bXNGWmxTQTNwdUM4Zk55bmVfYTBQMEJIalB3bm5KRS16US04S2JkNXJVczNrbTNxejBaYmh4WWVaaHdhSUNpYS0yQ2IxTHY2UVExeVRCWV8tMEZTeDkzVWhpVTlJc1R3cF9qYVRvbHVwQWJkT2dfZw?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-08T13:57:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Közlekedés a fővárosban ezen a hétvégén a 41. SPAR Maraton idején",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWhvWFZVLWxZMDlVbFdQU2x5VkxwUDBoaUVaYnpJUDkxT2p1V2o5SW1TNzJUTFl1R0puUzR2Z3E3a1dRTW9FYWhTZ28zNExvWFZ5V3I1ZHFoMlpSclctMGR1ZzFYdEtRZlZjcVBxamxiN0NBTGlxdVdaNmJDbjdqWWNrd3dZdkd1QVkxVnZVN1NWNmw1MXd0TEttMk1JczM1R3c?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-08T13:50:03+00:00",
       "summary": "",
       "image": null
     },
@@ -272,6 +281,15 @@
       "image": null
     },
     {
+      "category": "Csillagászat",
+      "title": "A NASA GIMLI robotja a Marius-kráter mélyén kereshet helyet a leendő holdbázisnak",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXlXdTcwUWs4UE9jS1VtWkx6ZjA0SFBOSnpkeDlMMHdwRHU4eWRtTVh1VG91bW1MMS01SkdXODNWdG5DZGpwdDZfV2pXTkZsVW9HQ3lQdFZsQ1lid1l3dGlqZlBrb0FOTnp3N3dRS2F1Z3JTaDYzVkczaU8zZ3NRNTA0VmNzaEM3SEZVZFN0SkJUOVBTeWNmZUdGVjZiM21PbFlDZtIBqgFBVV95cUxNbzZuZkE0VE01QVhXWVVMU05ES1lXUE5NSzhHTi1sNFpOSWFKVTJwUkN4NkpfanVXYW9SRzFhWTd2SzV3QzVfQkJtcDlSLUMwODhWbHdhT0c5aGtHamplM2Y4ZE1YTEY3ckxuaE1feE5qQlNXcUJka0FZaE1EVFVxOXR2alVhM0hIbzJGaERSRjQxQ3MtWW9NZVF6R1F2TXpNTnZWMG16RjdoZw?oc=5",
+      "source": "Fess.hu",
+      "published": "2026-10-08T08:15:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Meghátráltak a Mészárosék, megszűnhet a 23 ezer milliárdos autópálya-koncesszió",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGJiMFZFd0ZPQjdHSlNQYmJENXZoT2p1VV9Yc2xOT1NpbFZ1NXlfZXJnOXpJaDFlcFhQLTM1alJPR2VNRmxQcFVTUVk5NlJGT3Ffa2szbURMdG92STE2ZTBQeFMzaTFQVnpGTFY3Qkthbm5ESHUtZUJ6Zi0tTE5UekRQMzZ3Zy1BTzdJak00V1FvMVRjYTZ6VHlWa18zQXQxbk94SHFBZ3I?oc=5",
@@ -412,6 +430,15 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkJXNzFMdmM1MlBhX2Y3eHNoRi1TMi1GdzcweUJuREUzUUF2SjFVeGFUaVg1WFhiNC1ieFBSNUZoSFJRRFNfMzhRODFaWlhRdFdYRTNtaG13NHNOWlV1a2hrUkUwekJ5SFZGNmI1TmhnWC1PejNHREpjTEdXTmN5NlZoQlNRdno0ZEtTYjljQ1ZuaTdmWDVjcENBQk1tYlJuUDJvbGhma0xwUzF3alRnNjlJOFJ4STQ?oc=5",
       "source": "Eurosport",
       "published": "2026-10-08T02:53:56+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Furcsa fotókat készítettek a marsi napfelkeltéről.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWT3R5aE41ekxBTjNsVV9JaGE4THF3OEZlbDNzWG05MTVBVTlfd3dTREhKVkl0NUlRa05YQ2E2bUVfR1ZXU2lWdzMwX2czMW52WmVCdXEwTVB1Z2Vmb1NaYjA3dk4yLVgxOE5ES0Fxb0t0clFXMmZvdGlGSQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-08T02:27:52+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGNtOC1lQnIySGFlMUFEQ2ZXMkRMR3VtV2RkZW45cU5ReDdUb01adXJMeERpVVhWSXMzdXQ0V3lkMVZlUGdiZWxHcUMtdUNEdVZiYzhrNk1sOUQyeXoxQVlBTmhmMnlnaGJLT3ZreVE4SG1BMGhzdFlnMjhJNzZaa1dSV1E2NWZ1d19JbkZnZXYxSDIxaVhhTTQ0QktRekZWWW14UU9ZNFlJUk1DSVRNVEFPRjJ2eVNVNW5vVlNOcw?oc=5",
       "source": "Telex",
       "published": "2026-10-05T12:45:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Lassújeleket számolnak fel a Hatvan-Szolnok vasútvonalon",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSU1iMXBfM2JiakZ6U1ZPbGZBa2F5T1YzeVV6N1l3bk14ZEd2djVPRlhOYngxR2VvUzZkX1k5d1VMNmQxem9sdU1IRGZVbXJfSU81ZWQwRWNrYjRMNUt2RHF0bkhmOTlsZ2lsZ0VNeEo5alRSQ2lnZnlMU1MycVZKQUN0QllPVlBUZjBFRlh2ZDFmcEtsWWRVeU1iaC1oM09WbF9F?oc=5",
-      "source": "Magyar Építők",
-      "published": "2026-10-05T12:40:08+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Sebesség – Újabb rossz hír MÁV-tól",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zOF9nS2JzaHh2QXBJX1JuaUNGT2diUGtVcGg2TmtQLUtxRFMxNEYxdW84MTdEbjZ3TFRmSmxndnlsSmlQNV8zaWdsMUhkclZzYlJTeHdKc2oyUEhmLWlKVmFnSE1XU3I1d1U1Mlp0LWVDTW1USVlHWlV4T1A?oc=5",
-      "source": "Infostart",
-      "published": "2026-10-05T12:36:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "SPECIAL Informat.ro / A nemzetközi politika elmúlt heti legfontosabb témái: A nemzetközi napirendet alakító válságok",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGlEMGdsOFR2OVR3bGR0Ql9kZHJteWR5MDFwS2ZmVldfT2dFV29kQkZyQW12dFFvYVIta1A1UElRVjBvYjFiSzBVSldJSTNBTGtNRTQ5c3pUSXgzTHNoalBNRkt1Ml9ycHgwSG1iUW1XZTdzNnVsQUJTdE50TFk2UGRqbEdidw?oc=5",
-      "source": "Informat.ro",
-      "published": "2026-10-05T12:14:44+00:00",
       "summary": "",
       "image": null
     }
