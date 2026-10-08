@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:01:03.050811+00:00",
+  "updated": "2026-10-08T13:15:36.781516+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -61,6 +61,15 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3FnS0FtUVpPMHBPZTFwRkZsU0dZZlBBRkptcU00RGxLZHVKNlNybHVWSnJDRmVHMGhkOWdEanJGdVIwODRpcXhGTnMySURIVXAwMTdnVTc5bVNFXzRZR0d0SHlNek8xU3BEQUlrZ3hKQWNsZDlaMGJJYkxDZ0ZVRUsxeWFjcnJ3SlFfWUpLVzB3SzRicXBmT3RTV3lubXM?oc=5",
       "source": "Qubit",
       "published": "2026-10-08T11:51:15+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Budapestre érkezett az első új, hosszú CAF-villamos",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlNmZWczOEZJb2w0MXAwUWt2T2dZNU5jOHNwY3lROVd5MmNiWVZCcTNGeURBWUtlVkY5MTdhc2ZMYmhaUm42eGZ2OXRJVXhWLU5rUTdiRjFDQVpFZk9kTWxSTWhfdnBrdzBfd3JqczBrOEFWVjZDdENyeEN0UFpBakVGbzdyOUg4Q29yTHF5aw?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-08T11:40:03+00:00",
       "summary": "",
       "image": null
     },
@@ -142,6 +151,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTRZQ3lhT0E1N0h2NDV6U3JnX2JZdzhnX0tULTdqeHZncm9paDB0S1RsUmNSSjBCOUJLYy1NWThvbDFISE1sY01qSllWaFZob29Jd2hYT3I5MmFFclRnaFRsVERhWFhxLWdJMkZWa2gzQ2ZLYXR6NVBEUWF3T0J0b3BYd2pmWnpKU2pfYzlZTEd6eFU2XzR3?oc=5",
       "source": "Forbes Magyarország",
       "published": "2026-10-08T09:06:46+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "390 millió éves ősi krátert fedezett fel a Google Térképen egy férfi, pedig csak kempingezni szeretett volna",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04SW5RUGJMX3lPM05BQkU2WHVRZEt0NnkwSlI1RHNZelJnbzQ3Sy0yMlhJclZyS053TDhhZ0ZSMXNlRTdFTGhFZGN4N3RiaFJJb25PMWZlcWRkdmktX0QxUA?oc=5",
+      "source": "Rakéta.hu",
+      "published": "2026-10-08T08:35:29+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWZPTXBITjdRVmE2eUFqMkJPX0wyVHpyd1prTjM5VTd6NFhBQ1BYWkRTaW90MkdnZDVUaGZ2Wnp4VjgzNkQwTXBkckItMjFqWVF5TmptTHdTNTFiUEdWMHoyb0w1MXlSX0FsN1ZQUEhUVnZlc19NZG1LelIzQTBadkxOTVlmcDRvc29sTTBHQUtMYUF4M1lYVE45VHN2ektIa01OZ2RETVZxZW1JU0ZGODFUOGdTWE0?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-05T05:40:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Földünk az űrből: a Surigae tájfun",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRaG5vcHhXMkVQUjJWbHZYYTN5R19JdFJteEcxbzVoWHdZNDJaRkdCT2ZzZmd4b1lBMy1vWXlGSU1LSFZmanE1T3ZoOS1QWjRiMTVXUXNscUFQUjJlWnRuQmxKUEg0czRl?oc=5",
-      "source": "Spacejunkie.hu",
-      "published": "2026-10-05T05:37:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Seattle Kraken - Calgary Flames vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGhISndXMF84V1lMcXNmS0lsbmx3akwtMFRvTlFhYlYwT2RVWHF0eWxkYkJZYVAzOEdJeHZXclRFNTV2VUtkeE9WQWhqZk1TN3AyRjdrYXBZMzkxM3FpMFM1UndSTFpRb3JPT2xtQnBBMHJ6dFo5SElBNGxNejlWVm90b3QtVUI0MkxibzktOW5MN3hVelJ6aDFyZE80SktFQU9XRGhQc1pxd2N5d0JJM3M0ZmM?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-05T05:31:18+00:00",
       "summary": "",
       "image": null
     }
