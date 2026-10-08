@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T10:15:38.974902+00:00",
+  "updated": "2026-10-08T10:30:48.891736+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "A több mint 4500 milliárdos Baross Gábor terven túl is kell még pénz a vasútra, a MÁV-hoz kerülnek az uniós beruházások – a „lebutított\" Budapest-Belgrádon folytatódnak a fejlesztések",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGNpQWVhZ1pLa2VGajAwNlhDSXlXbUwzeWZKX0RiR2lXdlFJVHBjVElnMkJpYXRQZlVOSy1RdFRrdFJ0M1FCZGc2YW5UNjJ2TzRkalVsNDcwNTFNMXFuenpUSUg5QnE0WWZpX1hjUTZrOFVDT1g2QjctZ3NQelhGTEJxVlJjZllQME5lenV5ZHV6eXNTUlE?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-10-08T10:10:28+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Nagytakarítás és fokozott jelenlét a Lehel téren – a MOL Bubi használatára is kiemelt figyelmet fordítottak a BKK partnerei",
@@ -133,6 +142,24 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmS3Boc2J2Tzh0dmp0Q2N4X2RkVDloWVIxTUFOcGRmZ28zYjVYOGx0UkxPZDB6TV91MjB5bEVtSnBBeUpnZEFmc3JwMDJfdkZQTzN4VGtKc0czRFBRSEdsLUw4Q09yVTBNZEZocjRCSWE0aFkzSlNFcTdn?oc=5",
       "source": "Taipei Times",
       "published": "2026-10-08T03:32:29+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Calgary Flames - Colorado Avalanche Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkJXNzFMdmM1MlBhX2Y3eHNoRi1TMi1GdzcweUJuREUzUUF2SjFVeGFUaVg1WFhiNC1ieFBSNUZoSFJRRFNfMzhRODFaWlhRdFdYRTNtaG13NHNOWlV1a2hrUkUwekJ5SFZGNmI1TmhnWC1PejNHREpjTEdXTmN5NlZoQlNRdno0ZEtTYjljQ1ZuaTdmWDVjcENBQk1tYlJuUDJvbGhma0xwUzF3alRnNjlJOFJ4STQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-08T02:53:56+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Boston Bruins - Utah Mammoth Statisztika: Jégkorong gólok & Eredmények",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGNDRzBDeUg4alpvcTd6UXRTVnpMZzhOQ0pxMzgzUnhMLXRCVGt4YWlMbXlyc2puU1U4ckVfVXJ3SXpnaDFuclRqYzhPVHZKaGNWMzVEdmdfeS10OTB3T1hSN3U0X1pOVmVJTWNybHJKbGphTEdJOWhyVkdKN0Z2bHgzeXdxYVFmckhBOWJpejJROFZCOWFWN3hjTU9Ud1BUM1JHRUw2NDNxLXlTZ1E?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-08T00:23:27+00:00",
       "summary": "",
       "image": null
     },
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYURra0VvVVlJem1JOEVRejRSNUlVQlZJNF9YQjdLdGNVSWZURWN0ZVE2WVJNR2JJSFZWWnB5bkstcS1GOTVmYlMxdHp2NkQwaVI5c3BCQ3F3MmRPc0lZdlNYTzI5VFAzMVRJOGJHX0szOEtoWGhiVXBDNXRJY3BRNTZxRFpzYTNGTW5SYTg5YnNnTGhGWi1KUG1lYnVraE4yN1lfdTlQdkZ4aGNiWEpJUmhGRHZsNkhyVjQ5c3NWNFJGSHdkUU1VSUJsUFB0d25KYV9R?oc=5",
       "source": "Utánpótlássport",
       "published": "2026-10-04T17:34:34+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Newsom vetoes high-speed rail supervision bill after agency receives condemnatory audit",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3FXSW9qMjItQjNzUVoyZzdBTmFhbHNCSmNTT0s3MmI4Rm8wS0QzOFRuMjI0SVBPdnhpWjVXY3RJV1lxaHhaOTlBSnRXU3gwSDdaM1FkRy1rOHFqRlRtOVZ1T01mUEhLbVE3dC1ZNmZWbFBDYkJka0RXclB1VjN2SFQwOElvX0RyVDlqaENhdXNZOHQxZWs2cDdZdTItZERrclJUZzhFQXpYRk02eGJ0X0hhWllqdw?oc=5",
-      "source": "Planetizen",
-      "published": "2026-10-04T17:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A Blue Origin bemutatta, hogyan használná a napenergiát a Holdon",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFNXd2JGZGlQZUs2bVFGdzFjVzJ1UWxHd1JIQlJVcW1zYURXcTA3dGVMNzEyUlpfeEZsV0o3RHNzZmUyZmpra2I1VXNBZk9uNW1hUFU5MUFJUUc1QzNsZThtTWtaRWlJekVuVmFmX0hWbkFjRUljZjFvTm5TZFJuQ3RGaktQRXRlSkFGbWIwNk5OQQ?oc=5",
-      "source": "androgeek.hu",
-      "published": "2026-10-04T17:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Gyorshír: Pjotr Dubrov lett az ISS új parancsnoka",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yeEJ1SGtLd2Z1M1JVWlFlQ0lQZW1ibU5PUFpsRDY5NTl1aFd0TFJwY3FFaENMZWhhLTctaFg0ckxkOU1HQ3I4Ym5janB5aUpucUFmQkFHNy0tZURYNkEyeXQ3SHoycy0yQ1Q0eDdDdFZjTXN0QmJBNHJCM1M?oc=5",
-      "source": "Spacejunkie.hu",
-      "published": "2026-10-04T16:27:44+00:00",
       "summary": "",
       "image": null
     }
