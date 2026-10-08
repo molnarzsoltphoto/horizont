@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T09:30:46.593669+00:00",
+  "updated": "2026-10-08T09:45:36.254276+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Rövidített útvonalon jár az 50-es villamos ezen a hétvégén",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEMxSnRsOXpOdS02WjRwSzNRZGp5YjdxV1AzWTRLTHY0clFlbEJjTUFSbFJJQ3R4SmdYVjdmdVNhYWotaGo3OUFsNjFoeHdMc1RwREdsMzRDcjgtQ3hxZWlhdnZEY1VCcU1ibm9SbDF6NlRHdWNzUTh0UHRBcVFoSnVCdUlMZjU5MG1nRGxSMVZOalR3VENPX0wxaC1YbUVLZEZvbzI0SVR1ekdtUXRiYkg0RTgxWG85bDM2aA?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-08T09:26:39+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Csillagászat",
       "title": "Meghalt a nő, akinek a kódja a Holdra vitte az Apollo űrhajósait",
@@ -88,6 +97,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlV1UUN2dzVjdl9KRlU3YVlxY2ZTWGdINE5rQjJvTWRyd3R3Q1ZLRno1eTFkWTRPbmhsbG5kVEZ0T2gzSDlQN3hsNTF5NTdZTnVFdUw4ZFZQYW93dnJkY09pTGRtd25YeHdFRzhWNGxhdmtSTFVwWGQ4LTh5TWhRbmZkYw?oc=5",
       "source": "Spacejunkie.hu",
       "published": "2026-10-08T05:37:11+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Figyelem: fontos változás jön az osztrák autópályákon!",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHQtZWlPajNHclVxT09GTVBMaEkwSWFnQUtTYWNqWFVkUnE3NHZQdEpIYUtxb19yN2pwSlBxOUtBbkN6Z2N6YW9zbENHYWVvb0Z6bS1HZmVjaWw2Qjg4VWgzZzJTSnF3VG5EZFdmbllsLXNIcnE1VGtxbmZNWlJ4ajhOVmdqN1Vy?oc=5",
+      "source": "ORIGO",
+      "published": "2026-10-08T04:45:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWJUaV9FRE1NdHFlTHNEeE1jTjZKaEpBSGQtQlZnZDEtS1EtMDdpWGhHSXZ5cWxYajdpeWJWWk9ZNjU4UGZmckRVbEtWYnhyeU9BajlZbjJBWlRuVmo1akxyZFFvT2hNTzR3VkJWMnlOamFMeEVxNXU1Z1p2dXM5ZnNiSzNCdGRJVDBkZHJnd0FVbVVnSUV5Y3RFSllCRXVURGdZRnhLTGdKem41TGdobmFjV3k?oc=5",
       "source": "Piac&Profit",
       "published": "2026-10-04T14:59:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Kolbenheyer Zsuzsanna: Még több lehetőséget kell teremteni a jégkorong valamennyi szereplője számára",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU2s3UXd1SkRxd2Q0SmdBRFhVTkVoZWNtR1M0b0pxUGl2R2NuVXlqemoyY19PaURZLWlmX0tJa3VuV1NONkhMQWJMLVA0RFI4Z3JPZ0prM2ppOTJMbXZ5V2dQZXhFeEx0M3Z4Z3RLeXFsQVBwNVdiQ0JoZjY5SWZ0YVpnV1JFaXFpMXdocG5zbHpDYm1TTHdFZWNoOVc4UzE5c0k3RHpBVWNCSXRKbEFrSUFCRnlKeE05ZXdCY1NWVHl0TUs5UFJWMDdlcEdPWXhXTDRpQXJDMGk?oc=5",
-      "source": "Utánpótlássport",
-      "published": "2026-10-04T14:28:35+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Most dől el a világkereskedelem sorsa: offenzíva indul a Vörös-tenger partján",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHhhQjVwaUNBcndQN2pIWFE1U1ZCbTllUVV0UnE0R1R5Ul93SzY2U3RTTmZzVEY3WHpBclUyS2VsV0ZqTkFNcHpTR2l6bnEtYmtqb1BGYkxJNDhKUjBJbHhNUklZZkgwYVN5Vld3ckpUblBDY09TeEhSTzNxNUFienkyVHRFdzc0ZWkwOTNyNDlDQXBSclFFWGR0eGl5U2VWaE93UGl3aldBaEhsZzd0Y25pbjRKelU?oc=5",
-      "source": "mfor.hu",
-      "published": "2026-10-04T14:18:00+00:00",
       "summary": "",
       "image": null
     }
