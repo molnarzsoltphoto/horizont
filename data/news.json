@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T13:15:36.781516+00:00",
+  "updated": "2026-10-08T13:30:53.148216+00:00",
   "articles": [
+    {
+      "category": "Gazdaság",
+      "title": "Németország emeli GDP-előrejelzését, a gazdaság ellenáll az iráni háborúnak",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHBsdFRDVUE1bzUzcUdGMHNaRk1BcDh5ZFNSWWpLS1FNZVlJSWdoU0Yxd3o0bmRTVXNsMDFuSHl3NmdjOG83RzRVOXdzLU4weEZnLTVOY25OLXBCQVY2YzlnQzlvcU5nVncycVRnRURNaU9TVXpYX294azFnSFkxa2o0WURrMUhCb0xMZTcwUkpYd0NxY2JiOXJGX2JRRzBOeURDejMxS1ZKUmV6dkE?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-10-08T13:26:30+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Csillagászat",
       "title": "Először sikerült kimutatni egy ritka molekulát az űrben",
@@ -394,6 +403,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmxjNXpXWmVxM0R0OFNEMmFIbkhBT3NZOGRCTkVZT1BGdFJUTWZ1OWVRMHRQbjhBcVdMWU9fQUFpVENtWU9la0xYd0JLQVhJMDJlSnplMUIxenBRTU1UWnY5dXY4YUltYzFYRTlXSW5kcVpUZVBZZkpFaFFwQ0JoNDJXbXVkdGRyblBV?oc=5",
       "source": "Világgazdaság",
       "published": "2026-10-07T16:54:15+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Rádiójelek érkeztek a világűr mélyéről, egy idegen exobolygóról",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01N2N1V0hCMlpnU0hhbHN2U3Z6emxrRFFjSTF4bjJsVGI3Zm1rb09ia0FNTFE3TUoyT2o3QmVPSC1MLXdTalpFREd6X0p5X2dubFpEWnVZeWhpUVJYRnMtTmZHYTJBU2liaEtpU1I3RzZLejkwbXZz?oc=5",
+      "source": "Magyar Nemzet",
+      "published": "2026-10-07T16:42:40+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ocnFIT3liODkzaVdEQ21CZlhiZnFqWlk4RGVxZ00yLXJVY0o1blQ3dVdXUlJ6cGZxY1VsNXdrcjNfeFQ2V3UwSXJwYkdVaWpSNTItaWQ1bDNadGxvMWIwdTctd2pGakQ3Q0dN?oc=5",
       "source": "24.hu",
       "published": "2026-10-05T06:06:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Hamarosan kiderül merre tart a magyar gazdaság: fontos adatok érkeznek a héten − mutatjuk mire érdemes figyelni",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU1TQ2tIdjh1cnN5QWtJU19yVDZnY1hpTHhYbjMtVzZ2NkRmMWJnSkVvWTJiR19RbUt0VnZNWXhpM0xqNS1UZExnQWlIYjJsOF9EMEl0ZDA5WGwxNDdpNkNNOXVza0xoTmo3VUJyOVFQQ18yTHpyQktDUVlwdXVJeVdCTDE1WDNIVV9idk9ma2RpZjlMZG9ZUFp2YlJlUVMt?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-10-05T06:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Nem akadozik a kőolajszállítás, de attól még nem biztonságos a Hormuzi-szoros",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWZPTXBITjdRVmE2eUFqMkJPX0wyVHpyd1prTjM5VTd6NFhBQ1BYWkRTaW90MkdnZDVUaGZ2Wnp4VjgzNkQwTXBkckItMjFqWVF5TmptTHdTNTFiUEdWMHoyb0w1MXlSX0FsN1ZQUEhUVnZlc19NZG1LelIzQTBadkxOTVlmcDRvc29sTTBHQUtMYUF4M1lYVE45VHN2ektIa01OZ2RETVZxZW1JU0ZGODFUOGdTWE0?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-10-05T05:40:00+00:00",
       "summary": "",
       "image": null
     }
