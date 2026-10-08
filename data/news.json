@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:01:02.931879+00:00",
+  "updated": "2026-10-08T17:15:34.658113+00:00",
   "articles": [
     {
       "category": "Csillagászat",
@@ -196,6 +196,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGJBb1lPMjZTZ1BiR2VxM19fazdsalRwVko1dEpmZGlvS0xiTzI3bXZTY1c1bTZ3ZVVJQXhpSEtKZENRaHUyNXM0cFNxQnFlVkoyUkdORS0yLTdPWEJwMEtObjFiRG8wa0pyN0N2YUVmM1RvcEFublN6aXd5YmpEUHJScDlNS2dORzhRMjF3MjZRUlFCamN5NHJYZkpJR3RQeWJIczVkRFJOS3M?oc=5",
       "source": "Nemzeti Sport Online",
       "published": "2026-10-08T11:30:27+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "A Hírességek Csarnoka új tagja: Pat Cortina",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9reVJELUhGdDdlSW4xU0VRWW1VT245VFhMODRFTnU3NnJWMU1nTllCSmdJTkxLMUdqbG55MkFYcFJTSWJVT2d2bV9UdURrVjdxRHV2b1Y1LTh5ek9JdkdHOF95VGpxRjRhcWc?oc=5",
+      "source": "MJSZ - Magyar Jégkorong Szövetség",
+      "published": "2026-10-08T11:04:18+00:00",
       "summary": "",
       "image": null
     },
@@ -1883,6 +1892,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "Kinevezték a kormány új foglalkoztatáspolitikáért felelős államtitkárát",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblZjbnVGd05BZlliMVV6ZFkxUG9TNkJyVnd4enZnQjlsZll0WVVORVZtN1FLSjNIQW9pSzQyMnZzYUlrOVFSUVRFY2hFV0FFMFlVSmZtZXRJZzV3akRncW1SSVh4akdSeUNzRTBpME5tVC16dU55aTM2eUQ1a2hMeG5RZU9TUDdxU3Q3Ums4LWlTMjZidVZyQllFRzBrRzc4c21zZkRBRGdoeEE5ejNRRllJZE1XRlhrYkdjcmd3?oc=5",
+      "source": "Telex",
+      "published": "2026-10-06T02:50:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Tényleg ingyen parkolhatnak a nyugdíjasok a BKK-nál? Mutatjuk, milyen lehetőségek vannak valójában",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0t2RmV4Q3JDd3JNVDVhb2NXM1BGODhtZnlVRjlEQUFNOEl6RVdFV1Bpb2tSbDRaa0RJcGh6d0NhUlQ5WEJpWXhFNEs3OVV4MmRQczJCb1BJWGRaTlcyWHUzd19OQ1RaTDNGOGVzdVFYWk4zdmRYS2tkNDBJY2c1TlFPZ0Y?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeWR0Uk1CdUpoMGw2RWJGWDBGS0ljZHBaMzQ1cVU2SDlwYVR2X3JoR2Ewd3VNT3NzWmJDTmdZdGppUmVSMG9MNUg0eEY5aklLYWRtZVBka3ZCdEZ2WWladlBhRGRtUkNRRFFabHdPRjhRUlR1QmFtaWY3bGIyNG10Nm43eFlUN01NLThvVzJuMWh2YjhIUzdaUzQxM2pGRlhLcEhGVHBmU3lSTlZJNEVhZkRDNnVWeVNZWVJWMFpldFU0RWo1Z2hrddIByAFBVV95cUxPeWR0Uk1CdUpoMGw2RWJGWDBGS0ljZHBaMzQ1cVU2SDlwYVR2X3JoR2Ewd3VNT3NzWmJDTmdZdGppUmVSMG9MNUg0eEY5aklLYWRtZVBka3ZCdEZ2WWladlBhRGRtUkNRRFFabHdPRjhRUlR1QmFtaWY3bGIyNG10Nm43eFlUN01NLThvVzJuMWh2YjhIUzdaUzQxM2pGRlhLcEhGVHBmU3lSTlZJNEVhZkRDNnVWeVNZWVJWMFpldFU0RWo1Z2hrdQ?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-05T13:40:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Az állam 50 százalékos tulajdonrészt szerez a BKK-ban, megváltozik a neve is",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmFWTVpJRFJ5Y25KZ1pZVE9QY0ZGX1lianhhYmdnQUJhbmkwal9jM0RwYUpSaml3WVJRNFMtRHF6MGJrVmtSTS04UnRWWnF2OENzeVc4OVM5cnpPRjByeGRZTG9TNjdiVTdkX1RWaXJpRkV5dTgxNkJwcnBoS2NRUHhHV2JzN0RYYVQ5NnpKWlZxODIwSjNEMGdEYkxERzZURmFCT2s3ZU9kNW84Y2RlMEl5dEE5SEplbXVHNml2VWtEVjjSAcgBQVVfeXFMT3lkdFJNQnVKaDBsNkViRlgwRktJY2RwWjM0NXFVNkg5cGFUdl9yaEdhMHd1TU9zc1piQ05nWXRqaVJlUjBvTDVINHhGOWpJS2FkbWVQZGt2QnRGdllpWnZQYURkbVJDUURRWmx3T0Y4UVJUdUJhbWlmN2xiMjRtdDZuN3hZVDdNTS04b1cybjFodmI4SFM3WlM0MTNqRkZYS3BIRlRwZlN5Uk5WSTRFYWZEQzZ1VnlTWVlSVjBaZXRVNEVqNWdoa3U?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-05T13:40:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Az építőipart súlyosan korlátozó szabályt helyezett hatályon kívül a kormány",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkR6SU1PNC0zd0o4c1dUc0lNZkZ1ODFWNXREMDBnTDljRXVBNmZicVE5ZzFpSXI5V2x2Z3pyZUFxOFQxczNRNTVvVEtLUU9TNjZ4bTNXbEVjYTJGU0ROQV9Ec0JRSF9tR3p4eXAtcnk4VDQwY1IzWjBkR0J5NWlaTDQzMA?oc=5",
-      "source": "Forbes Magyarország",
-      "published": "2026-10-05T13:32:07+00:00",
       "summary": "",
       "image": null
     }
