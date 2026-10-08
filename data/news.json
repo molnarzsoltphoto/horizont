@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T08:53:13.401198+00:00",
+  "updated": "2026-10-08T09:01:01.243940+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGlaenpVV3hWaGs4U2ZfdWVhLW0yLWpUUzFxMEVYaWhVNEhGQ1Bod0E3UExQdS1QamJHVklnNnZLcklSZjI4V1pDUFdFc0dTY0czYUhDZnRhVDVWY2FUVHRlTDhKZnQyUkpnWGUzZl9GejByWExhNmtDV09rRTFyV3ZKODRSWnBYSmc1Y2w5aUMzN2FwSlI0em5oSXROeFpic01CMXJ4NWl3VDYwYnJHRw?oc=5",
       "source": "Notebookcheck Magyarország",
       "published": "2026-10-08T06:59:08+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: Ismét maratoni ülést tartottak a miniszterek, terítéken a 2027-es költségvetés is",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYzMtQVo5MDRITlRaME8wQnJqVzR6SXFJYzNTa1pSOVdyb1NDWG8tMjZacWtNN3FUTTFTQzM5WkdBNmZtQnBiSDk5QVRzSUtDUG9KaVdlTWszcG04eDZWRC1aXzRsaEl6YV92U2FiY3lRZUlPNHA4a3Y2S3NkdFZMeG1zdW9YZU1Na1NFRWZrYi1OVnNxbU1KRDVkXzN6cmU2a2t2MF9yVWJkYUpTZzdLVWpuTHZLOXRmRklSOXBWYXJ0MXRyaFd1TldOQkxwWXZvTXNNdExKVDNxbGFR0gHiAUFVX3lxTE9hTVUtMmtPVFJoaURSU0k1RGtyVGlTMFdkNmhUSTRtcXRDVGpYMFprM29jbkx1MF9yLVVyYzhVUVpJSzdNa3QzRHRvRFN1dGtNQjRGSlZrTUlHRXZIUHBZdXBaRWExN3NVRVhyVjVRaV9Yd3pNYzc0Vm9LLVRzSWJFdTJSWW9RYVVrb3RSLUZpLWRiYklyZWRDTkRrYjl2NFVGdHctdm92WktEdm81WVpoWTE4cGpoVGk3YUhzeWZqS0dzNlZIYWxtYVR1LUNLeXdpX0RrT2FDR0VaR0dGTFUyZ3c?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-08T06:58:00+00:00",
       "summary": "",
       "image": null
     },
@@ -263,6 +272,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Vitézy Dávid. . Ahol százmilliárdokból fejlesztjük a vasutat, a HÉV-et vagy a TramTraint, ott nem mindegy, mi épül az állomások környezetében. Ezért a magyar építési szabályozásban is megjelenítjük a kompakt város logikáját: ösztönözni fogjuk, hogy a",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV0I0dV9WMVZ1Snh6Y2lHU0JOWVdhbDVNZU9SY2tMVV9INWxVanJLUGJhck82SlBmWmhhUVhRempTdFFLeFdRZ1J1YkFUY0ZocnFpcnpnNGdvYnlyOVBDVTcyQ1lrb29udDhENmhtTWNsQ2pvWXlVOVNla2xhLTBYM3NKcjRBZEdfX3JzVGFmZGtucXcySjF0MzJNTk9RWXNGOEk3N05GeDN2TVpMNnV4QTdLbzBZbGhmTWZvbG9zWTFxaGhFYzlsYzhMVENDdzJZRDRoWVVWMFo0UTliTEx1WHdjMlZtS3FXMlQyLTRVTWFoVDRxUmRKbUdDSQ?oc=5",
+      "source": "Facebook",
+      "published": "2026-10-07T13:25:14+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Szeptemberben gyorsult az infláció",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pX2hMSV93Z0NEMGRYRWdzQnZwVHZzczFQMmhvNWRmM0RfYmwxNEUxdFVjT2lKWmhhdGQ1M1JXcE9PVkNmcUJvamc5UkRBNzRMN2EyR216NXp2MEhvS0JJbHVQRHlib0Yxckt2Qi1fdk4?oc=5",
@@ -502,6 +520,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlRUnU3ZUhXaTJPMGRKU2pTckxNQjhPaWdrcjB0X0toUm5oSkxzZTBRRnlRbVVPTl9ZeXF1ci1TRFFYTkZlVTFVdlhGSVJ5eHlzWkdzTDJWOVNHekhsYWMzM2tULWNlV0xWZU1JdHFvdS05dzhVUkhXeGs4MDFUeGE1aHUxaGtOTmJxUmQzUWdyVGs0RzdiNnRLVkVpMTBGTmw0dkJzV0h4ckVuc24wdGVWRHdaWE1ZU3c?oc=5",
       "source": "Euronews.com",
       "published": "2026-10-07T08:15:46+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Felhajtott autóval a szentendrei HÉV peronjára egy férfi, hogy szándékosan elüsse ott sétáló ismerősét – a rendőrség körözi az elkövetőt",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOGhJdW9nQXBkYktXM2lBc1JpTUZzSU10WlpaaDE5LUtaMGtRS0ZHdEFYRDE4NlVENElqRHo0NElMajJHaGlRRVpoZnFveDVEUjZKc1BtR1VCeU5VSzZlaUMyTFowZzlVNDF4SE9sUFd1cE4xWi1oM2xNcVRkbkh3c1l3RDVKRVJkVkxVc1FpR0VZcTVDS09uemt4eTZyaE9TYUpnV085bE94VFd0VXdoRGVURldUMTQyd3p2TzRGLWxRa1NzaFd6Y0hGYmd5WG9VbkVjdG0wQzlTczAySW8xbC1naE1ma2J1ZENfcXAtV3h2aDhYMFF0UC13QQ?oc=5",
+      "source": "Hírstart",
+      "published": "2026-10-07T08:14:54+00:00",
       "summary": "",
       "image": null
     },
@@ -848,6 +875,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Szolnoki MÁV FC - Rekordspieler | Seite 12",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUHctOTI0OG1wSlNWclBkQU1fZ1hhcHoxTUEybUtRRWs4Z2NQSjZ4Y2lDWlFIWXcwNllUZXYwejZjRWRBZl9nR181OWIwbEtBRnVFQldPcUJJRVBUV05HZFppTGRBR0NtV2o2RWItWW9tbThDbXhGTG5CMjVJbjF5MGw2UDY?oc=5",
+      "source": "Transfermarkt",
+      "published": "2026-10-06T16:29:21+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Csillagászat",
       "title": "A Naprendszer meglepő szegletéből jöhetett a Bennu aszteroida, amelyről a NASA is mintát vett",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeGhEZGhGSmFtUFFPZm1Udlo5bks1YWEzek54SnlmLXZZRU1ILU9FSU1leloyZGhORHVaR29sT1cxZTBhOGpxTkt5YkVGdlJwbWJLTVVjanZrbXRaM3hjMmJ1WS1nZXVJVnl0a05yOWxrYXhMVTZpZzNxZEZmN05TNldKOHF3QjNEUjVQVmlMaTNpSGk0ZjNPbVp3?oc=5",
@@ -916,6 +952,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVF2UG9fTmlqbDRRSVRuVDlkOFN1RzNvMG43SndwT0tYLW5paDFGVFAtTU1xZUdDX3pCOUV6cXg0bDh5emNUNjZHZFFWMFNNeXNuTndKTlZaVDVfWVhxVFdLQjJHUWJmN01oZi0xSHAxZ3VnaWJfN0lZajA0VVAtaVZpM3RMVGhhMkpBOUZlS0VhWlRUdHJZ?oc=5",
       "source": "ORIGO",
       "published": "2026-10-06T14:40:05+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Felhajtott a szentendrei HÉV-állomás peronjára, és hátulról elgázolta az ismerősét",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjJlQXQtRG9WZEZUQkdrZ1hZbmVmSm1lbjUtWWpkVUJ4WUQ1bTE5QWFubWk0WHZZaFFJNHFmNnlVTWtFZ3ZqUDlFZl9LcFhEXy1QQ1NYTXA4UnNxaWh2MlVCYThpQmtkcnlyeUlac3NFcklyR0hia0ZuSlIwTlBOdER0cGVCQVVhWmZnQ0luY2ZHUF9KRXc?oc=5",
+      "source": "Hírstart",
+      "published": "2026-10-06T14:34:13+00:00",
       "summary": "",
       "image": null
     },
@@ -1105,6 +1150,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZkhmM1BCTE5Kdm90ZzVMUVlDRm1nYlpkcnhqSmVsTmFiR2tUUXNPUW5RYXFEUng0ZHh4SlZDT2ZFUWNPX3VPX2xNNGZ6OENlS3R4RGU2VmdhZTU5bDZ0Q2VWNTVGNV9UUmJBRV9oeWlBQUtWNFdjM3J6V3lEbXdLQ1FPMkxjWGxPS2lJcVZZMVQ3UkNaZk1sMnNaRVk0Ql9HNldJZDBNVDhNWGhrTGpvYnVFY01NNmFtQ3BySWZ6V1c?oc=5",
       "source": "Index.hu",
       "published": "2026-10-06T09:14:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Szándékosan gázolta el autójával ismerősét egy férfi Szentendrén, a Hév peronjára hajtva!",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHlESEFTOXEtVF9QQ0lmaUdHemFjcGJBbU51N3lCeng4U0pDSWh5ckNJQk9RNTRRcUhVUzRub190U0VaS3NlckF2RUM3ZXFKcU9oUXNYUko0MnI5M0Y4ZjRWMktJQk9DN1BoM3gtWWo2RWxUUl93X0RDeXMzOWJibTBoLV9XbWdQZlFGZFA5NFJJSzF1ZFFza0FB?oc=5",
+      "source": "Hírstart",
+      "published": "2026-10-06T08:51:40+00:00",
       "summary": "",
       "image": null
     },
@@ -2194,60 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTR5U1Zkc3AxTjFJc2dOOTBCWFd0MEdqV05ILTA0NWhOVHU0ZGtMZFgxVTYyanlZWjBmY3ZhNThyT294a1FMUUlmb0tFX1hRd1V5MnhtWFVMVTJNUzdJZEpCcXYxc09ZWHJhY00yVUNmRkVHTG1iaDhhYkMwUHNISkVmbUhVaU9qSHBYM2JZV2FzdDVRZ1ZFZmFQVk55dU8tMmwwNDVsU3VPamM?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-04T13:04:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Tech: Még idén újra repülhet a Boeing elátkozott űrhajója",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0ZMQm9MZjRJa3NycjJWVVg3ek5pUlBLVWxaTUI4SDR2QTIxOXFTMHhWUUEtNDhMbk9yNUYwMEgzMnQ0MEN0SkFYYWVOejNSUms2UEFHTWpXM3BmeHNrR01DOFpWTDBrUTJXMExlUFB2T1RETmhQeTJKZ2NCd1kxQnNfcw?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-10-04T12:03:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Szijjártó Péter távozásával az oroszok fontos magyar kapcsolatot veszítettek",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1dsRlZNZVZwQkZlYVRpbXBjSXFHbm9Pb1hVQnd3b2hyZTZFQnNRbW5MeGlqY28yMnowZXBGRTlsWm0xdnRTRVVHTmZlM1RydmxWSWp3eXNjYzlHSFpGREQ0bDU3RkVNVWFEaFhQRHY2RzFJY2JoSXdvazNaZlo1WVJvRVcwbEJUTmNLQUFzVlNpbENONFNjNzByWXpCbXdlNXFwaEpLZ2FmWjBpY0NOaw?oc=5",
-      "source": "hirklikk.hu",
-      "published": "2026-10-04T12:00:45+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Why High-Speed Rail Has Struggled in the United States",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanVudXpvVUdhNjBqdTFpaDBMUk5IdW9nU19uUzFCRmp2bHp0SFhOWHJfaXFJYjRqT3R4alVPMWhMWkFiYWZuZEFJWW1vRXgwdnZ0TEs1R0pYbERCZVZTUjRjTmhvZWhOazJGUUtvQlF2RWVGME9JTEhYZ01idlpaU2Nhb2ZkbU5XSERaNw?oc=5",
-      "source": "IndexBox",
-      "published": "2026-10-04T11:40:45+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Schwenninger Wild Wings - Straubing Tigers Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzItRWhrcUo3bHdMTHBHWmd4MHZNTlVZbUlxN0tydGdWOU0taHNlaURSMDA0SVVNakl1QktCSl9FRlhKVTd4bjlMOXN0TTlhSk1XcU1QNW8yQ1Q1anRZMzdtQlpoN0RmRUdRbUFmbkdyU2JnNkdhVXJpdE9zNGJFVTMtNG5vdGNENWRpeEtzd2dYbE1oUS0xNW00LVk3dnpqbHotbVFCZy1IVW5vVThnOFBtaWtUaUhpdDhLY1hWZGg?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-04T11:04:30+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Why doesn’t high speed rail work in America?",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYUldzSExCSzgyWmZzSDdxa3d2bC1TeG5aVmdZWDI5Mmt1aDVoQlZiZWhEOXVzVnAxak01Yk1UYWp2UXZ6ckxuN3BkaWVNaXU3VkIyNVhSSUVLc3dpQk9POGVtNGl4aERfU3ZXR0pXQ2RPRC1DbHc?oc=5",
-      "source": "edition.cnn.com",
-      "published": "2026-10-04T10:30:45+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Why doesn’t high speed rail work in America?",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelk2MWRfazg1cEhnU01vWFFnLXB2UVZZQlRZaG1HajBpMTM5YThDczgzNFA5b3Z4RWhHblhjcGRhMFBUVjI4TVllMm02bmltcjd4Ymk1VFhaZF8wN05TblB0QWRfMFpTYVA4SFBDbW9ySC1nSllhVlZKVUExRTFxbTVoUlhwbDFzRVJ3bUdjcEhyNFZ3NjNlYUQxY09tV2RzNGlQSEN0cXJZeEZqelRGbi1aN0tneGh5Zi1PQUFMX3prNXQtODl5a2ZrTl82V28?oc=5",
-      "source": "news8000.com",
-      "published": "2026-10-04T10:30:45+00:00",
       "summary": "",
       "image": null
     }
