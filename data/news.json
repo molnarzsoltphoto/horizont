@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:15:32.162585+00:00",
+  "updated": "2026-10-08T23:30:44.399745+00:00",
   "articles": [
     {
       "category": "Nemzetközi vasút",
@@ -403,6 +403,15 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLU9rRHFnQTR6S09FVE5uVW1JOWdXNDFuNVI3VmlGZy1WYXlBejNZMGdvbGNFTHVhZnFTblhEbVVaMlhlVzhZNEtjOWVfeTZYYlNDbzN3Z2ZoaXBpN3VqRjZlWk83QVNrOGxmd2lGRlRMZTZaQXBuVlM3cGdxR2ZsSEdRSXp2T2FqTWktcW82VEtlSkZUMG9VYkFTZlpmNkpDY2x3bGZKLU9TWnZGLXRrR09YQ2hSbGV4OXdVWE1Ud1dXblRnNkdUVjFYVTM1OUtMYnUzS2RuTzFqNks5NjdEWU5OOWdrMkhnb182cnd3?oc=5",
       "source": "BKK.hu",
       "published": "2026-10-08T09:55:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Philadelphia Flyers - Ottawa Senators Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGJUeXNnVkIwMlE2QlpsZkd1QVl1ZkVyNmdueHBOSXRqREJrT01KVHFZbFpXSkx3bjRxWkZsaV9peG9sSFNWbHNGOWtZWVdEUWFmQl9xOVdmMWdPOVpJQjdrOFJvOGtaRGhicjIyQk9sa1BPWFl5dVRGa1loLVk4RnRfTThrMkJoTHZrUjhvU29Ca3JSMGtBVkFqRlZrSWQ3TTlYalR5elN0TEE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-08T09:50:17+00:00",
       "summary": "",
       "image": null
     },
@@ -2091,6 +2100,15 @@
     },
     {
       "category": "Jégkorong",
+      "title": "Pittsburgh Penguins - Winnipeg Jets vonatkozó mérkőzések: Élő Jégkorong Frissítések",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlZfNlZuaWFDelEwT29INFNzenNqVmU5ZTdtakdxZEplNmxZNG1PZVFSQURLNWVGTUZkTDNXYnVLRzJ4RDV1amJiR0FYb3ZBZVRWbzlXaG1xNWtfbTJrVmJaclJ2U2Izb3VqM0RScjYybkU3V1BMWlVJaF8tckQ4Y0ZWaEp0dEt1ZkFqbzhlTnBBejdfQkxZYllfSmlqc3BXZzFsM2trMkF0eFlpV1V1RTVoQnQzdUd2MUE?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-06T07:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
       "title": "Toronto Maple Leafs - Nashville Predators Összefoglaló: Jégkorong gólok & Összefoglalók",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjlLblA2d3c3UFF0OFBoVU9fbnhCWThmVlQ2OENwekljMV8zc3hHS1FhRWMtcHJISDBzZlduNUVfZkF2SjQxVFJaMS1na2tDTTNEWktkQVE4LVhHcjdiZFlBdXNrN3U0VDBTOE01OE91ellYTmZ2ejBtWjlFVU92dHk2c0xfQ19acUhOOTBfMnZic2szVW00SmRoNUJ1UDNmdk84Zll6eGt1MTNYRzI5YzBYbVFhZDg?oc=5",
       "source": "Eurosport",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3UtcG9fQlBkNEticmtiQVhvYkpzMVpzekItQ2x1Y0JYSW5WUHc0YkN3a1FLOFYxd0NmWUk1RTBpQ0ROUzZBZWxzUFFhZGFKa0lBcTItRHBHMXVodGdMZzhVZURfeFZTY3VPcEdlWUdXNC02c0pfUUIxSGhMdHdnblpUYTEzYm5JSmRfVk9GWHJkdEp4NDBmU1lPSVJJcFVpMEc1cHR0bkJWMG9j?oc=5",
       "source": "Klubrádió",
       "published": "2026-10-06T00:26:09+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Lehetséges, hogy észlelték az első második generációs bolygót, amely egy fehér törpe körül kering",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV1IyekwyS1FxYjlJcjZLeXRlSDhsM1RzdGRsVGIwNHp4OXVnWnJaSmJBNnJiaEdQSDlac2kyTVV1SzhuQldWT19qX1otR3ZDakVrOE1mbjFQaDZJc0FJTXFaVXhfZzhOaklZSVNETnItQWUwN2JyVUExdkgxVWF6VFh6ZE90bzVmWlh0Q1lhd2t3dncwd0FiOGtZZTYzb3Nsd05QRXAyWlEzemE2VVhLZjVMQ0dfZGJYbmJuamhvZGF5WUlVVVRKVUU2bmwyZVF0cW5IeXZrNldtM2lQa0Zj?oc=5",
-      "source": "Notebookcheck Magyarország",
-      "published": "2026-10-06T00:18:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Éjszakai, zajjal járó munkavégzésre figyelmeztet a MÁV - Gazdaság - Hírek",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkQ3ZWNENVdfX0tjZENIVTUyN0RKR3ZYQVJqNnJ1SjdpSTFyd0g1V1FhdVN2cnR2VTg1VC1GQmlRMzMycFFGQ0UtLUROU0RpNkJLZUl3QUVIR2ZRVzc0S1NYUUNFMTdlVE5xREJZbTRCZUZMNkVZY21QOENZN1p5VVNsQ01VSkpHUDh2V3lsSFhOMmxFbXRXMlItWHpvU3dvUmU4?oc=5",
-      "source": "KaposPont",
-      "published": "2026-10-05T23:46:20+00:00",
       "summary": "",
       "image": null
     }
