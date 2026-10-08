@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:30:50.626021+00:00",
+  "updated": "2026-10-08T16:45:33.680657+00:00",
   "articles": [
     {
       "category": "Magyar közlekedés",
@@ -1937,6 +1937,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Lassújeleket számolnak fel a Hatvan-Szolnok vasútvonalon",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSU1iMXBfM2JiakZ6U1ZPbGZBa2F5T1YzeVV6N1l3bk14ZEd2djVPRlhOYngxR2VvUzZkX1k5d1VMNmQxem9sdU1IRGZVbXJfSU81ZWQwRWNrYjRMNUt2RHF0bkhmOTlsZ2lsZ0VNeEo5alRSQ2lnZnlMU1MycVZKQUN0QllPVlBUZjBFRlh2ZDFmcEtsWWRVeU1iaC1oM09WbF9F?oc=5",
+      "source": "Magyar Építők",
+      "published": "2026-10-05T23:22:28+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "Why high speed rail projects keep stalling across America",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRCUWl2UEpfT1FabDZwNWY4czY5YVozSFJreWNpaGdvemI1THRBa215TE4xcVRfbHY3ZTdHVjJnZ3hqamd4aEhfQmpVOW1keS1ySExwMi14a0lScVFqZ1F2ejhGckpweGpUYk4xckFvSHVEdHB4Q2l1TWZXZmVuMWE3UkVMLS11LUxnNmpNQmdCbC1vR0VCMzNLb2hwZFp6SG1yWXRQamI?oc=5",
@@ -2050,6 +2059,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96SDhXbWlteUtJQWFxYjZyS1V5RGw4TU0xNS1rMDA5d052X2UtYUU2VjVadHdmMTBWdXZubTQ3eHVnOFhndExiMkpIYXFnb0VoVHp0MURIQkdvbjcxTTJzZnktN0RadlpZWndLN21rYmNJSG1zRnZn?oc=5",
       "source": "ujpestfc.hu",
       "published": "2026-10-05T16:05:33+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Az NHL-rekorder Ovechkin bejelentette, a mostani az utolsó szezonja a tengerentúlon",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2JzR3hwNURwUkhUb05tcXRaTGJHeE9Na056YXd2cEZKaGtlQWlPcVMzWS1mN1hMd2c3cXRJbTBwMFpaLUJLeEI1YlNhY3Q5YlByWHBYZnptM1JVT1JCTHBpTzI4RmFaUjR2cXpGYXRka012b29KZDlMM2FWMEVmWkx2WG9ScTJvSzlrZkpIRGJxZm5mdXVTbkt2TQ?oc=5",
+      "source": "Eurosport",
+      "published": "2026-10-05T16:05:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc29tWU1qdnJJTmk4TjMtUWF1Y3pnX3hOYTY5YUx4SkVtMXpOejVnSkN6bF9YLXNkSkRlbXNyX05LcTlqUHE2a3JMZGdueW5XZ2JERUZuLTYwaWM4RHIwTUJMT0VMNXhqQnREZE01anBGNTVDeVRFMk51cXdpc0ZwOWMzbGZ5aUp1RUJEbUhaMHV3UDNFOEpTbHoxUk1ZenpXSllrU1hyVTBQQ3VoSnFPNE02YzhhbWtjOGdzb3pvNVTSAcYBQVVfeXFMTTJMYktYM2EtbldYdV9USC12a2VuNDhRbUVDeVJqWm5DbFNMY1NZcTBKNVhaSmZkanRGZFQtc0g1M2oyZmpBQ2NFS1NxSkdKSWsxZFM1SUpvVkFhXzQwM25idTlac2xTU0JRVFprQ28waTN0b2l2bGhxLVZJcW5pY3JrOVpUT1E1Uk1CX1ZFRTUyVXJMR1k5V1FEVFhMUnFYdXJRa2R0cUw2Yk9Ic0plTzdhZV9QcE94UmRHTDlLN3NDSEM4Umhn?oc=5",
       "source": "Agroinform",
       "published": "2026-10-05T13:10:22+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Itt a legújabb beszámoló Szijjártó Péter BYD-s bizottsági meghallgatásáról",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGN0Rnd5N2oxLS1MQ1RIa043bWdhQ2VCcXRrb2Y4cWlSVW1ZcHdwb0pOLVZTenQ5SHVzSnk2QlRVemFldnc5bTVwakJia3h2dlFhbHhaME1jRGh5RWx6dFVtN0g2VlpiU0thdmNqX2UyTTQ4bmxRNThiLXFXNml1ZzRFQVM5WTJLazJoMXZyQ3VSZHFMYklLSVZ6dU1xQl9SWlJCZTBQTzFtUXk4VVE0MVd5cjlVLTVNUkE?oc=5",
-      "source": "Infostart",
-      "published": "2026-10-05T12:59:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Kijelölte az Országgyűlés igazságügyi bizottsága, kiket hallgat meg az NVVH elnökhelyettesi posztjaira",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGNtOC1lQnIySGFlMUFEQ2ZXMkRMR3VtV2RkZW45cU5ReDdUb01adXJMeERpVVhWSXMzdXQ0V3lkMVZlUGdiZWxHcUMtdUNEdVZiYzhrNk1sOUQyeXoxQVlBTmhmMnlnaGJLT3ZreVE4SG1BMGhzdFlnMjhJNzZaa1dSV1E2NWZ1d19JbkZnZXYxSDIxaVhhTTQ0QktRekZWWW14UU9ZNFlJUk1DSVRNVEFPRjJ2eVNVNW5vVlNOcw?oc=5",
-      "source": "Telex",
-      "published": "2026-10-05T12:45:00+00:00",
       "summary": "",
       "image": null
     }
