@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T09:15:36.485559+00:00",
+  "updated": "2026-10-08T09:30:46.593669+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Meghalt a nő, akinek a kódja a Holdra vitte az Apollo űrhajósait",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTRZQ3lhT0E1N0h2NDV6U3JnX2JZdzhnX0tULTdqeHZncm9paDB0S1RsUmNSSjBCOUJLYy1NWThvbDFISE1sY01qSllWaFZob29Jd2hYT3I5MmFFclRnaFRsVERhWFhxLWdJMkZWa2gzQ2ZLYXR6NVBEUWF3T0J0b3BYd2pmWnpKU2pfYzlZTEd6eFU2XzR3?oc=5",
+      "source": "Forbes Magyarország",
+      "published": "2026-10-08T09:06:46+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Löwen Frankfurt - Krefeld Pinguine Összefoglaló: Jégkorong gólok & Összefoglalók",
@@ -1748,6 +1757,15 @@
       "image": null
     },
     {
+      "category": "Gazdaság",
+      "title": "A kormány jóváhagyta a 2027-es költségvetési tervezetet. Kiderült, mekkora hiánnyal számolnak",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEMyYkxDYlZTd19LSHcyWHVaclktMU5MVHNyc3dmNnVoOUZKMXRJTXdRRDJvbUJTaXBhb1hKODdFT1JTM0tGREo2OGZyTWlVTEdzdmRaN1A1S2RPbUtRT3V2T1l0cF85bWNseXluTmpzX29QTDE3TEVxdG9iYWJYNWxra2UxS2lKNERtWFBJSTBLMWdqRTR4STZuV3p6Slg4SzEyZ2NQbEc?oc=5",
+      "source": "Ma7",
+      "published": "2026-10-05T11:12:49+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "Napokon belül érkezik a Tisza-kormány nagy terve - De kit fognak elkápráztatni Magyar Péterék?",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVHhFTHZlU2ZaZHZMQ1ZCUWhfOVZBRXBqaENOZHQ5SmF4c2hSSXZJRmw1X1N4bHVCNXRXUXJRQW56eVFJbUtPZ3J0M0dGUV9sTWlFbXAzd3Aza1cyemN1MFNnLVRxZlpjcGNtODZBSzBCUTdBNUNxcU5NYksxU0drZWVTd0hUWkcwRkZoNXZ4cnN2T3dXU3VsaWhYNld2UWlaMXZEdlMyeGxGaC0yQXNMaGExMHd0M1hicXVUWDc3dldlajllSmIzSVdPc3hmaFFpWnB0VEEtTTQ?oc=5",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHhhQjVwaUNBcndQN2pIWFE1U1ZCbTllUVV0UnE0R1R5Ul93SzY2U3RTTmZzVEY3WHpBclUyS2VsV0ZqTkFNcHpTR2l6bnEtYmtqb1BGYkxJNDhKUjBJbHhNUklZZkgwYVN5Vld3ckpUblBDY09TeEhSTzNxNUFienkyVHRFdzc0ZWkwOTNyNDlDQXBSclFFWGR0eGl5U2VWaE93UGl3aldBaEhsZzd0Y25pbjRKelU?oc=5",
       "source": "mfor.hu",
       "published": "2026-10-04T14:18:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Eisbären Berlin - Nürnberg Ice Tigers Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWR2cTkwVTR4ZGdZcF9zQm9UTXN1QUNseVVHUWF0ZWplOHltaVQwS1lJSUxyM2NaYVZINGFXVmxRMk9fTV9URjRwNmVKd1Y3elE1dFhwbFpyTzRJNUNteWlwdF80VXVMLVkxTFVjM2FONUsxOTd5ZUp3bnRRaXRyVVNBeUMyRnhwRWhMLWFRQ0ZZVklNc1p6WGM2d0dqaDRnWGZIR2J2RlhmRGdiRnJBMFEydDhfM3NFWm4xNQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-04T14:10:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Anaheim Ducks - Florida Panthers Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTW50WUtGbjY2cERlTDJHSG9BVndpX1A0elAyWVpxWTNlaGtVWmJQY2hvRFlSNDd0N1pWVmowZzJiTkp1NGh1SU9pUkdqTDJuUDROVmh0Y0F3OEw1TlZMUm1LQ3BYLWR0cWhKNWc1NDF6SzZPX20zQkF3RGY5S0h4WDhpa3pnWEw1NDNJYWhoZXRfREI0WjdueXo5cDBldTE0STJzLXFWUVB6aURld0NEeE0xRQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-04T13:44:44+00:00",
       "summary": "",
       "image": null
     }
