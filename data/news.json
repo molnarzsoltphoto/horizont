@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T16:45:33.680657+00:00",
+  "updated": "2026-10-08T17:01:02.931879+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Sophie Adenot visszatért a Földre rekordhosszú űrmisszió után",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdmVMcW1zcGIyNzBFY1Z1UTFEekt4a2dfanVJNS03dktXWktNY3JvLUQzYjFwODZoeWVScmc3SXlmMGlQbm9NV0gwU0R3TFlGdGlEUzg0dDBFXzhYNXRoa0R6Wnpob3RIeUp0X3R0ZnpZNWZla3BtVGY0akRVSFZ5QW9ma2VDN3dlSjdDdW1jWWdqQTN5MTdpVDBlU2U?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-10-08T16:30:40+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Elmagyarázta a BKK, hogy mi ez a sok, fura megoldás Újpesten",
@@ -520,6 +529,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3JhY2Q3bzRBMXB6ZDlnWXdWeDN6OXhqLVpUdUFoX2JxRTJENUdVRnYta2F2WkpIVnBhLTBpSXhVLXdsbXAxLU9SaUlpSWVMeWJGSTZSRXl2bktyTUdLZ2lOTHBvdTNmMS1SdnJMOFVSeHJaOGlHdEV3YTdoYklGNzR4U1FuUDJremp6aUtqeDZHU1NjYkVxNUExclBPU0JEWG53OUR2U1BodlgyNUx5UlItOHFhZDJUUUE?oc=5",
       "source": "Kingston Whig-Standard",
       "published": "2026-10-07T18:19:09+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Egész hétvégére leáll a vonatközlekedés a Déli pályaudvaron",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUVTbjVrekhCU1dBY09LZEY1UWZzNjN1MmpEb3o1MGhHZXlrM01rdWN4MHgwVEJXczFwUWVWUXlKMzFhQzNSemE2ZEZQMEdWWWVfTDFhcXRvMmg2NGVzYUNQYVhnSEFOOVJ6SjNCcGNGb1RwblFJbG43QzR6bGRzSVhyMGFOUDVVeEo0?oc=5",
+      "source": "24.hu",
+      "published": "2026-10-07T18:13:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkR6SU1PNC0zd0o4c1dUc0lNZkZ1ODFWNXREMDBnTDljRXVBNmZicVE5ZzFpSXI5V2x2Z3pyZUFxOFQxczNRNTVvVEtLUU9TNjZ4bTNXbEVjYTJGU0ROQV9Ec0JRSF9tR3p4eXAtcnk4VDQwY1IzWjBkR0J5NWlaTDQzMA?oc=5",
       "source": "Forbes Magyarország",
       "published": "2026-10-05T13:32:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Egyelőre marad a kamatstop, továbbra sincs megállapodás a kormány és a bankszövetség között",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcWxMenh3cVlpRDJLem40dFVGRHVEU3NjSUw0QzVLeVZER2lyMklDUm52VmdwOTRHZzFReV9QTkxkRHFoMlFhUWFBMjhXcW5iWW1jNFFFcnVubjNRWXFQdkNJM3dTelNCU1drSmlvd201cUlfLXMwNVM2UEhOUkhRQm1JclFBTTAzeTZOVQ?oc=5",
-      "source": "Telex",
-      "published": "2026-10-05T13:30:13+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Nagyot vághatnak az agrártámogatásokon: 1500 magyar gazdaság is érintett lehet",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc29tWU1qdnJJTmk4TjMtUWF1Y3pnX3hOYTY5YUx4SkVtMXpOejVnSkN6bF9YLXNkSkRlbXNyX05LcTlqUHE2a3JMZGdueW5XZ2JERUZuLTYwaWM4RHIwTUJMT0VMNXhqQnREZE01anBGNTVDeVRFMk51cXdpc0ZwOWMzbGZ5aUp1RUJEbUhaMHV3UDNFOEpTbHoxUk1ZenpXSllrU1hyVTBQQ3VoSnFPNE02YzhhbWtjOGdzb3pvNVTSAcYBQVVfeXFMTTJMYktYM2EtbldYdV9USC12a2VuNDhRbUVDeVJqWm5DbFNMY1NZcTBKNVhaSmZkanRGZFQtc0g1M2oyZmpBQ2NFS1NxSkdKSWsxZFM1SUpvVkFhXzQwM25idTlac2xTU0JRVFprQ28waTN0b2l2bGhxLVZJcW5pY3JrOVpUT1E1Uk1CX1ZFRTUyVXJMR1k5V1FEVFhMUnFYdXJRa2R0cUw2Yk9Ic0plTzdhZV9QcE94UmRHTDlLN3NDSEM4Umhn?oc=5",
-      "source": "Agroinform",
-      "published": "2026-10-05T13:10:22+00:00",
       "summary": "",
       "image": null
     }
