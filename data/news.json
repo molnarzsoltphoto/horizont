@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-08T12:15:37.897623+00:00",
+  "updated": "2026-10-08T12:30:51.219567+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Az út közepére építettek egy mozgáskorlátozott parkolóhelyet Újpesten: elmagyarázta a BKK, miért is van ez jól",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2VvaU8zb1hJNzh6bEc3VkJ4a3ZNODJRX1BCeEd0WE5tRXV1aF9hUzlZYU1ZMWZ2X3RwdWJ4OHBLeE9PM196ajNNdUYtQUdCMlUwSmU1QkpnV2JtdV8tY2dNUGhrSHVBRHJKekJoOWhpREdISWxtTUU0ckgxWFkwcDVsNVd2QkQtRzNQZzEwX0pycTdSSThZNkpGWkd1a3ZfT2FWRWl6WW1nQlhWNUdIRkY2U0lnTTd1bzNLeVR2cWh1V0xtUlA3V0NtazhNc2Fha1NEU3lGd3Y0N3IxUnh4S0VBaDZ2ZWRWN25OUmx30gHzAUFVX3lxTE5KWDNCdHdmN3pzbEcweTQ3c0JacjdBdG1ZZW1fcTZFdVJLb1Z6blZ0Y0xJSmc3MnNOQV9TRmNFX0g3aEJKNkYtLUJOZGF3LWUya1l0ZzNNcm5FYi1xNWpCMjFEdHJhcEhDY0dPVlpOLWYybUYyZ3JWa19ZS3J5YlREVUw1SUVUenNkeThYNlg2QXRBM3BXNHJqakdmS0U1NUdfQk0wQlhWWDlCOVlJVkVYQzNVd25oQkZmTFRZTzN5dlBmenBDSVhyV2dydUZsSXZTbzh3U0FTZmlPLTJBdGJQZmhSUnUtR0taZTBZaWw3dy10WQ?oc=5",
+      "source": "Pénzcentrum",
+      "published": "2026-10-08T12:20:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "California High-Speed Rail Project Reaches 66 Completed Structures",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM195MG1TYklvUUZ0cG5jRTBxcGVfY1pfRGVFbVlweFllVHo4Z1Mzdnk1cFVpN05JOEYyYVFrWEtoVVZHNUM0X29GZFBpZzR6M08tRU8zWGwxcF9RMkFPT3A0NG1QR0k3ZFBJWi1ibjJXRnVrODFoWlY1RGlxbXdjS25US1hucFFyTWRKbTlZaEF6OVV6c0Q4?oc=5",
+      "source": "Railway-News",
+      "published": "2026-10-08T12:18:02+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Az infláció továbbra is a jegybanki cél alatt, újra elkezdtek hízni az európai államadósságok",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVBJRWxiSFBobnE5UHgzSWtsTldrdjBvaW5XelVMWEQxUmFNck0wRW1vUlpxSDRxTEpMaTdtWFl3SVRpQmpTVktZT2l3enB4NjQ0THRUTnRsMmFkb1ZrVmlhbi1GUHJyOC16UElvV2twWEdlNDBsSW5hTlhZbFRxbVZmLWZQTG56Tk9oQ2xyam9JYkp1d1BDZVF3VlV6aUdSZlgzZjFvbkdHWXc3VzM3UnJLdWNGUm1JZ0d6d3FMMlIyQQ?oc=5",
+      "source": "TrendFM",
+      "published": "2026-10-08T12:17:33+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Gazdaság: Új vezérigazgatót keres a kormány a Nemzeti Ménesbirtok élére",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkZ1TVppTkxPcVhZVm9kX1A4MHY0ZjM5YlV3ZFkxU0RCNnItRDQtekJwb1p3M3B3a0VsVmQ3YV9JQU1YOFFjbmVpUGhyVVJnVHg0eE4xYWx2R0pvZ3RFV0V5M2pCTXkybUFNUEs5MkJVemhzTXZLRkdRTTVtNXVlSERhaUZUM05yaFE?oc=5",
       "source": "hajdupress.hu",
       "published": "2026-10-05T04:58:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Csak néhány ukrán képviselő békülne",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTJiZUYtXzIyUVQ1aThfc0JQMExna0tKQi1UM21KZzc5NTlUUlZfRXRpSGJuRDJ5UGNneUFWc0x6R2Jna294VTY2VjNsR0ZpWlRJcG5MeWR0TUVuWDkyM3B3ZUdhT3o0YWhuRDloeVJ1Q2R5S19IcjI3eXdRUGRubU1B?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-10-05T04:44:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Pittsburgh Penguins - Winnipeg Jets Statisztika: Jégkorong gólok & Eredmények",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFZjUFVCb19YWEFEVkwyWWs4Z254c0lhZ2dqN1ZMNEVPMldzTW5OMnJBQTVGWkJ2bXBoc2JuT2J5VG5UNGc3eE9ndnZ5MV9maExKQjdSeU9vNVptTFFQT0xPZkJyRWtfLU5pamQxTjhuU3l1dmtuSTN2aW1ReUlSejY4bThqa05jc092QjYtWlZzV0ZJNXdta2VRcG1YSlpwdzJodXRUNHU4WkZHQXhzeXd5cEpxZ0E?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-05T04:28:26+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Detroit Red Wings - Winnipeg Jets vonatkozó mérkőzések: Élő Jégkorong Frissítések",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZEdrSk5SZ2lRZ3k0SS04R21UYXBaV0xrcFJIdW5SeXVUdDU0dUQ4QkY2NkRqYlk1UzdteUFONmNBdzBGc0lCY1FEQXNnOFdqMnJwTUdDNXBPVGhjaU5sSDMxcE1oQWZPUGwxNkVjNWNERmJHZFA3MUhWUWNnazAxWk1vWWZqcEptYnJ3c2pKbnBfempHWG9uREl3cHhxQ2I0cXZ0TTFpbzdZV0I1M3RqaFlJYWVhTzQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-05T04:02:05+00:00",
       "summary": "",
       "image": null
     }
