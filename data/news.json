@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T10:01:00.779268+00:00",
+  "updated": "2026-10-08T10:15:38.974902+00:00",
   "articles": [
+    {
+      "category": "Magyar közlekedés",
+      "title": "Nagytakarítás és fokozott jelenlét a Lehel téren – a MOL Bubi használatára is kiemelt figyelmet fordítottak a BKK partnerei",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLU9rRHFnQTR6S09FVE5uVW1JOWdXNDFuNVI3VmlGZy1WYXlBejNZMGdvbGNFTHVhZnFTblhEbVVaMlhlVzhZNEtjOWVfeTZYYlNDbzN3Z2ZoaXBpN3VqRjZlWk83QVNrOGxmd2lGRlRMZTZaQXBuVlM3cGdxR2ZsSEdRSXp2T2FqTWktcW82VEtlSkZUMG9VYkFTZlpmNkpDY2x3bGZKLU9TWnZGLXRrR09YQ2hSbGV4OXdVWE1Ud1dXblRnNkdUVjFYVTM1OUtMYnUzS2RuTzFqNks5NjdEWU5OOWdrMkhnb182cnd3?oc=5",
+      "source": "BKK.hu",
+      "published": "2026-10-08T09:55:03+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Rövidített útvonalon jár az 50-es villamos ezen a hétvégén",
@@ -601,6 +610,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDNWN09mYUhmNzNjYWxMMkxlYllvZnhlRGtWcnBKczlYUkJKYnNXRldjcnRrQzNkaXEyUnNDRm8wQWpNdXRqMy14MUNkTWlOdHk2dDFSWU5aSS1vYXliUDF3REtyTC1GMkMyLTV2VzZvNG1rVGx1ek05T1VXTFozTVhuMzgtd1JlSW96Rkt5Nm44WFhqN3hRd3o0TnpYNy1pcGtrQUJHS3o5TkowM2ZDTGQyRjJEUGw3T0E?oc=5",
       "source": "Üzletem -",
       "published": "2026-10-07T07:49:28+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Kármán András: 2-3 évre van szükség, hogy beérjen a kormány gazdasági munkája",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnlYLXFuVHZiSnQ1ZGR3VGtTU3RsQ1RpR201UW9QQ3EzeVZvamQySlZMWnhhaFFhVkk2NVBvQmU0eDJsNVNzdGZORVI3YVVHOW9WQkh2T2FfcUthTjlKQkVYeTRYV2RHNFRQV1JqSnRiMFUxSzhQVmtna0dSOTRwSkRCQmc0T3Y3eHpRNQ?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-10-07T07:49:11+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yeEJ1SGtLd2Z1M1JVWlFlQ0lQZW1ibU5PUFpsRDY5NTl1aFd0TFJwY3FFaENMZWhhLTctaFg0ckxkOU1HQ3I4Ym5janB5aUpucUFmQkFHNy0tZURYNkEyeXQ3SHoycy0yQ1Q0eDdDdFZjTXN0QmJBNHJCM1M?oc=5",
       "source": "Spacejunkie.hu",
       "published": "2026-10-04T16:27:44+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "High-speed rail troubles",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaG41ekFZSzBLb2hodW91ZVZhU3I0WmhiX05Xc19saFY4UkZZTjVjZWhWbVd3LWV2MFI4SXRYQUZ2QjN3M1ZUdU92ZWJ5Q25JQjRIQWtwNnhmc2JuSi1wVHF3OGNNVWY2V19DM3VBMzg3LW1NcWFvcnU5NkxfMDdvb3UzZ01WTDFNc2c4WkQ1Q3k5el8yVW9MSnZ5U2xBS1lUQ1I0VlNkdktkSlBUdGNib1ZhbWZtal9BNVdPT0l2emU?oc=5",
-      "source": "LAist",
-      "published": "2026-10-04T15:46:49+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Kolbenheyer Zsuzsanna: Még több lehetőséget kell teremteni a jégkorong valamennyi szereplője számára",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcDVsZDZNaVlIamN0cDlkeUFnWVAwRUtZRmVZcHo2am1FdGJjYXo2OEozUndnZFZmdDVXbmJwZTRlTF9sV2JubE96NVlhU2pFMkI5SFhXdGp3MC1qdWNSZlZZekZjVHA5VlJHQlRxSHV2ZThsdm5hNkJUcS15ZTBYaGRJRUVoSFBSQkRLZmVtajgyNzRpWkE5WW16TTlRYXlCMWJWYy1hLXhVMDVGYkhkQkdEenhpeHlTcm9haHZhYVJkOFV3ZWdDc2xPSmpfYUVRTmlnREI3SGRtNDZNUzM0c0NNaUxtM2s?oc=5",
-      "source": "Utánpótlássport",
-      "published": "2026-10-04T15:34:48+00:00",
       "summary": "",
       "image": null
     }
