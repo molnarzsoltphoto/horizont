@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T20:30:49.022525+00:00",
+  "updated": "2026-10-08T20:40:01.731751+00:00",
   "articles": [
     {
       "category": "MÁV",
@@ -1928,6 +1928,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "A MÁV vezérigazgatója végigutazott az új Budapest–Kelebia vasútvonalon",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXo0Y3lpbk8zOWR0Wl9MeExDeDU0SGMyMGJHN2FjQ21ocWlZWWZ0RnNBYldkY2w5VlhJcjNpV0s5UTFkcEZCMVZJZ0tOQTY3WEtGX2xxV2ZLcy1jMzZOTk5SVmxjRXFBeW1hbWhWREp3VlhhaHc0b3ViUHdFNkNYcmpwNGFvOUdUbFp4ejM1d0Q4WTk2QU9CemVVeDgxSDhxVEpHOW10RjZ6dw?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-10-06T10:21:52+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Továbbterjed a háború: két hajót ért dróntámadás bolgár vizeken, Magyar Péter is megszólalt – frissítve",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjBORDVVSWk1VWJ1bms2M0dkQzhVM3N1Z2prOUgwWXFkdnZ0NHRQcXRTa1k0WE81WndzSm1JUTE4ZnBkeE5mTkt1LTBFRjZxZ1NuOExEVWE3elY5VGRYTXNqTnNKeHhuaXVraGpnallrTklTbU90Qll5Z1B5MWdJY2hocWZzWER2N2VtbXROeUFveTVSNFdZYU5UU1NuOTA5MWlOdXpLelpNZWtuNzRUelpIVDhEQnVUYWhPZFY2YWZIeHpXbzlVLQ?oc=5",
@@ -1987,6 +1996,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2luTkVFaVVLQnBjemlYZUVlWGRnYjJVZnVCbmZCaGM0SHhzanhCYXhUcktUUDdlejk5UEplczFLb1ZFRUxNQUozcDdIWDlUWlhqMUdSZGZCTk1halB0THBzWXRWS3J1WEtOX0JfSUtTZDQ2cHNhY210MktUaEduT2Fmd3BWdXBaQTZESUdlaElzU2xybUZGaG5meGNndDBDMkozSzRqbmU?oc=5",
       "source": "Mfor.hu",
       "published": "2026-10-06T08:14:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Hong Kong high-speed rail delay costs MTR HK$2.25bn, a decade after HK$19.42bn overrun",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjZlTjZObmV6VDd4Q2pEbkpFMUFTNDc5TU1CNWVnTEZiWXcyRkQwc0h5aTRtMkJVOVR3bUVJTmEweFhLOE1RVjR3bHVCb2ZCQWxrcDRDYkE2dzBuWkIxNi1FZTVhSW1kRVpKNEFSSzlYam9QNU1HWFZmR3V5b0oxLTY5X2hDQUZsZ211ajNmajZCcWl1YnhpMEJRcDRjMllsYTZnZU85dF9qQjZtSm9kMw?oc=5",
+      "source": "Railway Supply",
+      "published": "2026-10-06T08:08:46+00:00",
       "summary": "",
       "image": null
     },
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUdpVVZhOUxXY1Z3U05ZTlUxVGxXa2hHOGE0Z3dpLWlwczBsekpBZExGaTJlVFNQOG1vWlU4MnptRlVGS2ZubVZoa2hmMjUwaTdPeVlYMzBsRlh3TGVYeGZ2bzZaRTNnbXZLNDZLQlM2WmZFUWZCUGNyc3ZzaTRxZUpGWUZWbkF4d3pLTFRZU2t5ZlR6eVppM0FxTWtiZUhLWjRhekkzVFJkMDdZR3pYVTdSOEgzUQ?oc=5",
       "source": "Economx.hu",
       "published": "2026-10-05T19:43:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Radikális döntés született a BKK-ról: bezsákolja a cég felét az állam",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSktNNm8tR2VNcHVDTFBCQjlnR1lmRGNKN2hFNnNlcjU0R0h6bjBZUnZoSkJTNEdFRjZNd1JuYUFqTFpDVjBwTjEzeko1TjU5bDd0RThEbWxMMXZ2Szh5OFdoYXoxS2U2LVhxUXZfaXhYT3ljLTltVkJ3dUljZWtzNjhpZVllSkdnOTdtQ3RjdmhSWWxTLTFPcFVMMUxjaUtMRlFXWnV4azl2RFlDUDFOS21yRWlTdzFyblE?oc=5",
-      "source": "Economx.hu",
-      "published": "2026-10-05T19:43:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: véget ért Szijjártó meghallgatása, megvan az új foglalkoztatáspolitikáért felelős államtitkár",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX1U3TWhBQnJGRU04RTRfX1R6Zjd4ZE5sZHA1SnJnWWJIR21LbzNrQWVBbFlualMtaVBVRUg0bkc4ZXNZeWVaUEVkaTdhTWdjYTFrV0RMOWxDVXpaYUZEeHlZNkZpNXR4RWxJM2NVcnVpSGhfdjYxdnFqQTRBQUNyaVc3LUFnc0FYYW85ekE3VmJBaGVGUjZMamNNWUp2alpHajJlcFZEeWE2THBBR3ZsRDZPNUxKRGtfNFRib0MyXzlnMENKWmJpQ25jalJRTlc5T0pqTFlIYldYbnhwWkNOUURsSXB0aWNyLVBKadIB8gFBVV95cUxOb2xwN19UeUZRQ09sVXZGWWt1bGZQZDRmaEhXNS03SHVtWlREcDFiYVJCdUdNVzNPdWlHcHZOMUZpSk9fSFdNZE9CbkRIbDc2VnliRlNVQ0s4YjlQWGtNMGJNUGVNNGVjcHFSNWNUamxiRWZJNXJkNERqWURDNWNBMXdxNGlWSVNCMDM5NGhMX0ZyY2hGQzE4TW1IOUhhNllvclMwdzN0LXAxcEVDM1NwbkhXYmE0RjJnWS1yLURtRVV6SzhvT1d4N1dsRlRFVzF2Y0NYOXVKYkZ0aWFab1hGUXRScVI3Sk1NMkRMOE5NVkZ5dw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-05T19:19:00+00:00",
       "summary": "",
       "image": null
     }
