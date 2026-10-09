@@ -1,12 +1,30 @@
 {
-  "updated": "2026-10-09T10:15:35.878960+00:00",
+  "updated": "2026-10-09T10:30:49.101076+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "A világűr titkait fedezhetjük fel az Agórában",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSHhqc1RyVXpTUW5EYVNoTmVfSnZneGNkeEtNT2ZaMFJ2VDd5QmlMZTh3NFQyeEdLbmJ3SFBuaVRGZ3g3U3pUZVNkbzF0UW5hT1d0c25Zd3BMYU1vX1VWQkl5SzlHZ0J2VnpDUm40em0wM1JMTG1mX2VkU0c?oc=5",
+      "source": "hajdupress.hu",
+      "published": "2026-10-09T10:17:40+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Már a látra szóló kamatok is verik az inflációt",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93djU2N0FyZWF5aE1qZl9jZmR4MkxfUWw2dlNDekF2Q1liZWJWdEt3WC1jODctSHJpWUlhMjBDUFV5a19qaWhaZ1F6MVN5RHRZVjEzRU1nLUw4cmY4RTl0eUZPWC1naW5OTDVaSTh3dkZYMUd6ZkRBRTYwOFc?oc=5",
       "source": "BiztosDöntés",
       "published": "2026-10-09T09:18:53+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Nagy bejelentésekre készül a kormány: az autópálya-koncesszió és vagyonadó is terítékre kerülhet",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjhacmJsdjJMdEs0RlF6dDJiMGZldnhlbUZ1b3FlX3YxczRVbXZGQ0hoMUIxZGxBalZKTzFNZl9zTHRYM0hPSXlRUlRXX1pNOGpEd1FUTFJaZnhGNEVuUmluZFkxRjA3WVZOS0tBWE9lcVpKY0xKalB6Vkk2S0JDUlVfTXZYbGhPS0VGSjJMUVRpc0cwY3VPT2ItekNmZFVUYlZiRzBTNFJPVEhKdk83MnpUb2VZcTI5ekg0dENNbTlTWnlNbm9nbWg3VW5mMDRPUHM4TF9adDJRdzFoX3fSAeMBQVVfeXFMT3I5WTBDQm9hUWVYMDdBNUxmazB5TjlGZE5QVktXMzJ0cDlVNkxaREVMNUp5T0NGbjBpa1J0ZFpkMTNWdnoxUjVvTG1vSVBNUHNUempaWGFSLVNDS0FaU09CdmgweGI2bDdnOWRYbHNVTEJ3Q1hRMHZ4QnNpc0REWkFTd1pPeWgzN1pmR0xVUF9ENjdYVi1Ba3o2RXVtb2MzdVpRaGFubndlbDhXN1EwSWVCaERTLVJSRkpFSUNaclBXZUo0RTdPanZTVXhKd2VLRnVQV3JrbVlMSVh3aUtCS3RtOHM?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-09T09:16:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1406,6 +1424,15 @@
       "image": null
     },
     {
+      "category": "Nemzetközi vasút",
+      "title": "Inspector general finds California High-Speed Rail business plan incomplete",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1dFbVFURkktUGR4ZE53Mzl2YnBqc2hDZV9uazVEblVCenRyQ1FnVzNMOHBHSkRucTJQc3R2SnI0em1mbmtJeGRuSFZZWXJ3eE1rdTJodTZoZkNLWm5sbTByRmZ3RlhvYWt0YUxPNGRpM3o2TmtzR0FIM194Q0Fta2l5TlVpU3E5X2Y3Qi1DUGZEZzlJZ3AyQi05VUsxcDVaOUpaOW5QUjZVb04zZVVpWjJXT2VlQzVkamF3?oc=5",
+      "source": "kmph.com",
+      "published": "2026-10-07T11:39:23+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Magyar: A Mészáros-Szíjj tandem kész megszüntetni a 23 ezer milliárdos autópálya-koncessziót",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVBWNjMweWZ1M0Q5YmRXU0ZPRXJOaXRIS0xhUzY4dDdFVjAxcVR0bU1KQVdzVW5abUtCcktLY2s5UU9lWnctZGFJODBJMG91SGpGanBYYmxoUHNRM09EVEJZMmlMMXVJdHBUaGV4N1hIcjN3RGREc3JjWHp1aGgxdVlNQmNvejVLT1k5QUUwaGkwdkp1clhSYWUwOU55S3JKLXhsdDNyRGFZNllWbS1uQ2FsQjZIajFNQTVMRnBqM1QyM21lVTc5Mw?oc=5",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVF2UG9fTmlqbDRRSVRuVDlkOFN1RzNvMG43SndwT0tYLW5paDFGVFAtTU1xZUdDX3pCOUV6cXg0bDh5emNUNjZHZFFWMFNNeXNuTndKTlZaVDVfWVhxVFdLQjJHUWJmN01oZi0xSHAxZ3VnaWJfN0lZajA0VVAtaVZpM3RMVGhhMkpBOUZlS0VhWlRUdHJZ?oc=5",
       "source": "ORIGO",
       "published": "2026-10-06T14:40:05+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Felhajtott a szentendrei HÉV-állomás peronjára, és hátulról elgázolta az ismerősét",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjJlQXQtRG9WZEZUQkdrZ1hZbmVmSm1lbjUtWWpkVUJ4WUQ1bTE5QWFubWk0WHZZaFFJNHFmNnlVTWtFZ3ZqUDlFZl9LcFhEXy1QQ1NYTXA4UnNxaWh2MlVCYThpQmtkcnlyeUlac3NFcklyR0hia0ZuSlIwTlBOdER0cGVCQVVhWmZnQ0luY2ZHUF9KRXc?oc=5",
-      "source": "Hírstart",
-      "published": "2026-10-06T14:34:13+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Belföld - Keményen nekiment a kormánynak a Fidesz, szerintük falnak ment a magyar gazdaság",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHFfOUl0RGhYZE9mbE43bVEzZV8yUnZlTUduWGNTVHh0ajRqeWtGNHpGUjA5YWJuYWNvbDFHVzJKTDlNbGdRaHFETEtfX3lpSVdLVUV2NTJjb1paNGZzNU9nd2UteHNNN0lMbkRGaS13UlpsMEI0TVYzd28zcXM0emxfblhNTUdqSUlrNlREdDZMZkhGWS1Rcw?oc=5",
-      "source": "Index.hu",
-      "published": "2026-10-06T14:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Szán helyett gőzössel suhan idén a Mikulás Egerbe - a hatalmas retróélményt érdemes felírni a naptárba",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUm5PaE5PaUF6M1FIbzMyZ2FmU1Y3SUgwOFpVSVFKNHh2Q1NJSWprYzFaZkQ2X2pXcGtucjVtcFlDS0lYV2M1LWFuY3FHUDd3SGVvTDd2ekhJQkdKRHJOUVp5cjN1azdJT2VOOWpvRHc3NTJmSU9EWEVVYmwtdHJReHhFOG5aajhVVUhXWWlB?oc=5",
-      "source": "HEOL",
-      "published": "2026-10-06T14:08:34+00:00",
       "summary": "",
       "image": null
     }
