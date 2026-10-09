@@ -1,12 +1,39 @@
 {
-  "updated": "2026-10-09T08:00:55.293378+00:00",
+  "updated": "2026-10-09T08:15:33.180577+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Rejtélyes barna törpék ezreit figyelte meg a NASA űrtávcsöve",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01cjBtLXYxUWQzXzI2bWdFNTlZdDVyaW4zeXRXTGJ3Z2dvWVRVckI5bHdVRE9uQ1NFdnlyNWZJUWRGMXB4TjFfZzRHLXZDZlBuQUF2OXY4SnlCcVVMR2h0czJwR1BtaHZlTHAxSERQU2xjRnFTNy1jQg?oc=5",
+      "source": "24.hu",
+      "published": "2026-10-09T08:12:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Több százmillió közpénz ment egy üres irodára, és nem ez az egyetlen furcsaság – miért nyomoznak a MÁV költözése miatt?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpSWhZV1o4SV9YVEdqSUVsZVZ1ODJKV05HVnEwSzlYQzBUeWZNOENnYzJ1NEpIX0VDVnpYTTk3NGpUUlE5UHBET25SQXpCeDRscmxZZVBiN1I5RGJKWUpLOElQSlhWa19fRDc0WDNJcHlvSE1HNVE?oc=5",
+      "source": "Telex",
+      "published": "2026-10-09T08:02:51+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Magyar közlekedés",
       "title": "Kispest is bekapcsolódik a belvárosi kerékpáros hálózatba",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlpSLU1TNmRaUC0wTjRpcUl1b1ZSeGVWMXc4Qk1pd0FXQUxrcm1TR3hFUDZQcU9MUXRUZENTc1lZVTVXb2prUzBpNUJYMnhtMmk1QXoyd2JQNmtURzlYcTZXeXhheGVRUWF2ZXdhRGE1U19DdkpwNk9BNHdHV2FSZU1ZMHFlejZidC1NTHZpMC1jcksyYWFkbQ?oc=5",
       "source": "BKK.hu",
       "published": "2026-10-09T07:55:36+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Gazdaság: Olcsóbb vizes világbajnokságot akar a kormány",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaW85R0ktZ2x4aDdVMUU5akhra0xkWXdiNTNKUnN0T0oyUktnUmZjOHZMcXJ0NW5iV1REdzljdVhoSnE3TmZWT3pmUWZsZ1I0SmFLMjR3c0MycWNjdGpHQWROeWpFUXRqekNuRVJod3NyR083bk9uMkZwQ2dJYnUtUTlYcmJUeFpoNHRucW5tNA?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-10-09T07:52:21+00:00",
       "summary": "",
       "image": null
     },
@@ -41,6 +68,15 @@
       "category": "MÁV",
       "title": "Megindult a nyomozás: brutális összeg úszott el a MÁV székházán, senki sem vállalja a felelősséget",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV1pTTjhfdmtBUzFLWGxyWENrZ0paOW1acS1kMDNMOGxrdEJSUVFOM01zUzFuNW11YlQwX0YwUmZlWm9vNGpRU3NlLTFfYnhRVUpyUnlSRXF1cTllWDByTW1lZkRURVIwNG85YzNQdEM0SGpCU2hhLXVFTGtrb2ZJcmtIdnJDdWxaVGRWOWZRR3FGQTBfLW5pemlyZEhoMzdwTjNHVjFvNTY0Umt2YS01TGpaT190NGRhcHZWQWN1cmhUcnRuTUd6M3dNSDhZX2J5SWc2YXlzSzFHWW5kckQySWZXZVhIZGpW0gHoAUFVX3lxTE5XWlNOOF92a0FTMUtYbHJYQ2tnSlo5bVpxLWQwM0w4bGt0QlJRUU4zTXNTMW41bXViVDBfRjBSZmVab280alFTc2UtMV9ieFFVSnJSeVJFcXVxOWVYMHJNbWVmRFRFUjA0bzljM1B0QzRIakJTaGEtdUVMa2tvZklya0h2ckN1bFpUZFY5ZlFHcUZBMF8tbml6aXJkSGgzN3BOM0dWMW81NjRSa3ZhLTVMalpPX3Q0ZGFwdlZBY3VyaFRydG5NR3ozd01IOFlfYnlJZzZheXNLMUdZbmRyRDJJZldlWEhkalY?oc=5",
+      "source": "Pénzcentrum",
+      "published": "2026-10-09T06:44:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Megindult a nyomozás: brutális összeg úszott el a MÁV székházán, senki sem vállalja a felelősséget",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdGh4dTFwN2I5SEpRcWlnWF9nRmZnQ3VOZTVUTWVVZGNxd041M0E2ZkJvZVBINVlWNDBOMGVTbWxKVjFmeGJnZ1pBVFBfbGhaeU9qNXhvWG1ENXNIRkdiaTFwMHp0LUxJSTN2TGxhUUUwWVF6S2NaQjBfSmRSWlpFRGhPcWlSU0hrZmlBaEFtOFh4ZENsRmlobVhxNHVORGw0WUx2bUFDUDE0cU8xY20xdzFOeERBOVlfSU9HRGJIYVRxeXdrYWNHbWpQUWsxbTYxUTZwaE1kWlhFMjVRNjlmeXNhRdIB6AFBVV95cUxOV1pTTjhfdmtBUzFLWGxyWENrZ0paOW1acS1kMDNMOGxrdEJSUVFOM01zUzFuNW11YlQwX0YwUmZlWm9vNGpRU3NlLTFfYnhRVUpyUnlSRXF1cTllWDByTW1lZkRURVIwNG85YzNQdEM0SGpCU2hhLXVFTGtrb2ZJcmtIdnJDdWxaVGRWOWZRR3FGQTBfLW5pemlyZEhoMzdwTjNHVjFvNTY0Umt2YS01TGpaT190NGRhcHZWQWN1cmhUcnRuTUd6M3dNSDhZX2J5SWc2YXlzSzFHWW5kckQySWZXZVhIZGpW?oc=5",
       "source": "Pénzcentrum",
       "published": "2026-10-09T06:44:00+00:00",
       "summary": "",
@@ -2212,42 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWThCb3hUWDFJTEpmMFZrNnhYaVhtQ3Q0ZTVyR2VocFNla0cxWGp3YVY1R3gtNjFwMHZOaktRN1lIc19KcVQ5ZkJYMGg1Qy1MYVVRNTR2Z1R6Nk1uOTNmcmZSdHR6WUdWb0ZybUdRLVM3cDJaNzJVZUlzZ0hmUTI2WEVWUllaNS1nZ0xMeFVaNW5UNE94ZmxxZjA2ZGF5dm5EbmlraFREakotTUlweFBjdVZYeng1MGlLbnfSAb8BQVVfeXFMT2tUUFpyVF9PRDNCcjc0aS1KOFdVdVNaZDVFdGFmbjJ3bmswa0w2a1RLd2xCRTlmZWlESUFjYlhzeWZfN2tBSnY2YlA1UlRfNWI4UmRIV0Joc05jNlRKZ0RpTVRWYVNNZktPVndfQU81UUlBOEszZlVKYWRjM3VnQkxkVmFITzBRMTh4bHpyUWdGQzY5WnhwY1EwWUhNOElrcy1tUmJGeEVKTFBsS0RvUnZDcW1vbjJENjhPZXJFQ28?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-06T11:32:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "105 milliárdot spórolhat az állam az M6-os szerződésén",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0ZlOFF0YVA4SGFzc2FBeTNjVGlSOUdKNTBfNkpkazdEMy16MUpXNmxNWjlaM0RpaGJ5NUJ2ek1BRElyQWZSb1U3eFFabTFOR1RRQVJqMXdEUkVCbnZlQ0dRTXlUTG9tMGdwRDduWDJBN3dkNTRxTVVsSGNxbHBBZWZibG42SG9fTERseldsR2VtS1BLUm1mOFlGcHczU0ZJd0VaUjZ5RzlnblE30gGsAUFVX3lxTE1rRmU4UXRhUDhIYXNzYUF5M2NUaVI5R0o1MF82SmRrN0QzLXoxSlc2bE1aOVozRGloYnk1QnZ6TUFESXJBZlJvVTd4UVptMU5HVFFBUmoxd0RSRUJudmVDR1FNeVRMb20wZ3BEN25YMkE3d2Q1NHFNVWxIY3FscEFlZmJsbjZIb19MRGx6V2xHZW1LUEtSbWY4WUZwdzNTRkl3RVpSNnlHOWduUTc?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-06T11:32:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "A Külügyminisztérium pályázati felhívása civil szervezetek részére",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRk9QcnNRRGI5aDUwS1pGWUJNMjNRcUd0bThnaUZTNXJNd2pLQkN2R1g1eG1OV1RKeEtSWW5DVllrTWd2OVBmQTVRTjhYQjF1bFFHX0IzWWpBdG5RbFA3Ym9MUGVHTzQyeWduVTFEM05tYk5laENkbk1POUpoaXd0a3JJY2RBMFVWV2R6bk1fSEVIM0dVUUt0VWJNTmMtRXdiWmd2bEczMA?oc=5",
-      "source": "Magyarország Kormánya",
-      "published": "2026-10-06T11:26:15+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Hatalmas holdi barlangot kutat a NASA új felszíni missziója",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkZGcjdjUUh0OHVxU2FpXzdFWEFrbnFiekFFOGZyYXJhTEFrbHRobVRhZTNCc0hDLXJhVG83UktKSnd4OXJtNzVLdUZtdlB3Y1ZLWHNoU3dKaEUzajJMMG9xUFFjbnU3REo5X3g2RUN5VE44bk5WaXN1MG4xWWYwUWgzenRjcXFzajdqQTgxQ1QxbEpiOVhhVU9GYw?oc=5",
-      "source": "Hírstart",
-      "published": "2026-10-06T11:17:23+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Itt a vége, Vitézy Dávid aláírta az autópálya-szerződést: mégse Mészáros Lőrincék kapták a megbízást, hanem külföldi óriáscégek – 44 milliárdos üzletet kötöttek",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDdqN1dhZUVOazBSeEJvUkhzV291ZmdzOVR1V19JQjVqTEhyYnM3MUtkc0tsM0QwSFQ3SFh6RjljNXBnQ0F3TjlUNkpKRHVQakhrd3hUTFR3a1IyZ1F0c1B6OVhnc254Z1REZkhsbWRhMkk0M19QTU1qdGFBeC1VMTUzTWxZWGdtRk5Od21uWV81UDJRRTFoVWxYcG5fOUJpZGZ0SzhucTg2MjBfU0I4?oc=5",
-      "source": "Világgazdaság",
-      "published": "2026-10-06T10:59:55+00:00",
       "summary": "",
       "image": null
     }
