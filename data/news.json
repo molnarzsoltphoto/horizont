@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T05:30:46.248180+00:00",
+  "updated": "2026-10-09T05:45:33.364254+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Abszurdisztán Expressz: félmillió forintos büntetés a MÁV-tól, ha a diákjaimmal nem szállunk le a vonatról a határon",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcnRFMVhEYTdISjc2bTRBNWxOdW96Nm0zZkFzT0x1WWtoenBSZXdzMmd5cGNZT3I0X210YlMzZ1RETl9BRmM4TUhROUJUa1ctYVlEQWQxYlhJZFZEckNZd2wzX1lMQ3l2bGwyalBRbFFidTVYSjNBNW1uNXoxOExvZWdmZk5zTlZwNEl0U2pLRHp6a3ZuUzBiVnd3V3daSlc0SGhvbnpGUW9VejduakFlVjlVNDVpSmQ2Ulp5cXNNYklHSmVHa0oyVUU4a1FwRkYwYXJJMDFQWF9FZ3FnR0hUdlpoT19kRjFCSWJqUXd6cFhPZw?oc=5",
+      "source": "Kontroll",
+      "published": "2026-10-09T05:36:44+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Feleslegesen béreltek ki egy irodát, aztán kitalálták, hogy oda költöztetik a MÁV legérzékenyebb részlegeit. Most nyomozás indult az ügyben",
@@ -2028,6 +2037,15 @@
     },
     {
       "category": "Belpolitika",
+      "title": "Jön a vagyonadó, szélesebb kör választhatja a katát, igazságosabb ekho",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDhNUWgxRmVJZWs0aVVPNDI5Z3hpcUQ5dXpmYVphZUpyWGVBaWxDUkhGeGp4OXZyTmJkSWhxVU1keFk3XzVlTU5zZ3dOcHhHS3BHY2RtSnhoUHd3SkhDcU5qRV9YelBnQzlfSGtZMlpFWUZyVWlLNU5LRXUxTERVNQ?oc=5",
+      "source": "Magyarország Kormánya",
+      "published": "2026-10-06T12:39:10+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
       "title": "Komoly kedvezményeket ígért az Orbán-kormány a CATL debreceni beruházásához",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2xoVVlNWGJ6cWlEWFNYX0FXR2FzU3VJSTdHZ1JvdkVTUWhaYVJ5MlNaODRYMmhhWWxyWU9BR05yc3d3RUtIZjNsWkpXdXlRTndJN2FhNEMwaVItOThBaVFCYndfWm8wV2VhYWhtLXVyNkZJSzYxR0ViWk5NUl91NFlUM0pNTkE0MEdmZDg2TWRfMlhIdXlzTzI3aVNQb1pYTHlROHd1X2ZQWGh1WVc4Q0o4OFRaNE1Md1FoMnNQc9IBxAFBVV95cUxNcW1ZRlhBd1pNUEVVN29uQjRDMzNSTU9vdU5JVngxZFZzb1F2T3MtZlhtRldsZjkzVnZHdmpEQk1nMDJVdG4wTTh1NEwzQXZvampCZEthSkpSMUlUb1ZqQWMyUGp3eVlYR0lqTmhhUU5DTWdPbVhEbmFfN0tQS2dfWE9reUZzeTd4ek02U1o0Q093YklSU3VmRi1VQWJzNW5XR3BIRXNNMkM5b01td2dJLUg2RzhyUWhaM2Z3YVIza3h1RDVs?oc=5",
       "source": "Portfolio.hu",
@@ -2230,24 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlZfNlZuaWFDelEwT29INFNzenNqVmU5ZTdtakdxZEplNmxZNG1PZVFSQURLNWVGTUZkTDNXYnVLRzJ4RDV1amJiR0FYb3ZBZVRWbzlXaG1xNWtfbTJrVmJaclJ2U2Izb3VqM0RScjYybkU3V1BMWlVJaF8tckQ4Y0ZWaEp0dEt1ZkFqbzhlTnBBejdfQkxZYllfSmlqc3BXZzFsM2trMkF0eFlpV1V1RTVoQnQzdUd2MUE?oc=5",
       "source": "Eurosport",
       "published": "2026-10-06T07:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Toronto Maple Leafs - Nashville Predators Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjlLblA2d3c3UFF0OFBoVU9fbnhCWThmVlQ2OENwekljMV8zc3hHS1FhRWMtcHJISDBzZlduNUVfZkF2SjQxVFJaMS1na2tDTTNEWktkQVE4LVhHcjdiZFlBdXNrN3U0VDBTOE01OE91ellYTmZ2ejBtWjlFVU92dHk2c0xfQ19acUhOOTBfMnZic2szVW00SmRoNUJ1UDNmdk84Zll6eGt1MTNYRzI5YzBYbVFhZDg?oc=5",
-      "source": "Eurosport",
-      "published": "2026-10-06T06:51:31+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Közel ötéves mélypontra került a török infláció – A lakhatás 44 százalékkal tovább drágult",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3RZX0tYMVlXbG1XS2lNZndJM085SUNiLUlyYnBvZkNGUkM1aUlsMmRTZ2FMSDd4d1ljRWlGNXpfSFo4MzFuMEtMWmtrTk5NcXk3QWs3TmY3akFNYlg2bXZvb3Awb013OHpnS0JmS21VaUI1dHF1SVE3Ykxqd25IOC1zdmdoa0FjVmJNbGRQeHhucUhsWUJjWnZfUy1ac1VucWV5dUNmWHlubEZScVBtT0pzRWo4R1BjYkpubWZR?oc=5",
-      "source": "Tőzsdefórum",
-      "published": "2026-10-06T06:36:08+00:00",
       "summary": "",
       "image": null
     }
