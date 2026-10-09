@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T19:01:01.487593+00:00",
+  "updated": "2026-10-09T19:15:32.823573+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Fél év után elhagyta az ISS-t a Cygnus XL teherűrhajó",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVNhLVV4VGlVV3RyYmUtXzRvbG1uYjVmYmxKSThoS3NQcVdfVGNhRWVDNHFQU01iNEpGM2dpM2ZhaGYyeThIelZrLWs5YTk0dU5QWVRXVEUweVBGNGpCbUVvQnUybGtkTjktUFJRZ2tmSnNLRkI1NTdrTGNRb1JfQnVCQQ?oc=5",
+      "source": "Androgeek",
+      "published": "2026-10-09T18:57:50+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Nemzetközi vasút",
       "title": "California High Speed Rail vows to seek reimbursement after consultants spent wildly",
@@ -32,6 +41,15 @@
       "category": "Belpolitika",
       "title": "Megjelent a kormány döntése Budapest 120 milliárdos támogatásról",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQek9RZks0eldjRld1cW9vMG4xaFBCTGYwR2FlTzhOaFZNQkJLbVZHNF9lLU1GMG11Y2dVSTdrcEJLcEIwbnRPQ1JuekloNmpwQnJNTEY1RlVlSGR0R3BydDRsWF9wQTRtNW8xa0YwQUpRal9RNkZMOWNRYmxwdTZ5SUxtVklMcWd4ZFZlSUYybTlTdFgwNk1rODZDdTJITUVYZHcxZGFxTW91cXM5eWlSOHZPWXE?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-10-09T18:16:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Megjelent a kormány döntése Budapest 120 milliárdos támogatásról",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQek9RZks0eldjRld1cW9vMG4xaFBCTGYwR2FlTzhOaFZNQkJLbVZHNF9lLU1GMG11Y2dVSTdrcEJLcEIwbnRPQ1JuekloNmpwQnJNTEY1RlVlSGR0R3BydDRsWF9wQTRtNW8xa0YwQUpRal9RNkZMOWNRYmxwdTZ5SUxtVklMcWd4ZFZlSUYybTlTdFgwNk1rODZDdTJITUVYZHcxZGFxTW91cXM5eWlSOHZPWXHSAboBQVVfeXFMT29QSG9fWlFxVmp5TDZBRWdYTlFSeFlnOGw1QVpDMlI1dXdYUmFUYS1KQTFvajd5YTlMeXV2UG5TdmRTcnBHS0x6WnhIOWhDZ2pHTGp1WXl3Mk9tcWVYYzhWcW01Nm9iNWFadmY0UWZsYmFjc0paNHRNaUdqdFEyUFFLSVBWUnYtanEyRzBZRVJVZXZiUzl1N09KeXZNTVVrRHp1SlZiQjlQa3RjUks1Rjdlb1gxNk1ZZGtB?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-10-09T18:16:00+00:00",
       "summary": "",
@@ -2000,6 +2018,15 @@
       "image": null
     },
     {
+      "category": "MÁV",
+      "title": "Emberölés kísérlete miatt körözik ezt a férfit, a HÉV peronján gázolt el egy férfit",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2JxcXlzbXN6Y2RuZTRWZ19KUkNHbHBwUzJSRUJCTzJlcTQ5V3l2RGFhaE1NemlBYW8tV2F1Z0xubXIzcGZLdWtLRTF6NkRtZVE4RVVGTjBIRHhzeFhjV3B0QUNwWHBtUE5xb0oxR1BLU1ZxUm82V25oSk15QXVvNW9iR19hOTZjUVB5M0tLMmpjM3MwVjRqaXM2d0ktVG1CeTkxSkFuT0lCbHJXZVhlVklmRkFCRHdZMGtlXw?oc=5",
+      "source": "IPOLYINFO",
+      "published": "2026-10-07T10:20:09+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Mérséklődhet az inflációs nyomás",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nWjdiMzNYSzEzTTNndXV1TExIRHNSelV2TkxzUkRMUnhtWmFJRWpqSnQ3Tk9qbHdJODFXNFdrSDcwS3lLUDI3VVVOTnI3WWhyREcyajR2ckN0V1VzSnF3aWVZaVNPcllvZWxSc0dR?oc=5",
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUpKa1BzZDNWUll2eTdNQmZ0UjRCbkZYRTRBYjlJS2IxaE56SU1QRFp4NjVDVXFwWHdKcUV4Z29RNklMaHZXQnczZld0WUxBd05BYmFsTGxDaEUtdFBJak9adUUxbTRqdFdHS1dGZGkyZWhkOUtUXzR3SllJRHNvYTB4VFpwLVBE?oc=5",
       "source": "Infostart",
       "published": "2026-10-07T07:49:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Gazdaság: Magyar Péter: Mészárosék hajlandóak megszüntetni az autópálya-koncessziót",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTBHVy12WlVrWGRQUzZjekQ3anRpLVliTkQ2NUwyYWhpM3k3ZENqY1hZUXVqTEF3UXYyVWprd0JTalFiTGlxcG05NS1TM0hPWXJLNU9mYlE2NWRsYVR6NHA2LVAtZ0IybmM3d2xKRmlibHp3VWV2Z1lNVF9HRDNnNUZpOHdWd2RycmhXVjY1M1FJQ0hWdlR4ZHZ6RmY4ODk5WVJtXy1rYXRRQWxTenc?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-10-07T07:46:54+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Gazdaság: Kicsit nőtt az infláció, de még mindig alacsony szinten maradt",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tY0hHQzlpV2YxWWoxaVJHSEZJN2E3a1BrVXlzYUJFbXBzck55NTZtYmdsVGdZUzJ1S20zeUtpTW4yakx5OVpib0tsNUpaVzdxUzFxQmhGWWduY180aEliUlhtQnNSWmM?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-10-07T07:43:20+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Magyar Péter szerint most már tényleg megszűnik a 23 ezer milliárdos autópálya-koncesszió",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3ItYWZBSUpVSUloTmpxZms2VzVPZE5yTTFVTDEwdkFZcGlKaVZiSEFLVm1JdzluR3phNzJNMmloMnlNX0lvVUNQMWdtc0l6bkxJd1o3SXJpQ1R1UnJqVzc1dmlrTG5jdUk5QjJBNlpjamlGYWNvSXY2c0c1dXFueDlzN25oU3dIVERQYnZTZk5kMEZleWZ2MVVUSUlfY1dDNlFQMmtYVk1TbjhoWExyQmp2T1NYZm9JZkFaVA?oc=5",
-      "source": "Economx.hu",
-      "published": "2026-10-07T07:31:00+00:00",
       "summary": "",
       "image": null
     }
