@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:00:58.391129+00:00",
+  "updated": "2026-10-10T09:15:32.858323+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -43,6 +43,15 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmwtbzJIZ1VrU1JDYVpHeFJTTlZoS2ZPdG5EdjNQQ2lnME11bDFuMDUwaElsWm5ic0NueERvc2lTbmRWNUN6dkY0WXQ5WjFrRXZnRGxyRDBKUi1EY1dKaEhKZzJfcllKRWpDRk1CM3FxdE1KdkRGMHpwX25va1NCTkZILVNqMXBKQlVJdTByQWlKY1NGb0RYXzFiSGI4VVFUY0x6QTJSeUR2NGo5dmI5U0pBcTFXUWRxSVFtcjl2aVRxbnlJQjRzQkVqUlQ4aDA?oc=5",
       "source": "Utánpótlássport",
       "published": "2026-10-10T07:04:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Az autópálya miatt új utat nyitottak, a régit pedig lezárták",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc09OOElQX2dJX0JldWk1ZWxWeVU3aldUMjhBMHdWOEg3VW5YVkl6UnpjYVAydXo1azVyandlbVU1Yl91Mko3NC1lTUl3MzNnYmNZcExVWE4wa0JvSGVPQU1vWUc5V0tBUDhkQ2lTb2NaaDQxNWdVNWlaOUlzUVl3OFk1RVM2TzYzdndEUFZVdXpITWww?oc=5",
+      "source": "Székelyhon",
+      "published": "2026-10-10T06:15:13+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWVveG5DaTYtbV9MLXhMb19kUTFlRW5McGN1WmIySGZTUi1hdTFydWJnMzloaEVwNW1GNklMWFA3N2MyWTRqam93QkdhUkF4YzlQWE45SFByTXhhYlV3OXhRY1FpZU5abG5sYURvNl8xdXN1R0hWOHZYSk15YnY5bUt4Tmh3Y2hmWDV4UkVOMDZrOUZEYXVvXzFQblIyODdqOWNWVzVNSHMwdw?oc=5",
       "source": "Vezess",
       "published": "2026-10-07T14:51:37+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "How High-Speed Rail is Reshaping China’s Domestic Aviation Market",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PeVlVZXRweG55RGp5bGNDX2hVZjBGV1BZVnJSQlYxWHdJRnlqOTFHbmJkX1NGdTZCem5zb3hiZXpDVnRXcnpwZm9LZG5zeUk4azZPejM2WlFrLWtObEFiZ1dDaDRXQQ?oc=5",
-      "source": "OAG Aviation",
-      "published": "2026-10-07T14:27:34+00:00",
       "summary": "",
       "image": null
     }
