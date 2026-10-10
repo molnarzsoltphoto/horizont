@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:30:49.701247+00:00",
+  "updated": "2026-10-10T08:45:34.722754+00:00",
   "articles": [
     {
       "category": "Jégkorong",
@@ -16,6 +16,15 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd180RVlieVhPeUV4YS01NXFHc3IxWVZadS1HR3hFT294bmgwTjN6X3BNTzJLNHQ4Q2pKdGlSeF8zUjlETEZ1OUtNS2JDd3VFMWFkQnRORTRMSjJWU0c0UmZtaG1hSTh4MHEwb2xvS2lsMm9McmhCcVFmbzZIZ1dBSUhZWWxzMHRsV2V0cm9ERzZWeGp6amNySndKTGE0Zw?oc=5",
       "source": "Dehir",
       "published": "2026-10-10T07:33:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Nagy bejelentés a MÁV-tól, gyorsulnak a vonatok Kelenföldnél",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWklFVGtCaTJtNUZGV1pCYUF6TlhJdVBpcmhkT1RjeEt0QXBibWRsSUJVT25PQXJvSmpHMkd2VmRxNDVYOFBXVERFZEZFMldnbkJRNmVDMEhyNFo1QXkyM2xBTnY5Q3VZUWdlWkZTbkZPVm1lNzBueEJ1aXFfY3RKWXh1RThaOFRNUi1CU3RaM3U5ZTlITF9aeTFHN1JBUDQx?oc=5",
+      "source": "Infostart",
+      "published": "2026-10-10T07:30:00+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PeVlVZXRweG55RGp5bGNDX2hVZjBGV1BZVnJSQlYxWHdJRnlqOTFHbmJkX1NGdTZCem5zb3hiZXpDVnRXcnpwZm9LZG5zeUk4azZPejM2WlFrLWtObEFiZ1dDaDRXQQ?oc=5",
       "source": "OAG Aviation",
       "published": "2026-10-07T14:27:34+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "KSH: Szeptemberben tovább gyorsult az éves infláció",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcy0tb2RIQ1R1YlJXLVl6N2ZZN0hVa3J6dzJwLS1tbkZfaVlsRWZCc0EyOTVXbmNrSmwyNDkzdVhieVotemlSbUMxM1ZYQjI2SC1NTTk5eUNadkppSk9lbUxhSFlxRWxEZVlxZ0Y1aGhtOHFDbUE?oc=5",
-      "source": "BEHIR",
-      "published": "2026-10-07T14:23:58+00:00",
       "summary": "",
       "image": null
     }
