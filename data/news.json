@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:15:31.974951+00:00",
+  "updated": "2026-10-10T13:30:46.328518+00:00",
   "articles": [
     {
       "category": "Gazdaság",
@@ -88,6 +88,15 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWklFVGtCaTJtNUZGV1pCYUF6TlhJdVBpcmhkT1RjeEt0QXBibWRsSUJVT25PQXJvSmpHMkd2VmRxNDVYOFBXVERFZEZFMldnbkJRNmVDMEhyNFo1QXkyM2xBTnY5Q3VZUWdlWkZTbkZPVm1lNzBueEJ1aXFfY3RKWXh1RThaOFRNUi1CU3RaM3U5ZTlITF9aeTFHN1JBUDQx?oc=5",
       "source": "Infostart",
       "published": "2026-10-10T07:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "KSH: A vártnál kisebb mértékben nőtt az infláció szeptemberben",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEFfelVQamNXd2hWeDZxcE5vYzNHdDN3M0h3UkxmcjM3dzFhdlJHaWZ3a3p6SjRLeHVTemFvQUpQcERIT21Vc0E2S0YxUFp1WEQ0R3liaElzWVJNY1F3NG1aMjRwTlVhYktBbFZOQlJIaldnNWczZ2xBSWRWTllNTTd4dmk0alVwcXdWT2FFVUNydXNVbS1iZ0Y5RUk?oc=5",
+      "source": "Pécsi STOP",
+      "published": "2026-10-10T07:18:52+00:00",
       "summary": "",
       "image": null
     },
@@ -2239,15 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUVTbjVrekhCU1dBY09LZEY1UWZzNjN1MmpEb3o1MGhHZXlrM01rdWN4MHgwVEJXczFwUWVWUXlKMzFhQzNSemE2ZEZQMEdWWWVfTDFhcXRvMmg2NGVzYUNQYVhnSEFOOVJ6SjNCcGNGb1RwblFJbG43QzR6bGRzSVhyMGFOUDVVeEo0?oc=5",
       "source": "24.hu",
       "published": "2026-10-07T18:13:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Meghökkentő parkolóhely borzolja a kedélyeket Újpesten, a BKK szerint minden a tervek szerint halad",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xYm9JOUJzdmlmazlaWW9TV01jaFdCLS1qYjAwenJ4N3Vha0wxZklIR0Y0ckNsVkhDX3pIbDk3MmhReXVHdzUyTGJVMnZ3MFNibGN4SUFiSUxaZ3IzSGM2b0cydmoxdDBtR1h3QVpCWFdmN1FvWm1QWkpsbElsQQ?oc=5",
-      "source": "Index.hu",
-      "published": "2026-10-07T17:16:00+00:00",
       "summary": "",
       "image": null
     }
