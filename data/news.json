@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T09:45:35.599574+00:00",
+  "updated": "2026-10-10T10:00:58.961133+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "Belföld - Gyorsulnak a vonatok, fontos szakaszon töröl el sebességkorlátozást a MÁV",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjJTeWJSQUZSSUZxUjdHV2JvOVNhMFU0X3Baa1kxUTFDR0M3Nm5fd3pXbDFHcUZPWnhpYnBpUmV3a0JNUkhhbUpNRnpXTXYxZmtyT3h1Nm1CVm9ERFlabzZMSWxRcHhPWXlzVlNUc0dNeWZUWENGWlJBVHVTam1TZ3BxakcyUEoxWjMzWHpIbDF2ekk?oc=5",
+      "source": "Index.hu",
+      "published": "2026-10-10T09:05:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Jégkorong: tavaly áttörés, az idén szintlépés – Horváth Benjámin mindent megtesz az U18-as válogatottságért",
@@ -132,6 +141,24 @@
       "title": "Butterfly-Rail Launches at InnoTrans 2026 to Rethink the Economics of Night Trains",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdld2bmFsTTd2eHlhQzYwcDZ0SUJYOWx2RTYxS285QlVPZnh3N1Yzd3VodmRHZlhSbU5uSXVoLThrMVBpWjFfaDlFNzBmS1ZMUVBvaVdWamVpdU9BWlNEWHRKR3JsUmJlU2tvRGc0YVBNNUU5VHdmY3lkYlF6Rks4Y2p0cEtyRkoza216RHBHVHluRjMxN2lEcUc1LWZMb21SMmpVLXR5eUxrX2pHTFg1V3hEdlpmYVdIOHpLR2NMcnFUZTZEQ1Y3R3NzejVyR3p0NE9fWFFPWWw0NnZFenZuMkVFTjkzMVhQcl8tUDJwcEpuV29wRTdOWUVaalhzWUtjZC00dXRmbTFxQnY4cFFLN09ndENiaVhYZ2c?oc=5",
       "source": "Times Argus",
+      "published": "2026-10-10T02:05:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Butterfly-Rail Launches at InnoTrans 2026 to Rethink the Economics of Night Trains",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUFZZcVZ3TUZQZ0VIODBPX1RlTFFoNU1jYk5jS1VlYmVMOEY4NFQ4aTdVblU4ci1JaE5JcjFIb3NkNDVXXzBkTHNBaFZfQzlPdUdPdUxjZzN6eExrLTVsRTN5Njkzbk4xRkJJNXI3NGo5U2U5OEdyT1FNWGxzQ1g5LTZrU1g1ajd0bkVteTdRdGUyM3k2MVJxUWRDbFFGd0dIYmZyalYzSXlPWHk0SE5uMjRRbGM3RWd4Qm43YlBWa2dCT29veDZhcW1ZMlhqRVF6bE5TRjZNLV9MZENhNTMzeW05V1FlOUk0VnNLUWVDYmQ4T0FWLXR3c00wTHZyd293Rjg5a0VvLWRkUmNHN2pFcDJJMlNQb0U?oc=5",
+      "source": "Northeast Mississippi Daily Journal",
+      "published": "2026-10-10T02:05:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "Butterfly-Rail Launches at InnoTrans 2026 to Rethink the Economics of Night Trains",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQUwwdDF3dUZKejBlWEVjVDVsbXVZQndKMndlY0pGMEtIeGJhSkVLdUdpM1NIS3djZ01aRWZHODZTZXVDcDB4Qy1XRExnVDhpa1NIOURTRHJiZ0hrckYxa1JlM1p1bUtMd3FKQnB0aHNhM09xdW52ZDVfMWR4UnAyeG94R3FhSGh1bjByNkpsQ3otZHZKNlV1OG1HZjJyclhxT1VZMHprYlMzalNNRTJVMGloTkJNbzEwY3V0US1CbHNfZWJWWDBwSUY0cTl2aVNXMUZPejZESXVQX1MwUUNDemVrWkpIYUZuSWJCdXM4RlBjXzZwZFBlTFF6RE5DUEpaLXJtNkMwTXdzeWljWGRjZWJlN25ScmhzN0E?oc=5",
+      "source": "Local3News.com",
       "published": "2026-10-10T02:05:03+00:00",
       "summary": "",
       "image": null
@@ -2221,33 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWkweEJLMTZGUmtpNldFZURpb3FUamgyaWZKQXhTRVVmZ1VSbzZNQ2NHd1JOUTFYZ0ctQS1kTGJKMnBWdnhkdXpkWEdkNHIyT21QTXBRSFAwSEVFNnI5SUFCNFZzdUtfeWt4OFNqMmVfdHdKUmVfaWZEeElOTUN2bnl4bUJqVVFhMDZ5bzR1b3NNR09uSk5ISWk1WXB4RzljM1V6NTczZDl4NTdYVnFMa1QyWGNtem9XaDY5elpJdzhRbEU?oc=5",
       "source": "mfor.hu",
       "published": "2026-10-07T15:53:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Határozott gazdaságpolitikai irányváltás és gyors euróbevezetés kell az igazi gazdasági fordulathoz - véget ért a 2026-os Budapest Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOVEpoNUUzS3phOXRwMkhrLUFhN3lsdFUzSFJ3b1d6REU1R01HTzN6VTlqTEtoWVJNVFZHM0JydkR6eDZsbVlHdFVrQVZQMG54NG1UbUpzOU5PdUNMbm1SdExaNEZmZGoteUZTMlN5LTRibHZmMGF5M0dUa1FTNTlTR0dhYndFYWpaTHBNUXhhelAxbVpnZU5pM1FwanJGejI5OHdZc25pQ1JTS19PR08tOEtpOFRZT3NZaS1OaTY1QmVyVE10Z0ZPNm5wQnhSQ1V0MGx1b1FvQ2s3WXpzdzlqQWUzNzhpcjd4bTd2RTdnS1Z2a3l2OHd3REJmSzdBTnpWT1d3R0tOaUtsQktlZlFUdG9KYVk3VjViQUlnbkZ30gGjAkFVX3lxTE1xTnJxOFFRcERaS2JGSWxVQmtYV2EyS3RtdjVXM0dURHBkckNYN1JxVlp1Q0VjNGkyYXRTSXJVNW9ZSlNhYWFLVmJFQ1VRcEoxR2FyekFyR3BwU3loMVVjanlyUm1sTFlkNGxxVnJsSDdGdThFNk9HaVJhXzVXeUpwODhPLTktU1hsUHhtRldFcEVBbEI5Zl9iY1d1WU5yczZub19DaThCb0kyMG9RU1ZQcnhHNlVxZUtBNW9OWTV6MkRzT3dzWWZSUDRMSTNiT3BVQm9na3ExUU5sdG1zSzVpMTdCYUxveHYyMHFpNjFPVTFxd21MSG5JX1NjRDJxS2F4U2QwMUxWLWZNVm16QkNsaGs0WjBBY2lKMjUwZ21XTDZBWQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-10-07T15:52:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "105 milliárd forint megtakarítás egyetlen döntéssel. Felülvizsgáltuk az M6-os autópálya koncessziós szerződését: az autópálya 11 éves üzemeltetése így 149 milliárd helyett 44 milliárd forintba kerül majd. Ez a feladatunk minden területen: újra és újr",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaExvVG9MMXB2TFI4eVFibGp6SWhzaDNRUnBxZHd4dUFJeTFiYXQ2dmV0aERnVE9uYmJ2aHVQM3BPQjNvdkRfNDBGMzFqRHMyLWFlR2lsNEw0NFFzaHNna1JKRFloY0k1bktEZUwwbnRzZUM1VnJsRkM3WEppeEdCVjlSMnRlbF96UmFSSkFLQzNSNVRtbS1yY0Rxc0d6VW5yNUFIZzNDZFg3WUpXSUR2SjFQb1FfeU91Q3ZKNGF4SDFCM1VwX2dwYkVxRGpncng3LTJXMWdBMEFaZ2UtcUdXbjFla0FSZEplUEdTeWpCQkJ0WFFqS0hNN0dKckRZS0gtbDhqNlZSakJWaU1sQ3c?oc=5",
-      "source": "Facebook",
-      "published": "2026-10-07T15:50:35+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Gazdaság: Bod Péter Ákos: Szorgalomra ötöst kap az új kormány, magatartásra négyest",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNkVIN3hPWER2R2RLSGFVckhrSjBTMkRLbGVQdVNtRUJBVno2ZlY2TmlYTDdVU2I5bF9QZW5zMXFmZ1B2X0tFREJOUnhTZXpRZUdZU3pORVhUZ0dZSlV0eHVacU1HaUhJOXhkWEF1MEM1MGk2WGxjV1NwY1UxMnM?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-10-07T15:44:42+00:00",
       "summary": "",
       "image": null
     }
