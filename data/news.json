@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-09T23:01:18.369765+00:00",
+  "updated": "2026-11-10T03:28:29.805029+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Te élnél a Holdon? A NASA már keresi az első lakókat",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zdGhXc1JkaEVFQnFMbng4Skd6N3p0ZlM5UHczdW5MYjFrZDA2aWFuNWowNVdJXzV1bXdvWWNMdE5FcF8wRjV6X0FzQzhrZUlva0t6NEQ1bmVmaXA5V0ZHeGpBVkEtYlJPclE?oc=5",
+      "source": "ATV",
+      "published": "2026-11-10T02:33:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "MÁVINFORM: terelés / korlátozás – kedd, 2026.11.10.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkxSdkVVc2JZQmVoZFJIMHdUSEs3bUhMVTdfOVBCbGt5emN2Y0NpOEV3YjV6aXkzVE1WaWR2VXFFTC0wdU1aR1pJT2tURjE3eFhoMGdSVEZyQnlZaVk1bjBMNklvRTBITnBrNnk0bExZZUg0VHpEdTBadVNsSy1ad3kzSU05ekZTQ3lyM0FiZlhDLUloekhPYmludVA2bUk?oc=5",
+      "source": "https://www.globalhir.hu/",
+      "published": "2026-11-09T23:08:02+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Tisza-kormány: őrizetben Orbán Viktor öccse, Berlinben mondott beszédet Magyar Péter",
@@ -317,6 +335,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Annyit költenek bérekre, mint amennyit Mészárosék kaptak az autópálya-koncessziókért",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdzRvN0JNVlRxeGpjU1ZUTnZHUzFGdTJTYmJHekhrNW4ycjRuUFNCRFJxaWx5TFREVHJqOUEwa3pfeGFPM0xTV1RWaHhEaWt4VWVrem41OXdnUzBLVENmX0gyXzZvLVFRcmlsMGxSMVR3a1ZEMXhHNg?oc=5",
+      "source": "Telex",
+      "published": "2026-11-09T11:25:45+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "Ki ad többet a magyar GDP-hez? – a HVG speciális cégrangsora",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZN0pMLVo2RkZCUGR0SWdzTl9sS3JBUm9LNHN3T0E2UXdpZlFZeVZLb2NRb1Y0dkJ0czV2a0M4R2tXWFhnTUhuUWZzaHdmUWFzZERWRDdWMTRIN1V0MlRBdktGY01Gb1U?oc=5",
@@ -403,6 +430,24 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51YlRuVzg1QTd2aWFIakpfV1lydmRFQzNoMHg0X0JYbTFFNE1sbURLUXBPdURObzJtaEFtYVpGSV9YQ2V3cmowcjVES0Vvd3p1YWpTYTRDbUIxMGstYS10X1ZxZ3R0UDZFeDhJcFFDc01ncnBWUFJjUg?oc=5",
       "source": "Index.hu",
       "published": "2026-11-09T09:03:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Keresi a NASA azokat, akik készek a Holdon élni",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHpzS19TQlJSSDJIWkc0cjVRQVFkZU1BWVpQeFJWdFJnQkxaZnQ3Wl9qMzdkc0FKZjB6NExxay1lWVlEUlZFSDB0XzlPbmpmbGxOYVdOWEdpSS1GRU82UWdEQXJ1b1BEOVZuZEMtLTdEYy1DaFhNOXNTNG1fQVNrdEZPMDFuT09TVDlnYVNKVWVWVUF0RGFRdFRn?oc=5",
+      "source": "Hírstart",
+      "published": "2026-11-09T08:54:46+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Megvan, miről tárgyal Magyar Péter holnap Berlinben",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODRMQlJDdjItVm9UU3YxYmtUcEVZUG9oMi0zY3NsOEJoWHRfT3JmWkdiT3ZxUFNfS2xKRjZoX21yU0N6U3p5VWhiUThyY3RDc3Q0TFhfUmRiNzRqTXZZcFRPSjZEVmROUHY2bjJ0RnBFbWpGNFVvSWRtN1gtbHRkRVhCT0QwQW9ldlZhNDc4QjRsMF9F?oc=5",
+      "source": "mfor.hu",
+      "published": "2026-11-09T08:33:00+00:00",
       "summary": "",
       "image": null
     },
@@ -943,6 +988,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2o1a2YzWlZKU184LXpiOEhPajRzTl9NaHpjTVQyT0I1RDFiTEtvR0xnUU1YNDY0TDA4YUI5b09fRmw4THBGc1E0bFJsbVMyNkNVX3JMR3ItYUhCcnVwQ1hPNWgyLXpzeTBwU29YaXJ6eHJnX2wtWDd1WGN6N1lFWGktYk8yNU9RZG11dnllTWkxbUNhMkRLZzdlRU9MRzh0enktZkh3?oc=5",
       "source": "fmc.hu",
       "published": "2026-11-07T21:53:46+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Férfi röplabda Extraliga: MÁV Előre Foxconn-Pénzügyőr SE",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmVWejhNR1drUThFREo4WVFqdlc1TTZMend5d3FOT0kzaGdQMU1walROaDdFRmNoWnlUckZDNXl4UFljWWVfVEZOQUJ2ekw4ZGJZd1Z2eVdLdDRoTDNxV1VTeVZMUVpuZDRrUmZMalQ5czh2RHhMTndqMGVnYWJQTVlKRGlvMkhHTXJvU1hn?oc=5",
+      "source": "FEOL",
+      "published": "2026-11-07T21:51:40+00:00",
       "summary": "",
       "image": null
     },
@@ -1884,6 +1938,15 @@
     },
     {
       "category": "Nemzetközi vasút",
+      "title": "400 km/h High-Speed Railway: Next-Generation Ultra-Fast Rail Technology Arrives",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95LUtLQ040Wk4zLWJvY1dDd2hGeTZJYUZHX2NtTFhqQUhteENiZ2cyTjNUOUNNMlAxSHdzQzZveTVWMzUxRklKWDhIWmsyNFg5dGFJ?oc=5",
+      "source": "36Kr.com",
+      "published": "2026-11-06T02:51:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
       "title": "Newsom Taps California’s First Black Finance Director to Lead Troubled High-Speed Rail Project",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0RuLTQtd0tHaE45Y1lfcU5rOGVTbnE2VXQtZU42c282UmFjRWJxeTRjNnVkZWl4U0RPV00zTmx6SllyN09tZ25oZThUNlRQNzl3MHJIWjZKYml4QWNtTk9SNXlXUU9SVnE0NTFiWFZ3RVlWTlBmSHlrdDhObDE4ZjdiQVBZVWV5NXA5RUNKdXYyRGNZSUtJSDBLeFJDWlhNYmd4Zy1HVUtVN0EwRDA0Q3hFV2RlaUVmTWQ4WVF2Q3l1SmNhLUZVNGRSYll6Ukw3Wnp2YzRhOVY?oc=5",
       "source": "LA Focus",
@@ -1906,6 +1969,15 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1Y3MkZiZ2g5YXdxUmJrUTJwY0Q5anBvNzMtTmxSamZHd2NXSF85bG5lci0wUklPX0NwZmg5WERzRGNFbVNCTG85eUtZRHZsQXJXNDVkOW1yZGt0c0ZtbGdQSDJlU1BxdW5fSDdxSzd5MzVvdV9ReV8ydW02Rkd5dG1yOHlNYl9LNTVoUWExbm1UQWdRdmlqdktZNVA3YnpMellVMXc2WlRveHJ4RzZBQjdOYUxLY0R2S0NXcWh4SmN3Y0ppZ3UwWmRLSy1tcDJDMFHSAdcBQVVfeXFMTUNMNXFwT2dhS1Vhc3Nfbk1naEZ4eDhydzNSOFlEWkVpVlEtdGtmRTRqcmRhYUNyVUpVbW14RVdadTN6UFNXM19ZWjREdWFYdWxaUHM3TEdLdVpudlA0ZXREUUN0dWlYZXA0QnRlSThReng5ZEplci1RUUtZUUNrRF9zYnl0UFBSS1oxM1JaeFMzZk9GUFVHRGhWVTY4UDRmbGIzV1hZTVdtNDZXOWlOZ1o1LXE3VmlEQVlsczJjSGxjVVQzOUtoTG9UZ052aFRla25sU1pVYzg?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-11-05T19:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Űrsétán korszerűsítik a Nemzetközi Űrállomás napelem-rendszerét",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX05DTGp5azNpUDBhZGxUUTBJeEhTUWFkMnJWcXIwN2pHSmZZTlFCanBZWGJOMncyMG91dHRiQk90RWMzRnRjOHhiRlkyT2dPSnIzeGJfazQ1T3VZdFFUMUg1dnZ1b3I3TzFwUW42QmJhcXRXbVJvUTktN3RPU2lPLU1hRFd3OHFKTm15UWtMVng?oc=5",
+      "source": "Androgeek",
+      "published": "2026-11-05T19:28:40+00:00",
       "summary": "",
       "image": null
     },
@@ -2135,6 +2207,15 @@
       "image": null
     },
     {
+      "category": "Csillagászat",
+      "title": "Félelmetes erő tört elő az óceán mélyéből: a NASA közzétett egy ritka jelenségről készült felvételt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3BSWWJnVVpudkRFR2IwbWQxQ2RxbXV2R2FtMXUxUFhPcmJsMUh3UFRiNDdfbndMY3QwcmVBN05YYW9weG5kbnUxanNnbF9BMjNJLVNjbHFlb1FWOE9NS2VrR2tKZl92NldPenBTTEpBeVhGRnRsLUZTNFBxTUlFVjBEeG80RENzRTk4?oc=5",
+      "source": "Blikk",
+      "published": "2026-11-05T10:25:16+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "Tisza-kormány: döntött a bíroság, nem engedik ki Matolcsy Györgyöt, közben egyre nagyobb port kavarnak az ügynökakták",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUE3djJ1cW1DakIxYUdvOUV3MFpYTElXUGZEbjFGOE0zWWNqNVJ3a0RUM3d3b3I0NVhyNk8wZU5yRzNrZmlacU1RU0dUNjMxUnNkcXdoS3MtVGxyQU1wMzc0cWlObk5yWUdLd3Q5S2xDNWV3a010cHdfRXBuakx4V1lRY3lBT3pnamRDS29YemxZVURZZWVrTUJwX3lSdkZramJYUUtNakcyYXhMZzVQUERzcWfSAfwBQVVfeXFMTVozMGQtMFpsUjM2enM2RDlHTUVDLWNRVURGN2tqSmE2Tm00UU5QTU14SWpHVW5ZdnBDQ2hFWEhjVUNST0paaThmT19kQm5GYjh0ODlmNzd6ZHVXYVZQU1ZkSUlXSjd4dnBFM29zcjhqYnpnajF5WVFUblNJcmxHNmJyemt4UlZpM2xnQzJsQjNjMUpOSEdyWHhGSlF0VlhYU1NPQmlXSWJkcWNGUU1uSEw1T3JJZmtQejJaQVpuaWRCZ2VUSkxYdFRuUVp4ZnlpMUU4TVc5VTdkenhIWk1TMlZjU1VEbW9ySlBDdFR2U3h1ZHZ4UEh5QmpVQ050?oc=5",
@@ -2167,87 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDdXWXRLb3luNHpfZmMxb2RnYzFhN2x3eHo3QkdxemdXazNra2ZMTGcxZjV0SVhPVzZGMzcxSDJ3Z2VEa1ZwTTBaMTVkYzF3ZTF6TFdUSHRVOWRxR05Ka3FVVF9yWGpNLWQxMU1TSnZ0YWI3UE1wMGhlUFgtWG9DaEkxakV5QlN0ajRLZUExZlZLZDJC?oc=5",
       "source": "BKK.hu",
       "published": "2026-11-05T08:52:07+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "NASA-űrhajósok a Nemzetközi Űrállomásról szavaztak az amerikai választáson",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXJsd0lIejhkTllrZ1U4Qm9wbVAtTWl4OW5lZHJWbXhmbFA1NFQ3dEhJclI4cDRBbVByWnVZejN3amJ0OE9wdVR0X0tTXy1UN1d3bmlSWXJMYXd1cmxXUFhCTzNHY09yRUtORjUwR2tmVFg3dmFoc3h4dHBCNVN3ZnpTRWhoVTM0VTRFR3QyZFVnSk1DSzg4YzdoOGFHUzVSUVBJdUh6RDlSYkVKaWc?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-05T08:36:37+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "NASA-asztronauták az űrből szavaztak az amerikai választáson, a Nemzetközi Űrállomásról",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMEEtVHMzUXhSajNCcjBLdHBDa2oxNWVfUFNZWGFXMjJKb1RibUZza01wbktCLUF1cV9zXzl3NHFGcWlISUVwY2xVZzdka3U2UXJvT210NFV5RGxsekV6Zl9iVFhTVG5qSGVaemZVM09GNVdYQ3dCNUZsRzNXVDByV2lHMllWMDEwM3lUSW1IWUs0VXFsQVhTam5CVm9HekZRM0FhNnVGMWIwemNUWGo2VDhPazFJNDBJUlFwcTNn?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-05T08:36:37+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Megszólalt a NASA egykori űrhajósa: biztos benne, hogy léteznek földönkívüliek, és az űrháborút sem tartja kizártnak",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY2VwRnNjOUNhTGVXc2VqWnhJeUN6LUFIai1LMG9qREp0RzA3MTNxUF9SYk82eC1yY1JiYll2NHFHbk5EaTI2ekxZNDhWbldJNzd0Tm9JNTZkWG9jMGhscW1qeTIzb2FNNlVRSGk3eEItdkc5Ni01eEFndm1iT2lZUnBUTG5faDFzMGJBY3ZXOGZIZw?oc=5",
-      "source": "nlc",
-      "published": "2026-11-05T08:03:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Elérhetetlenné váltak a BKK-s mobiljegyek és bérletek több utazó számára",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RjhTSkI5UkJXM3I2NGZIV0MxX2Z1YmJtMm53STlNeHpEcUtSMnROMVJoQXM5UEpXMFlEaVJOalZGQkRhT1VpTTB2TkU3TWhFS1hiZ2JfLXJHV1dxR1RGWGxFUk1tTlVIdlo5RHlxZnhOcHJT?oc=5",
-      "source": "24.hu",
-      "published": "2026-11-05T07:59:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Milan–Fradi EL-meccs és lett–szlovák hoki a tévében",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tR3phZWNzWm1VUzlaR1FBcGNQMXN0d3J2dVZXTVBMajV6SlgyaTdiMVZ3VDM3bm1ybG5JeVAwLXVYT21wMk1hdlZGX0VzS2Vfb3VtSWFJbTJraWtvU0pSaXJaenFNTEkxWlU5ZE5jaXgxNlRacGtaczdB?oc=5",
-      "source": "Új Szó",
-      "published": "2026-11-05T06:00:01+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Dél-Olaszország üres polcai jelzik: újra gyorsul az élelmiszer-infláció Európában",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVIxM0VHVGJhd3V4VUNBaElrMHY3TkFYc2s5Qnl0NkV2bnlFb0J0Y3M3Q0ZpMTFFN056bUh4QURwTTBEVHUyd3BQWEY2X1V2eF82cDI2LVdqaUdCakMzMnp6Vm5rcXhVVHh0N1M0SzlHRDZDdWI2LVo3cHhBaEFTdW1Jci1VUVlnLWw4RlNSdjgwT0EtNXVzRjRGck5QMnJodUhtd0VmUlJnZi1XbWUzR3B0QzRmdw?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-05T05:54:08+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Colorado Avalanche - Nashville Predators Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnNSaElWYjExV0RTRXlETUphNkI5YVA5VWE3cjVJSXg0N2x2MjU3TmNYblRvd0VYcml2UDluNnRLRXdVbWRCX2lxc0xodFpTMS1pTm5NblU5NXVmY2g2TG95NU5IWEh6LWNJRUhFdVl4QnpfSC1VaVEzdDBqU1hEU3VsUkZxV0NEcXlQQVZWckJVSEpFLThfTklhNzdFdzlNV0dEQWxMLUlWTU1ZQXAtbnBiOU1DUQ?oc=5",
-      "source": "Eurosport",
-      "published": "2026-11-05T04:36:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Pittsburgh Penguins - Boston Bruins Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUlxVEJYODZOUlBaTmRMemhKR0hUbnB6NGY3c3phWWtMTEExZ19Sc2RJZzU1bWVqMkdQSkpPRW9ibmZvaWtCZ1JIT21kenZRZFNLNFQ3azN1QUFkYU40U05ZbkxhS2xLQTJEeHVEYk5IZFBPNXp5RlpqLV9Ldzl1SV9lWlB2RDNLZ1lLa2I4alJ3UG5DSUFUOHd0WF9GYWpxX3h4MlZFcUZNbXlsTDc4?oc=5",
-      "source": "Eurosport",
-      "published": "2026-11-05T04:28:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Mekkora lehet egy vesztes Trump dühe?",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zbVp2czhMdlAwN2h1Mm04WWNzTGsxUmFJMHRZRk9PRWN3SzN5Q2ZEY3I3YzJVTlNWMnR5WGtxc1BEZmdibHcyRkRhV2lCSEw0LXRVRlNEaDJVUW5VWXpFTGV3cHBfUTlIaUJ6MQ?oc=5",
-      "source": "moszkvater",
-      "published": "2026-11-05T03:32:25+00:00",
       "summary": "",
       "image": null
     }
