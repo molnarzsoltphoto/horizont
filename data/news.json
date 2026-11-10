@@ -1,10 +1,217 @@
 {
-  "updated": "2026-11-10T08:47:51.848746+00:00",
+  "updated": "2026-11-10T11:42:34.872171+00:00",
   "articles": [
+    {
+      "category": "Belpolitika",
+      "title": "Napi 257 millió forint hirdetést rendelt a Fidesz-kormány a 2022-es választási kampányban",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzRWaHJjMVBHTlhSanFOWEstaWlRZXIwN0ZNZTFlMnFUX21FYzB4LTNZYXl4MG1uY0NuSS0xU3RyUUVvREtGVDRKZHVMM1d6ZEROeFloLXBHdl8xV1FCUm5KZTNZRFJ0SGNMU1Rpb2JYS2FUNVl0MWNFU1hYOUkyUWs4cVlzNnZERy1acS1aenVUcjFtSlRRQUszWGVnbU80dl9BV1puZ3V3VXA2dkZnbXBRNWdIV3ltcmZ1eERzdjc1WkNyeFlzMA?oc=5",
+      "source": "atlatszo.hu",
+      "published": "2026-11-10T11:33:13+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Magyar közlekedés",
+      "title": "Karácsony Gergely: Januártól indul a regionális BKK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbU9LajlrZkM5T2V2YUhRcFJZWkdUb1dveDBxREVkc3U0NnBJRmNNRm5pbGxUb2FvbkxUVUhMWXhTcVB0V3kyUUhnbWlLWHNyU2w0dGl2Yk5KaWFaSWpMX0tCT0dXaVZiRTZ4QUhQTUF4TmZtZHRNYy1JdUVXbmNENjV3?oc=5",
+      "source": "24.hu",
+      "published": "2026-11-10T11:04:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Miért gyorsult az infláció októberben? Ezek a termékek és szolgáltatások drágultak a legjobban",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzNIcXRqejNpay1PNGtvMlQxUHVpdDhER3RtZ0dhc0ZCUlFLTnlzLW8zZHhSUkNHbjFCd0dmRElJOWtCQTNfb2tMYl9uOGpqNzctWEQ2TXVnanFrVVdGSHRaR0JXTnBiczZBRmhqM1ozTndGUlVqNEhlTDh1UnpKeWxidjVkczUwTnNyblFfOVlEX1J3ajI2R0VuX3NFMnl2SXFQamJoWXdHemFYRVdTR3JEUmJHdEFlbnZPb1FhWGVnYm9rRmxRYzlWUzQ?oc=5",
+      "source": "Tőzsdefórum",
+      "published": "2026-11-10T11:01:02+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Hiába alacsony az infláció, a lakáskarbantartás hétszázalékos drágulása nyomást helyezhet a társasházi költségvetésekre",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRjJoNFN1czBWNUd6cXRaejRDc0NEY3B4dThiUkhLc3pjZFpJUUhJSk9iVU5SWlhZcmVGZ2M5YW9aUzdIU2pEUVBranBoUEtZQXR2X1dDeThaRHAyVHRuQVZYUGJoOGxsMm43M3pPU0JhRmF0RjFtM0NOZjdfTERNY1duMm5qZWVZMVhGanQ4OGNjdzZYa2ZPaEFKN2t1cHNfdlE1NVJ6Q0xLVTNBM0FaU2Z2eW54dExudFVWejZrMk91d0c4Y0x4VUdtUnhYOXFOSlBfWXNqdkhmZXlDLWFXNUtB?oc=5",
+      "source": "tht.hu",
+      "published": "2026-11-10T10:46:02+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "„Ebből elég!” – Egymás után két Railjet büfékocsiját rabolták ki az éj leple alatt, kiakadt a MÁV vezérigazgatója",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQTVhUEJ0OGE2Vk5XZ0ZlV0gyT0IwV0NTM0U5b0puckFQbDNZVUpkWURMS3lsX3RRUnA0aDZtRlc5Q0Z4bDFTRmtmQVFzc1d6TTk3R1lyU05tRk8xYmlWSnVLV3A3eHRCQXN0bWs0djRLUENCaE1IdWRTM1FPZzlfeld0RVZNV2UyV19HbTVQSQ?oc=5",
+      "source": "Blikk",
+      "published": "2026-11-10T10:43:44+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Asztalra csapott a MÁV vezére: kiraboltak két vasúti kocsit az éjjel, ezért borult a menetrend",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVG1HZmlrLTFYOG9POHUxS1JhN2ExRWluMXNWU1g5ajhDX1pfaTVNbV9mUUxfeThhbzRkN3JTMUJJZ2t4cDFweHpsRjFSU1p4czhTS3A1cHJodHdPWWczNkZNRWItMkY2OTBVOW9ZUWNnNjFhN3BpTHlyWTZNRnhtYTIzQl9rNTFKMFRhUUp1LXBTeXZ1QnpsaFk0RWQ5OUI1YjYxbllmQnpycVRiNWltRWdsMjc3MWlENjBSM0tsYjVvMlhYLUhvdjhqcmltTllZcXVZT3FtSU9HUdIB3wFBVV95cUxOYVByYldfaTY5X1FMTDgza2ozX0ZSYnd3QThWWE50YXNwUDFIUTJFX3doODJaa2Z3QUZVV3dia0dQYUdobFVmT1ZrbndkU0tNdmF2UDVNdlJXN2VMbWhBaEp6Q0NLWnNtMzdobFhpUTZaMHRuQXRnRHpPRHo5QUhzRk16TVZuazhYQTFMZDRHTm9Db3VNaDdBa29udXZnUXRGeEYyUDNpbU9GMlVoM3R5ZFNQRm9rMjBKTkRDM3YweklXRDU0S2pwaGwwaGxXc1BNdHp2STlhOVkyLWR2cTY0?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-11-10T10:37:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "WSDOT Opens Public Input on $42bn Cascadia High Speed Rail Project Linking Three Regions",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQW5XaHBsU1I3dzRPUHlXSV9kR0tCSUM4bnNzSFVQdUVqUHpGWXl0U21PTzA4LWxERzFZY3NGMUJfX3VOM3RYc01reEdwa1dIN09jcjJ6bHhRYXl2ZW16bGowd3RJMklsVDYwU1ZTTHhGYU9mcl82VnpJMDdWMm9YelBSYnFkSmVmbFFoRVVYLW1OUlZqRmZtazdBYW5FYkZYc0pQSEllS1Z3ZzN1Yk1ad1d3Qm5TYWNUMVFnMnJFWkV2dzg?oc=5",
+      "source": "Construction Review",
+      "published": "2026-11-10T10:30:56+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "MÁV",
+      "title": "Belföld - Feltörtek és megrongáltak két Railjet szerelvényt az éjszaka, a MÁV-nál betelt a pohár",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEtRMVZJUHNKeXo3NUx6SXc4Z2tOU2RhVFZCalRnalJtYVk3VDcyVVpkOEF1Tk1BdFB6dWx4MWp6UERNY0pjcDZlZFQ0SkFGSXh6SzExMlRlMlUzcWlWUndxR1U5c1otVVFBYUhSSFRzMlVKYS04VTVKQTN1czdSc3pSTTZPbVB0RjBuMFhlRzlldjZDX0NFUnNxNjQzT2NUb21CRFVfVk1aYzB6?oc=5",
+      "source": "Index.hu",
+      "published": "2026-11-10T10:26:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Kármán András szerint ennek köszönhető, hogy gyorsult az infláció Magyarországon",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFR3NVJZMk5rUDI4Q1VFajR1d3BSdEIxZHR3Zmx1WU16bFROS2NuZ3VOWWdmQnF4d1NYc3RSSFRrakFxMGJpLW1sdEk5cHNYc1Z4Rm9HY0pLU1pmUTJITkRmMGFrdXByaE93UkhMNlVJbHh5SHY5WVU3YndOUlktdlNINm9xYVFYNkVObUN6V2lmOHgzeTdmWjI3MnAzLUwyLVkweA?oc=5",
+      "source": "Economx",
+      "published": "2026-11-10T10:19:18+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Megdobná a magyar GDP-t a faktoringpiac bővítése, ötpontos javaslatcsomaggal állt elő a szövetség",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUkdhYlYtcnRKQTlnRWQ2ZVRGVnViN0FKQkFncjlqcGVjQ0FZbEt5SmwxUldIUHhKNzV6a2tKZG1Lb0kzTGNuY3FtYm12Y3YtQUlJQkFLVURGOGFiSkdZTkRaMU5ZX1ZlQkhrakZiSkRrZ1RiaEI5TmVSZTRpS1pOXzg0bGFVNHVyZ0VmMWpQYlYyQ0VyR181VXpRdml1NXZzaEYyQ0RoSUMzUTB2aHU1ajBzQWpZb05MQndFZktpa3Nla3g1emkxcE8xb2ZPYm1lakhuZlB4V0hLd9IB3wFBVV95cUxOZDZLSkItV1FXMUJLNXNSN2RZYjhzWnlsNVpOVHE3QTJhY2hXLWZONTkxaUZ0R1dTbG5GWUJOaVBmUnRzelZfYW5yV1dOajNWQWM2bW1GSk1EMGVpbmFUN0hMN090cTlQOGhTR1BINzRwWVQ0MGpfbTRaWTlVby1xdjJ6M1c0V1RBV21PeUROSlQ1OHR5dzJLYzhLajd1UTFUUVk3YVpOekw1bDZMR250UXl1RnBqTkNSSzBLMVlZWUltOFBsSWxCQjVSS3JpejdnZ3E4NDZCZUx1SHllYUtJ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-11-10T10:05:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Április óta nem volt akkora az infláció, mint októberben",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43QmE2azRqN2gtZEQwNlgxaWFpVlhWeGx5ZjhUQ0RORkJ6LTQ1MXFZakhRZ2JUVlJZSEZtaFgtbUgwYVBIb1pNLWtZbE44RlZGNHd1TThTc3BuUkZGd0c0SUtiT3ZyemhYRVhNWjZjZw?oc=5",
+      "source": "Telex",
+      "published": "2026-11-10T10:01:48+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Gazdaság - Április óta nem volt akkora infláció, mint októberben, megszólalt a pénzügyminiszter",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0xJRGxkMVJLNFZFTnBORHktQVRseHc4SklrX0R0M3RJbzBtNEFTUERibWtBajJnOHZiLUE0MmhZbXU2Y2t0Vi1iRktBUnNYRFJPVXBKS2trRUtZZXFyRm03UGZVNGJvOFN0ZXQ2Q0hkVndwTXE3QWVvbFZheUcxVkVlS01NZlhHb0l6RlJfU1hxQmtwZkppd2QxbVI0NjZNUzctOXln?oc=5",
+      "source": "Index.hu",
+      "published": "2026-11-10T09:49:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Tovább emelkedett az infláció 2026 októberében",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUF9adUtRZFRQSk4tTlpKTlhhdXBuZzVCUHc3WXZhSnZPYzA4Qkx6M2FXbEQxZjlfMk9SOGUxZzh2VWNvaTVOT0VGZ3pNLXhFU3lBZFh5MFNvRUVLS0p1SV9DdGRnczExRjIyeTJHalZSVXZvblNCSndpZlhLSWdNVEVBanAzVVdQN1E?oc=5",
+      "source": "Üzletem -",
+      "published": "2026-11-10T09:34:28+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Kármán András legyint az infláció felszökésére, ugyanazt okolja, amit Nagy Márton, és úgy látja: ez még mindig jó",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa01VZno3TEh6LWdORk1wWjhObE1UYnlWZzZnRG9yNGhkbm9KQjBDeEEyVXMtTURCTjdpVm9uOVRISU5mM0YxRFJmRXZSQjdjQVBPSHZkQUl0V0Y5b2ZycG1faHhNQzNxeFpXMF9WQ1hXWnhKRjBxQWQtZ1Z3OURQajFkb1VRMFItQ2tPeC1uMGRGT1puNDBhQmtMX1U4ZlZrNTRLaw?oc=5",
+      "source": "Világgazdaság",
+      "published": "2026-11-10T09:25:09+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Gazdaság: Kármán András elmondta, miért nőtt októberben az infláció",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWVhOUVnbUUtb0s4TmxFUlhaQzZVclhsbC15MEtxRHhZUVRmMmg3aVh6OHFpUDlXNDRVSjZZX296aVJjaklGZDZuZGlWSjlOaXJvaFhNZzV5RVpUejlHc1NpY3EtNkN4bXBLdlhLZ3RwbXF3QVpJemdlejV4WFFnMUxkTVNiYVJR?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-11-10T09:22:41+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Április óta nem volt ekkora az infláció, durván megdrágult a tankolás egyetlen hónap alatt",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1ZqTWwzUDRtNmlvaUFmeTY1ME5uNDJYWWVMc2VTOXBoLWE5SFVBbEpjdTRMaVJma042M3dqSmNKVE9wT3V1c2N2aTQ1cW5jcHdNdmZJY0dXUUFEZTdQa2M1NFBGNkpiQ3pOb0JXMUhkRE1LcXZ6d0prMWlhY0twMnNNcnhWeE5sQkREMWgxbnRqejluS0FtcUEzMzVuVFE?oc=5",
+      "source": "Szeretlek Magyarország",
+      "published": "2026-11-10T09:17:17+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Pénzügyminisztérium: külső okok hajtják az inflációt",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1NWVF9ZUmVodUt3UVRHLVFNTnMzWE0wTFRxanl3SnZPbThYUkxULWFOSEJFbnFiQnBmenJvZk1lTGNxSWc5cjJyRGtLM2x4d1ZJNzRENWlwLVdIVzgzajZORTFiYUNwRjZ1MElpQTZWTXNMRmMzVlpBT3VKY0dGVm9oS0V1akpDeDk2eTZGWQ?oc=5",
+      "source": "24.hu",
+      "published": "2026-11-10T09:09:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Fordulat az árakban – gyorsuló infláció, jelentősen dráguló üzemanyagok",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEd5VWpiYWlOSnlzWGRTVGQtR2dNZGlCNHRZa3hfRDNFTWFadS1YaloxQ0Z6MllPX3V1WFJ2dmk5VlNGNFpPaFFXUkhaMEg0a1lPV1l6R1NrWWV6TmNVM19jWUxUZkNFc0lsMGdOTjBNRFY4Qi1vZTVnSFJkUXRoRjBxRDBNUFhmWXN5N3ZrZ1dRaXJWdHRNUDhqVnItR2VCQUdvMFJsWms4V3c4WlN4N3NxNGhKWTNmcElCSzZB?oc=5",
+      "source": "EgerHírek",
+      "published": "2026-11-10T09:05:42+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Tisza-kormány: elérték az őrizetbe vételek Orbán Viktor családját, Magyar Péter a német kancellárral tárgyal",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON2F6Mk5ibWM1ZU94bjhCRF80dTN0NUptaS1PYUZVMElqbWZKd3duMUhyR09wLUk0LXh1ZTNYdGtYa0Z6dTVTYldHc1dOMU1oak1renNoMFUtU0RleGNnZFliNWM0Y3lYUVFRX2NycmFpT0VmczN6Z3hYMGpQQ093LVotdV9HMFVDM05yNjF3QUIyaEs0emZ3b29iSHZRRWU1NzJBUGNoQUItZE1Rd21sU1lrT01tdzlrYjM3dlZOVS1BM3pYemtGWHpmQjFQWGFGNElZQnlpVUlpQk5DZ3ROcWxCa0Y0bld2RGlaMNIB8gFBVV95cUxQLWNycUszSnNVNERjLUZEMW5SN2V6TnM2ZWY2WWZqQmdZanl1dE5ya2V3TTFvdzd0YTFUUDAtVEc5Nk1sbVRjOWhmSlBucEh3U2FOMUh6bHQ1UlZqMTBTaGNWYTAxX2g5a2ZPdUhTOUhLblJlcnV6TFVua21SanJ3N2kta3B1dmIxM3kySkZ4Sk5jMUtrVGdBX3ROWU1RbEFmaVk2blhQVDFWdjhsMzRWTXBEa2s4Wk1uNzFBWFVKLXVvWUMzT0x1OHFWcVFBOFhKdldZMWRreE5NMGhaVUg5UW5fV3VDeVd5ZDE1NlA4ekE2QQ?oc=5",
+      "source": "Portfolio.hu",
+      "published": "2026-11-10T08:59:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Gyorsult az infláció októberben, de nincs nagy baj?",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDRyT1Zqb3dvZlpJNzBtQ3RwUGVubnNIUjVMNG5yMVZWZmlUYU11RkEzczFNSThkMGZLUEpIVUJBSHZKYm5lUFRvMmRNQUJvaDlqSG44Q2JyTjNtWHlCenZYNUh5Qmh1SEs0eFA1RThGbGJGTWdnN1lfOFA0eXJlRUI3Zm9JSVVjRFI4?oc=5",
+      "source": "Mfor.hu",
+      "published": "2026-11-10T08:51:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Újra gyorsul az infláció Magyarországon, fél éve nem mértek ekkora áremelkedést – Szegedi hírek",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWlEdkdkWmFhU3Q0Nnd4N2dvbHBNMi01Q0xKa0c3SlVkTDBuNTliSmx1TXR2bjRCaTlyUVg4T0ZyRnl6WHdZd2t6UE9GaE5PZEllbmd4WnlRdDhubThoWVA5WGNvZTc2OEhCWjdUUUhCejlCRy1vTHBfT09TTjIzbUhpQ0hXVTVaalBCUXJjbVQycVFqb2xTWHI1QnBqLWNWQ0JmV0hyU01iZXk1QWxqdA?oc=5",
+      "source": "Szeged365",
+      "published": "2026-11-10T08:49:25+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Olyan történt Amerikában, amire ritkán van példa",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXAtYlFQdmJiN0ZqcTM0Y3Z1OW5XSkRNY1lqcXdobEE2OF85V0NNLUV0ZWdCMXd3a3FoQjlMWi10ME4wYVBIZ3NlakZ5czI2S09KM2YwUllaTkV0cTZ4ODBEYUxzQTVRR3J3S1NPODNVTVNWN0FJX1pvUzFLSl9uVmMxcWxvZnZpNDhjSzlTZkhlQlFtZ1JJ?oc=5",
+      "source": "Piac&Profit",
+      "published": "2026-11-10T08:45:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Gazdaság",
       "title": "Április óta nem látott szintre nőtt az infláció, de az élelmiszerek ára csökkent",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZeTVQMm9TeGhFY24wQk5BeFhYclBLTVYxTkdmbkVKMVduSkFZZTU1SFlYWkZpR29fUUd0R3FWQUowLTIyRW1yYi15dw?oc=5",
+      "source": "Magyar Hang",
+      "published": "2026-11-10T08:40:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Gazdaság",
+      "title": "Április óta nem látott szintre nőtt az infláció, de az élelmiszerek ára csökkent",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnRNMmE5NHp6OHB0MnBkNjNsOTcyaTNNZVdyN2dsVUQxSnRxQ0ViZFprSnJOVWlod0ZHVk4wNEc3U0dPRV9JNG9oRDdtSkNlelp6bnNUNFdIX1RtQXBkZGJZaHpnam1IazhiemdTSUFYc3hVNEhfSFl3U0VPOTI2Ym42cmJDWnBOaW5nSTVXdVNLV3plWXZSNG1YR1hjQTAzTG1LMHJMRGJJcERRS0NSSQ?oc=5",
       "source": "Magyar Hang",
       "published": "2026-11-10T08:40:00+00:00",
       "summary": "",
@@ -241,6 +448,15 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRExNdmh2VjBfRllXQ2dibTlFSzFXa0FsQXZWWGVIZmNfX2dSZkFVZ1c4Q0FsMWdvNHRQNTctcjZ3djgyWkRhMFJxTmdYbEZvMl9Zc0l3bVAyM0JPclpqaVdCMzNfTGo2bDRuZ0dGUldaRk1lRktHWlp5NDRodkZaSw?oc=5",
       "source": "ORIGO",
       "published": "2026-11-09T19:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Már telepeseket toboroz a leendő holdbázisra a NASA",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd2xVSms2aGotRmRoeGlkWmw5djVubGZXLTFwSnRrS0pVWURGZzQyalZkaW5tUlo5UXdlVlpCZFd4cGFXbFhGd0p5RFFBN2NrTVU2OW80emRIdWZ3Y29OM0pjR2tWR3pLX0NNS2ZWTnJad0tnYUhvcWZIeDlDNzh4a0gwN3ZFVzQ?oc=5",
+      "source": "Telex",
+      "published": "2026-11-09T18:35:18+00:00",
       "summary": "",
       "image": null
     },
@@ -1568,6 +1784,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Munkavégzés Kunszállás térségében az M5-ös autópálya mindkét oldalán",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUNKMHRIZTBUME9iVXdYSGN5N2hDRkxqcFBiVVJ2dl9rQ2NWbDBqQjV1T1g2TlZYcWp0aUFIQXdfT1ZCcnI4S2stdFFiMC1kM3FqQzJkZWhLN25JemlMbEo3YXhJbkRlRXR4WUMzQkFkaUhvUjQtRm11YzNJbFpHOUZUaEFJdDRtMURRSzVnaw?oc=5",
+      "source": "hiros.hu",
+      "published": "2026-11-07T06:23:19+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Gazdaság",
       "title": "A fürdővízzel együtt kiönthetik a gyereket is: a vagyonadóval nemcsak a milliárdosok járhatnak rosszul, a magyar gazdaság is megérezheti a sarcot – gigantikus piacba marhat bele",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVctUk9DU2RwQlluTXRJcTM5VXNwb3BIR0FtZ1N5dVBqSExUaHZQckpfTG11c3VsNGtVMHFSMl9zbGtCNWpBbkdWMWNwdEV2V29ZVEJrYlV0V0pfMzFmQ2JzanJlX0hEN3Y0UFM2OVRXSWY1dHlKSUFYeFprMkpFMHNCSDlmNkFJMEVMdVlwTnNfSTBCYTF2bHNwSEI3UFlQeTZWSEwyZjg?oc=5",
@@ -1919,6 +2144,15 @@
       "image": null
     },
     {
+      "category": "Külpolitika",
+      "title": "Trump Irán maradékának elpusztítását fontolgatja – és hamarosan döntést hoz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0NjbDVBR2ZtNmZiWWR1OFpGMURTSnZuSXYyYXhydG1HdUJJY0pXLWh4UFlBTTN2YlhXN1cyYVVPZ05uclp0QXhtb0VOVHQxdmdnX2VaWVlpcHRXcVVLYmczODlxaDV0NDVCSk10Ync3ZlVOMlU1a0NiUEdFTU82S3g5NmN1blk2WE8wdHU2ZU5Uc000ZzZoWkhUNEZ5dWNMWGNsaE1INlRxREpSLWFqUnhLaXM?oc=5",
+      "source": "mfor.hu",
+      "published": "2026-11-06T11:36:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Kiderültek a 2027-es autópálya-matrica árak: mutatjuk, mennyit kell fizetni",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bk11b0Z6S01ocWVQWTVrTFNYUGpsb3F6UGFwX2VTZ24tSS1mMVVDZjJHMGJCV1IzbExGQmx2MGRmUW1WeDdQZjJXa3hCWXBUWG9nNm5lcjl2WGh2VTd0Nm9wYTBHNTUwMVotemZkQnQ0Nll2REliem5mMWxnRjA?oc=5",
@@ -2009,245 +2243,11 @@
       "image": null
     },
     {
-      "category": "MÁV",
-      "title": "Különleges járművek jelennek meg a MÁV-nál",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmlhSFFNbHRyWjAxdE1ROXFqaWF3SGQwaHR6VGxIVEsyZ2ZNRjB4M29ydENhNW1rYzFWUUFIcFdMNzBGVHYxczFqblZjeWdDVG5LNUo2aDRlb0pmTDF0XzNJRGpTU2l4NWlDdW1lcXNGd2tPSEVZTnFRdU05d2pJNlpKU1lESkV4Y0pnbmJR?oc=5",
-      "source": "Vezess",
-      "published": "2026-11-06T10:30:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Valami eltörött a biztosításközvetítőknél, ráadásul a kormány is rossz hírrel érkezett",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX0c0OU11VVZmWEpjUDkxYVIzYlRQMWFWbW4wY0lkY2pnZU1zQjRGNjc5cmJVRFVFbF9FTWFNbDdYRTB5NHNSblJ5dkRRU2xHVGFMREZ5X2ZYUE9HdzRlMTRyZWhHQS1WRm5YaWVXT0p3RHM1R3N3ckZhdEpEaDgzeEg5SUxtT21vTzhuTGNMUDBjRlJPZ1pOdFpkdmtET0FfMDNQMDk4aWRvSHl4SlNuY2RuaFpRZVpUV0NVMW56ZEZkeGppYUpxbktZUmw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-06T10:28:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Rövidített útvonalon jár a H6-os HÉV november 9. és 27. között",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR2loRVo4TFJYYV9FM3VfeENKRGh0azBVYVE5M3VjMzVKZFBYd1FBdjV1bDNUZkVDYkszUFI3RlBnemh0Mjk1bHdhWFRZc2xrNXJoUHVCbzNOeTY4eFJGeENrWldkNzFjYnlfVHVBME5lREFEbDZqTktjeWdyZTFGUHZITGxuVTFtTmFyZFlPaEJRcGhRaHNYX24wd2laaVVBN0s2b2lEY3lGenVKakxpOVgxdFM4R0JMbGpmdUFXZw?oc=5",
-      "source": "BKK.hu",
-      "published": "2026-11-06T10:23:14+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Ennyi volt, megszűnik az egyik kedvezményes hazai autópálya-matrica",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVk9QZloyNTRKTGRJby16RHdzSzhKYTI4d0dUZGx4VUYwck9pcURMRF9PMXhvbFFZamZLclppRmxHTkVTYS1EWld2X1ZOQ1phZnFuTHVNQmtuNEpDYk9KUFVlNTVjN0h3T1k1S1lYdF93MGFEbXlTWEZjWjNWRHdYa2NTZGE?oc=5",
-      "source": "Totalcar",
-      "published": "2026-11-06T10:10:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "22 év után megsemmisült a NASA űrtávcsöve, mely több ezer kozmikus robbanást figyelt meg",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RjZ6M3NsQU9UQUhLWm1jWURaZl9mUGV6andaZnIxMDVFU1M2NkE5dHZKaEFYbDlCUkpYVWNxWmQyZWJucXRDeHI2U3V4bV9uak5hdDlQNHhyTzlMT3h3YlE0blJKM0FyZkotYw?oc=5",
-      "source": "Player.hu",
-      "published": "2026-11-06T10:03:29+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Alstom reinforces its global high-speed rail leadership as the new-generation TGV enters commercial service",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeFFjZ0g3U2o0R1NVX0VWYUd0em9CZHNFdmlyREtSZm95aHowMUc4OEN0YU04TVhnLUhkNGIzTEhFMUlOVkx0NXZrdmJqUEduZVpUQW9vRDAzVks4UnNVOU1nZ1lsZ3pteVYxcnBBLWlsVXRUX1hvTjRQbzRiZW0xTWpTQ2NvV09PLUFBS3l2czRCbDlfUzk4ZTFNLTZCamVGX2hQMm04RkRERGVYY0tiYVJwakRSelZ3NGxpMGsweVdmMlVfN1FsVXhIQjJvei02OHZnZUlsWmVBQVNXR0Z6WmtseS1qZw?oc=5",
-      "source": "Alstom",
-      "published": "2026-11-06T09:41:23+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A GPS-t is megzavarta, akkora lyukat ütött a NASA rakétája az atmoszférába",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnh0dmtSU1VnN3ItTFM5UVpLdVNmUGNQejRWX3ktUzJDVER6Nnd5T1N6Q0UzeW1lUWZDaGlRU1ZuSk1ER3JIMGNuLW5GVm0weXRQM2tEMU8yN3docnVPMTFScVpuZVQwTVhLVGs4NFdkYm80NDgyaHAxZTdxZTNrcWoxVVhYdnUtekxheEZYdWZHS3BGYVo4?oc=5",
-      "source": "GSPlus.hu",
-      "published": "2026-11-06T09:22:39+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Újabb CAF-villamos állt forgalomba Budapesten – már 45 jármű közlekedik az új flottából",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPay1aOTFGQmhCc0ozNzNybXFBUmtLMjctUUdreHQ5V2pETUlENEdJbW81Z01JWEtfcWwzdjJUZ05IRUtySjBPSkQ5WGRIelczejdJaFlmSDlydXZOWHZvSm85S0ZPcGxYTFdrczdOTEV2SW1MbV83MW9aSlRvN2Nta3YwOTItTkdiMlFvU0gzdzlweVFjTnN3N3NlRy0tcnhhZ0ZOZi03dEpMUlc3MW5kUGVWT01UaTVVOVZFSjVR?oc=5",
-      "source": "BKK.hu",
-      "published": "2026-11-06T09:17:24+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az alacsony infláció miatt szárnyal a hazai kiskereskedelem?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEw3ZHBxR3hRLUp2dVlVZW1YVmZaSUNmSmJXTzM2UlBFaldOQ2Fpb1BNcVdzTzd6M1J0NW01dmxTdlJVWmNySzJ5UEQ0bU9yeWhMeVJTWkQ2ZmwzNjJQZ0FhWjY1SGZkLWQzaDVqU2gxeTJ3ZzF6U2ZFUlh6Qm83UG4wc2pBNllHWVJLUjhFQkpZY1lLLU1ubQ?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-11-06T09:13:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Közúton és sínen is használható munkagépeket szerez be a MÁV",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFNFYXR4Z1ZrUkR0LVNrN3QwQnlRdlY4dzF2MFVmNGhsYVlBN1BRczMyRVBRTEc2V0dzWHBXWFpuRlRaMk9rX3lnVmQxQjJiY0QxUkotUFdxRWxwLUhBTnZXdFNMLW5wMlBVbXRpTzVYbXJGWHVGcFo1R2tWZjVsYkJIVnZxVUhCeWR3UWh4WHJrZ25wSXphdEM5SVQ?oc=5",
-      "source": "Hírstart",
-      "published": "2026-11-06T08:11:13+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Magyar közlekedés",
-      "title": "Öt nagyszabású akció a fővárosi közösségi közlekedés biztonságáért",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUU2cTVDX1kyLTBIQmJ0cnA0VV9lWURLaU1TRU1DX25pcS1PN1JlVkRXRkYzUEFKbzFNQTVCS0ZlWk5jQ3MtUFM2ZS1Gc2R2OG85Z2pUZjVuSmtoYkNSUVlKMUlKcDNnb0t2dWd6Vks5ZnhHa21rcTFWTTZzTjl4QTJ2SnlEZDVVWVpIem1LU1dSUEhoNVVrSjhTQlhNWXFQWEZzUA?oc=5",
-      "source": "BKK.hu",
-      "published": "2026-11-06T08:02:23+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Teljesen felborul a vonatközlekedés Heves megyében – mutatjuk, mely szakaszokat érintik a változások",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm1EU1czTWUzcFN2MlJQejlwOHZubFk0UlpIMVZwNm43UjdMUGFpcDljX1ZnS0dKWVhLajZDQUQ4S3pBSUwwYWI1NVdRX1ViSkpCTFhjQnIzZm5Od2xXcmQ2VVBrQzR6Z2ZPdVFfNzNXQU1yVnVFNEhhRFN2VTdSamREdjRDN3A2eFU0NFo1a2E3QQ?oc=5",
-      "source": "HEOL",
-      "published": "2026-11-06T07:24:15+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Gazdaság: Abszolút szigor: bekeményít a kormány a Mohuval szemben",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d2dMaXAxY3JzU2VvQVFUdmctWXJCWEFuRmdWbUZJUHVfbVp3TWZ4VmpaWjE3NkwwdFY0YzZKYUpCMmxwd3BmbG4zY3hKalprMlc2ZlRJWE5SUlpJQmRuNnE4Vjd5aWx1WWh3RHdITWx4U2UzZHBhOUFITHRZTTA?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-11-06T07:02:04+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA bemutatta a következő generációs X-70-es tesztrepülőgépet.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTZkSXBrYk0yWEZMRm0xdWlJaWhTMWItZ3pjeGg5cVBNTjIteEV1eG1udnBuNGFQUmcwVjJ5Q1JnWU1TVWs1Q3lya0REOHhxeWlsdEhZNm5YY3dadDJDQ2RTSXc2bFl4eXFOOC1FeWR6bzNyYkgtRXRLQkZYajdTWWhNem5ydVU?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-06T06:34:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Itt a nagy bejelentés: Trump Putyin emberével tárgyalt",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTFHSTRBcUhkOVFwTlFHMlRhZHZZQWZSNmlEX0lDNXZ1Y3hBTXRuMjdUSjhNdGpKMThydDJJZVpBbkhNX2ZacHFXUmdidzBvM0dmZkluUDRvN3VrOGxwUHV1Vm44U3laWU8wMGp1bWxmNkJHSXFDVjN5bEFiYTVOWWEtZU1pT3pINngwMEppR1NiS0ZhaTZCRQ?oc=5",
-      "source": "mfor.hu",
-      "published": "2026-11-06T06:03:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Gazdasági hírek összefoglalója november 5-én.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZ01kZkhBNFJQR1pNWk5rWGZmTHNoYktoa1JKX0t6Nm9laVRUc2FsRUZIRFNmZVI3aFNPemZObmFPWDNiazJrdHFJY090SzB6Zlc4dkE4dXB0YVdIZGJPQ3ZIaWc4bEV0aEZtRjdkRQ?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-06T03:17:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "400 km/h High-Speed Railway: Next-Generation Ultra-Fast Rail Technology Arrives",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95LUtLQ040Wk4zLWJvY1dDd2hGeTZJYUZHX2NtTFhqQUhteENiZ2cyTjNUOUNNMlAxSHdzQzZveTVWMzUxRklKWDhIWmsyNFg5dGFJ?oc=5",
-      "source": "36Kr.com",
-      "published": "2026-11-06T02:51:48+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Newsom Taps California’s First Black Finance Director to Lead Troubled High-Speed Rail Project",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0RuLTQtd0tHaE45Y1lfcU5rOGVTbnE2VXQtZU42c282UmFjRWJxeTRjNnVkZWl4U0RPV00zTmx6SllyN09tZ25oZThUNlRQNzl3MHJIWjZKYml4QWNtTk9SNXlXUU9SVnE0NTFiWFZ3RVlWTlBmSHlrdDhObDE4ZjdiQVBZVWV5NXA5RUNKdXYyRGNZSUtJSDBLeFJDWlhNYmd4Zy1HVUtVN0EwRDA0Q3hFV2RlaUVmTWQ4WVF2Q3l1SmNhLUZVNGRSYll6Ukw3Wnp2YzRhOVY?oc=5",
-      "source": "LA Focus",
-      "published": "2026-11-05T23:08:36+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "22 évig figyelte az univerzumot, de az elbukott mentőakció után végül lezuhant a NASA űrtávcsöve",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKOW5MZXgxVzNmbkpVZm55OV9Nb0stQW4zSnExeVd5ajZqYTJySkxCVll0V0Z1RUpqVk1ueXVmamdCQjB3LUJuVVJLWUdCS1lPMThSdnYxejBIdmM?oc=5",
-      "source": "Raketa.hu",
-      "published": "2026-11-05T20:23:24+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Meglépi a kormány: elveszi az MMA kiemelt jogköröket a Nemzeti Kulturális Alapnál",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU3kwRkFaeGZlMFNzS1ZGSFY1T0VsYXZVQjBjMXMyMlZDOFJ0VFhVeVpwXy1jUFVzeHBHSHRCU3hYZmNoYnhSdnFSZWFaREZkcFNVVDVmbEljWVBabS1TYmdHNGI4aXpXZVZJaFFHbjc3SDY5WFFCelNUMWZGbVlJS2tELXBsanNBYkgtLTcxVllPUS1ERVNvWThOTmotVVdxXzBnOFRhQjg5NjJWcEFQcVZPRmtoSnc4a1VuQWxuQWItTjdUdkVzLUVR0gHPAUFVX3lxTE5Jc00zdi00QnBxejNZSWh6TDB3bVNIdmJETlRBQjVpNFhha21IMjVjQUxNNGR6ZFlOMUd6RXM0VEZtZ1ptVWJQT1ctdV8zNldFRDZ0QlczV1d6RklQNnU4LWJSdURCcDdoQkcwd3liNC1IRmNQNlFnR2F0RDdLSkszQ0hmdjNMMkVPekJvMWJMTkFFVGRrSGNSUjBFQV80eVhhNGM0a09nWFFONXpSWnRhNS1QeDFXYjVZSGhtcDBRU0NnTTVEbXViSzU2SW8xcw?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Szigorral csap le a kormány a MOHU-ra, kemény változások jönnek a hulladékkoncesszióban",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1Y3MkZiZ2g5YXdxUmJrUTJwY0Q5anBvNzMtTmxSamZHd2NXSF85bG5lci0wUklPX0NwZmg5WERzRGNFbVNCTG85eUtZRHZsQXJXNDVkOW1yZGt0c0ZtbGdQSDJlU1BxdW5fSDdxSzd5MzVvdV9ReV8ydW02Rkd5dG1yOHlNYl9LNTVoUWExbm1UQWdRdmlqdktZNVA3YnpMellVMXc2WlRveHJ4RzZBQjdOYUxLY0R2S0NXcWh4SmN3Y0ppZ3UwWmRLSy1tcDJDMFHSAdcBQVVfeXFMTUNMNXFwT2dhS1Vhc3Nfbk1naEZ4eDhydzNSOFlEWkVpVlEtdGtmRTRqcmRhYUNyVUpVbW14RVdadTN6UFNXM19ZWjREdWFYdWxaUHM3TEdLdVpudlA0ZXREUUN0dWlYZXA0QnRlSThReng5ZEplci1RUUtZUUNrRF9zYnl0UFBSS1oxM1JaeFMzZk9GUFVHRGhWVTY4UDRmbGIzV1hZTVdtNDZXOWlOZ1o1LXE3VmlEQVlsczJjSGxjVVQzOUtoTG9UZ052aFRla25sU1pVYzg?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-05T19:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Űrsétán korszerűsítik a Nemzetközi Űrállomás napelem-rendszerét",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX05DTGp5azNpUDBhZGxUUTBJeEhTUWFkMnJWcXIwN2pHSmZZTlFCanBZWGJOMncyMG91dHRiQk90RWMzRnRjOHhiRlkyT2dPSnIzeGJfazQ1T3VZdFFUMUg1dnZ1b3I3TzFwUW42QmJhcXRXbVJvUTktN3RPU2lPLU1hRFd3OHFKTm15UWtMVng?oc=5",
-      "source": "Androgeek",
-      "published": "2026-11-05T19:28:40+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
       "category": "Jégkorong",
-      "title": "Kétgólos előnyről szenvedett háromgólos vereséget a jégkorong-válogatott",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1dfQm9GVjZxSUR5aVFHT0V4MVgxd3F5SElBQVpKcF9uY0kzWnlzTXBfMktneGpTLUlES21Jb1FNdkx3UzJPNTRTQUFESGdDeUFGclJGSUFlWDZZUHVuaDhhTUlyU2NKRHR1ekRZZ2ZBQy1WVjZDTFhyZGVBTUNNSmEybFhWd25nak9qdlg2VVNka3d5a2dMT0lnNC1FSkVMNVJGQU9lRDdGemxtUFNZOWFDbG4zV2xUOFE?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-11-05T19:11:02+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Meglépi a kormány: új országos környezetvédelmi csúcshatóság alakul Magyarországon",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHZ0MUpmeGViNkJ6Tnp1RlVSa09rakJVZjNWMGkwQnRVSE9iR19vRmVQbUxueWFWd2hMMGk0Q0R4NFVxVTk4ZHRmdjg2M08yUFM0SmRtZ09lVi1nX2hKSm01SmJ0endDUHYtbmx6M2hBVlVTUmdTcElrcXRTclpSZXFtVWF1bFFFcVUwV1Fqc0pkRG44ZUY3SEc5RVQxRWNBQzlOS1VDTGhTeU1wbWJqakNpMjBETm1UNFBaYTNDeHEydzdqdUJNdzBYMNIB0AFBVV95cUxNOFZGUC1tYmJuVHpJU3NYcW5nNm1WN3hCR3NmODdrMkYtV3k5SktGaDJQQ0JTb2ZQZTFnNm5OazJHc3lzeUxOZXJnUkVwcm9Qd09xR2trY0tLaUp3V1EtWjlhUXR3OHFDTF93MGJ0ZkhKNmxkc253bFFvbHpzYlJ3d2IxMl8zQU9mZDJpenM3d1hMeHV0My1SMmxTQ2xSbmNnNkhFVlRiSnJUZDFsSzFoNkhESTZwVmpaN2NBOHYwcWJodmpRbHNYQzFUWGhMSDg1?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-05T18:23:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Véget vetne az Orbán-kabinet fizetős bevándorlási programjának a Tisza-kormány, korlátozzák a cégfelvásárlásokat is",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSDBoT3lNMDVXRG1TbVdRUGJzcFlDR1NTdG9BN1FVdjNaMXpnOEdQdFBNR1JSOXZVQV9KX2U2S0Z1b1pYUThENFBNQTNLb0l6SlRwRUw1alkzekRPa29MTEhDTjhwR01vQzFxaDc4U0lTOFQ0YktyWTI2OE4wU1duRnR5WXBGS1NabzdXM1JzWTZhcnZ5N09KN1hfdEgtalg2N094b2hxOGUweE94bE9JeTFZa3BoNVRzcFpiaXhXTWxrUnIwTnZ1RTlTLU5McW5Ob3FEX3dOTDMzNDFOMWd2RkR3NTJhcFNIczIxVVZUUTlPZWhfeFNR0gH8AUFVX3lxTE9OWHpnenFEN0kwS1ZGOTF4eXdIc0FqdWs1b0JucVVIZ2czc25zcVB1cFhtdXMyY2NVYzlVajhxcXFxMWptMkdIUjh2QWl0MVNJVDNYMUIxelZXeVRYOXlIY2hheW1SOFJpeHpxeE41SUVpWHdiVXpfZXBEVEx5V0Zya1hMSjNYZS1YRURDa2xfQzdwekdnb3FfR00tbFpQT25Ra1NYcWJmWWVNWjFkdGI4T3BaNzkxM0V1VDJoREF0c3pHeG1LcWxjTlR6TmpyRXFwZEZZZ3F0TU53QjNza2dqTV9wX3RZR3NDVkQ5LUhHc1VON1JOWkJYQ1haTQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-05T18:07:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "WSDOT seeks public input on early stages of high-speed rail from Vancouver, BC to Portland",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFhVZGlIZS1jOU1sM3pVWks4SVJlVkIwMm94MkZEcDVxcFFyZUxKcHJQd2lwcGVLOEhpalpwb054VDkwRUZVSktFOVdjZGdsOFBxaThqUmRRaC14UURfeEEtQ0VnUTl5YlBNd3BaczQ0WkYtN2VqV1BiaXRZU2gtOVhnY3JFWDQ4MGx1VGE2cF9zOHhDMFFBZGpubGR1QVZla0MxamdjOA?oc=5",
-      "source": "KOMO",
-      "published": "2026-11-05T18:04:01+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Orosz hokiválogattak visszaengedése: friss CAS-közlemény a nagy port kavart döntéssel kapcsolatban",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXprb25Gam1xWWY4TnNrUUhDMTBpbEVLWVBSeHhGZGNFLUpTSVJHVkZfT2FZakE5NFFOVUdPUjBKel9wZzVyRGM2Q3c1UmdvT24zTmdvcDl4UkNRdU9OdnMteE80TlZCZVFFU2ZTYTQ2UHRfbS1zSENGR1RkUU9MM3FoQW93czc4QnFUT3dR?oc=5",
-      "source": "Eurosport",
-      "published": "2026-11-05T17:44:00+00:00",
+      "title": "Egy jégkorong meccs szünetében jött az ötlet, ma pedig átadták a Patak utcai játszóteret",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3ZUZlVqOHFYU2tHejN4WDBpbVhUUkY2MUR1bUlUOWFjVlRyX3NDbkJIYTVNWFhyZWpHZ1RLWHBVZU1hNzFaemlyUWNaZHBUNmlOSW9GWDdsOXhOdTNrUGhZYTd1OHJha2wxd19DZUM4WmNnazM1dnA1R1dMdWlNWjI4RXozWHNvU0xpeUlSaUk5dGp5elR6SFk1Skl3X0lhZWk0ZG9ua3l3Vk81aVEwRjRQcVQ4RU1DeS1v?oc=5",
+      "source": "Borsod24",
+      "published": "2026-11-06T10:38:46+00:00",
       "summary": "",
       "image": null
     }
