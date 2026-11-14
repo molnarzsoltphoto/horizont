@@ -1,12 +1,57 @@
 {
-  "updated": "2026-11-13T22:08:11.117513+00:00",
+  "updated": "2026-11-14T02:43:16.179653+00:00",
   "articles": [
+    {
+      "category": "Nemzetközi vasút",
+      "title": "California high-speed rail completes Hanford Viaduct",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2VWYlNRX1c3bEI5ajNmNExNazkteXl0NXpRZ2dRY09JYWxTNGhOYjNtbGlWbC1nM2NRa1lib0tGaGJNTmpiWllQclVvM3hOb2F0dnZUcThjNXBSSU1PUi1Gb0phRXQ3T2RkOXZWbVlXUkhIQlJrNTNHeWtiY3pjVXgzUmliSWoxWktR?oc=5",
+      "source": "The Business Journal",
+      "published": "2026-11-13T23:16:53+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Elhunyt a magyar jégkorong-válogatott korábbi szövetségi kapitánya",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWYwakxhS0tqMVJrTVFwckJhNVc5MHlKbFg3WmttcGtpRnBCYTRrOUxRWF9wazhfUEpuZ0ZldngyZWdaZUtvcktQNy1Bb2h6Q0Vqci1CZ3BwZWxsblBXUTY2aHVsWm4zRk9QNWZqVnVBdnBZQVE1WlZpUGdhVzR2SG1mRGp5SnNsTGkxSkNyUnV1b0dVdG9BLTRNbHBxY1JrS3cyMDItMzBWTFJSS3ZTZg?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-11-13T22:28:26+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "France’s Colas Rail Secures €29 Million Contract for Morocco’s High-Speed Rail Project",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamVUelJYbkMxVVUzZm5CeWYtamMyaW1vLVYxSTNWY0NVdE5DZU9OQlBBc0VRcFZ6T2RoN3ljd2lNNmh3WFlPM1lpVm5QbXNYNW9pRmFJZ2tGdWVIYm03QlFLRjY3dlpuaDVQZ3JmQ3ZxMEZ4amJXWTFjRG51bnZfa2tPdlV1M3dDVzhTVmFIZTBFeG1IYTVCRFBwQkJkRWt4Rlc0aGJhMG9Zck5HbDNiSEhYM0JzTUtDY1B6eVFHRQ?oc=5",
+      "source": "Barlaman Today",
+      "published": "2026-11-13T22:00:07+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Belpolitika",
       "title": "Kritikát kapott a Tisza-kormány sávos különadója",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM25vaWEtZm5CREFtdWhJSVVhVVlpdlZPRTh6aVBTbHExZTU0Q25fR3dKeDRMMzVfdEVGTFh0Q0h2TDRaUkV3S0NrX0dUOEM4cUEzb08ydTRTY1BrcDhuX2FLYmhUdDVnZkQxc2JKWkR0TjlrNVRQekZ1eDZfcERnRUxjdUpjbnQwbHB3cHBETXpwN3I1eXpUR0RFYUFGblnSAaQBQVVfeXFMT2Y3a1FjTllKX2hobThqYnRWXzJZRmNkbmFWWVFsMjlBQzJIWm9ZV19tYzhaNnlqWFNkcWVYblQ4Rmo2WVM5elE3cVZKaTExN3FyVG9DelNyTGlfTVlUY0hGRTAzZGJWdW1qbXpnOEhIZjk0M2RGYW4zZlUwYVplOE91aEk2OWx1WGpSb0lGMTNGMFdSbUNDX0NERlQ2QTZoMWtLck8?oc=5",
       "source": "Portfolio.hu",
       "published": "2026-11-13T21:35:46+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "win2day ICE Hockey League",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uZy1PMFJYa3FtNF91YXVNRHRxTlY1WU5QYm9NN0tGeWxtalh4eXc2VG9xMmxzRFFHbFViazBJZDRkZEtBaTRZbzZZSkZoellDSXpQbXA2bnhFT05IMGJ0QktTVEpHSVNVd2JYMHQ1ajEtak5Z?oc=5",
+      "source": "ICE Hockey League",
+      "published": "2026-11-13T21:33:32+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Tanács Zoltán: az űrkutatásból gazdasági fejlődésnek kell következnie",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTFuYTRjX0RsQVltZzZMUHZlOW03bGJkRktXVU5fYVVQTC1fNHk3Y1JxV0pEMDdsa21sTTQ0empWVXJpSnctTkItSlZkWm92MHl4YjlEWmFPRkROdmc4dV9OSG85bGNhZzdoYzk1LW9JcGNsWW4tek5PNG8yOEZmZDBWR3ljaE9jc2xkeDRJc1dSQ3NyXzd4WmVCUGlydGVnTnFPZmJOV2NWd0JIeTItSWpB?oc=5",
+      "source": "Infostart",
+      "published": "2026-11-13T20:29:00+00:00",
       "summary": "",
       "image": null
     },
@@ -25,6 +70,15 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzFyWkFIU09WU0xYc0t4OUI3dkJJZGV5cmo1dHE2WHNyc3M1WWxiVEYzRVhxdGtUU1RydjNhbVhnd1dGMUFJZ2d2akJGS20teGo5dGhOMTNnZERvQ0tEZEhZRnBoeHFKQXFPUXJEQkVEQnE4Y0xTU2ZSeHBCc05odGFWbUg4M29PdDF1TXN2a3ZyYnVoYWl0c24wVGdORktIdmRKcXdONWJsQ3lCblBVNUxGNA?oc=5",
       "source": "Railway Track and Structures",
       "published": "2026-11-13T18:42:44+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Tech: Nyolcpercenként ismétlődik az űrből jövő rádiójel, most kiderülhetett, mi áll mögötte",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3pLdTFGaGRRNDh4dUd3cXBZeWxYZnJYNkFwQ09WeTFmTS0wZU14MmVGQUVuU3RFVDhrakItWEdGSG5YRTJSR2p2b3R2ZlFvbjZjZXJuZU9OeFdqWXI0aTMxM0NHdUsyMGNhM3NwUDZvQ2lkN0tKTFlWanVmeWVnWXNEMEFMSW90cmd3YTk4XzY?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-11-13T18:03:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1289,6 +1343,33 @@
       "image": null
     },
     {
+      "category": "Nemzetközi vasút",
+      "title": "NEWS RELEASE: California High-Speed Rail Celebrates Completion of Largest Structure in the Central Valley, Surpasses 20,000 Jobs Created",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOb3ZWRTc4YzZKOFRDZHJQYmNlNXRWYm1DNm9Ccm9fRV81M2lpN25tVU03UGNhVEk0cG4yS1QyY1NwaDlsSTFjWEFHY2NzRWJCZDJEY0ttalU5SFMyUDFYUFA0aTljX0pEV01ySkpXYWpuNlo0Z0o3WFdzVnJ3ZzQzMXRzMThqcFdWQmZPeVdUNHVwcHhEYXd1bWpoZXIxSjZseTF1TzZfdllKWG9haC1FZVRYQVZidGYzbUN0dHd6NmxCVW5EaHdfdjhOOHhyd3NSMGhCNDRicXRUUEZRNGNkSjU0RHVmY1dsWXdnQmlRVjYzLWl3Ymw2cE52WQ?oc=5",
+      "source": "California State Portal | CA.gov",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Magyar Jégkorong Szövetség",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zaUliUEVfUVRGUGtnTVQ2ZDQyYTRkZUxaZkpTLUVLeVZTMnJZOGV1MTNUMUs2Nko3cGlwbFBaeFFiTTBJV3FyRUF3T2dSdjE0aXJyWnFIaw?oc=5",
+      "source": "MJSZ - Magyar Jégkorong Szövetség",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "win2day ICE Hockey League",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qck9yQTZ5b2JmbjlBYjlsWWwtTHVrdW1EMlVqbzE3Nkg2cjFSSWZBckVrdlZiY0xYM1ZzN21ybHFXQ2J5cUZoVDk5LWlGVzVxODF4MnpjenVlU3AyZGx5cmNPLVBBamNsOXVqTEVzb1Azc0N6?oc=5",
+      "source": "ICE Hockey League",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Belpolitika",
       "title": "Először hangzott el konkrét szám: 7,5 százalékos minimálbér-emelést javasol a kormány",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTRtWElUcGdDR3E4RXQzWG5TZEdrT05jWnhZcHNFVUhFa1p2RWgzNWpiLXlnRHFVVktKVzl1SXY3czZvUkVObWg3RlY2UHFtNF8tOFRfaTFHZUlKcGFfczNTTWVSTzdwU29nN1hncUpRTzcyWlo4eDVRUDRhOTZkN2M1eG8xSWhyNzFkQ1RhVE1NeU1yVTRDRkVtc0RQLUNkYUw1ZVNLMEtuVG9qMVZFTTR3b3ZJVHpTd0thUVd5VQ?oc=5",
@@ -2027,6 +2108,15 @@
       "image": null
     },
     {
+      "category": "Külpolitika",
+      "title": "Elhunyt Alekszandr Darcsijev, Oroszország amerikai nagykövete.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tM2NVWk5feWQtUFFaSUNUaV9KZmsxRG1RY3NXc0kzSlVDTnBUV2U2c3UtOU52NlVDYUp1b0RZMmY2NjQyNWhtLTZDOGhZQVJucVY1UG1NVGdkNV9CTVludlhqYURDNy1qZjRZUWNfb0h0ZW1yR2hDWWx3?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "China is expanding its international rail network, but freight volumes to the EU are falling",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHJlSk85blNIa3FGeDl3Vkw1TUVuZWxHUUNuUkZDaEh6TVlMMldEZHlpOHplOGdIVGJ5WTFsU2Zreld5WndPZE5mYVNOT0o1VFRJNmFXNWJ3Y2pUenVwNkg0X0ktbmVHRV9QU1BrS3F1X1I2VjFvWk9QQTR4LU8wOUtpa1Z6R2c?oc=5",
@@ -2158,96 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOVBSLWZISmtxV1A0cXUzZW9FdHgwUmlMLWQ5QVQyZUZPVXlXUGV4TTd3eHQ3dXA1a2RzVFRXTnp6Smo5ajVmUGRidF83SVppU2cwdmFRZWJpLUMtN1lubHRrZS1ZY2t2MFluellJZWNXcmFSNTZmdEVFMzVoZzhCdndIbFBNNzB4?oc=5",
       "source": "24.hu",
       "published": "2026-11-11T02:23:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdWg2TUVZeVZsd0JYX2MySUd5RDYzNTlPUDdtNm9TVUlyMWc0ZXNUMk9UU2o4TjdEQ1dRR2lWQnlHdDVNUHZYc0FqMW9kOF9JeFg0ek9qTXhVWndEV3VhV2N2anlTUTNFYWdUUEdhazVtc0xQUTY4T3M2QXZhN2N6QXpKVW5SXzhlWXR4QUVaOUpJZm9JcFQ4R295WTV2VnhnZXh1R1BjeGVoVW5KVDZneE9NYWd3OWZPVEE?oc=5",
-      "source": "Los Angeles Times",
-      "published": "2026-11-11T02:07:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "WSDOT seeks public feedback on long-term plans for Cascadia high-speed rail and I-5 upgrades",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOEx5ODBCNnB0ekxyeUpVMTE1aS1PX190S0FFZnpwVlVmOEdmQ2xFSDhRYzRxZXJ2NnpjTC1lc0pnMy1OT1VVS0drdHFUajV5RWJNYnR0bjlhalFNcEExMlg5Q2FLRmsyV1UxZERJd1BmaVZIQVFXQXpuZzFmamlSVjdqT3NTZ0g5aDFfemJkbnJGY3FGdTYwOTlXQXJOaFhLY2FiSjVGTVhJMThkaENnaHI1T2F6UWdsa1Bod1lSTmczQlRReFJMY1ppUGJ0RVBtV3pkMEpCWTdfSE9EalVuSWdSQ1ZvcjdXRjVWN3V4Z1h6MkRE?oc=5",
-      "source": "KGW",
-      "published": "2026-11-11T00:38:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Becerra inherits a high-speed headache",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0NxajFSMkU2OEppOE5kcTN4VXVEOXdHdUVHUjJUZ0h3NWpWWWthaDJhZTdqR0VIOW4zb2swMkY2Nm1KOGNJbmNsdWcxcjdSWWdyX0JuT1E3Zmk2UE1hMFhmblVibXU2TTFZVVJ4SWJLekFGQkpJaHF6eEgyRi1XNUNhaHZOcGZBcEVEemlfdG8xeDFZZDZ3V1QydHRheE9udjMwaUtfOFI5d01WWGxILVFnUmREdw?oc=5",
-      "source": "Politico",
-      "published": "2026-11-11T00:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Őrizetbe vették a Fidesz-kormány egyik államtitkárának a fiát",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU04zdDRubG1QZEV3RWd3VHpHNUc1dFFzSGRTV2dnbTBYTWhvSUd0TDZHY2ZqYUM3Vk1WLWRXT0tJcEdGZXZERDNtZjFxYm5WUFg4ZHJ1Y3ZIeFh6MXBOM0ljZkZuOXN6aWRoSU1QbnByeDh3OGRfb2ljaGhiMjhHdXlkLVF3ZE1Wa0U2bldsQy1NcGR6dlRHcnZWNVhXaUgteU5Peg?oc=5",
-      "source": "Telex",
-      "published": "2026-11-10T23:18:01+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Ottawa Senators - Washington Capitals Összefoglaló: Jégkorong gólok & Összefoglalók",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXJnbmQ3WENSR2l1QkxQUGVGQXZRMEp6QjlLcldEbE0tbTB6ZE1PWjgyU2VrVFhpSTZNTGZKSlNVVm1QMDV1TWM3QXU2T1Q5U0VJcTBxZTByNWdUVk9sTlNBbXduaFhybktHWVJaWG9Xb2hKbG9PTTREVE1ZWlh6YnlfUFNURm5RX21FVWE5RTZ6UHl5MkR3Z1NtdXFfdWNXMVlKQzZNOXZFQ2p2Tk00aHln?oc=5",
-      "source": "Eurosport",
-      "published": "2026-11-10T23:16:43+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "MÁVINFORM: pótlóbusz és terelés / korlátozás – szerda, 2026.11.11.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0xmQmZWRE9kUVRzSmdqN1dpUTZtM19xZUs4YmFRakxPc1ljRE8tVkhPWDNUeUp6N3RVb2lwckxLNU9OWFpub2c3ck5JYS11M2FWZmpSVDB3d0hkSWlfcjNfaWZMamZIRGtQTnRMazFnMThzUWZxeUNXa0trSXhqM2hCNnpPY3JOZmJocGNET1dJNmNmTzJma3RKTC04RU5vSnQzYVRVZndwXzRzTFdHVzF3MA?oc=5",
-      "source": "https://www.globalhir.hu/",
-      "published": "2026-11-10T23:13:04+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQWdJTlJEalIyNkQ1OE9BUVk5bDdTY05sS3hZSEFOZE1SWE81TFNNYUc5eVhGMHptVmdlNjdTUDlhSFdCNVFZcXpaa2Q5M3VXdnJ3WHhoNzAwNDNhbGE0TWRqMVp0NEJ0WkZCN3BhalphOEdLa0ltOW1KRmtOdmJOcTFsM2pTaDZxc1ZpWFFib2lCVUxVS2R3TldpQlUwUGc1MjFfbDhFb3BpOUdNVDdNM0hicw?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-11-10T22:58:31+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Német kutatók a NASA-val üvegházas zöldségtermesztést terveznek a Holdon",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaldEc2Q2Wm5MN0I5VnIxRlJKZ2RNQVhiVUZSUkQtZjlwem9pYkdpenc4T0JEQmxqN3AwbWxFOFdYZjVsYUpNWlhqV1A2cGtxaDJrc01XRWRwd1FiUzdBMHRKdndaclBOQ1VYMFFYMUl4eEpyWFkxUy1iWFNNVjRrSGc2NFVnMGFoRHh2dUhsNnpQeG9aazdhTXZLYkNLTEtIZEktY2FwUEZxZw?oc=5",
-      "source": "Hírstart",
-      "published": "2026-11-10T21:53:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: a kanadai kormány hivatalosan jelezte, nem ad vízumot az orosz juniorválogatottnak",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1FWT0V4ci1wS2I1OXN0R3FYUDJhSGFyN1lFN1M3WWxCcDV1WklMeUNEaURBaHYyNDNvWndwLWZrM3RndTl3VWtLbVNSbF9SMF9LRDJRaHFKLW9JZlJRXzdfcjNMaU1HTDNwc1BuTTkxTGdtdXEtQjN0UUZwLXBweGtTVVpZNm5VNS1WVGZDcDRCRVU5a1JsdjhGWXlJTjc4cGpJU0xraDBPVERYSlJ0YkhfQUZFdU80VWQxc1ZTQ3ZJbmM1aGNWLTdpM0ZrNXRPc0Vj?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-11-10T21:28:23+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0RLaHhVR3o5eU9iZlNhZDFEcHhJa1RfWlZJTFVMQklTcEFvWllZem5ZOWU3ZE53YUNsYk9BQXpsX1g0UnVQMnpQSzFqanRnMWdEX09icmh3Z0Nwd2lfc1hLZUxzYTBQUmljX1h1RmxoYzZNeUllUWVKRkx1cS00Ykd3MnQtS3NoUkgwV3VseGhOenlFc3Y2WGg0V3UxLUpVb0p1SFF5WHlhNk9zTlc2aQ?oc=5",
-      "source": "BreakingNews.ie",
-      "published": "2026-11-10T21:01:21+00:00",
       "summary": "",
       "image": null
     }
