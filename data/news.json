@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-15T20:59:22.110458+00:00",
+  "updated": "2026-11-16T00:57:14.666007+00:00",
   "articles": [
+    {
+      "category": "Jégkorong",
+      "title": "Anaheim Ducks - Calgary Flames Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXprUWQzV3A2YTZXQkZhV0xqdlJoWmc1Wk85WmNzbjNfZ3NqUkZpMElBOUxxMW96SWF6NGpEY2tQQW12NEZQMTk2UFRYWTN1ZUhMaDkyMjRJQ29GVWpRa0VkUUJjMmZ5YTdoV1RGRXNxVnBLOS1QV20wUVdtSVdCRkNOd0FXS05fbUZiN1FGRkIxMlU1TUpoVkVlSlFoWmNKbkxJSlFXUW8?oc=5",
+      "source": "Eurosport",
+      "published": "2026-11-15T23:08:07+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "San Jose Sharks - Nashville Predators Összefoglaló: Jégkorong gólok & Összefoglalók",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODJieVhsc3VNSkNEa0NmeXR2eXhNM190R1QzX0g4bk1fYkZtdUpHUWRBaWlFZzNGUGVYN3lxcWVVWTE4cFQ2UVpvN3MtWTBpRnlaSTlZVld5QjNkQmZvVGZlZjFyVlp2REJFNl8zQlNFSW9XeTJfc1F6NGxvX0NnSnE3aTVkQ1JIX0RZRWV3cnZaVi1hT2NhY21mMzdYUlB5Ukt1SkVMZWZlNzhYWGZqd3R3?oc=5",
+      "source": "Eurosport",
+      "published": "2026-11-15T23:08:07+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "🇨🇳 China has built one of the world's most extensive high-speed rail networks, with trains capable of operating at speeds of up to 350 km/h (217 mph). Seeing that kind of speed from a stationary platform is absolutely INSANE!! Writer: Samuel",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPaEpzZ2FqbXBHWk1GcUNSZzlfSGpleHZNWFF6ZmZRRklkU0phM0xkc2wxLW9zTVRVUjJjWTJicnUweXY1MnNrNVU3WkJqMFlhTXUwQnlXY19OYUxtUHdmMUNwY3N3ZERKYzRiUg?oc=5",
+      "source": "X",
+      "published": "2026-11-15T22:00:02+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Nemzetközi vasút",
+      "title": "New California bullet train czar reveals his vision for $231B High-Speed Rail",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXpROEU3blE4LUtNeEFJa3BNVjZWUTd2RGxraS1YRU1yaFVuSDRObTl3V3pFNXNTaWZlRnFlN3dIMmtfcTJuMGVIQThCM1czUm9kZklsczZfNExRSHZtRE5DXzZzNUh1VmF3TFlacHhfLU9FanliMF84Mzh0ODFoNmR4aUpUaW0ta0tHQ3lubjZpb2pPOElyZ2FCeldCa3dOZlY2Smxwa0lHcXI2SmFjNFJpOFh4UQ?oc=5",
+      "source": "New York Post",
+      "published": "2026-11-15T21:56:00+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "December 13-tól változik a vasúti menetrend",
@@ -209,6 +245,15 @@
       "image": null
     },
     {
+      "category": "Magyar közlekedés",
+      "title": "Belföld - Tervezőt keres a BKK a budai fonódó Budafoki úti meghosszabbításához",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVdHTWpUbGNVOTdWcFpQSlRjaElzSm1FUmUtajlxdHAwN3FuQkRHZTlLNEt0RVppQmN1SkJaU24tdW9wX1pXRmk3RndjbU5Nd0d0MldlMkRPNWFBZi1wMVBNVEZxeXc2T0p1T2ZoWV8xaVh1VFlIelhMd1VfUzRlbzVZOWJiRTlXUVkwS0lrWlc?oc=5",
+      "source": "Index.hu",
+      "published": "2026-11-15T13:32:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Nemzetközi vasút",
       "title": "With CA High-Speed Rail facing cash crisis in 2027, is new CEO ‘perfect’ for the moment?",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xQlRoVVVXcFEzYkp1ay1PTmM2MDlUSEFwRGp2XzRHRDVjY0c2T0RJN2VOTzFFR3lLck1TT05Md3I3WndTaWM2QkZFVW11RTZUVDZEOVZVc0JqQUZ3UWNkVXNoMXBYSmdKZGxzSjZkeTPSAXBBVV95cUxPaDJ6UXQ0YkF1bGJHQko2Ymw2emJ0Q2ZmVjdjM0xUV2d6ZElkN2otV1B4NjBMeW1BQ2dSSVVjX1JrMXpvNTg1ZkxkaTgtc1NSbGZkbFQwZllrU1N2a29rV2FVS3FJRjcydldacTAtN3VU?oc=5",
@@ -385,6 +430,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjZXUG9lY1Rwc1lseWdiRExtYmVCaVg0R3pDUmVHYVljcFhaNmd6czQ5NU83Rjc2dk1WcmF2UFZaUGw2NnFza1RlUVdYMC1MbkMyakNELU94SE1ibTZPVWFHcHdZX0k1RGR1QnZISERLQklzWHhxaE9fMHhLZ080MjhJd3l5aDNFekhZQW4tdU0xazRfQXJB?oc=5",
       "source": "Economx.hu",
       "published": "2026-11-15T05:00:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A NASA négy embert zárt be 378 napra, ablakok és élő telefonhívások nélkül kellett boldogulniuk",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3M0ZW1rZE0zMWREVkc2TngxbGVGYWhWRGxmdFJFa1dzSXZzWEFGeDNCZ0xndE9YYndBUWo2cmkyNHdDWUlPWWpyYXlkNFNNRjJhenpGd2VHb0x0cDRoWWxacF9LcjNKbjFZRWdnckRyRVhmcTE3cUpFcTBnSVlrM3J5cEpDLTVuWHFpYkdOSTduQkVwLUt5Ry13?oc=5",
+      "source": "Promotions.hu",
+      "published": "2026-11-15T04:35:00+00:00",
       "summary": "",
       "image": null
     },
@@ -1244,6 +1298,15 @@
       "image": null
     },
     {
+      "category": "Belpolitika",
+      "title": "A Sándor-palota közleménye a közvagyon védelmét és a közbizalom helyreállítását szolgáló egyes intézkedésekről szóló törvény Országgyűlés részére megfontolásra történő visszaküldéséről",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3Z4cDN1MWdnUjFhY0JkQXkzWldVemRuVkFza3VjOHRZTXZoamZKTkJCc2wzdjdCRlFPT2hnT3RjUGwwNHpYNm00WEdMbnhUU2Y2Tm1ib1lkdTR0YUNaeUZzQlJjczUycDlBR3lQYTg1M2RWYnY2RlNHaC15ZTBQM25nNVdnclRCUTlZMkI3XzJqSElQa3FleUdMUk5DR1hDaV8zNGVNRVlTc3VlZ0NZUDdydm51QVFFd0RZ?oc=5",
+      "source": "Sándor-palota",
+      "published": "2026-11-13T09:13:01+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "MÁV",
       "title": "MÁV: Fa dőlt a vonatra, megállt a vasúti közlekedés Fejérben",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjNaZUxtMUJkOG5mWEkwd3ZaU2RjajJ0TDhjeG5NZHVFenUxLTlFTjNvZkZJdUE0d0lwTWZCdmhRcXRsWTV1dFlnQ2pRa1dJVFFNdXJmMlQ3VHFoQWx0SEVyNDBqUG51U08ySHNLR0FFSTVzak1rVTRaLUJObDFVSXVoUERaaFNId1R3VU5pLV91M1hpaWZJWHlGWDBIeDQ?oc=5",
@@ -1973,6 +2036,15 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Az egész junior hoki-vb rámehet az oroszok körül kialakult botrányra, már a torna törlését emlegetik",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmdWRjYxUHFWRHNfbmxxVDRQLUV6RmtUa3NscGJSd19YR0VUWEJ4dXNWczFDT2JVeTlzNUxOUHJpNE90ZHlNcnVtdHFfN0dQQVA3d0ViZndaUmxmUmlwWjFqN2M5VkZqdDFQbXVnWmJ2NWZ5dy1QR0FnMmp1azU4cXgtRUpRTlRFckVXa1NGNHRadDFD?oc=5",
+      "source": "Eurosport",
+      "published": "2026-11-12T12:52:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Magyar közlekedés",
       "title": "Vitézy és Karácsony aláírta a megállapodást, amellyel a BKK egész Pest megyében fog működni",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUpvSExPSjJ0WDMzcWR5dzVRbExPeTNnaFRvT0NremRCNU5IcjdkdE1kZTFMaGRNYUxQR1ctajk2Zl8zdUVFM3hlNzcwUHBiTkVCSThwYXkxZmVGMlp1Q2RwQ3hvM3R6d0Jua0tYT3Y0SzZka2NhaHlWaDJRSzZRMnJpR3dFbnNLVl9qS0l3cERSVWdIRWxMVUNrU1Y5WHNPY0tnUWk2bUxRS0ltZ3hOUkMwLU42bXpaREdWd2hsYjRidGdldS1xSjdqMjBENW0wWEdsOV9KT1RickthZjJ5MEhWbktCemoxaXJqYUlneVhQbWc?oc=5",
@@ -2176,78 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0htU24xaTBXUXgxdEcxRFNvdG10RElENk9ScVNzd2ltOVVQNlRONEcxQXdKZnd3SHlOdVI2TjNCRXFqTWk3aC1vaGYzUFhRaG1kTVZOSjAyNU1RbE91TG1nZk9UWjg3bjhEYm1aanBNVHZPSUhPSzRHU1V3RFpmWC1jeHFKTjhhWURVbWlxVGQzTXFWZ1g0aTBEWTY2NTJzc3Qzc2JmRnVSNjBmRGVMREpfb0R4RC1pZXNucTN1UUpxSjNQNHMzVmF2OW5ZVmgxdUZXcA?oc=5",
       "source": "BKK.hu",
       "published": "2026-11-12T10:42:32+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: új intézkedésekkel védenék a nőket, gyanús részletek láttak napvilágot Merkely Béla lemondása körül",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSkIzQWtEU1lHSEphMUFFS1h4b0xseVVuOGJtZ3RiZWpmYkcwdkx0dmhFb19pZGNGbVZJa1pleEpERGdYTUVkOHRWRW9aRld5U2d4cUluMjZDdlBNOE9VNWhqcVVvMDdoQ0dKc1doMnhwX1ZNYm5iSHA0NG5PZ1Nwa094SU9Ibm5ESE5zOUIwSTIxVWFTTGU1SUlNeGtKZzA5cWhrc1NYVjk0ZnpyLW1ENVVTY3pTTzc5OWFRRjBwM2s5ODJUUFRDV2haN3d6NlRKZUtoQmNXb0JDOW96YWFRRm5RVGVwWUhRMjJnZHdzOEdENnlP0gH6AUFVX3lxTE1rZG1GUlN0cmt6cEczRFoza3huNWgyQVZjX3hyMk11TTNZNk5BellFNTRKVDRzMk9xR1NieW0tZzNjZFlYbFExc1ZwcGx0cWJrRWlaUXZJYXZENk4zWXB5c1d2UmVreEplQm15Z3g4SjROMU52ZnhwQTNJR3lBU0VBbGFGd0lkWDVpR3dwWi1XX29RWWE4dm9rdENDNlhNQU5xZU56cmxNWk9yRkFYZkQzSVNxclRYWFRqeFlscHB5OXNvX0pfZEJOZmttQURmblpZSi00T2xxbWF6cW05WUNFaHNPWWNIMEpnWGlJd1dTa29hUkk3TkVvY1E?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-12T10:35:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Rendkívüli hír. - A magyar kormány kezdeményezi az Isztambuli Egyezmény ratifikálását",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckQ1SjAxeWVUUWN6YWlwX25nM0RuOWhZekQ1djJlWDZ4Sk13OFc3RENvODRfZlIzLXp3MTNSSlRQV1NiRGQ3eWl5VXBEN0p3QkJVTW9UV3pEVTdkWFBSMXJwYkZBdURiYkdmTHlqaTN2WlRIVnBWdi1xWEU3cERlZUFILW1nRjRfemY4M1BKUXk5TjRKS2lyLU1sRGhfbUxaYXh1UA?oc=5",
-      "source": "Euronews.com",
-      "published": "2026-11-12T10:34:16+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Átfogó intézkedéscsomagot kezdeményez a kormány a nők elleni erőszak visszaszorításáért, a magyar nők biztonságáért és méltóságáért",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ1pmd1hScHpQY25iS1pWM2pzUDZZZkQ1VTRKZzhYTkprZlhUVDE0U1lWSUhOLU03WHB1b1VvWEJ3WVR1VVVsVWhuWll3SVBLMXd4RGM3enpTU1J0MTBkNDZGREkzVWJXV1JESERwRUp1UFdVbHpNaE5IRGUxWGJ5N01lTWlmb0VteC1mU3FpX1o5T08wSmFqLTN5NDl2dXp6WVBSeWYxQXpmUGtsNHFMc1Y3SU1EZUdfM0xPVHhGYTlRSEpucFUzc1p0TnNFbWhvN0o2ckFrRFhkRWhfaWI4MjJudWdYdkltNjk4?oc=5",
-      "source": "Magyarország Kormánya",
-      "published": "2026-11-12T10:34:13+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Foreign Policy: Hiba lenne leírni a bukott szerb elnököt",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xbW1LYmRZNmVoSWNDSUZuWjNKVFBhNzhiSTQ2TURZQXB0QWFRM09fTXBsOTdBVnRDWkJqeDk3V3VIM0lmSDVHaW9NWkowVWphRHh5bWRCZ2hEQlQ3bHVyNTBlcUVpTTNCcm5mWnhUeEhpRWQ3?oc=5",
-      "source": "| hvg.hu",
-      "published": "2026-11-12T10:30:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: az orosz külügyminisztérium szerint Kanada semmibe veszi a nemzetközi sport szabályait",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmZiOFdNX3FfalRIRDZfQ0VvX2dILUFKM25mdXBvbzhmdjNPd0tEc2JSSVpqaUt0Y1k2TlZuVDFSZ2ltRUVMQlJTUEFpRHotWVZIa2FMTjMtYmhfcVp3WG45aG1Eb2tDd0hFR1VObmZBVFlqMjA3RXBVdHJtRjZ2XzRiQllJbGpNMmxDTnJ3dGptbFFBQVMwcXZRLUJnQUk4Xzl0RlNpcWFtM3I5YXdGRFgzcHlTd21BQ0wyRUhUc0h6al9ENlVUeHZzNnJrUi01Z1V0eDJaUzUzdw?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-11-12T10:25:21+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Mága Zoltán, vidéki motorosfesztiválok, vallásos könnyűzene – ezeket a támogatásokat törli a Tisza-kormány",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0JDaUxYTDdnNWIzMGJKY0FhazluaEtSUmV4QUhTdkRmdXZOeU5RUEhhckxjeXk2Nnk5bUJORzJ3a2tLbEoyNThUaWhpT0ZOb1hDOHhEY1JVQ3hrbmN2NmwtdVphbkF3a2tKSEVsQkdpUEhXQl9sdzMybW9BQlQ5Z29Da1J4MWt3SDZ1MzhwdGFXZWtPWU9zeHhLb0sya3NyaVFMVVlXWnhROXZWZXFORlRFZ2ZWUXRSN04wOTRreG5fVW1ZWVJpb2JhWjBlaGd0VGRuUmZaN3ppS3U2enc?oc=5",
-      "source": "Telex",
-      "published": "2026-11-12T10:16:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: a korábbi elnök szerint veszélybe kerülhet a junior vb megrendezése",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTdzMnh2NzItM1IxSTJ5dERmUnYtck80aFd6V3hvQTc2QkxERGpGeDNlV0hkRlNYVFBKWDZLdHo1NmFJZEdfdTNPVTVBaDFJZGNUblduOWp6MEdCb3RiN0R5dUZYVXFRN3g1dWwwN0JGajA1SUZZQjBCeC11X1Z2NDQ0LVhlcjRmTjB5QkxpbmtHLS1FeW9SZ19tRkU4amtjZHRwaEhJWGJQTW9Xb0lHQ2QzUm1pNVJUQnNTS1Qzc1E?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-11-12T10:10:17+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Jégkorong: a korábbi elnök szerint veszélybe kerülhet a junior vb megrendezése",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSXVRMzM3bGRUamczbVBtV3hpaXhIdW05YmZWRnQ1cEFuQkJkTWR2eTlUeEVFaHlpa3JWQW1QVmFhNDNiN1ZTRl90QlZxeDFUNTJqa3h3a040LUdsVFFfVS1WbHZlbnZQUTVHRkFxN2FabHE2QlVtQW52NGNqUUVjbDRaWk1aa2xDWEJVT2MzNWo0ei1BNFZ1dGplZ2Y3R3dqSmFCd2Y0MC03U2dRUFlNTm5id0JRa1JnVXBZVg?oc=5",
-      "source": "Nemzeti Sport Online",
-      "published": "2026-11-12T10:10:17+00:00",
       "summary": "",
       "image": null
     }
