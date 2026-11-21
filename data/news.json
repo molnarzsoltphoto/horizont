@@ -1,12 +1,48 @@
 {
-  "updated": "2026-11-20T23:56:52.842051+00:00",
+  "updated": "2026-11-21T06:56:35.428209+00:00",
   "articles": [
+    {
+      "category": "Csillagászat",
+      "title": "Rekord: egy fénynapnyira jutott a Voyager–1",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1va3hhODBqUC0wbHppMWo4YkNXVC1GeGx0YmE5WHN2b1RDRlNNZnIxbk0wQnNQWFRtSEhVdklYbHBqSHVuOTJhcjNnUFJiQUN4UmpUbHAxaEtFUW5FbE5NdXlWb0wyM3ZDRnozMXV1R042dw?oc=5",
+      "source": "24.hu",
+      "published": "2026-11-21T06:16:28+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Külpolitika",
+      "title": "Magyarország megnyitotta az utat Ukrajna EU-csatlakozási tárgyalásai előtt.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFUydG9vb0pMd29PN1pJUHhoZUp2OWYyYW9HWGxVbDkzemlvZ1B4eTVjRTlNYlRTZjZXMVlsMThTaS1ReUZGZkJtTXVlVnM0OXBZVFlFS01mdG5UZnNORklYaEd2aTZWbkVrdWY0dVhJZnZhU2ZXOFVMdWFTc1c3dG1id0xpWm1VM3Zxa202aUs0QQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-21T03:15:51+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A NASA különös „szellem-erdőt” észlelt a Marson.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IbjVQMXgxdktQTnl3bkJ1eDh1WTl0emx1YTRSbmM2V0lzRE1qWTVwYlpjbmNJZEdVVXRNU2t5X0hjZGdQazRGNlNYNmFPaUhoYmRGUjNwVmNaRzQ5elhoSkctV1NRdDFGREx5Y0dla0JUSXAzRDdwSlRvZw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-20T23:05:04+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "Jégkorong",
       "title": "Három vereség után győzött a Fehérvár AV19, de alaposan megizzadt a sereghajtó ellen (galéria)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFN6TUplZmF0Q0hKLXRiNzFoODVyS0ZnUDJ4Zl8wcU5JdzRvbWNvajJVRVB1cDYwd3dHSUdSMkR5VFJocmJ2OVhjZzhfN3N5ZTFWMkJ4ODgydFl1czFQWDB6OFRuV2pJTXF6V2YxSGR4c3FXbjBkTkp3TU0tZmE1NDlseXNFQkpGYWtIRnUtOVlHNzF4OVE?oc=5",
       "source": "FEOL",
       "published": "2026-11-20T20:47:30+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Egymillió dollárt kínál a NASA azoknak, akik megoldják a Hold meghódításának egyik legnagyobb kihívását",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEJQTE1NWUkySUVUbC1iZERCVVhZNVpIaUwwNUcxUnZqdUhISHJRRV85VlpkSUtHVDNwbGtyWHlxSkZySUwtNlJ1M0ZsdmVSOFRNelk2NlByb2t3OERhcHZaT29jZEhwN1ZuTE54WnJJTHlWLW82dldVT1NHakFKM3ZUWlZZZGs?oc=5",
+      "source": "Köpönyeg",
+      "published": "2026-11-20T20:45:00+00:00",
       "summary": "",
       "image": null
     },
@@ -52,6 +88,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOC1PTzVYV2otd3J0YXJwT09FckMtRVFBTFlraU9oYlI3OWc3MG5uOUxYTElvaE9XejNCMHNuc0Z6Wk9YM3VIRlYzdll5dUZEclpkXzY2MzFPQmJSX2ZDUHNGVnhzRnhtZnpicHVnSHE3a1c4OUZnV3ZCUXE1Z3dqN1JrR2NtMmdyd2tJMw?oc=5",
       "source": "Androgeek",
       "published": "2026-11-20T19:30:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "DVTK Jegesmedvék - Budapest Jégkorong Akadémia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXRzTTl0eFpjUnhpMjhpQl83amdYTGt5cnFXaHJOZ0tBTGxxSVFMa2lfOVN4TjIxZ1NWamRJZkpodTBMcEx0ZVRmc2tUTGVwT2QxVGtUZm8tWkp4cC1Ud0tYM182a29xb0Q4WXQwNXVFNmlZT2psOGFsdTJqNF93YUNXTzkwNlN1SmJzQ1NOVkx0WjZk?oc=5",
+      "source": "| minap.hu",
+      "published": "2026-11-20T19:21:00+00:00",
       "summary": "",
       "image": null
     },
@@ -214,6 +259,15 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGlaMHNickVtMFVDblhqbk5xZ08xN1pqMVRyM3J0WW1ydy1Fb1ZVMFJLMFl2eV8tNURNVW5qTHRteHNnRGhxTTdGclNGbHhOcG1ZSDRkWjNzckowT0xjbDVVOEMxdGFvMDlSS0JkTkZZQTM5N2Fza1d1RDktUGpUY1BXajlaUdIBhgFBVV95cUxPWGlaMHNickVtMFVDblhqbk5xZ08xN1pqMVRyM3J0WW1ydy1Fb1ZVMFJLMFl2eV8tNURNVW5qTHRteHNnRGhxTTdGclNGbHhOcG1ZSDRkWjNzckowT0xjbDVVOEMxdGFvMDlSS0JkTkZZQTM5N2Fza1d1RDktUGpUY1BXajlaUQ?oc=5",
       "source": "INSTYLEMEN",
       "published": "2026-11-20T13:30:03+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Belpolitika",
+      "title": "Sorra rakja le Orbánék több tízmilliárdos tarisznyáit a Magyar-kormány – miről árulkodik a NER utolsó teljes évének költségvetése?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEJfcjQwUW83Uk5sNXU4XzBadjd3dmxFcjlONl94Zk5vNWVLbnp0ZHIzb2trbXIzMTA1WUhDeklVdzBwd084UkFWU1FzVXFvR1JZRVNKOC1MUkZVUHFNMkF4aUhzSmdtSVJLb05nOWJmVEJyN0x0bXJCZERhSGpUT2dtNA?oc=5",
+      "source": "| hvg.hu",
+      "published": "2026-11-20T13:25:00+00:00",
       "summary": "",
       "image": null
     },
@@ -403,6 +457,24 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcU9ibUJHUS1qOENoY0tDS1ZOX0RtYURkLWVkQ05GTFBFNEFMZ2p0Qnp5QTVzTkVYV2pRUHlKR3hUUTdrQWcxcV80V3lia0E0SFMtcklxekNkTE5LanpUMEZvSjVqRnZwby1vc0NQVkh4TWM4QjVoZzBhY3ZpVF9EQmxZN3JPZVFTLWhTUGJXdWl1MFllc2cxSnFkOWZ6ajlDWWpiY0U4QjBWek1GOXdnVFNYaFJTTk11Nlg0WERCcXJPekc3LS0xUzlid1dmd0RPbC1VQzBMT29UdFg2OGhQeTNaa0J3MmZJQVBsdEg3YkFzV1dReVk3Z2c4b3kxZ0E3Y2dNckJ4QzRWUEdZcEE?oc=5",
       "source": "ABC10",
       "published": "2026-11-20T05:26:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Jégkorong: az orosz külügyminisztérium szerint Kanada semmibe veszi a nemzetközi sport szabályait",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmZiOFdNX3FfalRIRDZfQ0VvX2dILUFKM25mdXBvbzhmdjNPd0tEc2JSSVpqaUt0Y1k2TlZuVDFSZ2ltRUVMQlJTUEFpRHotWVZIa2FMTjMtYmhfcVp3WG45aG1Eb2tDd0hFR1VObmZBVFlqMjA3RXBVdHJtRjZ2XzRiQllJbGpNMmxDTnJ3dGptbFFBQVMwcXZRLUJnQUk4Xzl0RlNpcWFtM3I5YXdGRFgzcHlTd21BQ0wyRUhUc0h6al9ENlVUeHZzNnJrUi01Z1V0eDJaUzUzdw?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-11-20T04:36:57+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Jégkorong",
+      "title": "Jégkorong: Such György nem indul a szövetség elnökválasztásán",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDFKZTN1X3d0eV9MMWJVMDZCN0dtblpoUkJnbHU0X0ptNHZxV1g0YUktYkp3UG9zNnJxMkZQMWZLUldjdTFrOWY4Z2RUX0RpUFVmU19BUFkwMEV1NEJ2LUpibEF5bE82WWdfcFgzZFVkTnlPdmFOOW1aWUpUalBpcThHeDJlSV9uaUFnSFFjVl9NZjFONjIyVFE2bG1RN1l4TzY1MkY1clpXQQ?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-11-20T04:23:38+00:00",
       "summary": "",
       "image": null
     },
@@ -1730,6 +1802,15 @@
       "image": null
     },
     {
+      "category": "Nemzetközi vasút",
+      "title": "Consultants return $1M+ after finding CA High-Speed Rail paid for luxury, leisure travel",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTklzUXZqaXRRNzJ6a2lwbm8tbjdkbUxrb3lPVjhDN3MyQ3JRWTVUR0ktS1pMX1R3Yk80My1nTDc3XzV4MkVyY01LR2x6T2czTXZsekVvRGtOc19rUGZFS2NyVDlrZ0tVanfSAWpBVV95cUxON0FoOVI5dUVHNnJTV3RuUkFPdW1RNkpXRWFsMl9Vc2JoQTFfSW5qOEVZamJNZVFObWJ1ckRiVmw3S28yQ0lCQ1JxamRUMFBQQVJ3WVFhbktzeXBrS1B4TlEtQUhHZXBHQzFR?oc=5",
+      "source": "Fresno Bee",
+      "published": "2026-11-18T14:52:50+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Csillagászat",
       "title": "A NASA Voyager-1 űrszondája rekord távolságra repült a Földtől, amihez közel ötven év kellett",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0FZMmdfZUV3ZEZ6ZDlRWDcxa2VUWnVqRFV2M0dwQVdaLVRJalJQVHZNMmwyYW8xYklBNEI1anVWcmRsYnR6ekd2dHVpZ1JzUEl2ODZaWmF6QXNJam9pMDlqMU45MnRVaFg5RDhlbzBFcXN6cUVGLUNBVzB6QV91dVZSbXRQcEd2b1lGRlF2eTJ4azZSUjBFeEExVTVsQlN1Y2VBMlA3eTRYT0NVb3o2TldlaFpveXc0Rkx5U2ktYWVxbXppUWliMA?oc=5",
@@ -2167,87 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LOXYzMlBJWElRVkdVY21wdi1vY3FrQk5qbjcwYV9pWmJ5WmJ6c1dwaWJzNDFfbU4yY0hYaGc3NkZBdmJSZkExeGx4el9Cc1FMODJjZEF6Y0JLWFVuLV9LTDlyaG84enR0UW9jbUViWTNsellUaVBn?oc=5",
       "source": "ORIGO",
       "published": "2026-11-18T08:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA megerősítette: 1 fénynapra került tőlünk a Voyager-1, de mi jön ezután?",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaak5IVGt1bVhTcVVXdG9LRlFGVV91QTgzVFVJZzdBaVpvTEVWcmNBNktsa2pCM2VZN2lqNVpBcHA3M3RjM1E3TmwwdVZDc1dBS2Z2M0JfTmlNbHllVUdNY2MtSnpOMWtEdUZfOEV4RQ?oc=5",
-      "source": "24.hu",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Hozzányúl a dohánykoncesszióhoz a kormány, Vitézy Dávid bejelentette a részleteket",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtcWpMUF82Z3RMbWxtSk5lTEVQN2YyVTJ6OElPQ0U4R1ZmSHdDV04yRWV0S3RfSjhmdU9sSHg4UDN3WVpPcFRPX2RpRzMxbWZ6eG5vVmRmVHctZnhqOGdvSGZUcw?oc=5",
-      "source": "Forbes Magyarország",
-      "published": "2026-11-18T07:35:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Folytatódik a parlamenti összecsapás a 2027-es költségvetésről",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZUEyZks5OGs5OWwtdl9VdnlRbU84QU96RENyaHpHRlZERzRpa09aU0tCM0NHemJzX1BFa1NNT0pLb3pCM3Z4T2duTmlGS0Q2aTY1NER2U0IyYlhQRm01OGZrMGtUeDM5cDEyTXZXZENHSmwtamVwd0pCLWZiVERSRzJURll6NU5vX2twN18tZw?oc=5",
-      "source": "Blikk",
-      "published": "2026-11-18T07:34:55+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Új nevet kapna a tudománypolitikai tanács, a kutatási pályázatoknál is változtatna a kormány",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZU82MDdaTXM5Y0FpeVZTd0swdk9fSDA1emFSOXNpZDhueFpFNnc5c0tXLVpydTdWb293b0FiVEtvX3dsUWZwbC0yWUlCYXhBX0FzMV8zY3lfblhvYU11M1hqd3Q4ZEd6LXBSamdXbjk3ZHBwSy1wT1ZGSDZpUWtKN3hIQWE5RHVhbmtYa2k2R2Y3T253S1psSHpGbnFVb2VmbWY3QVVaSkRJTXcxRzRwc1hDSUwzcTYySzJPRjhnd2tsNEk?oc=5",
-      "source": "Telex",
-      "published": "2026-11-18T06:49:15+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "Fontos mérföldkőhöz érkezett a NASA új holdi űrruhájának fejlesztése",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU5lcFBKTElBalkxaS1IcmVjRlVQc21VajczM1JhTk9aU3RGM3hta0wtd0t2ZHk0UVUzcmVHYnd0WUNqZDd0OGkzRl8tUjI1a21NeUlvSEhwT2FNcWh6WmM3cS1YT1N3NG93YUI0U1hBRDRXQUwzOC1aTHc0S0tVRVl4RlI5XzJoVUZyd3RRUkNWMlZUWkRZ?oc=5",
-      "source": "Spacejunkie.hu",
-      "published": "2026-11-18T06:49:12+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Texas Lawmaker Proposes Revisit of $30 Billion High-Speed Rail Bill along I-35 Corridor",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTZNaXRFZzR0eTNsV1FFbGg5TlFmZU1CV0xWdVhDUDM5dVNPYl9nc1ZBRS1TQV8ta1JBMzE2WUVzSnBrNGRVTGhLMzEwc1RjTjdwMUJJbWRrVlpFV3ljZTlTOGdZdXBwajhsNUFKWUJ3OEgycFJURnJjT3ZfVlZJS2luNHowX2dFZlh0WG1JbDFWWmxHOV9fUUlKRzFDUGx0SWR2Q3hBN2dTenhIUGl6RDBzZmZyZWhjc1FlQ19MaVR5QQ?oc=5",
-      "source": "Construction Review",
-      "published": "2026-11-18T06:45:02+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "Aggasztó leállások Amerikában – Rubio megszólalása sem túl megnyugtató",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWjNOdWNpRGtsdzg2SlRTS254elJSSDlvUGc1MlhGcDZwdmw5eWlDWk1sWDJMd25NYlRBUHdIN0RqcGhTU3hUd0pRak1rcGR3blBDdHVMUUl4SVhkeHQ1NDRFbURzV1NDZFVVX2dLVnlydE5zaHowUV94UFVSd1pxSkVQTlZKTEV1VndhUEhzaVpkREt0dTJRTGU2ZjFRbktiZEpNTjdDTzFnbXlCVmc?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-11-18T05:33:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Jégkorong",
-      "title": "Hoki, kosárlabda és darts a tévében",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KLTFvS2NhTDZReHN4UDU5UzFiU2IzNXA5cUlzZ3pfckZiUHNoYWdwcnIzeHRQNXdRUktMSk44OXFmcmx2S2llTGI4Z2lfSHpueWpzdy11TU85MjVYcnBRU1Uyaw?oc=5",
-      "source": "Új Szó",
-      "published": "2026-11-18T05:30:02+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Új alapokra helyezné a beruházásösztönzést a kormány",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQamZBU3MyR2NManZ4RFU5NU5wdnVrcHBZZDk2amxTTVBfTy1rS0F2bC1FaDFibUotX3BHZUxRdlZNcC1lY2c1WUtPTTBSR19BOGFyMEZJM3ZNY095ekx5R0NBa3dlLVNhSW90TlVUcFloaHpSdjQxcDBWZGNma1Rfa3R1QUtnRnY4MmRXWnNYWlZUNllidXdFY1UtT0ZDd9IBowFBVV95cUxOVmFhanpJc3JNa2JienJBNVc5RXF4YWNvVUIwSU8xakRXcExKdzVJWW11d1pXWWY1WHg5ZVR5dW1RNlFIY09UNUszbkhnVzFwa0NRdFBfekZHNXMzUExtMUFJdUR4SXJSYW9teHpmMnNMTENLQWxnbHdqMGZPXzNnemRHaV8wRklJU2ZHY2xuMHlUYV8tcnQ5N3JmTUZzTm9MUEZz?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-18T05:30:00+00:00",
       "summary": "",
       "image": null
     }
