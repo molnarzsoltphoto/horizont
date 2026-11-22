@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-22T01:13:27.206447+00:00",
+  "updated": "2026-11-22T08:45:49.559008+00:00",
   "articles": [
+    {
+      "category": "MÁV",
+      "title": "MÁV: a Hortobágy EC késik Budapesttől Bécs felé",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucV9GekJ6R3lEQ3lDS0g3di1VS1Rtb3BCYzZYRGRrY1N2N0FKQllJdTktWXYwQ2lfZl94NlZua25xRm9Gb2k2NlFBSEtYSUpyTnR0ci10VVVHQXhmMXE4aGo4T3h0Z0xLa2xqUXZCQlZYTXNfWFNzd1k1OFVCdw?oc=5",
+      "source": "hajdupress.hu",
+      "published": "2026-11-22T08:09:50+00:00",
+      "summary": "",
+      "image": null
+    },
     {
       "category": "MÁV",
       "title": "Vonattal Európa legszebb karácsonyi vásáraira - MÁV adventi utazási ajánló 2026",
@@ -326,6 +335,15 @@
       "image": null
     },
     {
+      "category": "Csillagászat",
+      "title": "Egymillió dollárt kínál a NASA azoknak, akik megoldják a Hold meghódításának egyik legnagyobb kihívását",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUhyNXBxNE1wN1E2cUtVYnJrT0JqcTh6T3Q0N1Zjd3djNmxueWNfN0NkN2VrbGthZDV1Nk9oSi1ZamVhWVRSZ2ZfbzczZE40MC1qSER1MmFIMWZ5U0d3TjhGZ244TUV5SmszbjN0YkdoeTUyQW1iSDVLcWxOVUVvM01scmMzQmg2UDVnNTVVRVllX01HYnBxbUxVdzVDdWpKdDI3TTVSVzZmcVNIU0pINzJRNzctWWNhWHNBQXE3QllOdTJ0YU9vdnpyTEFGZF9uTUxJd09B?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-11-20T20:53:58+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Jégkorong",
       "title": "Három vereség után győzött a Fehérvár AV19, de alaposan megizzadt a sereghajtó ellen (galéria)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFN6TUplZmF0Q0hKLXRiNzFoODVyS0ZnUDJ4Zl8wcU5JdzRvbWNvajJVRVB1cDYwd3dHSUdSMkR5VFJocmJ2OVhjZzhfN3N5ZTFWMkJ4ODgydFl1czFQWDB6OFRuV2pJTXF6V2YxSGR4c3FXbjBkTkp3TU0tZmE1NDlseXNFQkpGYWtIRnUtOVlHNzF4OVE?oc=5",
@@ -565,6 +583,15 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdERKOHB6b2JsS29NWDFySS1uZlZHZWtOSEt3cjl2cWxfNEFGWjNrYWZPaUJ4ckl3NjBFaEwtYjVxbnRYX3dmbG9VLXNHVzRNSzRLbnVwMUEtNG5JZTl2MlZwaWdTTlUtbmQzZlNBSkZMcU9xV1FZLUJ5MWFydU5Ta0FxN3BPNTJ2U1h2aXpqSktWS0J0ZTJKTXhHYUVlYlV2RXFhQWtCSm1aZnRqQXFBNlg4WlQ2b25iQU9ISm1QMA?oc=5",
       "source": "Economx",
       "published": "2026-11-20T13:54:01+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Álommelót kínál a Holdon a NASA - ilyen fizetés jár a kiválasztottaknak",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnhmMlVNSk1paURNeDc4a3QzQVZHZGFiQTNwOXZYSlJmcFhPRjFad3pOcnhVS2ZMc2N1b3k4TkJpTVNpNVJnTFEyaUNCenIxMEEtcTQ0S0Q2OW9UTXF3ZVNUaWo5MUhRaVRhWkI2RkJtUnpwQm9WdGkwdFNsTXNwclBUOWxxaDRxd1RaeVNNQ3ZvdV9QMFFEdUhteXlRQktoUDF2dGdQczJQUQ?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-11-20T13:30:36+00:00",
       "summary": "",
       "image": null
     },
@@ -1049,6 +1076,15 @@
       "category": "Csillagászat",
       "title": "A szemünk előtt írt történelmet a NASA: soha nem történt még ilyen, példátlan dolgot értünk el az űrben",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0pIVllfOG1XVDRZRkNkbl9xREpvM0NUY1ZfYzhkTE9ZNnRjZUdrZGYxUmNDLWJJdEdGSjZzbTdST0U5MDVLNTk1c1VLRGhCVFBBUmVUMEs0dW9xTUtVV2t3RUJzX09FY1VXLUNoUlJMMllwSWNoZmIxa0doM2RId1Q0dDVRU1E1M0RqWi01c3U5dVNBaEZfOGpCNE83ekpsVjJIQTh5MXFPOEpia3FqelRJWDM3b0d6cWpVOE5kOWE3WW9ZQ081WmhtcG5FczlSUS1LWGxONUpGSTU4ZVQyVjJMOC0?oc=5",
+      "source": "Pénzcentrum",
+      "published": "2026-11-19T15:15:00+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "A szemünk előtt írt történelmet a NASA: soha nem történt még ilyen, példátlan dolgot értünk el az űrben",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEluZEhpSVBabURPUV9tOU92TlREZnhGZXJmcXp4dWNsalBjb0JyeWF3WFV3aUoxQU9uVlFCcm1JaTVXLVUwOEJfa2tlVlB4TGZIeWZic3J5ZFJyUExzUE5QLUI1NzZ0dGI1YXVOeVg4Y2hCTEp2cWNIZUxGMFpaMFJfSVF0dUNoTWliUExQQndkdjB3NjZPd1lpcnIxcUtNaUdveVpzY3pfWjBGX0FnY0JxYnlIZ0JxM1VFZFlHVUo5MXRkX1NxUVpmQ2l2cTBFYkRwSXRrcXpCV3BiQVpmTjhTNkFGUF9iNEE?oc=5",
       "source": "Pénzcentrum",
       "published": "2026-11-19T15:15:00+00:00",
       "summary": "",
@@ -1550,11 +1586,29 @@
       "image": null
     },
     {
+      "category": "Jégkorong",
+      "title": "Jégkorong: Odnoga Lotti bemutatkozott a Toronto Sceptres edzőtáborában",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFh5OUx5TjFfX1dWSzFwQmlZeDlxSVJiTVQ2VkhkRXA4c0doWjBndmcwQ1BrWmNYb0pHMGZfcjZJMVRGZWVONWxxblpCRFZLN2NTeG1VMkd5V0hwOUphenVBYnlhUU54anZ6djlDQmZCaWxMbURYclg5V2tVMTlobmROeVZDRHVkNlB2MmxxemJxakM3d1dLT2IwZm1CaTJHRHBPZXhreXlQYlVSWXNCLTczSQ?oc=5",
+      "source": "Nemzeti Sport Online",
+      "published": "2026-11-19T07:23:04+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
       "category": "Külpolitika",
       "title": "Megjelent a The Economist 2027-es címlapja: tíz figyelmeztető jel, amely meghatározhatja a következő évet",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xS2VMWlFzOXJmemVJOVlja0ZWZjlOLVZkWmRRaU5Cbm1xVFBMQlpzcXlDM3g0UVVUajNudWFEcUw4TU1iazJOZGMzaG1pLVFWVlpaMF82bmVLTTA4Y3RUcHRDcXJqRkJDbWlwOGJNUQ?oc=5",
       "source": "Twice.hu",
       "published": "2026-11-19T07:00:50+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
+      "title": "Megérkezett céljához az európai űrszonda, amely kiderítheti, mi történt a NASA által eltalált kisbolygóval",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEE3dUZyVzBfZ2lpNDNJUFRTU21LUHEwUElMSmFpVmo4cXk3eS1LdEc1emhITURBVXNKMVJHWEc4eXBKMUdPb19WZ3ItYlNyQklnSUJET1c3TEgxaWxvV3ZrcUJVOTg5b0VLQXYzR3NzbV8xZjRvZzV0eER0TEJsVFFEX0FRN0QwVXMtZkhYRTBUQTJUMGpsLWtkNkhRbE5zOVhxaEZybGE0MDdCZEdNbVdKT0xaaUtranZ6b2xZLVROeXN0QzhaM3Izb2c3TWpGMlBjVzI3YTc?oc=5",
+      "source": "Hirnavigator",
+      "published": "2026-11-19T07:00:06+00:00",
       "summary": "",
       "image": null
     },
@@ -2064,6 +2118,15 @@
     },
     {
       "category": "Csillagászat",
+      "title": "A Voyager-1 egy fénynapra, 26 milliárd kilométerre került a Földtől",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHp5MHg5QlpYdFI1cUZSVEk4Tmlad3lhUFdzajdXNXJJdEZGSHREb0MwYVFFRkx5ODRnWW1fd1ljRDdHWmNFem1naFBXNnRIQ1dNYllqbFVac0tOUDRfcGZ5MHAtWXNDajFZcmdXeXdrR2VndFZSTkpvTzJRd0dMVjhSeDgyVWxQTEtxWGJLem1QbkZ1?oc=5",
+      "source": "Spacejunkie.hu",
+      "published": "2026-11-18T17:21:06+00:00",
+      "summary": "",
+      "image": null
+    },
+    {
+      "category": "Csillagászat",
       "title": "Irányíts fényt az égre kedd este: világméretű akcióval ünnepel a NASA egy történelmi rekordot",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGtXTUdkYTNORGRpTmVNeWFYNnFxYnBxQUNqb0JGWFhFQVBXSTUwd1oxTTRiVlg3ZTdqai1UZHVFYW05RXYwWWlIUFowWHR4YUg1WTlQZ2xVYXdHM1NiVEkzQmJLUXd0WGlxcm5jUUQ3VlJzSF8yUHZlRUJ1R2U5SjliS3hEejhOU0xTOQ?oc=5",
       "source": "Szeretlek Magyarország",
@@ -2185,69 +2248,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEYxVnRTTkpGeTVRbTF2V2FEMmlnR3l2TGdFQm5GY3VVNzdldjVjdlV6dzVnMkVwXzBLdjhqUDJwSEtablpRRWdVZVhRVHZRdlNBM2ozbVNyelJQeWswVUpKekFORHNkaVlsS0FkbVZtb1dPRkVKc0c4em42MDl3UXNpNjNwcmwzODZnRDlIQlFiYkoxME5EX3BWYmQzb0RlSDZGTHQtNlI3cTkyR3NmS1VHNUxPUUp3RTBvRHliRDMybktvbnJyV1d5V215YngtTHc?oc=5",
       "source": "Kontroll",
       "published": "2026-11-18T15:21:25+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Jön az üzemanyagárstop Európa legnagyobb gazdaságában – Rendkívüli döntést hozott a kormány",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObUNuU0w1NnJXbW9UX2Y3cTZhY2FxNXYtVmR5dVNJQ3pCcHlHT2QxZkxrWFFJYUJlY1dPbTlBbXdUZTJpaWpBRzZ1R05IeTloSldKVmZJa1BFcXd2MHVrbHFvbUtjdTZJTmthdktwN2xNSmt4R2hYdG5qTnFtU0VQbkoxY091enRtX2F3QWoycTl1QWtOMmJjaWZTSEs1YkhCOVBab0QzTWVlWDE2RU5fQjUxZC03UU9ZNjV6LXExVFlfNjc1ektoQUxhVUhYci1oN0JuVTVB0gHbAUFVX3lxTE1xTk92ZXFob29zN1EzWTIySkpJTGNYQ2NmX2ljWUtiT0psN3ZpS09iQzRDM0xzT2k3MXhCQ2RxV0NrTDItQmtMb280MkFIeUtsbDV0VkV5ZF9GQzNJSkNWbWJkUUJMN1JoTXF6ZU42SGVuNUhuTlVvUDRzUVhKQkZERnM4SmlxUzFIZHNidWtETDQ3eVNTSXFIeWt3Q0ExVDZPdnVHWkd0WFZXTTVWRUJkWGdzX0dYdUt2cFhTTUlUSEdsN21SUldDOHMtRkVySUZfM2FWWldzdGk4UQ?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-18T15:05:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Külpolitika",
-      "title": "„Meglátjuk, hogy az új magyar vezetés tartózkodni fog-e további provokációtól” – mondja az orosz nagykövet",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEt0N01FSWZvUFZzUzR4cGM2emxmX29mX0hZaXFFVThHbmJ5QmJzUDZkVkFyRDZaYlZjbUttdVp4akEwSHNBVFRndDNIMkI3U1pBYnhBYXdZRjB3Ym9HWHVQYXBHbFBVakhZSFVsRGpWeWZiMGV5UThLUlREbW9EdkxtcXN0MV9PS1h1Zk02OUxUclVGQmZtTTlsUjl3SF9ZMTN6MFJRUTZ5Sml6TjZTc1pmSmNkZlVHQk9pWDRKRlNKWWhGWXVoUmNvRVBsRzFIVURhUE9QSGtSQQ?oc=5",
-      "source": "Mfor.hu",
-      "published": "2026-11-18T15:05:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Gazdaság",
-      "title": "Az Orbán Viktor által ígért világrendszerváltás elmaradt",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0lmd3NoQjBvbThsZE9HRkVTMXNEaDRhMG9rRzBuazBQVFBMZ2VHRjFXSTFLSGU5SUlfYlY0R2ZJWk1qTC1sV0hMT2NFMU1YYW1COGp0bU5OMmluUVJEWWh1Yjk4UkFEUEszWGQ5TkJuRHdIcllhOVBsRXNvQUdnLUdIMFhZRzAtYlVJNDh0dWhTTVFpbzRqTzZhQm1ZeTVxWWww?oc=5",
-      "source": "Piac&Profit",
-      "published": "2026-11-18T14:58:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Nemzetközi vasút",
-      "title": "Consultants return $1M+ after finding CA High-Speed Rail paid for luxury, leisure travel",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tTklzUXZqaXRRNzJ6a2lwbm8tbjdkbUxrb3lPVjhDN3MyQ3JRWTVUR0ktS1pMX1R3Yk80My1nTDc3XzV4MkVyY01LR2x6T2czTXZsekVvRGtOc19rUGZFS2NyVDlrZ0tVanfSAWpBVV95cUxON0FoOVI5dUVHNnJTV3RuUkFPdW1RNkpXRWFsMl9Vc2JoQTFfSW5qOEVZamJNZVFObWJ1ckRiVmw3S28yQ0lCQ1JxamRUMFBQQVJ3WVFhbktzeXBrS1B4TlEtQUhHZXBHQzFR?oc=5",
-      "source": "Fresno Bee",
-      "published": "2026-11-18T14:52:50+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Csillagászat",
-      "title": "A NASA Voyager-1 űrszondája rekord távolságra repült a Földtől, amihez közel ötven év kellett",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0FZMmdfZUV3ZEZ6ZDlRWDcxa2VUWnVqRFV2M0dwQVdaLVRJalJQVHZNMmwyYW8xYklBNEI1anVWcmRsYnR6ekd2dHVpZ1JzUEl2ODZaWmF6QXNJam9pMDlqMU45MnRVaFg5RDhlbzBFcXN6cUVGLUNBVzB6QV91dVZSbXRQcEd2b1lGRlF2eTJ4azZSUjBFeEExVTVsQlN1Y2VBMlA3eTRYT0NVb3o2TldlaFpveXc0Rkx5U2ktYWVxbXppUWliMA?oc=5",
-      "source": "Hirnavigator",
-      "published": "2026-11-18T14:48:10+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "Belpolitika",
-      "title": "Tisza-kormány: Parlament előtt az egészségügyi bérrendezés kérdése",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWFMcTU5OXJyZTc1S3pxR0FCZ1k5bFFiZjlWQjBEWEplcXZrZk1BdjFOczF3X3laaWlOZ2xuNVR6aFVDTDNYbUJCTlV2elZYWGRqZnk4c3UzRWQxZktUSWtOb2R4aVc0dGtqSVdWZW03Zzlqd3RQVzZhcTl2aDVrVVBqamotRHpBVE5fWFhscmZ6NDVDSGtOOEZSU2d5TUNuMS1XZkpvVFMxRzk2SVhBZ19vOVVQQdIBuwFBVV95cUxPeUZiVkNWWGt4cnI0WDdQWnJRMTQ1Ri1EdDdiS2ZfX1JvcnV2TW1MOWlFRi1FMDFzemlNZG9yY2w3X2w3bmI4azJFYWp1S2dJSzIyb1FvM0VtQUlSVlpzOWhPM0hiVUFielFoaWNpVzNZVkg3cURYSEoySEpMOTRMUUd5eVJYU0tPMTdPZnAxdi10bEV1cmNkcVlyenQxb0ZrYk94UDVQUnB5MU5qdlF1clVNRmVGcFJtWFpV?oc=5",
-      "source": "Portfolio.hu",
-      "published": "2026-11-18T14:48:00+00:00",
-      "summary": "",
-      "image": null
-    },
-    {
-      "category": "MÁV",
-      "title": "Húszéves karmester tehetség vezényli a MÁV Szimfonikus Zenekart",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMTIyVUNBa3piZEhFRU13RnZDbkJFRUx0MzBPcnUwVTQyNklZUUJoNUxUY29tWHVhem13OFJ1dS0wTXFRRlZJM1o0cHBjb25nZzdxZ0NGX1VsMlRCUkgtOG5UTWh2N0RvNmg4X1FLUjFWaDllRlJWanpCRFc2ejFEMkU3R00tTEZIUkRSUXFrazdlQUNBeGEyZmUzZWsxSk1UY0MzZ09xVFk?oc=5",
-      "source": "Fidelio.hu",
-      "published": "2026-11-18T14:45:40+00:00",
       "summary": "",
       "image": null
     }
